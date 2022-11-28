@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/mcconnell-rejects-schumers-call-allow-witnesses",
+    "story_title": "McConnell Rejects Schumer's Call To Allow Witnesses",
+    "story_time": "2019-12-17",
+    "story_topic": "us_senate",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2019/dec/17/mitch-mcconnell-rejects-chuck-schumers-demands-say/",
+        "title": "McConnell rejects Schumer's demands, says House did 'inadequate' job on impeachment",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/2019/12/17/politics/mitch-mcconnell-response-schumer-impeachment/index.html",
+        "title": "McConnell rejects Schumer's call for witnesses at impeachment trial",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/senate/474882-mcconnell-shoots-down-schumers-offer-on-senate-impeachment-trial-rules",
+        "title": "McConnell shoots down Schumer's offer on Senate impeachment trial rules",
+        "bias_label": 2
+    },
+    "triplet_id": "066"
+}

@@ -1,0 +1,333 @@
+{
+    "title": "House Panel Seeks Private Talk With Hillary Clinton About Email",
+    "entity lists": [
+        [
+            "Trey Gowdy",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "her exclusive use of a personal email account when she was secretary of state",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "hearing",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Elijah Cummings",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Reince Priebus",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "her exclusive use of a personal email account when she was secretary of state",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "her exclusive use of a personal email account when she was secretary of state",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Hillary Clinton",
+                "sentiment": "NEG",
+                "object": "Trey Gowdy",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Hillary Clinton",
+                "sentiment": "POS",
+                "object": "her exclusive use of a personal email account when she was secretary of state",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Hillary Clinton",
+                "sentiment": "POS",
+                "object": "her exclusive use of a personal email account when she was secretary of state",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Hillary Clinton",
+                "sentiment": "POS",
+                "object": "hearing",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "POS",
+                "object": "hearing",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Trey Gowdy",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Reince Priebus",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Reince Priebus",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Reince Priebus",
+                "sentiment": "NEG",
+                "object": "her exclusive use of a personal email account when she was secretary of state",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Reince Priebus",
+                "sentiment": "NEG",
+                "object": "her exclusive use of a personal email account when she was secretary of state",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Reince Priebus",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Reince Priebus",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Reince Priebus",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Hillary Clinton": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "her exclusive use of a personal email account when she was secretary of state": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Trey Gowdy": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "hearing": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Reince Priebus": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "her exclusive use of a personal email account when she was secretary of state": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Trey Gowdy": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "hearing": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Reince Priebus": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "C"
+        }
+    ]
+}

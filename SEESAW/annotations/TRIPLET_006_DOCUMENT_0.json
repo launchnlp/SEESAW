@@ -1,0 +1,392 @@
+{
+    "title": "Debt limit chaos awaits Paul Ryan as he seeks House speakership",
+    "entity lists": [
+        [
+            "House lawmakers",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "raising of the debt ceiling",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "budget cut",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "michael needham",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Paul Ryan",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "John Boehner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "House lawmakers",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "raising of the debt ceiling",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "raising of the debt ceiling",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "budget cut",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "budget cut",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "michael needham",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "michael needham",
+                "sentiment": "POS",
+                "object": "budget cut",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "Paul Ryan",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "michael needham",
+                "sentiment": "POS",
+                "object": "Paul Ryan",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "raising of the debt ceiling",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "budget cut",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "raising of the debt ceiling",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "raising of the debt ceiling",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "raising of the debt ceiling",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Paul Ryan": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "raising of the debt ceiling": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "House lawmakers": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "budget cut": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "michael needham": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Paul Ryan": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "raising of the debt ceiling": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "House lawmakers": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "budget cut": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "michael needham": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "C"
+        }
+    ]
+}

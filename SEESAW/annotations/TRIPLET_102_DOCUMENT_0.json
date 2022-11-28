@@ -1,0 +1,383 @@
+{
+    "title": "Trump blocks release of Russia memo drafted by Democrats",
+    "entity lists": [
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Chuck Schumer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Don McGahn",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Adam Schiff",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Ted Lieu",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "release of Russia memo drafted by Democrats",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Don McGahn",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Don McGahn",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Adam Schiff",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Don McGahn",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Ted Lieu",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "release of Russia memo drafted by Democrats",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "release of Russia memo drafted by Democrats": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Adam Schiff": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Don McGahn": [
+            [
+                "Unknown",
+                "B"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Ted Lieu": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "release of Russia memo drafted by Democrats": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Adam Schiff": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Don McGahn": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Ted Lieu": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        }
+    ]
+}

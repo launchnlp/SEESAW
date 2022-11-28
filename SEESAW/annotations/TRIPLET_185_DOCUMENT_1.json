@@ -1,0 +1,476 @@
+{
+    "title": "Poll: GOP presidential race wide open; Hillary Clinton leads Jeb Bush in theoretical matchup",
+    "entity lists": [
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "GOP establishment figures",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Jeb Bush",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "white evangelical Protestants",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Mike Huckabee",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Ted Cruz",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Chris Christie",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Mitt Romney",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "GOP establishment figures",
+                "sentiment": "POS",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "white evangelical Protestants",
+                "sentiment": "POS",
+                "object": "Mike Huckabee",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Chris Christie",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Mitt Romney",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "41": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "42": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "43": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Jeb Bush": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Positive",
+                "B"
+            ]
+        ],
+        "GOP establishment figures": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "white evangelical Protestants": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Mike Huckabee": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Ted Cruz": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Chris Christie": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Mitt Romney": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Jeb Bush": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "GOP establishment figures": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "white evangelical Protestants": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "Mike Huckabee": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Ted Cruz": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Chris Christie": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Mitt Romney": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "B"
+        }
+    ]
+}

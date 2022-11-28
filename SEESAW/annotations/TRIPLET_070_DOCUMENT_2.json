@@ -1,0 +1,335 @@
+{
+    "title": "Trump Vetoes Measure to End US Involvement in Yemen War",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "end U.S. military assistance in Saudi Arabia's war in Yemen",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Congress",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "United States House of Representatives",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "United States Senate",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Eliot Engel",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Michael McCaul",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "end U.S. military assistance in Saudi Arabia's war in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Congress",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Congress",
+                "sentiment": "POS",
+                "object": "end U.S. military assistance in Saudi Arabia's war in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "end U.S. military assistance in Saudi Arabia's war in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "POS",
+                "object": "end U.S. military assistance in Saudi Arabia's war in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "United States Senate",
+                "sentiment": "POS",
+                "object": "end U.S. military assistance in Saudi Arabia's war in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Congress",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Eliot Engel",
+                "sentiment": "POS",
+                "object": "end U.S. military assistance in Saudi Arabia's war in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Michael McCaul",
+                "sentiment": "NEG",
+                "object": "end U.S. military assistance in Saudi Arabia's war in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Michael McCaul",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Michael McCaul",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Congress",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "end U.S. military assistance in Saudi Arabia's war in Yemen": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Congress": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Eliot Engel": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Michael McCaul": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "end U.S. military assistance in Saudi Arabia's war in Yemen": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "Congress": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "Eliot Engel": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Michael McCaul": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "B"
+        }
+    ]
+}

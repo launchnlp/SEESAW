@@ -1,0 +1,258 @@
+{
+    "title": "Trump to visit El Paso and Dayton following shootings",
+    "entity lists": [
+        [
+            "Dee Margo",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "white supremacy",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Nan Whaley",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Veronica Escobar",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "3": [
+            {
+                "id": 0,
+                "subject": "Dee Margo",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "white supremacy",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Nan Whaley",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Nan Whaley",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Veronica Escobar",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Dee Margo": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Veronica Escobar": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Nan Whaley": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "white supremacy": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Dee Margo": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Veronica Escobar": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Nan Whaley": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "white supremacy": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "title": "Trump defends describing self as 'nationalist,' says it's about American pride, prosperity",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "\u201cnationalist\u201d",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "\u201cnationalist\u201d",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "\u201cnationalist\u201d",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "\u201cnationalist\u201d",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "\u201cnationalist\u201d",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "\u201cnationalist\u201d",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "\u201cnationalist\u201d": [
+            [
+                "Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "\u201cnationalist\u201d": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

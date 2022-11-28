@@ -1,0 +1,205 @@
+{
+    "title": "Senate reflects on Boston tragedy, followed by Newtown and Va. Tech, before gun debate",
+    "entity lists": [
+        [
+            "Harry Reid",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "tragedy at the Boston Marathon",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Boston",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Mark Warner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "gun law",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "tragedy at the Boston Marathon",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "tragedy at the Boston Marathon",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "POS",
+                "object": "Boston",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Mark Warner",
+                "sentiment": "POS",
+                "object": "gun law",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "tragedy at the Boston Marathon": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Boston": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Mark Warner": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "gun law": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "tragedy at the Boston Marathon": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Boston": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Mark Warner": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "gun law": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "D"
+        }
+    ]
+}

@@ -1,0 +1,356 @@
+{
+    "title": "Key Impeachment Witness Vindman 'Escorted' From White House, His Lawyer Says",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Alexander Vindman",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Gordon Sondland",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Former Ukraine Ambassador Marie Yovanovich",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Alexander Vindman",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Alexander Vindman",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Gordon Sondland",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Alexander Vindman",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Alexander Vindman",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Alexander Vindman",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Alexander Vindman",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Alexander Vindman",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Alexander Vindman",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Gordon Sondland",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Alexander Vindman",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "41": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Former Ukraine Ambassador Marie Yovanovich",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "48": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Alexander Vindman",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "50": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Alexander Vindman",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "49": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Alexander Vindman",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "57": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Alexander Vindman",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "56": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Alexander Vindman",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "58": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "60": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Alexander Vindman",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Alexander Vindman": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Gordon Sondland": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Former Ukraine Ambassador Marie Yovanovich": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Alexander Vindman": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Gordon Sondland": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Former Ukraine Ambassador Marie Yovanovich": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

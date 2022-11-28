@@ -1,0 +1,87 @@
+{
+    "title": "Obama says FCC should reclassify the internet's regulatory status",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "net neutrality",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "net neutrality",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "net neutrality",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "net neutrality": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "net neutrality": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

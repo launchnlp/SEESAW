@@ -1,0 +1,201 @@
+{
+    "title": "Dick's Sporting Goods Caves, Announces End to Sale of Semi-Automatic Rifles, Other Changes",
+    "entity lists": [
+        [
+            "Dick\u2019s Sporting Goods",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "rifle",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "common sense gun reform",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Edward W. Stack",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "amendment",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Dick\u2019s Sporting Goods",
+                "sentiment": "NEG",
+                "object": "rifle",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Dick\u2019s Sporting Goods",
+                "sentiment": "POS",
+                "object": "common sense gun reform",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Dick\u2019s Sporting Goods",
+                "sentiment": "NEG",
+                "object": "rifle",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Dick\u2019s Sporting Goods",
+                "sentiment": "NEG",
+                "object": "rifle",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Edward W. Stack",
+                "sentiment": "POS",
+                "object": "amendment",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Edward W. Stack",
+                "sentiment": "NEG",
+                "object": "rifle",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Dick\u2019s Sporting Goods": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "common sense gun reform": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Edward W. Stack": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "amendment": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "rifle": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Dick\u2019s Sporting Goods": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "common sense gun reform": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Edward W. Stack": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "amendment": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "rifle": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "C"
+        }
+    ]
+}

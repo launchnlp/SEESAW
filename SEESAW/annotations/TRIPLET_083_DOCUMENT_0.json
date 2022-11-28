@@ -1,0 +1,291 @@
+{
+    "title": "Why punishing Democrats for their gun-control sit-in is dicey territory for Paul Ryan",
+    "entity lists": [
+        [
+            "House Democrats",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "gun control",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Paul Ryan",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Eric Swalwell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "rule authorizing the House's top cop to levy a fine",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "House Democrats",
+                "sentiment": "POS",
+                "object": "gun control",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "House Democrats",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "gun control",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Paul Ryan",
+                "sentiment": "NEG",
+                "object": "House Democrats",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "House Democrats",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Eric Swalwell",
+                "sentiment": "NEG",
+                "object": "Paul Ryan",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Paul Ryan",
+                "sentiment": "POS",
+                "object": "rule authorizing the House's top cop to levy a fine",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Paul Ryan",
+                "sentiment": "POS",
+                "object": "rule authorizing the House's top cop to levy a fine",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "rule authorizing the House's top cop to levy a fine",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Paul Ryan",
+                "sentiment": "NEG",
+                "object": "House Democrats",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "House Democrats": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "gun control": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Paul Ryan": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Eric Swalwell": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "rule authorizing the House's top cop to levy a fine": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "House Democrats": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "gun control": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Paul Ryan": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Eric Swalwell": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "rule authorizing the House's top cop to levy a fine": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

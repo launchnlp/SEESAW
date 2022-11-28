@@ -1,0 +1,201 @@
+{
+    "title": "A Judge Just Ruled Asylum Claims Must Be Accepted Anywhere Along Border",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "migrant",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "American Civil Liberties Union",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jon S. Tigar",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "brandon judd",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "migrant",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "American Civil Liberties Union",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Jon S. Tigar",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "brandon judd",
+                "sentiment": "NEG",
+                "object": "migrant",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "brandon judd",
+                "sentiment": "NEG",
+                "object": "Jon S. Tigar",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "migrant",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "migrant": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "American Civil Liberties Union": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Jon S. Tigar": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "brandon judd": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "migrant": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "American Civil Liberties Union": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Jon S. Tigar": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "brandon judd": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

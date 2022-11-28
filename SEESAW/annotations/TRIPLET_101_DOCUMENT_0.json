@@ -1,0 +1,862 @@
+{
+    "title": "Trump administration holds off on new Russia sanctions, despite law",
+    "entity lists": [
+        [
+            "administration",
+            [
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A"
+            ]
+        ],
+        [
+            "Russia",
+            [
+                "GPE",
+                "GPE",
+                "GPE"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Heather Nauert",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A"
+            ]
+        ],
+        [
+            "Countering America's Adversaries Through Sanctions Act",
+            [
+                "Topic",
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "United States Congress",
+            [
+                "Organization",
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Vladimir Putin",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "D"
+            ]
+        ],
+        [
+            "Eliot Engel",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "United States Department of State",
+            [
+                "Organization",
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Bob Corker",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Trump administration",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "administration",
+                "sentiment": "POS",
+                "object": "Russia",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Countering America's Adversaries Through Sanctions Act",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Heather Nauert",
+                "sentiment": "NEG",
+                "object": "Countering America's Adversaries Through Sanctions Act",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Countering America's Adversaries Through Sanctions Act",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Heather Nauert",
+                "sentiment": "NEG",
+                "object": "Countering America's Adversaries Through Sanctions Act",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Countering America's Adversaries Through Sanctions Act",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "United States Congress",
+                "sentiment": "POS",
+                "object": "Countering America's Adversaries Through Sanctions Act",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States Congress",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Countering America's Adversaries Through Sanctions Act",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Russia",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Heather Nauert",
+                "sentiment": "NEG",
+                "object": "Countering America's Adversaries Through Sanctions Act",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Countering America's Adversaries Through Sanctions Act",
+                "sentiment": "NEG",
+                "object": "Vladimir Putin",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Countering America's Adversaries Through Sanctions Act",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Russia",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Eliot Engel",
+                "sentiment": "NEG",
+                "object": "United States Department of State",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Eliot Engel",
+                "sentiment": "NEG",
+                "object": "United States Department of State",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Eliot Engel",
+                "sentiment": "NEG",
+                "object": "United States Department of State",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Eliot Engel",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Eliot Engel",
+                "sentiment": "NEG",
+                "object": "administration",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Eliot Engel",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "United States Congress",
+                "sentiment": "POS",
+                "object": "Countering America's Adversaries Through Sanctions Act",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "United States Congress",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Bob Corker",
+                "sentiment": "POS",
+                "object": "Countering America's Adversaries Through Sanctions Act",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Russia",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Countering America's Adversaries Through Sanctions Act",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Countering America's Adversaries Through Sanctions Act",
+                "sentiment": "NEG",
+                "object": "Vladimir Putin",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Bob Corker",
+                "sentiment": "POS",
+                "object": "Trump administration",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Russia": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Vladimir Putin": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Countering America's Adversaries Through Sanctions Act": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "United States Department of State": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Heather Nauert": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "administration": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Eliot Engel": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Bob Corker": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Trump administration": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Very Conservative",
+                "D"
+            ]
+        ],
+        "Russia": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "Vladimir Putin": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Countering America's Adversaries Through Sanctions Act": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "United States Department of State": [
+            [
+                "Slightly Conservative",
+                "B"
+            ],
+            [
+                "Slightly Conservative",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Heather Nauert": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "administration": [
+            [
+                "Slightly Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Eliot Engel": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Bob Corker": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Trump administration": [
+            [
+                "Very Conservative",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "D"
+        }
+    ]
+}

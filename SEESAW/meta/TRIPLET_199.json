@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/obamacare-signup-delayed-2015",
+    "story_title": "Obamacare SignUp Delayed for 2015",
+    "story_time": "2013-11-22",
+    "story_topic": "healthcare",
+    "Split": "train",
+    "Meta info for article 1": {
+        "source": "Washington Post",
+        "url": "http://www.washingtonpost.com/blogs/post-politics/wp/2013/11/22/obamacare-2015-open-enrollment-set-to-be-delayed-one-month/",
+        "title": "Obamacare 2015 open enrollment set to be delayed one month",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "CNN (Online News)",
+        "url": "http://www.cnn.com/2013/11/22/politics/obamacare-signup-delay-2015/index.html?hpt=po_c2",
+        "title": "Obamacare signup delayed -- for 2015",
+        "bias_label": 0
+    },
+    "Meta info for article 0": {
+        "source": "Townhall",
+        "url": "http://townhall.com/tipsheet/katiepavlich/2013/11/22/breaking-obama-administration-delays-second-wave-of-obamacare-signups-unil-after-2014-elections-n1751489",
+        "title": "Obama Administration Delays 2015 Obamacare Enrollment Period Until After 2014 Elections",
+        "bias_label": 3
+    },
+    "triplet_id": "199"
+}

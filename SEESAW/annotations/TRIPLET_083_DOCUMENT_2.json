@@ -1,0 +1,350 @@
+{
+    "title": "Experts: Ryan\u2019s livestream crackdown may be unconstitutional",
+    "entity lists": [
+        [
+            "rules package",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "House Democrats",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "gun control",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Mike Stern",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Eric Swalwell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Paul Ryan",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "rules package",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "0": [
+            {
+                "id": 0,
+                "subject": "House Democrats",
+                "sentiment": "POS",
+                "object": "gun control",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Mike Stern",
+                "sentiment": "NEG",
+                "object": "rules package",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Mike Stern",
+                "sentiment": "POS",
+                "object": "House Democrats",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mike Stern",
+                "sentiment": "NEG",
+                "object": "rules package",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Mike Stern",
+                "sentiment": "NEG",
+                "object": "rules package",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "rules package",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "House Democrats",
+                "sentiment": "NEG",
+                "object": "rules package",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Eric Swalwell",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Paul Ryan",
+                "sentiment": "POS",
+                "object": "rules package",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Paul Ryan",
+                "sentiment": "POS",
+                "object": "rules package",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Paul Ryan",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "40": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "rules package",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "House Democrats": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "gun control": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "rules package": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Paul Ryan": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Eric Swalwell": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Mike Stern": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "House Democrats": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "gun control": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "rules package": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Paul Ryan": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Eric Swalwell": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Mike Stern": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

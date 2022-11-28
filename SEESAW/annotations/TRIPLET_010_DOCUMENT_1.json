@@ -1,0 +1,477 @@
+{
+    "title": "Bobby Jindal Calls for Senate Leader Mitch McConnell to Resign Next",
+    "entity lists": [
+        [
+            "Bobby Jindal",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "conservatives",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "GOP caucus in the House of Representatives",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "John Boehner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "establishment",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Planned Parenthood",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Bobby Jindal",
+                "sentiment": "NEG",
+                "object": "Mitch McConnell",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Bobby Jindal",
+                "sentiment": "NEG",
+                "object": "Mitch McConnell",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "conservatives",
+                "sentiment": "NEG",
+                "object": "Mitch McConnell",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "conservatives",
+                "sentiment": "POS",
+                "object": "Bobby Jindal",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Bobby Jindal",
+                "sentiment": "NEG",
+                "object": "Mitch McConnell",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "conservatives",
+                "sentiment": "NEG",
+                "object": "Mitch McConnell",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Bobby Jindal",
+                "sentiment": "NEG",
+                "object": "Mitch McConnell",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Bobby Jindal",
+                "sentiment": "NEG",
+                "object": "GOP caucus in the House of Representatives",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Bobby Jindal",
+                "sentiment": "NEG",
+                "object": "John Boehner",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Bobby Jindal",
+                "sentiment": "NEG",
+                "object": "establishment",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Bobby Jindal",
+                "sentiment": "NEG",
+                "object": "establishment",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Bobby Jindal",
+                "sentiment": "NEG",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Bobby Jindal",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Bobby Jindal",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Bobby Jindal",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Bobby Jindal": [
+            [
+                "Positive",
+                "C"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "conservatives": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "GOP caucus in the House of Representatives": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "establishment": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Very Negative",
+                "C"
+            ]
+        ],
+        "Planned Parenthood": [
+            [
+                "Very Negative",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Bobby Jindal": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "conservatives": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "GOP caucus in the House of Representatives": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "establishment": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Planned Parenthood": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Very Conservative",
+            "annotator": "C"
+        }
+    ]
+}

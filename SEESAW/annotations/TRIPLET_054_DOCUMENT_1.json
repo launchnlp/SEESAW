@@ -1,0 +1,562 @@
+{
+    "title": "Heather Nauert withdraws bid to be US envoy to UN",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Heather Nauert",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Fox News",
+            [
+                "Organization",
+                "Organization",
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Mike Pompeo",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "United States",
+            [
+                "GPE",
+                "GPE",
+                "GPE"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Germany",
+            [
+                "GPE",
+                "GPE",
+                "GPE"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Heather Nauert",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Heather Nauert",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Heather Nauert",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Heather Nauert",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Heather Nauert",
+                "annotators": [
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Heather Nauert",
+                "sentiment": "POS",
+                "object": "Fox News",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Heather Nauert",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Heather Nauert",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Heather Nauert",
+                "annotators": [
+                    "B",
+                    "E"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Mike Pompeo",
+                "sentiment": "POS",
+                "object": "Heather Nauert",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Heather Nauert",
+                "sentiment": "POS",
+                "object": "Fox News",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Fox News",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Fox News",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "United States",
+                "sentiment": "POS",
+                "object": "Germany",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Heather Nauert",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Germany",
+                "sentiment": "POS",
+                "object": "United States",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Heather Nauert",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A",
+                    "E"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Heather Nauert",
+                "annotators": [
+                    "D",
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Heather Nauert": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "D"
+            ],
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Mike Pompeo": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Fox News": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Germany": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "United States": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Heather Nauert": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Very Conservative",
+                "D"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Mike Pompeo": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Fox News": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Very Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "Germany": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "United States": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "B"
+        },
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "D"
+        },
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "E"
+        }
+    ]
+}

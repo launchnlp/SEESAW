@@ -1,0 +1,910 @@
+{
+    "title": "Washington Post-ABC News poll: Clinton holds four-point lead in aftermath of Trump tape",
+    "entity lists": [
+        [
+            "Hillary Clinton",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main"
+            ],
+            [
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main"
+            ],
+            [
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "Bill Clinton",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "voter",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "C",
+                "D",
+                "D"
+            ]
+        ],
+        [
+            "United States",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Trump\u2019s treatment of women",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "independent",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Hillary Clinton",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "voter",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Hillary Clinton",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Trump\u2019s treatment of women",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Bill Clinton",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Trump\u2019s treatment of women",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "voter",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "voter",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C",
+                    "D",
+                    "D"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "independent",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "independent",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "Trump\u2019s treatment of women",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "United States",
+                "sentiment": "NEG",
+                "object": "Bill Clinton",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "40": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "44": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "48": [
+            {
+                "id": 0,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "voter",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "50": [
+            {
+                "id": 0,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "51": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "55": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "voter",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "Trump\u2019s treatment of women",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "41": [
+            {
+                "id": 0,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "42": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "43": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "45": [
+            {
+                "id": 0,
+                "subject": "voter",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "46": [
+            {
+                "id": 0,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "53": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "56": [
+            {
+                "id": 0,
+                "subject": "voter",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Hillary Clinton": [
+            [
+                "Positive",
+                "C"
+            ],
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Negative",
+                "C"
+            ],
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Bill Clinton": [
+            [
+                "Slightly Negative",
+                "C"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "voter": [
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "United States": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "independent": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Trump\u2019s treatment of women": [
+            [
+                "Negative",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "C"
+            ],
+            [
+                "Very Conservative",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Bill Clinton": [
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "voter": [
+            [
+                "Slightly Liberal",
+                "C"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "United States": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "independent": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Trump\u2019s treatment of women": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "C"
+        },
+        {
+            "ideology": "Liberal",
+            "annotator": "D"
+        }
+    ]
+}

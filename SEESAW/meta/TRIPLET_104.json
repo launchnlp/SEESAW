@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/president-trump-signs-executive-order-ending-family-separation-border",
+    "story_title": "President Trump Signs Executive Order Ending Family Separation at the Border",
+    "story_time": "2018-06-20",
+    "story_topic": "immigration",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2018/06/20/homeland-security-drafts-plan-end-separations-border/717898002/",
+        "title": "Trump signs executive order on immigration, but says 'zero tolerance' will continue",
+        "bias_label": 1
+    },
+    "Meta info for article 0": {
+        "source": "HuffPost",
+        "url": "https://www.huffingtonpost.com/entry/trump-republicans-family-separations-plan_us_5b2a8b03e4b0a4dc992364e0",
+        "title": "Trump\u2019s Plan To Stop Family Separations Is To Detain Families Together",
+        "bias_label": 0
+    },
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2018/jun/20/trump-says-sign-something-stop-family-separation/",
+        "title": "Trump signs executive order stopping family separation",
+        "bias_label": 4
+    },
+    "triplet_id": "104"
+}

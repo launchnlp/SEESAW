@@ -1,0 +1,52 @@
+{
+    "title": "We're on the brink of a majority of gay Americans being able to marry",
+    "entity lists": [
+        [
+            "same-sex marriage",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "same-sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "same-sex marriage": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "same-sex marriage": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "C"
+        }
+    ]
+}

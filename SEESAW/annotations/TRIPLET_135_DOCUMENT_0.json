@@ -1,0 +1,177 @@
+{
+    "title": "Federal appeals court rules Trump can't block New York subpoena for his tax returns",
+    "entity lists": [
+        [
+            "United States Court of Appeals for the Second Circuit",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "subpoena",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "three-judge panel",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "United States Court of Appeals for the Second Circuit",
+                "sentiment": "POS",
+                "object": "subpoena",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States Court of Appeals for the Second Circuit",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "United States Court of Appeals for the Second Circuit",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "United States Court of Appeals for the Second Circuit",
+                "sentiment": "POS",
+                "object": "subpoena",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "three-judge panel",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "subpoena",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "three-judge panel": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "subpoena": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "United States Court of Appeals for the Second Circuit": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "three-judge panel": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "subpoena": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "United States Court of Appeals for the Second Circuit": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "C"
+        }
+    ]
+}

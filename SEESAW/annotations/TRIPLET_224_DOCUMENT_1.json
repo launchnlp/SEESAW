@@ -1,0 +1,190 @@
+{
+    "title": "Obama Asks for Prayer on Budget Deal",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "budget deal",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Bhumibol Adulyadej",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "budget deal",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "budget deal",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Hillary Clinton",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Bhumibol Adulyadej",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Bhumibol Adulyadej",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Bhumibol Adulyadej",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Bhumibol Adulyadej",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "budget deal": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Bhumibol Adulyadej": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "budget deal": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Bhumibol Adulyadej": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "B"
+        }
+    ]
+}

@@ -1,0 +1,388 @@
+{
+    "title": "Emails in Anthony Weiner Inquiry Jolt Hillary Clinton\u2019s Campaign",
+    "entity lists": [
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "James Comey",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "John Podesta",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Paul Ryan",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "6": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "James Comey",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "James Comey",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "John Podesta",
+                "sentiment": "NEG",
+                "object": "James Comey",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "40": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "42": [
+            {
+                "id": 0,
+                "subject": "Paul Ryan",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Paul Ryan",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "43": [
+            {
+                "id": 0,
+                "subject": "Paul Ryan",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "44": [
+            {
+                "id": 0,
+                "subject": "Paul Ryan",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "46": [
+            {
+                "id": 0,
+                "subject": "Hillary Clinton",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "48": [
+            {
+                "id": 0,
+                "subject": "James Comey",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "59": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "60": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "James Comey": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Paul Ryan": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "John Podesta": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Unknown",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "James Comey": [
+            [
+                "Moderate",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Paul Ryan": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "John Podesta": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "A"
+        }
+    ]
+}

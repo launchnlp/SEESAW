@@ -1,0 +1,1088 @@
+{
+    "title": "Former Obama White House Counsel Greg Craig Goes On Trial Over Ukraine Work",
+    "entity lists": [
+        [
+            "Gregory B. Craig",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Robert Mueller",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Ukraine",
+            [
+                "Organization",
+                "Organization",
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "william w. taylor iii",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "William J. Murphy",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Skadden, Arps, Slate, Meagher & Flom",
+            [
+                "Organization",
+                "Organization",
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Paul Manafort",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Yulia Tymoshenko",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Viktor Yanukovych",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "prosecution",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Gregory B. Craig",
+                "sentiment": "POS",
+                "object": "Ukraine",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Robert Mueller",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Robert Mueller",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "E"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Gregory B. Craig",
+                "sentiment": "POS",
+                "object": "Ukraine",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Ukraine",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "william w. taylor iii",
+                "sentiment": "POS",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "William J. Murphy",
+                "sentiment": "POS",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "E"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "william w. taylor iii",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B",
+                    "A",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "William J. Murphy",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B",
+                    "A",
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "william w. taylor iii",
+                "sentiment": "NEG",
+                "object": "prosecution",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "William J. Murphy",
+                "sentiment": "NEG",
+                "object": "prosecution",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Gregory B. Craig",
+                "sentiment": "POS",
+                "object": "Skadden, Arps, Slate, Meagher & Flom",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Gregory B. Craig",
+                "sentiment": "POS",
+                "object": "Ukraine",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Skadden, Arps, Slate, Meagher & Flom",
+                "sentiment": "POS",
+                "object": "Ukraine",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Skadden, Arps, Slate, Meagher & Flom",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Ukraine",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Paul Manafort",
+                "sentiment": "POS",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Paul Manafort",
+                "sentiment": "POS",
+                "object": "Skadden, Arps, Slate, Meagher & Flom",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Yulia Tymoshenko",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Paul Manafort",
+                "sentiment": "POS",
+                "object": "Yulia Tymoshenko",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Ukraine",
+                "sentiment": "NEG",
+                "object": "Yulia Tymoshenko",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Paul Manafort",
+                "annotators": [
+                    "B",
+                    "A",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Paul Manafort",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Paul Manafort",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Paul Manafort",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Robert Mueller",
+                "sentiment": "NEG",
+                "object": "Paul Manafort",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "E"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Viktor Yanukovych",
+                "sentiment": "NEG",
+                "object": "Yulia Tymoshenko",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Viktor Yanukovych",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Skadden, Arps, Slate, Meagher & Flom",
+                "sentiment": "NEG",
+                "object": "Yulia Tymoshenko",
+                "annotators": [
+                    "B",
+                    "A",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Yulia Tymoshenko",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "prosecution",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "prosecution",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "0": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Gregory B. Craig": [
+            [
+                "Negative",
+                "B"
+            ],
+            [
+                "Negative",
+                "C"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "Robert Mueller": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Ukraine": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Slightly Negative",
+                "C"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "william w. taylor iii": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "William J. Murphy": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Paul Manafort": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Negative",
+                "C"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "Skadden, Arps, Slate, Meagher & Flom": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Slightly Negative",
+                "C"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "Yulia Tymoshenko": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Viktor Yanukovych": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "prosecution": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Gregory B. Craig": [
+            [
+                "Very Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Robert Mueller": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Moderate",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Ukraine": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "C"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "william w. taylor iii": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Slightly Liberal",
+                "C"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "William J. Murphy": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Slightly Liberal",
+                "C"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Paul Manafort": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Skadden, Arps, Slate, Meagher & Flom": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "C"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Yulia Tymoshenko": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "C"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "B"
+            ],
+            [
+                "Very Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Viktor Yanukovych": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "C"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "prosecution": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "B"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        },
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Conservative",
+            "annotator": "E"
+        }
+    ]
+}

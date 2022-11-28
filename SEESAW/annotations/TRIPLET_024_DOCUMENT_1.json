@@ -1,0 +1,74 @@
+{
+    "title": "Fort Lauderdale shooting suspect \u2018lost his mind\u2019 in Iraq, family says",
+    "entity lists": [
+        [
+            "esteban santiago",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "esteban santiago",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "esteban santiago",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "esteban santiago",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "esteban santiago": [
+            [
+                "Negative",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "esteban santiago": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        }
+    ]
+}

@@ -1,0 +1,471 @@
+{
+    "title": "Top Senate Republicans reject Trump\u2019s renewed call for immediate dismissal of impeachment charges",
+    "entity lists": [
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "articles of impeachment",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Roy Blunt",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "witness",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Mitt Romney",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Susan Collins",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Josh Hawley",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Lisa Murkowski",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "articles of impeachment",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Roy Blunt",
+                "sentiment": "POS",
+                "object": "articles of impeachment",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "POS",
+                "object": "articles of impeachment",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "articles of impeachment",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "POS",
+                "object": "articles of impeachment",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Nancy Pelosi",
+                "sentiment": "POS",
+                "object": "witness",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "witness",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Mitt Romney",
+                "sentiment": "POS",
+                "object": "articles of impeachment",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Susan Collins",
+                "sentiment": "POS",
+                "object": "articles of impeachment",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Josh Hawley",
+                "sentiment": "NEG",
+                "object": "articles of impeachment",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Lisa Murkowski",
+                "sentiment": "POS",
+                "object": "witness",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "articles of impeachment": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Roy Blunt": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Susan Collins": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Mitt Romney": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "witness": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Josh Hawley": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Lisa Murkowski": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "articles of impeachment": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Roy Blunt": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Susan Collins": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "Mitt Romney": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "witness": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ],
+        "Josh Hawley": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "Lisa Murkowski": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        }
+    ]
+}

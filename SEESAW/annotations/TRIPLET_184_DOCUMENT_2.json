@@ -1,0 +1,164 @@
+{
+    "title": "Darrell Issa: What We Don't Know Could Kill Us",
+    "entity lists": [
+        [
+            "Darrell Issa",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Ebola",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Centers for Disease Control and Prevention",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "3": [
+            {
+                "id": 0,
+                "subject": "Darrell Issa",
+                "sentiment": "NEG",
+                "object": "Ebola",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Darrell Issa",
+                "sentiment": "NEG",
+                "object": "Ebola",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Darrell Issa",
+                "sentiment": "NEG",
+                "object": "Centers for Disease Control and Prevention",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Darrell Issa",
+                "sentiment": "NEG",
+                "object": "Centers for Disease Control and Prevention",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Darrell Issa",
+                "sentiment": "NEG",
+                "object": "Ebola",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Darrell Issa",
+                "sentiment": "NEG",
+                "object": "Centers for Disease Control and Prevention",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Darrell Issa",
+                "sentiment": "NEG",
+                "object": "Centers for Disease Control and Prevention",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Ebola": [
+            [
+                "Very Negative",
+                "D"
+            ]
+        ],
+        "Darrell Issa": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Centers for Disease Control and Prevention": [
+            [
+                "Negative",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Ebola": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Darrell Issa": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Centers for Disease Control and Prevention": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "D"
+        }
+    ]
+}

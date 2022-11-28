@@ -1,0 +1,402 @@
+{
+    "title": "Justice Dept. to Replace Lawyers in Census Citizenship Question Case",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "citizenship question",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "United States Department of Justice",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Civil Division lawyers",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "lawyers in the federal programs branch",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "citizenship question",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "POS",
+                "object": "Civil Division lawyers",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "United States Department of Justice",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "citizenship question",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "NEG",
+                "object": "citizenship question",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "citizenship question",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "citizenship question",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "POS",
+                "object": "Civil Division lawyers",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "United States Department of Justice",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "citizenship question",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "citizenship question",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "citizenship question",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "United States Department of Justice",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Civil Division lawyers",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "POS",
+                "object": "citizenship question",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "citizenship question",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "United States Department of Justice",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "United States Department of Justice",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "United States Department of Justice",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "lawyers in the federal programs branch",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "lawyers in the federal programs branch",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "United States Department of Justice",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "40": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "United States Department of Justice",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "United States Department of Justice": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "citizenship question": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Civil Division lawyers": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "lawyers in the federal programs branch": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "United States Department of Justice": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "citizenship question": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Civil Division lawyers": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "lawyers in the federal programs branch": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "C"
+        }
+    ]
+}

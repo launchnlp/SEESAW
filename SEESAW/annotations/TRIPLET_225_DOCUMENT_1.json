@@ -1,0 +1,318 @@
+{
+    "title": "Mitt Romney Promises 'Millions' Of Jobs -- But Offers No Data To Back It Up",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "Organization",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "B"
+            ]
+        ],
+        [
+            "Mitt Romney",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Romney's plan",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Kevin Hassett",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Mitt Romney",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Mitt Romney",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Romney's plan",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Romney's plan",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Mitt Romney",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Mitt Romney",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Mitt Romney",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Romney's plan",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Romney's plan",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Mitt Romney",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Mitt Romney",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Mitt Romney",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Kevin Hassett",
+                "sentiment": "POS",
+                "object": "Romney's plan",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Kevin Hassett",
+                "sentiment": "POS",
+                "object": "Romney's plan",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Kevin Hassett",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Romney's plan",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Romney's plan",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Mitt Romney": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Romney's plan": [
+            [
+                "Negative",
+                "B"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Kevin Hassett": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Mitt Romney": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Romney's plan": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Kevin Hassett": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "B"
+        }
+    ]
+}

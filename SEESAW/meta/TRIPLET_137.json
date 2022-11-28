@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/trump-suggests-justices-sotomayor-and-ginsburg-should-recuse-themselves-his-cases",
+    "story_title": "President Trump Suggests Sotomayor, Ginsburg Recuse Themselves From His Cases",
+    "story_time": "2020-02-25",
+    "story_topic": "supreme_court",
+    "Split": "test",
+    "Meta info for article 2": {
+        "source": "New York Times (News)",
+        "url": "https://www.nytimes.com/2020/02/25/us/politics/trump-sotomayor-ginsburg-supreme-court.html",
+        "title": "Trump Demands Two Liberal Justices Recuse Themselves From His Cases",
+        "bias_label": 1
+    },
+    "Meta info for article 0": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2020/02/25/809178462/trump-says-sotomayor-ginsburg-should-recuse-themselves-from-cases-involving-him",
+        "title": "Trump Says Sotomayor, Ginsburg Should Recuse Themselves From Cases Involving Him",
+        "bias_label": 2
+    },
+    "Meta info for article 1": {
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2020/02/25/donald-trump-sonia-sotomayor-and-ruth-bader-ginsburg-should-recuse-from-trump-related-supreme-court-cases/",
+        "title": "Donald Trump: Sonia Sotomayor and Ruth Bader Ginsburg Should Recuse from Trump-Related Supreme Court Cases",
+        "bias_label": 3
+    },
+    "triplet_id": "137"
+}

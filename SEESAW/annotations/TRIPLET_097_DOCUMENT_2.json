@@ -1,0 +1,419 @@
+{
+    "title": "Police Identify Woman Who Wounded 3 at YouTube and Killed Herself; Motive Is Unclear",
+    "entity lists": [
+        [
+            "nasim najafi aghdam",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "YouTube",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Google",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "People for the Ethical Treatment of Animals",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Tim Cook",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Jack Dorsey",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "gun violence",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "3": [
+            {
+                "id": 0,
+                "subject": "nasim najafi aghdam",
+                "sentiment": "NEG",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Google",
+                "sentiment": "POS",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "YouTube",
+                "sentiment": "POS",
+                "object": "Google",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "nasim najafi aghdam",
+                "sentiment": "NEG",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "YouTube",
+                "sentiment": "NEG",
+                "object": "nasim najafi aghdam",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "nasim najafi aghdam",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "nasim najafi aghdam",
+                "sentiment": "NEG",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "nasim najafi aghdam",
+                "sentiment": "NEG",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "YouTube",
+                "sentiment": "NEG",
+                "object": "nasim najafi aghdam",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "YouTube",
+                "sentiment": "NEG",
+                "object": "nasim najafi aghdam",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "People for the Ethical Treatment of Animals",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "nasim najafi aghdam",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Google",
+                "sentiment": "POS",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "YouTube",
+                "sentiment": "POS",
+                "object": "Google",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "47": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "54": [
+            {
+                "id": 0,
+                "subject": "Tim Cook",
+                "sentiment": "POS",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Tim Cook",
+                "sentiment": "POS",
+                "object": "Google",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "56": [
+            {
+                "id": 0,
+                "subject": "Jack Dorsey",
+                "sentiment": "POS",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "57": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "gun violence",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "58": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "gun violence",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "nasim najafi aghdam": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "YouTube": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "People for the Ethical Treatment of Animals": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "Tim Cook": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "Jack Dorsey": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "gun violence": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Google": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "nasim najafi aghdam": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "YouTube": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "People for the Ethical Treatment of Animals": [
+            [
+                "Very Liberal",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Tim Cook": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "Jack Dorsey": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "gun violence": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Google": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "D"
+        }
+    ]
+}

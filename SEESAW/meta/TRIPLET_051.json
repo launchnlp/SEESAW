@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/greg-craigs-trial-starts-foreign-lobbying",
+    "story_title": "Greg Craig's Foreign Lobbying Trial Begins",
+    "story_time": "2019-08-12",
+    "story_topic": "justice",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2019/08/12/749892821/former-obama-white-house-counsel-greg-craig-goes-on-trial-for-ukraine-work",
+        "title": "Former Obama White House Counsel Greg Craig Goes On Trial Over Ukraine Work",
+        "bias_label": 2
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/2019/08/11/politics/greg-craig-trial-justice-department-foreign-lobbying/index.html",
+        "title": "DC lawyer's trial to serve as test for Justice Department's foreign lobbying enforcement work",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2019/aug/12/potential-jurors-trial-greg-craig-former-obama-wh-/",
+        "title": "Potential jurors for trial of Greg Craig, former Obama W.H. counsel, asked about Mueller, Manafort",
+        "bias_label": 4
+    },
+    "triplet_id": "051"
+}

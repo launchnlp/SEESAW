@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/veto-obamacare-repeal",
+    "story_title": "Veto of Obamacare Repeal",
+    "story_time": "2016-01-09",
+    "story_topic": "white_house",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/entry/obama-vetoes-obamacare-repeal-bill-obviously_568fee01e4b0c8beacf6c140?utm_hp_ref=politics",
+        "title": "Obama Vetoes Anti-Obamacare Bill, Obviously",
+        "bias_label": 0
+    },
+    "Meta info for article 1": {
+        "source": "Newsmax (News)",
+        "url": "http://www.newsmax.com/Newsfront/gop-obamacare-veto-barack-obama/2016/01/08/id/708757/",
+        "title": "GOP Slams Obama on Obamacare Veto: 'This Law Will Collapse' ",
+        "bias_label": 4
+    },
+    "Meta info for article 0": {
+        "source": "USA TODAY",
+        "url": "http://www.usatoday.com/story/news/politics/2016/01/08/obama-vetoes-gop-attempt-repeal-obamacare/78506800/",
+        "title": "Obama vetoes GOP attempt to repeal Obamacare",
+        "bias_label": 1
+    },
+    "triplet_id": "090"
+}

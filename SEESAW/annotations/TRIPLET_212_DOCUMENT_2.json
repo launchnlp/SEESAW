@@ -1,0 +1,319 @@
+{
+    "title": "Reported Israeli airstrikes in Syria could accelerate U.S. decision process",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "supply of weapons to the Syrian rebels",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Peter T. King",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Al-Qaeda",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Patrick Leahy",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Dutch Ruppersberger",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "John McCain",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Syrian President Bashar Assad",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "6": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "supply of weapons to the Syrian rebels",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Peter T. King",
+                "sentiment": "NEG",
+                "object": "Al-Qaeda",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Patrick Leahy",
+                "sentiment": "POS",
+                "object": "supply of weapons to the Syrian rebels",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Dutch Ruppersberger",
+                "sentiment": "NEG",
+                "object": "supply of weapons to the Syrian rebels",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Dutch Ruppersberger",
+                "sentiment": "NEG",
+                "object": "supply of weapons to the Syrian rebels",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Dutch Ruppersberger",
+                "sentiment": "NEG",
+                "object": "supply of weapons to the Syrian rebels",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "John McCain",
+                "sentiment": "POS",
+                "object": "supply of weapons to the Syrian rebels",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "John McCain",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "supply of weapons to the Syrian rebels",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Syrian President Bashar Assad",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "John McCain": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Peter T. King": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Al-Qaeda": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Patrick Leahy": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Dutch Ruppersberger": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Syrian President Bashar Assad": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "supply of weapons to the Syrian rebels": [
+            [
+                "Unknown",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "John McCain": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Peter T. King": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Al-Qaeda": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Patrick Leahy": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Dutch Ruppersberger": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Syrian President Bashar Assad": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "supply of weapons to the Syrian rebels": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

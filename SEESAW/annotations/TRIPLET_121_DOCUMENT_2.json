@@ -1,0 +1,199 @@
+{
+    "title": "DACA Recipients Can Apply For Renewal, Government Says",
+    "entity lists": [
+        [
+            "United States Department of Homeland Security",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Deferred Action for Childhood Arrivals",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Obama administration",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Trump administration",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Jeff Sessions",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "United States Department of Homeland Security",
+                "sentiment": "POS",
+                "object": "Deferred Action for Childhood Arrivals",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Obama administration",
+                "sentiment": "POS",
+                "object": "Deferred Action for Childhood Arrivals",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Trump administration",
+                "sentiment": "NEG",
+                "object": "Deferred Action for Childhood Arrivals",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jeff Sessions",
+                "sentiment": "POS",
+                "object": "Trump administration",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Jeff Sessions",
+                "sentiment": "NEG",
+                "object": "Deferred Action for Childhood Arrivals",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Deferred Action for Childhood Arrivals",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Deferred Action for Childhood Arrivals": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Trump administration": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "United States Department of Homeland Security": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Obama administration": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Jeff Sessions": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Deferred Action for Childhood Arrivals": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Trump administration": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "United States Department of Homeland Security": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "Obama administration": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Jeff Sessions": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        }
+    ]
+}

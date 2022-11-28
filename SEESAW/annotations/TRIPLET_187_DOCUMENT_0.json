@@ -1,0 +1,164 @@
+{
+    "title": "McConnell's Campaign Manager Resigns To Avoid Being 'Distraction'",
+    "entity lists": [
+        [
+            "Jesse Benton",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Kent Sorenson",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Jesse Benton",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Kent Sorenson",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Jesse Benton",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Jesse Benton",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Jesse Benton",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jesse Benton",
+                "sentiment": "POS",
+                "object": "Mitch McConnell",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Jesse Benton",
+                "sentiment": "POS",
+                "object": "Mitch McConnell",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Mitch McConnell": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Jesse Benton": [
+            [
+                "Negative",
+                "B"
+            ]
+        ],
+        "Kent Sorenson": [
+            [
+                "Unknown",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Jesse Benton": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Kent Sorenson": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        }
+    ]
+}

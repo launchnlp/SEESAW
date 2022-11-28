@@ -1,0 +1,530 @@
+{
+    "title": "Georgia's Republican-led legislature passes sweeping voting restrictions",
+    "entity lists": [
+        [
+            "sweeping voting restrictions",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Brian Kemp",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Brad Raffensperger",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Gloria Butler",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Jen Jordan",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Park Cannon",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Barry Fleming",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "sweeping voting restrictions",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Brian Kemp",
+                "sentiment": "POS",
+                "object": "sweeping voting restrictions",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Brian Kemp",
+                "sentiment": "POS",
+                "object": "sweeping voting restrictions",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Brian Kemp",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "sweeping voting restrictions",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Brian Kemp",
+                "sentiment": "POS",
+                "object": "sweeping voting restrictions",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Brian Kemp",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "sweeping voting restrictions",
+                "sentiment": "NEG",
+                "object": "Brad Raffensperger",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Brad Raffensperger",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Gloria Butler",
+                "sentiment": "NEG",
+                "object": "sweeping voting restrictions",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Gloria Butler",
+                "sentiment": "NEG",
+                "object": "sweeping voting restrictions",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Jen Jordan",
+                "sentiment": "NEG",
+                "object": "sweeping voting restrictions",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Park Cannon",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "sweeping voting restrictions",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "sweeping voting restrictions",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "sweeping voting restrictions",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Barry Fleming",
+                "sentiment": "POS",
+                "object": "sweeping voting restrictions",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "sweeping voting restrictions",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "sweeping voting restrictions",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "sweeping voting restrictions",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "sweeping voting restrictions",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Brian Kemp": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "sweeping voting restrictions": [
+            [
+                "Negative",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Park Cannon": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Gloria Butler": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Brad Raffensperger": [
+            [
+                "Unknown",
+                "B"
+            ]
+        ],
+        "Barry Fleming": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Jen Jordan": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Brian Kemp": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "sweeping voting restrictions": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Park Cannon": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Gloria Butler": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Brad Raffensperger": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Barry Fleming": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Jen Jordan": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "B"
+        }
+    ]
+}

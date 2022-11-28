@@ -1,0 +1,571 @@
+{
+    "title": "Tillerson, on Eve of Russia Trip, Takes Hard Line on Syria",
+    "entity lists": [
+        [
+            "Rex Tillerson",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Russia",
+            [
+                "GPE"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Syria",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Europe",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Philip Gordon",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "chemical weapon",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "H. R. McMaster",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Nikki Haley",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "United States",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Vladimir Putin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Ryan Crocker",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Rex Tillerson",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Russia",
+                "sentiment": "POS",
+                "object": "Syria",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Rex Tillerson",
+                "sentiment": "NEG",
+                "object": "Syria",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Russia",
+                "sentiment": "NEG",
+                "object": "Europe",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Rex Tillerson",
+                "sentiment": "POS",
+                "object": "Europe",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Rex Tillerson",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Russia",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Rex Tillerson",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Philip Gordon",
+                "sentiment": "POS",
+                "object": "Rex Tillerson",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Philip Gordon",
+                "sentiment": "POS",
+                "object": "Rex Tillerson",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Philip Gordon",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Philip Gordon",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Rex Tillerson",
+                "sentiment": "POS",
+                "object": "Philip Gordon",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Rex Tillerson",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Russia",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Rex Tillerson",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Rex Tillerson",
+                "sentiment": "NEG",
+                "object": "chemical weapon",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "H. R. McMaster",
+                "sentiment": "NEG",
+                "object": "chemical weapon",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Nikki Haley",
+                "sentiment": "NEG",
+                "object": "Rex Tillerson",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Nikki Haley",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Russia",
+                "sentiment": "NEG",
+                "object": "United States",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Vladimir Putin",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Nikki Haley",
+                "sentiment": "NEG",
+                "object": "Vladimir Putin",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Rex Tillerson",
+                "sentiment": "POS",
+                "object": "chemical weapon",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Ryan Crocker",
+                "sentiment": "NEG",
+                "object": "Rex Tillerson",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "Ryan Crocker",
+                "sentiment": "NEG",
+                "object": "Rex Tillerson",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Rex Tillerson": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Russia": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Syria": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "chemical weapon": [
+            [
+                "Negative",
+                "B"
+            ]
+        ],
+        "United States": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Europe": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Philip Gordon": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "H. R. McMaster": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Nikki Haley": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Vladimir Putin": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Ryan Crocker": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Rex Tillerson": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Russia": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Syria": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "chemical weapon": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "United States": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "Europe": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Philip Gordon": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "H. R. McMaster": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Nikki Haley": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Vladimir Putin": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Ryan Crocker": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        }
+    ]
+}

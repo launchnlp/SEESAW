@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/ryans-livestream-crackdown",
+    "story_title": "Ryan: Livestream Crackdown",
+    "story_time": "2016-12-28",
+    "story_topic": "us_congress",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/news/the-fix/wp/2016/12/28/why-punishing-democrats-for-their-gun-control-sit-in-is-dicey-territory-for-paul-ryan/?utm_term=.0c9ab20cbe71",
+        "title": "Why punishing Democrats for their gun-control sit-in is dicey territory for Paul Ryan",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Townhall",
+        "url": "http://townhall.com/tipsheet/jasonhopkins/2016/12/27/speaker-ryan-looking-to-ban-livestreaming-on-the-house-floor-n2264001",
+        "title": "Speaker Ryan Looking To Punish Lawmakers Who Live-Stream On The House Floor",
+        "bias_label": 3
+    },
+    "Meta info for article 2": {
+        "source": "Politico",
+        "url": "http://www.politico.com/story/2016/12/paul-ryan-livestream-constitution-232994",
+        "title": "Experts: Ryan\u2019s livestream crackdown may be unconstitutional",
+        "bias_label": 1
+    },
+    "triplet_id": "083"
+}

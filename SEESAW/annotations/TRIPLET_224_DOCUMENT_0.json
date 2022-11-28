@@ -1,0 +1,480 @@
+{
+    "title": "Pressure intensifies for GOP to raise taxes on rich",
+    "entity lists": [
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "raise taxes on rich",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Dick Durbin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Bobby Jindal",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "John Boehner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Ra\u00fal Labrador",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Tom Price",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "raise taxes on rich",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Nancy Pelosi",
+                "sentiment": "POS",
+                "object": "raise taxes on rich",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "raise taxes on rich",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Dick Durbin",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Bobby Jindal",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Bobby Jindal",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Bobby Jindal",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Bobby Jindal",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Bobby Jindal",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "raise taxes on rich",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Ra\u00fal Labrador",
+                "sentiment": "NEG",
+                "object": "raise taxes on rich",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Tom Price",
+                "sentiment": "NEG",
+                "object": "raise taxes on rich",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Tom Price",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Tom Price",
+                "sentiment": "NEG",
+                "object": "raise taxes on rich",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "raise taxes on rich": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Dick Durbin": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Bobby Jindal": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Ra\u00fal Labrador": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Tom Price": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "raise taxes on rich": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Dick Durbin": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Bobby Jindal": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Ra\u00fal Labrador": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Tom Price": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "B"
+        }
+    ]
+}

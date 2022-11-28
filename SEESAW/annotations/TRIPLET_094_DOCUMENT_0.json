@@ -1,0 +1,111 @@
+{
+    "title": "Obama calls for end to nuclear weapons, but U.S. disarmament is slowest since 1980",
+    "entity lists": [
+        [
+            "Federation of American Scientists",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Reduction of Nuclear Arsenal",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "9": [
+            {
+                "id": 0,
+                "subject": "Federation of American Scientists",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Federation of American Scientists",
+                "sentiment": "POS",
+                "object": "Reduction of Nuclear Arsenal",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Reduction of Nuclear Arsenal": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Federation of American Scientists": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Reduction of Nuclear Arsenal": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "Federation of American Scientists": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        }
+    ]
+}

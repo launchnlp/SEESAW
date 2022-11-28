@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/mcconnells-campaign-manager-resigns",
+    "story_title": "McConnell Campaign Manager Resigns",
+    "story_time": "2014-08-30",
+    "story_topic": "politics",
+    "Split": "train",
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2014/aug/29/gop-sen-mcconnells-campaign-manager-resigns/",
+        "title": "GOP Sen. McConnell\u2019s campaign manager resigns",
+        "bias_label": 4
+    },
+    "Meta info for article 2": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2014/08/29/jesse-benton-mitch-mcconnell-resign_n_5739396.html?utm_hp_ref=politics",
+        "title": "Jesse Benton, Mitch McConnell's Campaign Manager, To Resign Amid Bribery Scandal",
+        "bias_label": 0
+    },
+    "Meta info for article 0": {
+        "source": "NPR (Online News)",
+        "url": "http://www.npr.org/blogs/itsallpolitics/2014/08/29/344368948/mcconnells-campaign-manager-resigns-to-avoid-being-distraction",
+        "title": "McConnell's Campaign Manager Resigns To Avoid Being 'Distraction'",
+        "bias_label": 2
+    },
+    "triplet_id": "187"
+}

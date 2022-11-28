@@ -1,0 +1,677 @@
+{
+    "title": "Marijuana, polygamy, torture: Lynch confirmation hearing (so far)",
+    "entity lists": [
+        [
+            "Loretta Lynch",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "United States Congress",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Eric Holder",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Chuck Grassley",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Ted Cruz",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "carl tobias",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Patrick Leahy",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Chuck Schumer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Kirsten Gillibrand",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Loretta Lynch",
+                "sentiment": "POS",
+                "object": "United States Congress",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Eric Holder",
+                "sentiment": "NEG",
+                "object": "United States Congress",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Chuck Grassley",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Loretta Lynch",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Loretta Lynch",
+                "sentiment": "POS",
+                "object": "United States Congress",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Chuck Grassley",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Loretta Lynch",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "carl tobias",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "carl tobias",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "carl tobias",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "carl tobias",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Loretta Lynch",
+                "sentiment": "POS",
+                "object": "United States Congress",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Loretta Lynch",
+                "sentiment": "POS",
+                "object": "United States Congress",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Eric Holder",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Eric Holder",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Eric Holder",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Eric Holder",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Chuck Grassley",
+                "sentiment": "NEG",
+                "object": "Eric Holder",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Eric Holder",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Chuck Grassley",
+                "sentiment": "NEG",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "Patrick Leahy",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "Patrick Leahy",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "Patrick Leahy",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "45": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Kirsten Gillibrand",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "46": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "47": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Loretta Lynch": [
+            [
+                "Very Positive",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "Chuck Grassley": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Ted Cruz": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "carl tobias": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Patrick Leahy": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Kirsten Gillibrand": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Eric Holder": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Loretta Lynch": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Chuck Grassley": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Ted Cruz": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "carl tobias": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ],
+        "Patrick Leahy": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Kirsten Gillibrand": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Eric Holder": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "C"
+        }
+    ]
+}

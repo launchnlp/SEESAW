@@ -1,0 +1,466 @@
+{
+    "title": "In a rare move, Mueller\u2019s office denies BuzzFeed report that Trump told Cohen to lie about Moscow project",
+    "entity lists": [
+        [
+            "Robert Mueller",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "report of Trump told Cohen to lie about Moscow project",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "BuzzFeed",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "United States Office of Special Counsel",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Rudy Giuliani",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Robert Mueller",
+                "sentiment": "NEG",
+                "object": "report of Trump told Cohen to lie about Moscow project",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "BuzzFeed",
+                "sentiment": "POS",
+                "object": "report of Trump told Cohen to lie about Moscow project",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "BuzzFeed",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "report of Trump told Cohen to lie about Moscow project",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "report of Trump told Cohen to lie about Moscow project",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "United States Office of Special Counsel",
+                "sentiment": "NEG",
+                "object": "report of Trump told Cohen to lie about Moscow project",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "United States Office of Special Counsel",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "BuzzFeed",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "BuzzFeed",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "BuzzFeed",
+                "sentiment": "POS",
+                "object": "report of Trump told Cohen to lie about Moscow project",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "BuzzFeed",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "report of Trump told Cohen to lie about Moscow project",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "report of Trump told Cohen to lie about Moscow project",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "BuzzFeed",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "report of Trump told Cohen to lie about Moscow project",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Rudy Giuliani",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Rudy Giuliani",
+                "sentiment": "POS",
+                "object": "Robert Mueller",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Rudy Giuliani",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "BuzzFeed",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Rudy Giuliani",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Rudy Giuliani",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Rudy Giuliani",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Robert Mueller": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "BuzzFeed": [
+            [
+                "Negative",
+                "B"
+            ]
+        ],
+        "report of Trump told Cohen to lie about Moscow project": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "United States Office of Special Counsel": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Rudy Giuliani": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Robert Mueller": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "BuzzFeed": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "report of Trump told Cohen to lie about Moscow project": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "United States Office of Special Counsel": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "Rudy Giuliani": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        }
+    ]
+}

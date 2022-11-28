@@ -1,0 +1,212 @@
+{
+    "title": "Sen. Patrick Leahy: Focus on Loretta Lynch\u2019s credentials during confirmation",
+    "entity lists": [
+        [
+            "Patrick Leahy",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Loretta Lynch",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Republican focus on controversies at the DOJ",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Chuck Schumer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Patrick Leahy",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Patrick Leahy",
+                "sentiment": "NEG",
+                "object": "Republican focus on controversies at the DOJ",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Patrick Leahy",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Patrick Leahy",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Patrick Leahy",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Patrick Leahy",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Patrick Leahy",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Patrick Leahy",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Patrick Leahy": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Loretta Lynch": [
+            [
+                "Positive",
+                "C"
+            ]
+        ],
+        "Republican focus on controversies at the DOJ": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Patrick Leahy": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Loretta Lynch": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ],
+        "Republican focus on controversies at the DOJ": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "C"
+        }
+    ]
+}

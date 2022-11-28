@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/debt-ceiling-rhetoric",
+    "story_title": "Debt Ceiling Rhetoric",
+    "story_time": "2013-01-14",
+    "story_topic": "federal_budget",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2013/jan/14/obama-schedules-monday-morning-press-conference/",
+        "title": "Rhetoric heats up on debt ceiling",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2013/01/14/obama-debt-ceiling_n_2471594.html?utm_hp_ref=politics",
+        "title": "Obama On Debt Ceiling: 'We Are Not A Deadbeat Nation'",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "CNN (Online News)",
+        "url": "http://politicalticker.blogs.cnn.com/2013/01/14/house-gop-no-ones-blinking/?hpt=po_c2",
+        "title": "House GOP: No one's blinking",
+        "bias_label": 0
+    },
+    "triplet_id": "210"
+}

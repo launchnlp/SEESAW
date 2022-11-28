@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/wayne-county-gop-members-rescind-votes-certify-election",
+    "story_title": "Wayne County GOP Members Want to Rescind Votes Certifying Presidential Election",
+    "story_time": "2020-11-19",
+    "story_topic": "elections",
+    "Split": "test",
+    "Meta info for article 0": {
+        "source": "Newsmax (News)",
+        "url": "https://www.newsmax.com/politics/wayne-county-michigan-detroit-votes/2020/11/19/id/997757/",
+        "title": "Wayne County GOP Board Members Want to Rescind Votes",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/elections/2020/11/19/wayne-county-board-of-canvassers-monica-palmer-william-hartmann/3775887001/",
+        "title": "GOP members of Wayne County Board of Canvassers say they want to rescind votes to certify",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2020/11/19/gop-canvassers-block-detroit-vote-438179",
+        "title": "GOP canvassers again oppose certifying Detroit-area votes",
+        "bias_label": 1
+    },
+    "triplet_id": "129"
+}

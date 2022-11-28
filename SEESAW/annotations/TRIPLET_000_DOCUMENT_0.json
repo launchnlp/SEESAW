@@ -1,0 +1,388 @@
+{
+    "title": "Obama: Congress endangers national security with Lynch delay",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Congress",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Loretta Lynch",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "executive action on immigration",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "justice for victims of trafficking act",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Josh Earnest",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Congress",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Congress",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Congress",
+                "sentiment": "NEG",
+                "object": "executive action on immigration",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Congress",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "executive action on immigration",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "POS",
+                "object": "justice for victims of trafficking act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Josh Earnest",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Josh Earnest",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Congress": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Loretta Lynch": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "executive action on immigration": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "justice for victims of trafficking act": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Josh Earnest": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Congress": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Loretta Lynch": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "executive action on immigration": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Slightly Conservative",
+                "A"
+            ]
+        ],
+        "justice for victims of trafficking act": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Josh Earnest": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

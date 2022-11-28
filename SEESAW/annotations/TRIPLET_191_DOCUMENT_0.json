@@ -1,0 +1,370 @@
+{
+    "title": "US to impose new sanctions on Russia - and holds more in reserve",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Russia",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Ukraine",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "sanction",
+            [
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "A"
+            ]
+        ],
+        [
+            "Vladimir Putin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "thomas graham",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Frank-Walter Steinmeier",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Viktor Yanukovych",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Ukraine",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "sanction",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "sanction",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Vladimir Putin",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "thomas graham",
+                "sentiment": "POS",
+                "object": "Ukraine",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "thomas graham",
+                "sentiment": "NEG",
+                "object": "sanction",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "sanction",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Ukraine",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "sanction",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Frank-Walter Steinmeier",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Viktor Yanukovych",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Russia": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Ukraine": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "sanction": [
+            [
+                "Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Vladimir Putin": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "thomas graham": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Frank-Walter Steinmeier": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Viktor Yanukovych": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Russia": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Ukraine": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "sanction": [
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Vladimir Putin": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "thomas graham": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Frank-Walter Steinmeier": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Viktor Yanukovych": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

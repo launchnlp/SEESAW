@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/trade-advisor-warned-white-house-coronavirus-pandemic-january",
+    "story_title": "Trade Advisor Warned White House of Coronavirus Pandemic in January",
+    "story_time": "2020-04-07",
+    "story_topic": "coronavirus",
+    "Split": "test",
+    "Meta info for article 2": {
+        "source": "New York Times (News)",
+        "url": "https://www.nytimes.com/2020/04/06/us/politics/navarro-warning-trump-coronavirus.html",
+        "title": "Trade Adviser Warned White House in January of Risks of a Pandemic",
+        "bias_label": 1
+    },
+    "Meta info for article 0": {
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2020/04/07/coronavirus-peter-navarro-warned-coronavirus-january-february/2959826001/",
+        "title": "Trump aide Peter Navarro warned 'as many as 1.2 million souls' could be lost to coronavirus: reports",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Newsmax (News)",
+        "url": "https://www.newsmax.com/politics/navarro-memo-deaths-pandemic/2020/04/07/id/961682/",
+        "title": "Navarro's Memos Warned of Millions of Deaths, $6 Trillion in Costs",
+        "bias_label": 4
+    },
+    "triplet_id": "143"
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/trump-administration-reviews-legal-immigrant-cases-who-may-have-used-fraudulent-documents",
+    "story_title": "Trump Administration Reviews Cases of Immigrants Who May Have Used Fraudulent Documents During Naturalization Process",
+    "story_time": "2018-07-23",
+    "story_topic": "immigration",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2018/jul/5/dhs-expands-power-initiate-deportations/",
+        "title": "Trump administration expands government's deportation powers",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "New York Times (News)",
+        "url": "https://www.nytimes.com/2018/07/23/us/denaturalize-citizen-immigration.html",
+        "title": "Congratulations, You Are Now a U.S. Citizen. Unless Someone Decides Later You\u2019re Not.",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "The Hill",
+        "url": "http://thehill.com/homenews/administration/398116-trump-ramps-up-scrutiny-of-legal-immigrants",
+        "title": "Trump ramps up scrutiny of legal immigrants",
+        "bias_label": 2
+    },
+    "triplet_id": "117"
+}

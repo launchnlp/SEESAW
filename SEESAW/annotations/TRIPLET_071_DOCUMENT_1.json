@@ -1,0 +1,291 @@
+{
+    "title": "Everything you need to know about the controversial rise and fall of Katie Hill",
+    "entity lists": [
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Katie Hill",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "new rules passed last year by the House after the #MeToo movement",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "robin abcarian",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Katie Hill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Katie Hill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Katie Hill",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Katie Hill",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Katie Hill",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "new rules passed last year by the House after the #MeToo movement",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Katie Hill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Katie Hill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "robin abcarian",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "robin abcarian",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Katie Hill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "POS",
+                "object": "Katie Hill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Katie Hill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "POS",
+                "object": "Katie Hill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Katie Hill": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "new rules passed last year by the House after the #MeToo movement": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "robin abcarian": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Katie Hill": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "new rules passed last year by the House after the #MeToo movement": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "robin abcarian": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

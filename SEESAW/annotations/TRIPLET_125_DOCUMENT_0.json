@@ -1,0 +1,309 @@
+{
+    "title": "U.S. Justice Department sues California over 'sanctuary' policies",
+    "entity lists": [
+        [
+            "United States Department of Justice",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "sanctuary law",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "California",
+            [
+                "GPE"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "undocumented immigrants",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Jeff Sessions",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Xavier Becerra",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "NEG",
+                "object": "sanctuary law",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States Department of Justice",
+                "sentiment": "NEG",
+                "object": "California",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "United States Department of Justice",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Jeff Sessions",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Jeff Sessions",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Xavier Becerra",
+                "sentiment": "POS",
+                "object": "California",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Jeff Sessions",
+                "sentiment": "POS",
+                "object": "United States Department of Justice",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jeff Sessions",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Jeff Sessions",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "NEG",
+                "object": "sanctuary law",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "NEG",
+                "object": "sanctuary law",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Jeff Sessions": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "California": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Xavier Becerra": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "sanctuary law": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "undocumented immigrants": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Jeff Sessions": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "California": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Xavier Becerra": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "sanctuary law": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "undocumented immigrants": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        }
+    ]
+}

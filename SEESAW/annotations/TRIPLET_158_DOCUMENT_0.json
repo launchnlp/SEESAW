@@ -1,0 +1,319 @@
+{
+    "title": "Senate passes bill to make Juneteenth a federal holiday",
+    "entity lists": [
+        [
+            "Marc Veasey",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "bill to make Juneteenth a federal holiday",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Joyce Beatty",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Black history",
+            [
+                "Religion"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Chuck Schumer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Abraham Lincoln",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "slavery",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "United States Senate",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "Marc Veasey",
+                "sentiment": "POS",
+                "object": "bill to make Juneteenth a federal holiday",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "bill to make Juneteenth a federal holiday",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Joyce Beatty",
+                "sentiment": "POS",
+                "object": "bill to make Juneteenth a federal holiday",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "bill to make Juneteenth a federal holiday",
+                "sentiment": "POS",
+                "object": "Black history",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "POS",
+                "object": "bill to make Juneteenth a federal holiday",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Abraham Lincoln",
+                "sentiment": "NEG",
+                "object": "slavery",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "slavery",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "United States Senate",
+                "sentiment": "POS",
+                "object": "bill to make Juneteenth a federal holiday",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "United States Senate": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "bill to make Juneteenth a federal holiday": [
+            [
+                "Positive",
+                "B"
+            ]
+        ],
+        "Marc Veasey": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Joyce Beatty": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Black history": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "slavery": [
+            [
+                "Negative",
+                "B"
+            ]
+        ],
+        "Abraham Lincoln": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "United States Senate": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "bill to make Juneteenth a federal holiday": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "Marc Veasey": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Joyce Beatty": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Black history": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "slavery": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Abraham Lincoln": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        }
+    ]
+}

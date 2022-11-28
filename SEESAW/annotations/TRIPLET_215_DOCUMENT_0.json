@@ -1,0 +1,388 @@
+{
+    "title": "Backers will seek contempt ruling if Obama balks at morning-after pill ruling",
+    "entity lists": [
+        [
+            "Obama administration",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "make Plan B One-Step available without restrictions",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Edward R. Korman",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Loretta Lynch",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Conservative groups",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Planned Parenthood",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "National Organization for Women",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican lawmakers",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "abortion",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Obama administration",
+                "sentiment": "NEG",
+                "object": "make Plan B One-Step available without restrictions",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Edward R. Korman",
+                "sentiment": "POS",
+                "object": "make Plan B One-Step available without restrictions",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Loretta Lynch",
+                "sentiment": "NEG",
+                "object": "make Plan B One-Step available without restrictions",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Loretta Lynch",
+                "sentiment": "NEG",
+                "object": "make Plan B One-Step available without restrictions",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Loretta Lynch",
+                "sentiment": "NEG",
+                "object": "make Plan B One-Step available without restrictions",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Conservative groups",
+                "sentiment": "NEG",
+                "object": "Obama administration",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Planned Parenthood",
+                "sentiment": "NEG",
+                "object": "Obama administration",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "National Organization for Women",
+                "sentiment": "NEG",
+                "object": "Obama administration",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Planned Parenthood",
+                "sentiment": "POS",
+                "object": "make Plan B One-Step available without restrictions",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "National Organization for Women",
+                "sentiment": "POS",
+                "object": "make Plan B One-Step available without restrictions",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Edward R. Korman",
+                "sentiment": "POS",
+                "object": "make Plan B One-Step available without restrictions",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "make Plan B One-Step available without restrictions",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Obama administration",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "make Plan B One-Step available without restrictions",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Republican lawmakers",
+                "sentiment": "NEG",
+                "object": "abortion",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Obama administration": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "make Plan B One-Step available without restrictions": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Edward R. Korman": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Loretta Lynch": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Conservative groups": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Planned Parenthood": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "National Organization for Women": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "abortion": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Republican lawmakers": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Obama administration": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "make Plan B One-Step available without restrictions": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Edward R. Korman": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Loretta Lynch": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Conservative groups": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Planned Parenthood": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "National Organization for Women": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "abortion": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Republican lawmakers": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

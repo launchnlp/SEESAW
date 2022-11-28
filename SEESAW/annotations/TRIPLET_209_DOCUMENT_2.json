@@ -1,0 +1,265 @@
+{
+    "title": "Obama Confronts Hecklers At Immigration Speech",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "deportation",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "immigration reform",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "John Boehner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Kevin McCarthy",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "deportation",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "deportation",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "immigration reform",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "immigration reform",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "deportation",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "immigration reform",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Kevin McCarthy",
+                "sentiment": "POS",
+                "object": "immigration reform",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "John Boehner",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "John Boehner",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Kevin McCarthy",
+                "sentiment": "POS",
+                "object": "immigration reform",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "immigration reform": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "deportation": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Kevin McCarthy": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "immigration reform": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "deportation": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "Kevin McCarthy": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "B"
+        }
+    ]
+}

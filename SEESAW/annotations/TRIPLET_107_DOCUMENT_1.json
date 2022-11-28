@@ -1,0 +1,276 @@
+{
+    "title": "Schumer on Waters: Calling for harassment 'not American'",
+    "entity lists": [
+        [
+            "Chuck Schumer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Maxine Waters",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Michelle Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Maxine Waters",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Maxine Waters",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Maxine Waters",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Maxine Waters",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Maxine Waters",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Maxine Waters",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Maxine Waters",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Maxine Waters",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "POS",
+                "object": "Michelle Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Maxine Waters": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Negative",
+                "B"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Michelle Obama": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Maxine Waters": [
+            [
+                "Very Liberal",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "B"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Michelle Obama": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "B"
+        }
+    ]
+}

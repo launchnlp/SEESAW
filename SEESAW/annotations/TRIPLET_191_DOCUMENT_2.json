@@ -1,0 +1,212 @@
+{
+    "title": "U.S. Announces More Sanctions Against Russia",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "sanction",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Russia",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Ukraine",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Russian President Vladimir Putin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "sanction",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Ukraine",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Russian President Vladimir Putin",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "sanction",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Russia": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Ukraine": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Russian President Vladimir Putin": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "sanction": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Russia": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Ukraine": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Russian President Vladimir Putin": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "sanction": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

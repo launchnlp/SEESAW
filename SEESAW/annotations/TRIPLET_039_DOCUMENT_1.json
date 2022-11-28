@@ -1,0 +1,473 @@
+{
+    "title": "Critics pounce after Obama talks Crusades, slavery at prayer breakfast",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main"
+            ],
+            [
+                "D",
+                "D"
+            ]
+        ],
+        [
+            "United States",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "George W. Bush administration",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Jim Gilmore",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Russell D. Moore",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Islamic State",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Americans",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Islam",
+            [
+                "Religion"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "6": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "United States",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "George W. Bush administration",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "United States",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Jim Gilmore",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Jim Gilmore",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Jim Gilmore",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "United States",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Russell D. Moore",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Russell D. Moore",
+                "sentiment": "NEG",
+                "object": "Islamic State",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "40": [
+            {
+                "id": 0,
+                "subject": "Americans",
+                "sentiment": "NEG",
+                "object": "Islam",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "41": [
+            {
+                "id": 0,
+                "subject": "Americans",
+                "sentiment": "NEG",
+                "object": "Islam",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "47": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "United States",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "50": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "51": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "United States",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "53": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "George W. Bush administration",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "54": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "George W. Bush administration",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "55": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "56": [
+            {
+                "id": 0,
+                "subject": "Russell D. Moore",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Unknown",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Jim Gilmore": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Russell D. Moore": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Americans": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "United States": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Islam": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "George W. Bush administration": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Islamic State": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Jim Gilmore": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Russell D. Moore": [
+            [
+                "Slightly Conservative",
+                "D"
+            ]
+        ],
+        "Americans": [
+            [
+                "Slightly Conservative",
+                "D"
+            ]
+        ],
+        "United States": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "Islam": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "George W. Bush administration": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Islamic State": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "D"
+        }
+    ]
+}

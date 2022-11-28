@@ -1,0 +1,517 @@
+{
+    "title": "Eric Holder: Attorney General for life?",
+    "entity lists": [
+        [
+            "Eric Holder",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Simmie Knox",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Department of Justice",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Supreme Court of the United States",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Voting Rights Act of 1965",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Bill Clinton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Loretta Lynch",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Lindsey Graham",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Senate",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "3": [
+            {
+                "id": 0,
+                "subject": "Eric Holder",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Simmie Knox",
+                "sentiment": "POS",
+                "object": "Eric Holder",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Eric Holder",
+                "sentiment": "POS",
+                "object": "United States Department of Justice",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Eric Holder",
+                "sentiment": "NEG",
+                "object": "Supreme Court of the United States",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Supreme Court of the United States",
+                "sentiment": "NEG",
+                "object": "Voting Rights Act of 1965",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Eric Holder",
+                "sentiment": "POS",
+                "object": "Voting Rights Act of 1965",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "Eric Holder",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Eric Holder",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Eric Holder",
+                "sentiment": "POS",
+                "object": "Bill Clinton",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Bill Clinton",
+                "sentiment": "POS",
+                "object": "Eric Holder",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Eric Holder",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Eric Holder",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "Eric Holder",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Eric Holder",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "46": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Lindsey Graham",
+                "sentiment": "NEG",
+                "object": "Eric Holder",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "47": [
+            {
+                "id": 0,
+                "subject": "Lindsey Graham",
+                "sentiment": "NEG",
+                "object": "Eric Holder",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "58": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "POS",
+                "object": "Eric Holder",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "55": [
+            {
+                "id": 0,
+                "subject": "United States Senate",
+                "sentiment": "NEG",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Eric Holder": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Simmie Knox": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Voting Rights Act of 1965": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Supreme Court of the United States": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Bill Clinton": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Lindsey Graham": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Loretta Lynch": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Eric Holder": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Simmie Knox": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Voting Rights Act of 1965": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Supreme Court of the United States": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Bill Clinton": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Lindsey Graham": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Loretta Lynch": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

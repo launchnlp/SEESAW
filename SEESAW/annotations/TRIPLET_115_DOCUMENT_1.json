@@ -1,0 +1,287 @@
+{
+    "title": "\u2018Nationalist\u2019: A president takes a mantle, then shows he means it",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "\u201cnationalist\u201d",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "globalists",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "3": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "\u201cnationalist\u201d",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "\u201cnationalist\u201d",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "\u201cnationalist\u201d",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "\u201cnationalist\u201d",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "\u201cnationalist\u201d",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "50": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "\u201cnationalist\u201d",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "51": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "\u201cnationalist\u201d",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "52": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "\u201cnationalist\u201d",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "59": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "\u201cnationalist\u201d",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "60": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "\u201cnationalist\u201d",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "64": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "\u201cnationalist\u201d",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "67": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "71": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "globalists",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "72": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "globalists",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "78": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "\u201cnationalist\u201d",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "80": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "\u201cnationalist\u201d",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "82": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "\u201cnationalist\u201d": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "globalists": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "\u201cnationalist\u201d": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "globalists": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

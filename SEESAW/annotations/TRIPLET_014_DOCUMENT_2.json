@@ -1,0 +1,684 @@
+{
+    "title": "Surprise: Hillary Clinton Went Around Federal Law, Used Her Personal Email Account For Official Business as Secretary of State",
+    "entity lists": [
+        [
+            "United States Department of State",
+            [
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "D"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Obama administration",
+            [
+                "Organization",
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Lanny A. Breuer",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Janet Napolitano",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Lois Lerner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Tom Perez",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "United States Environmental Protection Agency",
+            [
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "D"
+            ]
+        ],
+        [
+            "National Archives and Records Administration officials and government watchdogs",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "email",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "IRS officials caught up in the targeting of conservatives",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "3": [
+            {
+                "id": 0,
+                "subject": "United States Department of State",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "National Archives and Records Administration officials and government watchdogs",
+                "sentiment": "NEG",
+                "object": "email",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "National Archives and Records Administration officials and government watchdogs",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Obama administration",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Obama administration",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Lanny A. Breuer",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Lanny A. Breuer",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Janet Napolitano",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Janet Napolitano",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "IRS officials caught up in the targeting of conservatives",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Tom Perez",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Tom Perez",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "United States Environmental Protection Agency",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "United States Environmental Protection Agency",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B",
+                    "C",
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "United States Department of State",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Hillary Clinton": [
+            [
+                "Very Negative",
+                "B"
+            ],
+            [
+                "Very Negative",
+                "C"
+            ],
+            [
+                "Negative",
+                "A"
+            ],
+            [
+                "Very Negative",
+                "D"
+            ]
+        ],
+        "Lanny A. Breuer": [
+            [
+                "Negative",
+                "B"
+            ],
+            [
+                "Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Obama administration": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Janet Napolitano": [
+            [
+                "Negative",
+                "B"
+            ],
+            [
+                "Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Lois Lerner": [
+            [
+                "Negative",
+                "B"
+            ]
+        ],
+        "Tom Perez": [
+            [
+                "Negative",
+                "B"
+            ],
+            [
+                "Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "United States Environmental Protection Agency": [
+            [
+                "Negative",
+                "B"
+            ],
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "United States Department of State": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "National Archives and Records Administration officials and government watchdogs": [
+            [
+                "Positive",
+                "C"
+            ]
+        ],
+        "email": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "IRS officials caught up in the targeting of conservatives": [
+            [
+                "Negative",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Hillary Clinton": [
+            [
+                "Very Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Lanny A. Breuer": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Obama administration": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Janet Napolitano": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Lois Lerner": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Tom Perez": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "United States Environmental Protection Agency": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "United States Department of State": [
+            [
+                "Moderate",
+                "B"
+            ],
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "National Archives and Records Administration officials and government watchdogs": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "email": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "IRS officials caught up in the targeting of conservatives": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Very Conservative",
+            "annotator": "B"
+        },
+        {
+            "ideology": "Very Conservative",
+            "annotator": "C"
+        },
+        {
+            "ideology": "Conservative",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Very Conservative",
+            "annotator": "D"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/us-strikes-cyberattack-irans-military-computers",
+    "story_title": "US Strikes Cyberattack on Iran's Military Computers",
+    "story_time": "2019-06-23",
+    "story_topic": "national_defense",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2019/jun/23/us-cyberattack-strikes-iran-military-computers/",
+        "title": "U.S. cyberattack strikes Iran's military computers",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/world-us-canada-48735097",
+        "title": "US 'launched cyber-attack on Iran weapons systems'",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/2019/06/22/politics/iran-sanctions-us-trump-camp-david/index.html",
+        "title": "Trump says US moving forward on additional sanctions on Iran, willing to help 'make Iran great again'",
+        "bias_label": 0
+    },
+    "triplet_id": "072"
+}

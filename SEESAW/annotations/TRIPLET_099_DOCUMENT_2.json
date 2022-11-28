@@ -1,0 +1,131 @@
+{
+    "title": "BREAKING: Jared Kushner's Security Clearance Has Been Downgraded, Along With Other White House Staffers",
+    "entity lists": [
+        [
+            "Jared Kushner",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "John F. Kelly",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Jared Kushner",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "John F. Kelly",
+                "sentiment": "POS",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Jared Kushner": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "John F. Kelly": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Jared Kushner": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "John F. Kelly": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

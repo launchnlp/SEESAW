@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/obama-poverty-summit",
+    "story_title": "Obama at Poverty Summit",
+    "story_time": "2015-05-12",
+    "story_topic": "economic_policy",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2015/may/12/obama-target-lack-opportunity-poverty-summit/",
+        "title": "Obama to target lack of opportunity at poverty summit",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "http://www.cnn.com/2015/05/12/politics/obama-combat-poverty-baltimore/index.html",
+        "title": "Obama draws line between racial segregation of the past and class segregation today",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "New York Times (News)",
+        "url": "http://www.nytimes.com/2015/05/13/us/obama-race-poverty-georgetown-university.html",
+        "title": "Conference Gives Obama Opportunity to Discuss Poverty and Race",
+        "bias_label": 1
+    },
+    "triplet_id": "036"
+}

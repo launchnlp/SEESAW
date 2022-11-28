@@ -1,0 +1,293 @@
+{
+    "title": "Heather Nauert withdraws from consideration for U.N. post",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Heather Nauert",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Mike Pompeo",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Heather Nauert",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Heather Nauert",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Heather Nauert",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Heather Nauert",
+                "annotators": [
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Heather Nauert",
+                "sentiment": "POS",
+                "object": "Mike Pompeo",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Heather Nauert",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Heather Nauert",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Mike Pompeo",
+                "sentiment": "POS",
+                "object": "Heather Nauert",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Heather Nauert": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Slightly Positive",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Mike Pompeo": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Heather Nauert": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Very Conservative",
+                "D"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Mike Pompeo": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "B"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "D"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "E"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "title": "10 Senators Say They Agree On Infrastructure 'Framework' \u2014 But There Are Few Details",
+    "entity lists": [
+        [
+            "\"framework\" for a deal on an infrastructure package",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "\"framework\" for a deal on an infrastructure package",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "\"framework\" for a deal on an infrastructure package",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "\"framework\" for a deal on an infrastructure package": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "\"framework\" for a deal on an infrastructure package": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Very Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        }
+    ]
+}

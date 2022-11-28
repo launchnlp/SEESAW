@@ -1,0 +1,322 @@
+{
+    "title": "NRA's LaPierre slams Obama administration over gun proposals",
+    "entity lists": [
+        [
+            "gun proposals",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Wayne LaPierre",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Second Amendment to the United States Constitution",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "United States Department of Homeland Security",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "gun proposals",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Wayne LaPierre",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Wayne LaPierre",
+                "sentiment": "POS",
+                "object": "Second Amendment to the United States Constitution",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Wayne LaPierre",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Wayne LaPierre",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Wayne LaPierre",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Wayne LaPierre",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Wayne LaPierre",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Wayne LaPierre",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Wayne LaPierre",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Wayne LaPierre",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Wayne LaPierre",
+                "sentiment": "NEG",
+                "object": "United States Department of Homeland Security",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Wayne LaPierre",
+                "sentiment": "NEG",
+                "object": "United States Department of Homeland Security",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Wayne LaPierre",
+                "sentiment": "NEG",
+                "object": "United States Department of Homeland Security",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Wayne LaPierre",
+                "sentiment": "NEG",
+                "object": "United States Department of Homeland Security",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "gun proposals": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Wayne LaPierre": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Second Amendment to the United States Constitution": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "United States Department of Homeland Security": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "gun proposals": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "Wayne LaPierre": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Second Amendment to the United States Constitution": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "United States Department of Homeland Security": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "B"
+        }
+    ]
+}

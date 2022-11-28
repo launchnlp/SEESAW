@@ -1,0 +1,389 @@
+{
+    "title": "Hillary Clinton blasts Benghazi panel as \u2018partisan arm of the Republican National Committee\u2019",
+    "entity lists": [
+        [
+            "Trey Gowdy",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "House Select Committee on Benghazi",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Kevin McCarthy",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Huma Abedin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "House Democrats",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Elijah Cummings",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "POS",
+                "object": "House Select Committee on Benghazi",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Hillary Clinton",
+                "sentiment": "NEG",
+                "object": "House Select Committee on Benghazi",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "House Select Committee on Benghazi",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Hillary Clinton",
+                "sentiment": "NEG",
+                "object": "House Select Committee on Benghazi",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "House Select Committee on Benghazi",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Kevin McCarthy",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Kevin McCarthy",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "House Select Committee on Benghazi",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Huma Abedin",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Huma Abedin",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Huma Abedin",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Huma Abedin",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "House Democrats",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "House Democrats",
+                "sentiment": "POS",
+                "object": "Huma Abedin",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "House Democrats",
+                "sentiment": "NEG",
+                "object": "House Select Committee on Benghazi",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "NEG",
+                "object": "House Select Committee on Benghazi",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Hillary Clinton": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "House Select Committee on Benghazi": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Trey Gowdy": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Kevin McCarthy": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Huma Abedin": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "House Democrats": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "House Select Committee on Benghazi": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Trey Gowdy": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Kevin McCarthy": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Huma Abedin": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "House Democrats": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "A"
+        }
+    ]
+}

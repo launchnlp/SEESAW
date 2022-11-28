@@ -1,0 +1,448 @@
+{
+    "title": "Trump retreats from public view as government shutdown continues over border wall fight",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "border wall funding",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "government shutdown",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "closing the border",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "border wall funding",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "border wall funding",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "border wall funding",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "government shutdown",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "government shutdown",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "border wall funding",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "government shutdown",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "border wall funding",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "closing the border",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "border wall funding",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "closing the border",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "border wall funding",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "government shutdown",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "border wall funding": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "government shutdown": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "closing the border": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "border wall funding": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "government shutdown": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "closing the border": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "C"
+        }
+    ]
+}

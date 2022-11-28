@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/president-trump-finds-fault-lack-border-wall-spending",
+    "story_title": "President Trump Finds Fault With Lack Of Border Wall Spending",
+    "story_time": "2018-09-20",
+    "story_topic": "national_security",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/politics/trump-complains-about-lack-of-funding-for-border-wall-in-ridiculous-spending-bill/2018/09/20/dcfa7e60-bcbb-11e8-8792-78719177250f_story.html?utm_term=.9647334bd102",
+        "title": "Trump complains about lack of funding for border wall in \u2018ridiculous\u2019 spending bill",
+        "bias_label": 1
+    },
+    "Meta info for article 0": {
+        "source": "Reuters",
+        "url": "https://www.reuters.com/article/us-usa-budget/trump-urges-republicans-to-get-tough-on-border-wall-spending-idUSKCN1M01SO",
+        "title": "Trump urges Republicans to 'get tough' on border wall spending",
+        "bias_label": 2
+    },
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2018/sep/20/donald-trump-finds-fault-with-latest-spending-bill/",
+        "title": "Trump finds fault with latest spending bill: Where's the border wall funding?",
+        "bias_label": 4
+    },
+    "triplet_id": "122"
+}

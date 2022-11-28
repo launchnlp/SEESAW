@@ -1,0 +1,528 @@
+{
+    "title": "Workers Fearful of the Coronavirus Are Getting Fired and Losing Their Benefits",
+    "entity lists": [
+        [
+            "return to work",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "unemployment benefit",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Oklahoma",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Ohio",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Labor advocates",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "union",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "alabama",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "South Carolina",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Tennessee",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Steven Mnuchin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "governor",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "5": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "unemployment benefit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Oklahoma",
+                "sentiment": "POS",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Ohio",
+                "sentiment": "POS",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Labor advocates",
+                "sentiment": "NEG",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "union",
+                "sentiment": "NEG",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "alabama",
+                "sentiment": "POS",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "South Carolina",
+                "sentiment": "POS",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Oklahoma",
+                "sentiment": "POS",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Tennessee",
+                "sentiment": "POS",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Steven Mnuchin",
+                "sentiment": "POS",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "governor",
+                "sentiment": "NEG",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "44": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "45": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "51": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "52": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "54": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "55": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "59": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "62": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "return to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "unemployment benefit": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "return to work": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Oklahoma": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Ohio": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Labor advocates": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "union": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "alabama": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "South Carolina": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Tennessee": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Steven Mnuchin": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "governor": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "unemployment benefit": [
+            [
+                "Moderate",
+                "A"
+            ]
+        ],
+        "return to work": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Oklahoma": [
+            [
+                "Slightly Conservative",
+                "A"
+            ]
+        ],
+        "Ohio": [
+            [
+                "Slightly Conservative",
+                "A"
+            ]
+        ],
+        "Labor advocates": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "union": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "alabama": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "South Carolina": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Tennessee": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Steven Mnuchin": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "governor": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

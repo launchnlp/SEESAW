@@ -1,0 +1,346 @@
+{
+    "title": "Official tells Congress Obamacare 'is working,' Republicans disagree",
+    "entity lists": [
+        [
+            "Obama administration",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Marilyn Tavenner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Affordable Care Act",
+            [
+                "Event",
+                "Event"
+            ],
+            [
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "B"
+            ]
+        ],
+        [
+            "Kevin Brady",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Allyson Schwartz",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Obama administration",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Marilyn Tavenner",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Marilyn Tavenner",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Marilyn Tavenner",
+                "sentiment": "POS",
+                "object": "Obama administration",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Kevin Brady",
+                "sentiment": "NEG",
+                "object": "Marilyn Tavenner",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Kevin Brady",
+                "sentiment": "NEG",
+                "object": "Obama administration",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Allyson Schwartz",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Marilyn Tavenner",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Marilyn Tavenner",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Affordable Care Act": [
+            [
+                "Unknown",
+                "B"
+            ],
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Obama administration": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Marilyn Tavenner": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Kevin Brady": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Allyson Schwartz": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Affordable Care Act": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Obama administration": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Marilyn Tavenner": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Kevin Brady": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Allyson Schwartz": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        }
+    ]
+}

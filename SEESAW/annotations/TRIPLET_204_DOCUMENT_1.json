@@ -1,0 +1,111 @@
+{
+    "title": "What it means to take 'The Fifth'",
+    "entity lists": [
+        [
+            "Lois Lerner",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "tea party and other conservative organizations",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Lois Lerner",
+                "sentiment": "NEG",
+                "object": "tea party and other conservative organizations",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Lois Lerner": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "tea party and other conservative organizations": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Lois Lerner": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "tea party and other conservative organizations": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "D"
+        }
+    ]
+}

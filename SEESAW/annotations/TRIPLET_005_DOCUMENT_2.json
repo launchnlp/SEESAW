@@ -1,0 +1,703 @@
+{
+    "title": "Obama To Unveil Plan To Bring Overtime Pay To 5 Million More Workers",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main"
+            ],
+            [
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "plan to extend overtime pay to 5 million American workers",
+            [
+                "Event",
+                "Event"
+            ],
+            [
+                "Main",
+                "Main"
+            ],
+            [
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "current rules",
+            [
+                "Others",
+                "Event"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "hard work",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "worker",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "progressive",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "employer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "American workers who are currently excluded under federal law",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "business lobby",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Democratic lawmakers",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "plan to extend overtime pay to 5 million American workers",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "plan to extend overtime pay to 5 million American workers",
+                "sentiment": "POS",
+                "object": "American workers who are currently excluded under federal law",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "plan to extend overtime pay to 5 million American workers",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "American workers who are currently excluded under federal law",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "plan to extend overtime pay to 5 million American workers",
+                "sentiment": "POS",
+                "object": "American workers who are currently excluded under federal law",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "current rules",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "plan to extend overtime pay to 5 million American workers",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "hard work",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "current rules",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "plan to extend overtime pay to 5 million American workers",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "hard work",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "hard work",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "progressive",
+                "sentiment": "POS",
+                "object": "plan to extend overtime pay to 5 million American workers",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "plan to extend overtime pay to 5 million American workers",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "plan to extend overtime pay to 5 million American workers",
+                "sentiment": "NEG",
+                "object": "employer",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "plan to extend overtime pay to 5 million American workers",
+                "sentiment": "POS",
+                "object": "American workers who are currently excluded under federal law",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "plan to extend overtime pay to 5 million American workers",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "current rules",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "progressive",
+                "sentiment": "POS",
+                "object": "plan to extend overtime pay to 5 million American workers",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "progressive",
+                "sentiment": "NEG",
+                "object": "current rules",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Democratic lawmakers",
+                "sentiment": "POS",
+                "object": "plan to extend overtime pay to 5 million American workers",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "plan to extend overtime pay to 5 million American workers",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "employer",
+                "sentiment": "NEG",
+                "object": "plan to extend overtime pay to 5 million American workers",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "employer",
+                "sentiment": "POS",
+                "object": "current rules",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "business lobby",
+                "sentiment": "NEG",
+                "object": "plan to extend overtime pay to 5 million American workers",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "plan to extend overtime pay to 5 million American workers",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "current rules",
+                "sentiment": "POS",
+                "object": "employer",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "current rules",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "current rules",
+                "sentiment": "NEG",
+                "object": "American workers who are currently excluded under federal law",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "current rules",
+                "sentiment": "NEG",
+                "object": "worker",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "plan to extend overtime pay to 5 million American workers",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "business lobby",
+                "sentiment": "NEG",
+                "object": "plan to extend overtime pay to 5 million American workers",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "current rules",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "current rules",
+                "sentiment": "NEG",
+                "object": "American workers who are currently excluded under federal law",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "current rules",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Slightly Positive",
+                "C"
+            ],
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "plan to extend overtime pay to 5 million American workers": [
+            [
+                "Slightly Positive",
+                "C"
+            ],
+            [
+                "Positive",
+                "D"
+            ]
+        ],
+        "worker": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "current rules": [
+            [
+                "Slightly Negative",
+                "C"
+            ],
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "hard work": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "progressive": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "employer": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "business lobby": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Democratic lawmakers": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "American workers who are currently excluded under federal law": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "plan to extend overtime pay to 5 million American workers": [
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "worker": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "current rules": [
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "hard work": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "progressive": [
+            [
+                "Very Liberal",
+                "C"
+            ]
+        ],
+        "employer": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "business lobby": [
+            [
+                "Slightly Conservative",
+                "D"
+            ]
+        ],
+        "Democratic lawmakers": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "American workers who are currently excluded under federal law": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "C"
+        },
+        {
+            "ideology": "Liberal",
+            "annotator": "D"
+        }
+    ]
+}

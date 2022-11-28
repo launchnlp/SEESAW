@@ -1,0 +1,357 @@
+{
+    "title": "Sessions Targets California Immigrants Using a Ruling That Protected Them",
+    "entity lists": [
+        [
+            "Jeff Sessions",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "California",
+            [
+                "GPE"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "undocumented immigrants",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Steve Vladeck",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Xavier Becerra",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "United States Department of Justice",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "sanctuary law",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Jerry Brown",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Jeff Sessions",
+                "sentiment": "NEG",
+                "object": "California",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jeff Sessions",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Jeff Sessions",
+                "sentiment": "NEG",
+                "object": "California",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Steve Vladeck",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Xavier Becerra",
+                "sentiment": "POS",
+                "object": "California",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Xavier Becerra",
+                "sentiment": "POS",
+                "object": "California",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Xavier Becerra",
+                "sentiment": "POS",
+                "object": "California",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Xavier Becerra",
+                "sentiment": "NEG",
+                "object": "Jeff Sessions",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "NEG",
+                "object": "sanctuary law",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States Department of Justice",
+                "sentiment": "NEG",
+                "object": "California",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "California",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "Jerry Brown",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jerry Brown",
+                "sentiment": "POS",
+                "object": "California",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "44": [
+            {
+                "id": 0,
+                "subject": "Jeff Sessions",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Jeff Sessions": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "California": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "undocumented immigrants": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Steve Vladeck": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Xavier Becerra": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "sanctuary law": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Jerry Brown": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Jeff Sessions": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "California": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "undocumented immigrants": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "Steve Vladeck": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "Xavier Becerra": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "sanctuary law": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Jerry Brown": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "B"
+        }
+    ]
+}

@@ -1,0 +1,846 @@
+{
+    "title": "Ex-FBI Director Andrew McCabe Loses Appeal to Avoid Criminal Charges",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Andrew McCabe",
+            [
+                "People",
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "United States Department of Justice",
+            [
+                "Organization",
+                "Organization",
+                "Organization",
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "James Comey",
+            [
+                "People",
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Terry McAuliffe",
+            [
+                "People",
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People",
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "deputy attorney general",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Andrew McCabe",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States Department of Justice",
+                "sentiment": "NEG",
+                "object": "Andrew McCabe",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Andrew McCabe",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Andrew McCabe",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Andrew McCabe",
+                "annotators": [
+                    "B",
+                    "A",
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Andrew McCabe",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Andrew McCabe",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Andrew McCabe",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Andrew McCabe",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Andrew McCabe",
+                "sentiment": "NEG",
+                "object": "United States Department of Justice",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States Department of Justice",
+                "sentiment": "NEG",
+                "object": "Andrew McCabe",
+                "annotators": [
+                    "C",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Andrew McCabe",
+                "annotators": [
+                    "B",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "deputy attorney general",
+                "sentiment": "NEG",
+                "object": "Andrew McCabe",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "James Comey",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Andrew McCabe",
+                "sentiment": "NEG",
+                "object": "United States Department of Justice",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Andrew McCabe",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "United States Department of Justice",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Andrew McCabe",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Andrew McCabe",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Andrew McCabe",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Andrew McCabe",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Terry McAuliffe",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Terry McAuliffe",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Andrew McCabe",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Terry McAuliffe",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "Hillary Clinton",
+                "sentiment": "POS",
+                "object": "Terry McAuliffe",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 6,
+                "subject": "Terry McAuliffe",
+                "sentiment": "POS",
+                "object": "Andrew McCabe",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 7,
+                "subject": "Hillary Clinton",
+                "sentiment": "POS",
+                "object": "Andrew McCabe",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States Department of Justice",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Hillary Clinton",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Andrew McCabe": [
+            [
+                "Slightly Positive",
+                "B"
+            ],
+            [
+                "Negative",
+                "C"
+            ],
+            [
+                "Slightly Positive",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "D"
+            ],
+            [
+                "Positive",
+                "E"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Slightly Positive",
+                "C"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "D"
+            ],
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "D"
+            ],
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "James Comey": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Terry McAuliffe": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Slightly Negative",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Slightly Negative",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "deputy attorney general": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Andrew McCabe": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Slightly Liberal",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Slightly Conservative",
+                "D"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Very Conservative",
+                "D"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Moderate",
+                "C"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "James Comey": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Moderate",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Moderate",
+                "D"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Terry McAuliffe": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Very Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "deputy attorney general": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "B"
+        },
+        {
+            "ideology": "Conservative",
+            "annotator": "C"
+        },
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "D"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "E"
+        }
+    ]
+}

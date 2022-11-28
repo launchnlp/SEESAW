@@ -1,0 +1,327 @@
+{
+    "title": "Reports: Kushner Security Clearance Downgraded Following White House Scandal",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jared Kushner",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "foreign officials",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "John F. Kelly",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Richard Blumenthal",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "foreign officials",
+                "sentiment": "NEG",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "John F. Kelly",
+                "sentiment": "NEG",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jared Kushner",
+                "sentiment": "NEG",
+                "object": "John F. Kelly",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "John F. Kelly",
+                "sentiment": "NEG",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jared Kushner",
+                "sentiment": "NEG",
+                "object": "John F. Kelly",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "John F. Kelly",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "John F. Kelly",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "John F. Kelly",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "John F. Kelly",
+                "sentiment": "POS",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Richard Blumenthal",
+                "sentiment": "NEG",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Richard Blumenthal",
+                "sentiment": "NEG",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Richard Blumenthal",
+                "sentiment": "NEG",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Richard Blumenthal",
+                "sentiment": "NEG",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Jared Kushner": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "John F. Kelly": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "foreign officials": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Richard Blumenthal": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Jared Kushner": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "John F. Kelly": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Richard Blumenthal": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

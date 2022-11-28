@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/kushenr-loses-security-clearance",
+    "story_title": "Kushner's Top Secret Security Clearance Downgraded",
+    "story_time": "2018-02-27",
+    "story_topic": "white_house",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "Townhall",
+        "url": "https://townhall.com/tipsheet/katiepavlich/2018/02/27/breaking-kushner-loses-security-clearance-n2455153",
+        "title": "BREAKING: Jared Kushner's Security Clearance Has Been Downgraded, Along With Other White House Staffers",
+        "bias_label": 3
+    },
+    "Meta info for article 1": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2018/02/27/589280327/reports-kushner-security-clearance-downgraded-following-white-house-scandal",
+        "title": "Reports: Kushner Security Clearance Downgraded Following White House Scandal",
+        "bias_label": 2
+    },
+    "Meta info for article 0": {
+        "source": "Politico",
+        "url": "https://www.politico.com/story/2018/02/27/jared-kushner-security-clearance-downgrade-427178",
+        "title": "Kushner loses access to top-secret intelligence",
+        "bias_label": 1
+    },
+    "triplet_id": "099"
+}

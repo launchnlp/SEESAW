@@ -1,0 +1,404 @@
+{
+    "title": "Eric Holder Declares More Rights for Same-Sex Married Couples in Eyes of U.S. Justice Department",
+    "entity lists": [
+        [
+            "Eric Holder",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "lesbian, gay, bisexual and transgender equal rights",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "married same-sex couples",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Supreme Court ruling",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Human Rights Campaign",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Robert F. Kennedy",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United States Department of Justice",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United States Department of Defense",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Eric Holder",
+                "sentiment": "POS",
+                "object": "lesbian, gay, bisexual and transgender equal rights",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Eric Holder",
+                "sentiment": "POS",
+                "object": "married same-sex couples",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Supreme Court ruling",
+                "sentiment": "POS",
+                "object": "married same-sex couples",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Eric Holder",
+                "sentiment": "POS",
+                "object": "Supreme Court ruling",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Eric Holder",
+                "sentiment": "POS",
+                "object": "married same-sex couples",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Human Rights Campaign",
+                "sentiment": "POS",
+                "object": "lesbian, gay, bisexual and transgender equal rights",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Eric Holder",
+                "sentiment": "POS",
+                "object": "married same-sex couples",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Eric Holder",
+                "sentiment": "POS",
+                "object": "Robert F. Kennedy",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Robert F. Kennedy",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "POS",
+                "object": "married same-sex couples",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Eric Holder",
+                "sentiment": "POS",
+                "object": "married same-sex couples",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "POS",
+                "object": "married same-sex couples",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Supreme Court ruling",
+                "sentiment": "POS",
+                "object": "married same-sex couples",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Eric Holder",
+                "sentiment": "POS",
+                "object": "Supreme Court ruling",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Supreme Court ruling",
+                "sentiment": "POS",
+                "object": "married same-sex couples",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "United States Department of Defense",
+                "sentiment": "POS",
+                "object": "married same-sex couples",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "POS",
+                "object": "married same-sex couples",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Eric Holder",
+                "sentiment": "POS",
+                "object": "married same-sex couples",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Eric Holder",
+                "sentiment": "POS",
+                "object": "married same-sex couples",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "married same-sex couples": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Eric Holder": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Supreme Court ruling": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Human Rights Campaign": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "lesbian, gay, bisexual and transgender equal rights": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "Robert F. Kennedy": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "United States Department of Defense": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "married same-sex couples": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Eric Holder": [
+            [
+                "Slightly Liberal",
+                "D"
+            ]
+        ],
+        "Supreme Court ruling": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "Human Rights Campaign": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "lesbian, gay, bisexual and transgender equal rights": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Robert F. Kennedy": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "United States Department of Defense": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "D"
+        }
+    ]
+}

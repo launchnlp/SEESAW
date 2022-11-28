@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/president-trump-compares-impeachment-inquiry-lynching",
+    "story_title": "President Trump Compares Impeachment Inquiry To 'Lynching'",
+    "story_time": "2019-10-22",
+    "story_topic": "politics",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2019/oct/22/trump-compares-impeachment-drive-lynching/",
+        "title": "Trump compares impeachment drive to 'lynching'",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2019/oct/22/trump-impeachment-inquiry-lynching-tweet",
+        "title": "Fury as Trump compares impeachment inquiry to 'lynching'",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2019/10/22/donald-trump-calls-impeachment-inquiry-lynching-attacks-democrats/4060850002/",
+        "title": "Trump slammed by lawmakers after he called impeachment inquiry a 'lynching'",
+        "bias_label": 1
+    },
+    "triplet_id": "061"
+}

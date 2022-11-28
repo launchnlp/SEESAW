@@ -1,0 +1,665 @@
+{
+    "title": "Trump seems to make light of reports that Baltimore home of Cummings was burglarized",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Elijah Cummings",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "nikky haley",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Kellyanne Conway",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Mike Pence",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Adam Kinzinger",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Steny Hoyer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "zac petkanas",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "David Frum",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Hogan Gidley",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Elijah Cummings",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Elijah Cummings",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Elijah Cummings",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Elijah Cummings",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "nikky haley",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "nikky haley",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "nikky haley",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Kellyanne Conway",
+                "sentiment": "NEG",
+                "object": "nikky haley",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Kellyanne Conway",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Kellyanne Conway",
+                "sentiment": "POS",
+                "object": "Mike Pence",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Kellyanne Conway",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Adam Kinzinger",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Adam Kinzinger",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Adam Kinzinger",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Steny Hoyer",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Steny Hoyer",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Elijah Cummings",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Elijah Cummings",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Elijah Cummings",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Elijah Cummings",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "40": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "41": [
+            {
+                "id": 0,
+                "subject": "zac petkanas",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "43": [
+            {
+                "id": 0,
+                "subject": "zac petkanas",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "46": [
+            {
+                "id": 0,
+                "subject": "David Frum",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "48": [
+            {
+                "id": 0,
+                "subject": "nikky haley",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "49": [
+            {
+                "id": 0,
+                "subject": "nikky haley",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "50": [
+            {
+                "id": 0,
+                "subject": "nikky haley",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "51": [
+            {
+                "id": 0,
+                "subject": "Hogan Gidley",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Hogan Gidley",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "53": [
+            {
+                "id": 0,
+                "subject": "Hogan Gidley",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Hogan Gidley",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "54": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "52": [
+            {
+                "id": 0,
+                "subject": "Hogan Gidley",
+                "sentiment": "NEG",
+                "object": "Elijah Cummings",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "nikky haley": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Kellyanne Conway": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Mike Pence": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Adam Kinzinger": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Steny Hoyer": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "zac petkanas": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "David Frum": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Hogan Gidley": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "nikky haley": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Kellyanne Conway": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Mike Pence": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Adam Kinzinger": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Steny Hoyer": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "zac petkanas": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "David Frum": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Hogan Gidley": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

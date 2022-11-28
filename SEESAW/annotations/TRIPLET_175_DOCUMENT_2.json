@@ -1,0 +1,87 @@
+{
+    "title": "Biden: 'Shylocks' comment a 'poor choice of words'",
+    "entity lists": [
+        [
+            "Shylocks",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Shylocks",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Shylocks": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Shylocks": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

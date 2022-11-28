@@ -1,0 +1,410 @@
+{
+    "title": "Obama On Loretta Lynch: 'You Don't Hold Attorney General Nominees Hostage'",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Senate Republicans",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Loretta Lynch",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "human trafficking legislation",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Dick Durbin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Rudy Giuliani",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Senate Republicans",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mitch McConnell",
+                "sentiment": "POS",
+                "object": "human trafficking legislation",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "human trafficking legislation",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Democratic Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Dick Durbin",
+                "sentiment": "NEG",
+                "object": "Senate Republicans",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Dick Durbin",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Dick Durbin",
+                "sentiment": "NEG",
+                "object": "Senate Republicans",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Senate Republicans",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Senate Republicans",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Loretta Lynch",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Rudy Giuliani",
+                "sentiment": "NEG",
+                "object": "Senate Republicans",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Rudy Giuliani",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Loretta Lynch": [
+            [
+                "Very Positive",
+                "A"
+            ]
+        ],
+        "Senate Republicans": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "human trafficking legislation": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Dick Durbin": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Rudy Giuliani": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Loretta Lynch": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Senate Republicans": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "human trafficking legislation": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Dick Durbin": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Rudy Giuliani": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

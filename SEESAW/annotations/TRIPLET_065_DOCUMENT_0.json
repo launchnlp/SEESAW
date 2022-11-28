@@ -1,0 +1,671 @@
+{
+    "title": "Pentagon Chief Fires Navy Secretary Over SEAL Controversy",
+    "entity lists": [
+        [
+            "Mark Esper",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Richard V. Spencer",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Eddie Gallagher",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Navy",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "White House",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Chuck Schumer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jim Inhofe",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Kenneth Braithwaite",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Mark Esper",
+                "sentiment": "NEG",
+                "object": "Richard V. Spencer",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Mark Esper",
+                "sentiment": "NEG",
+                "object": "Richard V. Spencer",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Richard V. Spencer",
+                "sentiment": "NEG",
+                "object": "Mark Esper",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Eddie Gallagher",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Eddie Gallagher",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "United States Navy",
+                "sentiment": "NEG",
+                "object": "Eddie Gallagher",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "United States Navy",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Eddie Gallagher",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "White House",
+                "sentiment": "POS",
+                "object": "United States Navy",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "United States Navy",
+                "sentiment": "NEG",
+                "object": "Eddie Gallagher",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Richard V. Spencer",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Richard V. Spencer",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Mark Esper",
+                "sentiment": "NEG",
+                "object": "Richard V. Spencer",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Mark Esper",
+                "sentiment": "POS",
+                "object": "Eddie Gallagher",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Mark Esper",
+                "sentiment": "POS",
+                "object": "Eddie Gallagher",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Richard V. Spencer",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Richard V. Spencer",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Richard V. Spencer",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Richard V. Spencer",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Mark Esper",
+                "sentiment": "POS",
+                "object": "Eddie Gallagher",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Mark Esper",
+                "sentiment": "POS",
+                "object": "Eddie Gallagher",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Mark Esper",
+                "sentiment": "NEG",
+                "object": "Richard V. Spencer",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Mark Esper",
+                "sentiment": "NEG",
+                "object": "Richard V. Spencer",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Eddie Gallagher",
+                "sentiment": "NEG",
+                "object": "United States Navy",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Eddie Gallagher",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Eddie Gallagher",
+                "sentiment": "NEG",
+                "object": "United States Navy",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "United States Navy",
+                "sentiment": "NEG",
+                "object": "Eddie Gallagher",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "Mark Esper",
+                "sentiment": "POS",
+                "object": "Eddie Gallagher",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "40": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "United States Navy",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "42": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "POS",
+                "object": "Richard V. Spencer",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "43": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "POS",
+                "object": "Richard V. Spencer",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "44": [
+            {
+                "id": 0,
+                "subject": "Jim Inhofe",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jim Inhofe",
+                "sentiment": "POS",
+                "object": "Mark Esper",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "45": [
+            {
+                "id": 0,
+                "subject": "Jim Inhofe",
+                "sentiment": "NEG",
+                "object": "Richard V. Spencer",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Richard V. Spencer",
+                "sentiment": "NEG",
+                "object": "Jim Inhofe",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "46": [
+            {
+                "id": 0,
+                "subject": "Richard V. Spencer",
+                "sentiment": "POS",
+                "object": "Kenneth Braithwaite",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "47": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Kenneth Braithwaite",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Mark Esper": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Richard V. Spencer": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Eddie Gallagher": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "United States Navy": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Jim Inhofe": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Kenneth Braithwaite": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "White House": [
+            [
+                "Unknown",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Mark Esper": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Richard V. Spencer": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Eddie Gallagher": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "United States Navy": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Jim Inhofe": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Kenneth Braithwaite": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "White House": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

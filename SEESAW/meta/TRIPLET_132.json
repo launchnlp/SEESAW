@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/sanders-apparent-winner-nevada",
+    "story_title": "Sanders Apparent Winner in Nevada",
+    "story_time": "2020-02-22",
+    "story_topic": "elections",
+    "Split": "test",
+    "Meta info for article 0": {
+        "source": "TheBlaze.com",
+        "url": "https://www.theblaze.com/news/bernie-sanders-wins-nevada-caucuses-cementing-his-status-as-democratic-frontrunner",
+        "title": "Bernie Sanders wins Nevada caucuses, cementing his status as Democratic frontrunner",
+        "bias_label": 3
+    },
+    "Meta info for article 1": {
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2020/02/22/nevada-caucuses-biden-sanders-116719",
+        "title": "Bernie wins again",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/world-us-canada-51601813",
+        "title": "Bernie Sanders cements front-runner status with Nevada caucuses win",
+        "bias_label": 2
+    },
+    "triplet_id": "132"
+}

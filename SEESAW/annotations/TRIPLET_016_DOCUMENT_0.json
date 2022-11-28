@@ -1,0 +1,862 @@
+{
+    "title": "At 2016 Iowa summit, some fresh GOP faces \u2014 finally",
+    "entity lists": [
+        [
+            "Mitt Romney",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "conservatives",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Scott Walker",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "government",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "liberals",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Ben Carson",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Affordable Care Act",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Carly Fiorina",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Sarah Palin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Ted Cruz",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "bible",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Iowa",
+            [
+                "GPE"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Chris Christie",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jeb Bush",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Rick Santorum",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Mike Huckabee",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Rick Perry",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "4": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Mitt Romney",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "conservatives",
+                "sentiment": "POS",
+                "object": "Scott Walker",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Scott Walker",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Scott Walker",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Scott Walker",
+                "sentiment": "NEG",
+                "object": "government",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "liberals",
+                "sentiment": "NEG",
+                "object": "Scott Walker",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Scott Walker",
+                "sentiment": "NEG",
+                "object": "government",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "conservatives",
+                "sentiment": "NEG",
+                "object": "government",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "conservatives",
+                "sentiment": "POS",
+                "object": "Scott Walker",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Ben Carson",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Ben Carson",
+                "sentiment": "NEG",
+                "object": "government",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "conservatives",
+                "sentiment": "POS",
+                "object": "Ben Carson",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "conservatives",
+                "sentiment": "NEG",
+                "object": "government",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Carly Fiorina",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Carly Fiorina",
+                "sentiment": "NEG",
+                "object": "government",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Carly Fiorina",
+                "sentiment": "NEG",
+                "object": "government",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Sarah Palin",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "Ted Cruz",
+                "sentiment": "POS",
+                "object": "bible",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "Iowa",
+                "sentiment": "POS",
+                "object": "bible",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "40": [
+            {
+                "id": 0,
+                "subject": "Iowa",
+                "sentiment": "POS",
+                "object": "Chris Christie",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "41": [
+            {
+                "id": 0,
+                "subject": "Iowa",
+                "sentiment": "POS",
+                "object": "Chris Christie",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "46": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Iowa",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "47": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Mitt Romney",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Iowa",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "48": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "49": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Iowa",
+                "sentiment": "NEG",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Iowa",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "51": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Rick Santorum",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Mike Huckabee",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Rick Perry",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Sarah Palin",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Iowa": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Mitt Romney": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Rick Santorum": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Mike Huckabee": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Rick Perry": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Sarah Palin": [
+            [
+                "Very Negative",
+                "A"
+            ]
+        ],
+        "Scott Walker": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "liberals": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "government": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Ben Carson": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Very Negative",
+                "A"
+            ]
+        ],
+        "Carly Fiorina": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Very Negative",
+                "A"
+            ]
+        ],
+        "Ted Cruz": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Chris Christie": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Affordable Care Act": [
+            [
+                "Very Negative",
+                "A"
+            ]
+        ],
+        "Jeb Bush": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "conservatives": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "bible": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Iowa": [
+            [
+                "Very Conservative",
+                "A"
+            ]
+        ],
+        "Mitt Romney": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Rick Santorum": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Mike Huckabee": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Rick Perry": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Sarah Palin": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Scott Walker": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "liberals": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "government": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Ben Carson": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Carly Fiorina": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Ted Cruz": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Chris Christie": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Affordable Care Act": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Jeb Bush": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "conservatives": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "bible": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "A"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/gop-senators-clash-trump-over-tariffs-mexico",
+    "story_title": "GOP Senators Clash With Trump Over Tariffs On Mexico",
+    "story_time": "2019-06-05",
+    "story_topic": "us_senate",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/world-us-canada-48525048",
+        "title": "Republicans clash with Trump over Mexico tariffs",
+        "bias_label": 2
+    },
+    "Meta info for article 1": {
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/trump-tariffs-mexico-gop_n_5cf6c066e4b0a1997b72a907",
+        "title": "Republicans Are Angry About Trump\u2019s Tariffs. Will They Do Anything About It?",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "Newsmax (News)",
+        "url": "https://www.newsmax.com/politics/mexico-tariff-trump-republican/2019/06/04/id/918934/",
+        "title": "Republican Senators Warn Trump Mexico Tariff Gambit May Not Have Support",
+        "bias_label": 4
+    },
+    "triplet_id": "064"
+}

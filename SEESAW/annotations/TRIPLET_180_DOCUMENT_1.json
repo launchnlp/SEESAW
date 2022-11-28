@@ -1,0 +1,411 @@
+{
+    "title": "Same Sex Marriage: Stealing Heresy From God",
+    "entity lists": [
+        [
+            "homosexual activists",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "same sex marriage",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Liberals",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Andrew Sullivan",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "chai feldbaum",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "homosexual activists",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "homosexual activists",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "same sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "homosexual activists",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "same sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "same sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "same sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "homosexual activists",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "same sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "same sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Liberals",
+                "sentiment": "POS",
+                "object": "same sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "same sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "same sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "same sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Andrew Sullivan",
+                "sentiment": "NEG",
+                "object": "homosexual activists",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Andrew Sullivan",
+                "sentiment": "NEG",
+                "object": "homosexual activists",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Andrew Sullivan",
+                "sentiment": "NEG",
+                "object": "homosexual activists",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "same sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "chai feldbaum",
+                "sentiment": "POS",
+                "object": "same sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "chai feldbaum",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "chai feldbaum",
+                "sentiment": "POS",
+                "object": "same sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "same sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "53": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "same sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "homosexual activists",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "55": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "homosexual activists",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "57": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Liberals",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "same sex marriage": [
+            [
+                "Very Negative",
+                "C"
+            ]
+        ],
+        "homosexual activists": [
+            [
+                "Very Negative",
+                "C"
+            ]
+        ],
+        "Liberals": [
+            [
+                "Very Negative",
+                "C"
+            ]
+        ],
+        "Andrew Sullivan": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "chai feldbaum": [
+            [
+                "Negative",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "same sex marriage": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "homosexual activists": [
+            [
+                "Very Liberal",
+                "C"
+            ]
+        ],
+        "Liberals": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Andrew Sullivan": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "chai feldbaum": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Very Conservative",
+            "annotator": "C"
+        }
+    ]
+}

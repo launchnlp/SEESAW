@@ -1,0 +1,621 @@
+{
+    "title": "Obama On Debt Ceiling: 'We Are Not A Deadbeat Nation'",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "raising the debt ceiling",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "John Boehner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "spending cut",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United States",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "deficit",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "debt",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "bypass Congress on raising the debt ceiling",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "White House",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United States of America not paying our bills",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "raising the debt ceiling",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "raising the debt ceiling",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "raising the debt ceiling",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "spending cut",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "raising the debt ceiling",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "raising the debt ceiling",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "raising the debt ceiling",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "United States",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "raising the debt ceiling",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "United States of America not paying our bills",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "spending cut",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "POS",
+                "object": "spending cut",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "deficit",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "debt",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "deficit",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "debt",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "spending cut",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "raising the debt ceiling",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "bypass Congress on raising the debt ceiling",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "White House",
+                "sentiment": "NEG",
+                "object": "bypass Congress on raising the debt ceiling",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "United States of America not paying our bills",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "United States of America not paying our bills",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "United States",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "United States of America not paying our bills",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Democratic Party": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "raising the debt ceiling": [
+            [
+                "Very Positive",
+                "D"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "White House": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "United States": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "spending cut": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "bypass Congress on raising the debt ceiling": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "deficit": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "debt": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "United States of America not paying our bills": [
+            [
+                "Very Negative",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Democratic Party": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "raising the debt ceiling": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "White House": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "United States": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "spending cut": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "bypass Congress on raising the debt ceiling": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "deficit": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "debt": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "United States of America not paying our bills": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "D"
+        }
+    ]
+}

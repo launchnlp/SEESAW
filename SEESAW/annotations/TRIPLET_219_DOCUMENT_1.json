@@ -1,0 +1,258 @@
+{
+    "title": "Conservatives Brace for Long Debate on Senate Gun Control Bill",
+    "entity lists": [
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "gun-control legislation",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Joe Manchin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Pat Toomey",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "gun-control legislation",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "gun-control legislation",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "gun-control legislation",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "gun-control legislation",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "gun-control legislation",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "gun-control legislation",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Pat Toomey",
+                "sentiment": "POS",
+                "object": "gun-control legislation",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "gun-control legislation",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "gun-control legislation": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Pat Toomey": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "gun-control legislation": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Pat Toomey": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "C"
+        }
+    ]
+}

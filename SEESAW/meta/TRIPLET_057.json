@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/former-colorado-governor-john-hickenlooper-joins-presidential-race",
+    "story_title": "Former Colorado Governor John Hickenlooper Joins Presidential Race",
+    "story_time": "2019-03-04",
+    "story_topic": "elections",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2019/mar/4/john-hickenlooper-former-colorado-governor-enters-/",
+        "title": "Former Colorado Gov. John Hickenlooper joins 2020 presidential race",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/elections/2019/03/04/2020-election-former-colorado-governor-john-hickenlooper-joins-democratic-field/3053038002/",
+        "title": "Former Colorado Gov. John Hickenlooper joins crowded 2020 Democratic field",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/john-hickenlooper-2020-presidential-run_n_5c59f62be4b09293b2090eda",
+        "title": "Former Colorado Gov. John Hickenlooper Is Running For President In 2020",
+        "bias_label": 0
+    },
+    "triplet_id": "057"
+}

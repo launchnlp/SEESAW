@@ -1,0 +1,153 @@
+{
+    "title": "Plan Like Romney\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2s Would Tax Rich Less",
+    "entity lists": [
+        [
+            "Mitt Romney",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "tax system overhaul",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Tax Policy Center",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Mitt Romney",
+                "sentiment": "NEG",
+                "object": "tax system overhaul",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mitt Romney",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Tax Policy Center",
+                "sentiment": "NEG",
+                "object": "tax system overhaul",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "tax system overhaul",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Tax Policy Center",
+                "sentiment": "NEG",
+                "object": "tax system overhaul",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Tax Policy Center",
+                "sentiment": "NEG",
+                "object": "tax system overhaul",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Mitt Romney": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "tax system overhaul": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Tax Policy Center": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Mitt Romney": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "tax system overhaul": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "Tax Policy Center": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "B"
+        }
+    ]
+}

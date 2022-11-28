@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/delay-health-care-mandates",
+    "story_title": "Delay of Health Care Mandates",
+    "story_time": "2013-07-18",
+    "story_topic": "healthcare",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "Christian Science Monitor",
+        "url": "http://www.csmonitor.com/USA/Latest-News-Wires/2013/0717/House-votes-to-delay-two-health-care-mandates-Will-it-matter",
+        "title": "House votes to delay two health care mandates: Will it matter?",
+        "bias_label": 2
+    },
+    "Meta info for article 0": {
+        "source": "New York Times (News)",
+        "url": "http://www.nytimes.com/2013/07/18/us/politics/house-votes-to-delay-two-requirements-of-health-care-overhaul.html",
+        "title": "House Votes to Delay Two Requirements of the Health Care Overhaul",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2013/jul/17/house-votes-delay-key-mandates-obamacare/",
+        "title": "House votes for delays on Obamacare; some Democrats give support to GOP move",
+        "bias_label": 4
+    },
+    "triplet_id": "200"
+}

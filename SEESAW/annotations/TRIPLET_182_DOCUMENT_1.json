@@ -1,0 +1,367 @@
+{
+    "title": "Boehner: Aid for Syria Rebels Will Pass House",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Aid for Syria Rebels",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "John Boehner",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Steve Scalise",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Ron Kind",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Martin Dempsey",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Chuck Hagel",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Mark Begich",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Chris Murphy",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Aid for Syria Rebels",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "Aid for Syria Rebels",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Aid for Syria Rebels",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Steve Scalise",
+                "sentiment": "POS",
+                "object": "Aid for Syria Rebels",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Ron Kind",
+                "sentiment": "NEG",
+                "object": "Aid for Syria Rebels",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Aid for Syria Rebels",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Martin Dempsey",
+                "sentiment": "POS",
+                "object": "Aid for Syria Rebels",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Chuck Hagel",
+                "sentiment": "POS",
+                "object": "Aid for Syria Rebels",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "43": [
+            {
+                "id": 0,
+                "subject": "Mark Begich",
+                "sentiment": "NEG",
+                "object": "Aid for Syria Rebels",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "44": [
+            {
+                "id": 0,
+                "subject": "Chris Murphy",
+                "sentiment": "NEG",
+                "object": "Aid for Syria Rebels",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "John Boehner": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Aid for Syria Rebels": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Steve Scalise": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Ron Kind": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Martin Dempsey": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Chuck Hagel": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Mark Begich": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Chris Murphy": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "John Boehner": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Aid for Syria Rebels": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Steve Scalise": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Ron Kind": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Martin Dempsey": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Chuck Hagel": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Mark Begich": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Chris Murphy": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "C"
+        }
+    ]
+}

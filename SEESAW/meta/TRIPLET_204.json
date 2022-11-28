@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/invoking-5th-amendment",
+    "story_title": "Invoking the 5th Amendment",
+    "story_time": "2013-05-23",
+    "story_topic": "us_house",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "New York Times (News)",
+        "url": "http://www.nytimes.com/2013/05/23/us/politics/irs-official-denies-misleading-congress.html?ref=politics",
+        "title": "I.R.S. Official Invokes 5th Amendment at Hearing",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "http://www.cnn.com/2013/05/22/politics/taking-the-fifth/index.html?hpt=po_t1",
+        "title": "What it means to take 'The Fifth'",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "Fox News (Online News)",
+        "url": "http://www.foxnews.com/politics/2013/05/23/republicans-may-call-back-irs-official-who-refused-to-testify/",
+        "title": "Republicans may call back IRS official who refused to testify ",
+        "bias_label": 3
+    },
+    "triplet_id": "204"
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/romney-vs-reid",
+    "story_title": "Romney vs Reid",
+    "story_time": "2012-08-07",
+    "story_topic": "elections",
+    "Split": "train",
+    "Meta info for article 1": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2012/08/03/mitt-romney-taxes-paid_n_1738262.html?utm_hp_ref=mostpopular%2Celections-2012",
+        "title": "Mitt Romney: 'I Have Paid Taxes Every Year. A Lot Of Taxes.",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "CNN (Online News)",
+        "url": "http://www.cnn.com/2012/08/07/politics/reid-romney-taxes/index.html",
+        "title": "Reid puts GOP in a bind over Romney's taxes",
+        "bias_label": 0
+    },
+    "Meta info for article 0": {
+        "source": "Fox News (Online News)",
+        "url": "http://www.foxnews.com/politics/2012/08/07/romney-calls-on-reid-to-reveal-source-as-fact-check-sites-challenge-tax-claim/",
+        "title": "Romney calls on Reid to reveal source as fact-check sites challenge tax claim  ",
+        "bias_label": 3
+    },
+    "triplet_id": "223"
+}

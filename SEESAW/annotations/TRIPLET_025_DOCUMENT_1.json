@@ -1,0 +1,604 @@
+{
+    "title": "Federal Judge Blocks Obama's Executive Actions On Immigration",
+    "entity lists": [
+        [
+            "Andrew Hanen",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Executive Actions On Immigration",
+            [
+                "Others"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Deferred Action for Parents of Americans and Lawful Permanent Residents",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Deferred Action for Childhood Arrivals",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Department of Justice",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jeh Johnson",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Josh Earnest",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Texas",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Greg Abbott",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Texas lawsuit",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Ken Paxton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "George W. Bush",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Andrew Hanen",
+                "sentiment": "NEG",
+                "object": "Executive Actions On Immigration",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Executive Actions On Immigration",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Andrew Hanen",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Andrew Hanen",
+                "sentiment": "NEG",
+                "object": "Deferred Action for Parents of Americans and Lawful Permanent Residents",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Andrew Hanen",
+                "sentiment": "NEG",
+                "object": "Deferred Action for Childhood Arrivals",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Deferred Action for Parents of Americans and Lawful Permanent Residents",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Deferred Action for Childhood Arrivals",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Andrew Hanen",
+                "sentiment": "NEG",
+                "object": "Executive Actions On Immigration",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Executive Actions On Immigration",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "United States Department of Justice",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Jeh Johnson",
+                "sentiment": "NEG",
+                "object": "Andrew Hanen",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Jeh Johnson",
+                "sentiment": "NEG",
+                "object": "Andrew Hanen",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "NEG",
+                "object": "Andrew Hanen",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Josh Earnest",
+                "sentiment": "NEG",
+                "object": "Andrew Hanen",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Josh Earnest",
+                "sentiment": "POS",
+                "object": "Executive Actions On Immigration",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Texas",
+                "sentiment": "NEG",
+                "object": "Executive Actions On Immigration",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Greg Abbott",
+                "sentiment": "POS",
+                "object": "Texas lawsuit",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Greg Abbott",
+                "sentiment": "NEG",
+                "object": "Executive Actions On Immigration",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Greg Abbott",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Greg Abbott",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Greg Abbott",
+                "sentiment": "POS",
+                "object": "Texas",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Ken Paxton",
+                "sentiment": "POS",
+                "object": "Texas lawsuit",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ken Paxton",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "George W. Bush",
+                "sentiment": "POS",
+                "object": "Andrew Hanen",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Andrew Hanen",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Andrew Hanen",
+                "sentiment": "NEG",
+                "object": "Executive Actions On Immigration",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Andrew Hanen": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Executive Actions On Immigration": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Deferred Action for Parents of Americans and Lawful Permanent Residents": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Deferred Action for Childhood Arrivals": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Jeh Johnson": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Josh Earnest": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Texas": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Greg Abbott": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Texas lawsuit": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Ken Paxton": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "George W. Bush": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Andrew Hanen": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Executive Actions On Immigration": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Deferred Action for Parents of Americans and Lawful Permanent Residents": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Deferred Action for Childhood Arrivals": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Jeh Johnson": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Josh Earnest": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Texas": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Greg Abbott": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Texas lawsuit": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Ken Paxton": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "George W. Bush": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

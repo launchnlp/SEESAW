@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/latest-presidential-polls-0",
+    "story_title": "Latest Presidential Polls",
+    "story_time": "2016-10-16",
+    "story_topic": "elections",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/politics/washington-post-abc-news-poll-clinton-holds-four-point-lead-in-aftermath-of-trump-tape/2016/10/15/c31969a4-9231-11e6-9c52-0b10449e33c4_story.html",
+        "title": "Washington Post-ABC News poll: Clinton holds four-point lead in aftermath of Trump tape",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "The Hill",
+        "url": "http://thehill.com/blogs/ballot-box/presidential-races/301221-poll-clinton-trump-in-statistical-dead-heat",
+        "title": "Poll: Clinton, Trump in statistical dead heat",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "Newsmax (News)",
+        "url": "http://www.newsmax.com/Headline/post-poll-clinton-leads/2016/10/16/id/753630/",
+        "title": "WashPost Poll: Clinton Leads Trump by 4",
+        "bias_label": 4
+    },
+    "triplet_id": "084"
+}

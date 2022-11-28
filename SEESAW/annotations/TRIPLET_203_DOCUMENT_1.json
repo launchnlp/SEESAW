@@ -1,0 +1,201 @@
+{
+    "title": "Lois Lerner, IRS official in tea party scandal, forced out for 'neglect of duties'",
+    "entity lists": [
+        [
+            "Darrell Issa",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Lois Lerner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Sander Levin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "9": [
+            {
+                "id": 0,
+                "subject": "Darrell Issa",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Sander Levin",
+                "sentiment": "POS",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Sander Levin",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Sander Levin",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Sander Levin",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Lois Lerner": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Darrell Issa": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Sander Levin": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Lois Lerner": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Darrell Issa": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Sander Levin": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

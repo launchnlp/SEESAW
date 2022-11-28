@@ -1,0 +1,247 @@
+{
+    "title": "Trump picks debt-warrior Mulvaney to lead White House budget office",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Mick Mulvaney",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "debt deal",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "war-funding bill",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "term limit",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Paul Ryan",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Mick Mulvaney",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Mick Mulvaney",
+                "sentiment": "NEG",
+                "object": "debt deal",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Mick Mulvaney",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Mick Mulvaney",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Mick Mulvaney",
+                "sentiment": "NEG",
+                "object": "war-funding bill",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mick Mulvaney",
+                "sentiment": "NEG",
+                "object": "term limit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Paul Ryan",
+                "sentiment": "POS",
+                "object": "Mick Mulvaney",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Paul Ryan",
+                "sentiment": "POS",
+                "object": "Mick Mulvaney",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Mick Mulvaney": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Paul Ryan": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "debt deal": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "war-funding bill": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "term limit": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Mick Mulvaney": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Paul Ryan": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "debt deal": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "war-funding bill": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "term limit": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

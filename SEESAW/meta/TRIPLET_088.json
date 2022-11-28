@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/mulvaney-head-budget-office",
+    "story_title": "Mulvaney to Head Budget Office",
+    "story_time": "2016-12-17",
+    "story_topic": "white_house",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "Politico",
+        "url": "http://www.politico.com/blogs/donald-trump-administration/2016/12/mick-mulvaney-omb-232768",
+        "title": "Mulvaney tapped to lead Trump's budget office",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2016/dec/17/donald-trump-picks-debt-warrior-mick-mulvaney-head/",
+        "title": "Trump picks debt-warrior Mulvaney to lead White House budget office",
+        "bias_label": 4
+    },
+    "Meta info for article 0": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/news/powerpost/wp/2016/12/17/trump-names-rep-mick-mulvaney-a-fiscal-hawk-to-head-budget-office/?utm_term=.340b52c1f793",
+        "title": "Trump names Rep. Mick Mulvaney, a fiscal hawk, to head budget office",
+        "bias_label": 1
+    },
+    "triplet_id": "088"
+}

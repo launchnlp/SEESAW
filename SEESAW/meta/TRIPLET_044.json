@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/trump-celebrates-us-military-july-4th-salute",
+    "story_title": "Trump Celebrates US Military In July 4th Salute",
+    "story_time": "2019-07-05",
+    "story_topic": "holidays",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Newsmax (News)",
+        "url": "https://www.newsmax.com/politics/trump-july4/2019/07/04/id/923353/",
+        "title": "With Tanks and Flyovers, Trump Celebrates Military in July 4 Salute",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "Politico",
+        "url": "https://www.politico.com/story/2019/07/04/trump-fourth-mall-1398968",
+        "title": "Producer-in-chief puts on a 4th of July show \u2014 with emphasis on the military",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/world-us-canada-48877172",
+        "title": "Trump hails US military in 4th of July address",
+        "bias_label": 2
+    },
+    "triplet_id": "044"
+}

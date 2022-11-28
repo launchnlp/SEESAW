@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/will-gop-take-over-senate",
+    "story_title": "Will the GOP Take Over the Senate?",
+    "story_time": "2014-10-07",
+    "story_topic": "elections",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2014/10/06/republicans-climate-change_n_5941866.html?utm_hp_ref=elections-2014",
+        "title": "Scott Brown, Cory Gardner Shift Stance On Climate Change In First Senate Debates",
+        "bias_label": 0
+    },
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2014/oct/7/rand-paul-gop-senate-takeover-isnt-certain/",
+        "title": "Rand Paul: GOP Senate takeover isn\u2019t certain",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "USA TODAY",
+        "url": "http://www.usatoday.com/story/news/politics/elections/2014/10/07/battle-for-congress/16848799/",
+        "title": "Why it matters if Republicans win the Senate",
+        "bias_label": 1
+    },
+    "triplet_id": "197"
+}

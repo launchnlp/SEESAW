@@ -1,0 +1,153 @@
+{
+    "title": "The Tyranny of the Administrative State",
+    "entity lists": [
+        [
+            "administrative",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Consumer Financial Protection Bureau's rule",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Government Accountability Office",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "administrative",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Consumer Financial Protection Bureau's rule",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Government Accountability Office",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Government Accountability Office",
+                "sentiment": "NEG",
+                "object": "Consumer Financial Protection Bureau's rule",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Consumer Financial Protection Bureau's rule",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Consumer Financial Protection Bureau's rule",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "administrative": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Consumer Financial Protection Bureau's rule": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Government Accountability Office": [
+            [
+                "Positive",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "administrative": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Consumer Financial Protection Bureau's rule": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Government Accountability Office": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "A"
+        }
+    ]
+}

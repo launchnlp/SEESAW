@@ -1,0 +1,168 @@
+{
+    "title": "Issa releases Kerry from commitment to testify on Benghazi",
+    "entity lists": [
+        [
+            "Darrell Issa",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "John Kerry",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Jen Psaki",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Marie Harf",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Darrell Issa",
+                "sentiment": "NEG",
+                "object": "John Kerry",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Darrell Issa",
+                "sentiment": "NEG",
+                "object": "John Kerry",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Darrell Issa",
+                "sentiment": "NEG",
+                "object": "John Kerry",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Jen Psaki",
+                "sentiment": "POS",
+                "object": "John Kerry",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Marie Harf",
+                "sentiment": "POS",
+                "object": "John Kerry",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Darrell Issa": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "John Kerry": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Jen Psaki": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Marie Harf": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Darrell Issa": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "John Kerry": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ],
+        "Jen Psaki": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Marie Harf": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "C"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/covid-19-vaccines-stimulus-among-bidens-plan-first-100-days-office",
+    "story_title": "COVID-19 Vaccines, Stimulus Among Biden's Plan For First 100 Days In Office",
+    "story_time": "2021-01-11",
+    "story_topic": "joe_biden",
+    "Split": "test",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2021/jan/11/joe-biden-hoping-senate-can-split-impeachment-othe/?utm_source=ground.news&utm_medium=referral",
+        "title": "Biden hoping Senate can split impeachment with other priorities",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2021/01/11/biden-covid-vaccination-plan-457667",
+        "title": "Biden to unveil vaccination plan this week",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/administration/533677-biden-hopes-senate-can-split-time-on-impeachment-his-agenda",
+        "title": "Biden hopes Senate can split time on impeachment, his agenda",
+        "bias_label": 2
+    },
+    "triplet_id": "165"
+}

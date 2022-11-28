@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/christie%E2%80%99s-vaccination-views",
+    "story_title": "Christie\u2019s Vaccination Views",
+    "story_time": "2015-02-02",
+    "story_topic": "politics",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2015/feb/2/christie-advocates-balance-vaccination-debate/",
+        "title": "In U.K., Christie advocates for \u2018balance\u2019 in vaccination debate",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2015/02/02/chris-christie-vaccinations_n_6593806.html?utm_hp_ref=politics",
+        "title": "Chris Christie: Parents Should Have 'Some Measure Of Choice' On Vaccinating Their Children",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "CNN (Online News)",
+        "url": "http://www.cnn.com/2015/02/02/politics/christie-vaccination-london/index.html",
+        "title": "Christie: We vaccinate our kids, but it's parent choice",
+        "bias_label": 0
+    },
+    "triplet_id": "041"
+}

@@ -1,0 +1,1173 @@
+{
+    "title": "Labor Department Expected to Make Millions More Eligible for Overtime",
+    "entity lists": [
+        [
+            "United States Department of Labor",
+            [
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Main",
+                "Salient"
+            ],
+            [
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "proposed rule",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "the middle class",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "overtime pay",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "threshold",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Obama administration",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "business owner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "Economic Policy Institute",
+            [
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "labor union",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "right-leaning groups",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "plan to extend protections to salaried workers earning up to about $50,400",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Americans who work in excess of 40 hours a week",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "existing federal rules",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "AFL\u2013CIO",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Douglas Holtz-Eakin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "United States Department of Labor",
+                "sentiment": "POS",
+                "object": "proposed rule",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "proposed rule",
+                "sentiment": "POS",
+                "object": "the middle class",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "plan to extend protections to salaried workers earning up to about $50,400",
+                "sentiment": "POS",
+                "object": "Americans who work in excess of 40 hours a week",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "United States Department of Labor",
+                "sentiment": "POS",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "proposed rule",
+                "sentiment": "POS",
+                "object": "overtime pay",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "threshold",
+                "sentiment": "NEG",
+                "object": "overtime pay",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "threshold",
+                "sentiment": "NEG",
+                "object": "overtime pay",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "threshold",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "proposed rule",
+                "sentiment": "POS",
+                "object": "the middle class",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "plan to extend protections to salaried workers earning up to about $50,400",
+                "sentiment": "POS",
+                "object": "Americans who work in excess of 40 hours a week",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Obama administration",
+                "sentiment": "POS",
+                "object": "proposed rule",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Obama administration",
+                "sentiment": "POS",
+                "object": "the middle class",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Americans who work in excess of 40 hours a week",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "existing federal rules",
+                "sentiment": "NEG",
+                "object": "Americans who work in excess of 40 hours a week",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "existing federal rules",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Obama administration",
+                "sentiment": "NEG",
+                "object": "threshold",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "proposed rule",
+                "sentiment": "NEG",
+                "object": "threshold",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "threshold",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Obama administration",
+                "sentiment": "NEG",
+                "object": "threshold",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Obama administration",
+                "sentiment": "POS",
+                "object": "the middle class",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Americans who work in excess of 40 hours a week",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Obama administration",
+                "sentiment": "NEG",
+                "object": "threshold",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "existing federal rules",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Obama administration",
+                "sentiment": "POS",
+                "object": "proposed rule",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Obama administration",
+                "sentiment": "POS",
+                "object": "the middle class",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Obama administration",
+                "sentiment": "POS",
+                "object": "business owner",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "proposed rule",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "business owner",
+                "sentiment": "NEG",
+                "object": "proposed rule",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "proposed rule",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "proposed rule",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "proposed rule",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "business owner",
+                "sentiment": "NEG",
+                "object": "proposed rule",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "proposed rule",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "the middle class",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "overtime pay",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Economic Policy Institute",
+                "sentiment": "POS",
+                "object": "overtime pay",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Economic Policy Institute",
+                "sentiment": "NEG",
+                "object": "threshold",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Economic Policy Institute",
+                "sentiment": "POS",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Economic Policy Institute",
+                "sentiment": "POS",
+                "object": "the middle class",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Economic Policy Institute",
+                "sentiment": "NEG",
+                "object": "existing federal rules",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "labor union",
+                "sentiment": "POS",
+                "object": "proposed rule",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "labor union",
+                "sentiment": "NEG",
+                "object": "threshold",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "existing federal rules",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "labor union",
+                "sentiment": "POS",
+                "object": "the middle class",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "labor union",
+                "sentiment": "POS",
+                "object": "overtime pay",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "labor union",
+                "sentiment": "POS",
+                "object": "proposed rule",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "AFL\u2013CIO",
+                "sentiment": "POS",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "right-leaning groups",
+                "sentiment": "NEG",
+                "object": "proposed rule",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "right-leaning groups",
+                "sentiment": "POS",
+                "object": "the middle class",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "right-leaning groups",
+                "sentiment": "NEG",
+                "object": "proposed rule",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Douglas Holtz-Eakin",
+                "sentiment": "NEG",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "United States Department of Labor",
+                "sentiment": "POS",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "plan to extend protections to salaried workers earning up to about $50,400",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "United States Department of Labor": [
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "proposed rule": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "Obama administration": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "the middle class": [
+            [
+                "Positive",
+                "C"
+            ]
+        ],
+        "overtime pay": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "threshold": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "business owner": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Economic Policy Institute": [
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "labor union": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "right-leaning groups": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "plan to extend protections to salaried workers earning up to about $50,400": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Americans who work in excess of 40 hours a week": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "existing federal rules": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "AFL\u2013CIO": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Douglas Holtz-Eakin": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "United States Department of Labor": [
+            [
+                "Moderate",
+                "C"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "proposed rule": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Obama administration": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "the middle class": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "overtime pay": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "threshold": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "business owner": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Economic Policy Institute": [
+            [
+                "Slightly Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "labor union": [
+            [
+                "Very Liberal",
+                "C"
+            ]
+        ],
+        "right-leaning groups": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "plan to extend protections to salaried workers earning up to about $50,400": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Americans who work in excess of 40 hours a week": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "existing federal rules": [
+            [
+                "Slightly Conservative",
+                "D"
+            ]
+        ],
+        "AFL\u2013CIO": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Douglas Holtz-Eakin": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "C"
+        },
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "D"
+        }
+    ]
+}

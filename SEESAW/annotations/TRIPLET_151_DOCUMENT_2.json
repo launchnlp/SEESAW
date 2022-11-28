@@ -1,0 +1,275 @@
+{
+    "title": "Trump Accuses FDA Of Playing Politics With COVID-19 Vaccine Guidelines",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Main"
+            ],
+            [
+                "B",
+                "C"
+            ]
+        ],
+        [
+            "Food and Drug Administration",
+            [
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "C"
+            ]
+        ],
+        [
+            "COVID-19 Vaccine Guidelines",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Centers for Disease Control and Prevention",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Food and Drug Administration",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "COVID-19 Vaccine Guidelines",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Food and Drug Administration",
+                "annotators": [
+                    "B",
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Food and Drug Administration",
+                "sentiment": "POS",
+                "object": "COVID-19 Vaccine Guidelines",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "COVID-19 Vaccine Guidelines",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "COVID-19 Vaccine Guidelines",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Food and Drug Administration",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "COVID-19 Vaccine Guidelines",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Food and Drug Administration",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Centers for Disease Control and Prevention",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Food and Drug Administration": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "COVID-19 Vaccine Guidelines": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Centers for Disease Control and Prevention": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Food and Drug Administration": [
+            [
+                "Moderate",
+                "B"
+            ],
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "COVID-19 Vaccine Guidelines": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Centers for Disease Control and Prevention": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        }
+    ]
+}

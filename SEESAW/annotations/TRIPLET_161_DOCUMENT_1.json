@@ -1,0 +1,203 @@
+{
+    "title": "Bipartisan Group of Senators Say They Reached Agreement on Infrastructure Plan",
+    "entity lists": [
+        [
+            "framework to invest in the nation\u2019s aging public works system",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "tax increase",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Lisa Murkowski",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "framework to invest in the nation\u2019s aging public works system",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "tax increase",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "tax increase",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "framework to invest in the nation\u2019s aging public works system",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "framework to invest in the nation\u2019s aging public works system",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Lisa Murkowski",
+                "sentiment": "POS",
+                "object": "framework to invest in the nation\u2019s aging public works system",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "framework to invest in the nation\u2019s aging public works system": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "tax increase": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Lisa Murkowski": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "framework to invest in the nation\u2019s aging public works system": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "tax increase": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Lisa Murkowski": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "C"
+        }
+    ]
+}

@@ -1,0 +1,283 @@
+{
+    "title": "McConnell shoots down Schumer's offer on Senate impeachment trial rules",
+    "entity lists": [
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Chuck Schumer",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "House Democrats",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Chuck Schumer",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Chuck Schumer",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "House Democrats",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Chuck Schumer",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Chuck Schumer",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Chuck Schumer",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Mitch McConnell",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Mitch McConnell",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Chuck Schumer",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Chuck Schumer",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Chuck Schumer",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Chuck Schumer",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Mitch McConnell": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "House Democrats": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "House Democrats": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "A"
+        }
+    ]
+}

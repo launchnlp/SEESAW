@@ -1,0 +1,328 @@
+{
+    "title": "Senate Passes Bill Making Juneteenth a National Holiday",
+    "entity lists": [
+        [
+            "United States Senate",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Bill Making Juneteenth a National Holiday",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Chuck Schumer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "John Cornyn",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Ron Johnson",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "slavery",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Abraham Lincoln",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "United States Senate",
+                "sentiment": "POS",
+                "object": "Bill Making Juneteenth a National Holiday",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "POS",
+                "object": "Bill Making Juneteenth a National Holiday",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "John Cornyn",
+                "sentiment": "POS",
+                "object": "Bill Making Juneteenth a National Holiday",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "John Cornyn",
+                "sentiment": "POS",
+                "object": "Bill Making Juneteenth a National Holiday",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "John Cornyn",
+                "sentiment": "POS",
+                "object": "Bill Making Juneteenth a National Holiday",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "John Cornyn",
+                "sentiment": "POS",
+                "object": "Bill Making Juneteenth a National Holiday",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Ron Johnson",
+                "sentiment": "POS",
+                "object": "Bill Making Juneteenth a National Holiday",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Ron Johnson",
+                "sentiment": "NEG",
+                "object": "Bill Making Juneteenth a National Holiday",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Ron Johnson",
+                "sentiment": "NEG",
+                "object": "slavery",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Abraham Lincoln",
+                "sentiment": "NEG",
+                "object": "slavery",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "slavery",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Bill Making Juneteenth a National Holiday",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Ron Johnson",
+                "sentiment": "NEG",
+                "object": "Bill Making Juneteenth a National Holiday",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "United States Senate": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Bill Making Juneteenth a National Holiday": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "slavery": [
+            [
+                "Negative",
+                "B"
+            ]
+        ],
+        "Abraham Lincoln": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "John Cornyn": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Ron Johnson": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "United States Senate": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "Bill Making Juneteenth a National Holiday": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "slavery": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Abraham Lincoln": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "John Cornyn": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Ron Johnson": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "B"
+        }
+    ]
+}

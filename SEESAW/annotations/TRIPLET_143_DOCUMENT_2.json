@@ -1,0 +1,324 @@
+{
+    "title": "Trade Adviser Warned White House in January of Risks of a Pandemic",
+    "entity lists": [
+        [
+            "Peter Navarro",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "coronavirus outbreak",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "travel ban on China",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Anthony Fauci",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Peter Navarro",
+                "sentiment": "NEG",
+                "object": "coronavirus outbreak",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Peter Navarro",
+                "sentiment": "NEG",
+                "object": "coronavirus outbreak",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Peter Navarro",
+                "sentiment": "NEG",
+                "object": "coronavirus outbreak",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Peter Navarro",
+                "sentiment": "NEG",
+                "object": "coronavirus outbreak",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Peter Navarro",
+                "sentiment": "NEG",
+                "object": "coronavirus outbreak",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Peter Navarro",
+                "sentiment": "NEG",
+                "object": "coronavirus outbreak",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Peter Navarro",
+                "sentiment": "POS",
+                "object": "travel ban on China",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Peter Navarro",
+                "sentiment": "POS",
+                "object": "travel ban on China",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Peter Navarro",
+                "sentiment": "POS",
+                "object": "travel ban on China",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Anthony Fauci",
+                "sentiment": "NEG",
+                "object": "travel ban on China",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Peter Navarro": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Anthony Fauci": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "coronavirus outbreak": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "travel ban on China": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Peter Navarro": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Anthony Fauci": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "coronavirus outbreak": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "travel ban on China": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

@@ -1,0 +1,362 @@
+{
+    "title": "Kushner loses access to top-secret intelligence",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "John F. Kelly",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Sarah Sanders",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jared Kushner",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Ivanka Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Reed Cordish",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "josh raffel",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "8": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "John F. Kelly",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "John F. Kelly",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "John F. Kelly",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Sarah Sanders",
+                "sentiment": "POS",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "John F. Kelly",
+                "sentiment": "POS",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "John F. Kelly",
+                "sentiment": "NEG",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "John F. Kelly",
+                "sentiment": "NEG",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John F. Kelly",
+                "sentiment": "NEG",
+                "object": "Ivanka Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Ivanka Trump",
+                "sentiment": "POS",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Jared Kushner",
+                "sentiment": "POS",
+                "object": "Ivanka Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Ivanka Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Reed Cordish",
+                "sentiment": "POS",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "josh raffel",
+                "sentiment": "POS",
+                "object": "Jared Kushner",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "josh raffel",
+                "sentiment": "POS",
+                "object": "Ivanka Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Jared Kushner": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "John F. Kelly": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Sarah Sanders": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Ivanka Trump": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Reed Cordish": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "josh raffel": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Jared Kushner": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "John F. Kelly": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Sarah Sanders": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Ivanka Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Reed Cordish": [
+            [
+                "Slightly Conservative",
+                "A"
+            ]
+        ],
+        "josh raffel": [
+            [
+                "Slightly Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

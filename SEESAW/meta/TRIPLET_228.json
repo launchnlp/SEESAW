@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/debt-negotiations-begin",
+    "story_title": "Debt Negotiations Begin",
+    "story_time": "2012-11-14",
+    "story_topic": "taxes",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "NPR (Online News)",
+        "url": "http://www.npr.org/2012/11/13/165057226/obama-rallies-fiscal-cliff-support-with-labor-leaders",
+        "title": "Facing Cliff, Obama Tries Again For 'Grand Bargain'",
+        "bias_label": 2
+    },
+    "Meta info for article 1": {
+        "source": "New York Times (News)",
+        "url": "http://www.nytimes.com/2012/11/14/us/politics/obama-tells-labor-leaders-hell-stand-tough-in-budget-talks.html?ref=politics&gwh=54FEEF41EE9C575B380ACEEB931BB563",
+        "title": "Obama Vows Firm Stance on Deficit-Reduction Plan",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2012/nov/13/lawmakers-urge-compromise-but-refuse-to-budge-from/",
+        "title": "Lawmakers urge compromise, but refuse to budge from \u00c3\u00a2\u00e2\u201a\u00ac\u00cb\u0153cliff\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2",
+        "bias_label": 4
+    },
+    "triplet_id": "228"
+}

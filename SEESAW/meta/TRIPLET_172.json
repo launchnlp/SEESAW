@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/extended-rights-same-sex-couples",
+    "story_title": "Extended Rights to Same Sex Couples",
+    "story_time": "2014-02-09",
+    "story_topic": "lgbt_rights",
+    "Split": "train",
+    "Meta info for article 1": {
+        "source": "NPR (Online News)",
+        "url": "http://www.npr.org/blogs/thetwo-way/2014/02/08/273608036/holder-orders-equal-treatment-for-married-same-sex-couples",
+        "title": "Holder Orders Equal Treatment For Married Same-Sex Couples",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "TheBlaze.com",
+        "url": "http://www.theblaze.com/stories/2014/02/08/eric-holder-declares-more-rights-for-same-sex-married-couples-in-eyes-of-u-s-justice-department/",
+        "title": "Eric Holder Declares More Rights for Same-Sex Married Couples in Eyes of U.S. Justice Department",
+        "bias_label": 3
+    },
+    "Meta info for article 0": {
+        "source": "New York Times (News)",
+        "url": "http://www.nytimes.com/2014/02/09/us/more-federal-privileges-to-extend-to-same-sex-couples.html?_r=0",
+        "title": "More Federal Privileges to Extend to Same-Sex Couples",
+        "bias_label": 1
+    },
+    "triplet_id": "172"
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/senate-power-sharing-deal-will-proceed-filibuster-assurances",
+    "story_title": "Senate Power-Sharing Deal Will Proceed With Filibuster Assurances",
+    "story_time": "2021-01-26",
+    "story_topic": "us_senate",
+    "Split": "test",
+    "Meta info for article 2": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2021/jan/25/mitch-mcconnell-move-forward-power-sharing-after-f/",
+        "title": "McConnell to lift blockade on Dems' Senate control after filibuster assurances",
+        "bias_label": 4
+    },
+    "Meta info for article 0": {
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/senate/535805-mcconnell-power-sharing-deal-can-proceed-after-manchin-sinema-back-filibuster?rl=1",
+        "title": "McConnell: Power-sharing deal can proceed after Manchin, Sinema back filibuster",
+        "bias_label": 2
+    },
+    "Meta info for article 1": {
+        "source": "Vox",
+        "url": "https://www.vox.com/2021/1/25/22249786/mitch-mcconnell-filibuster-organizing-resolution",
+        "title": "Why Mitch McConnell relented on his demands about preserving the filibuster",
+        "bias_label": 0
+    },
+    "triplet_id": "167"
+}

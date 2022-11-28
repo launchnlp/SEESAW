@@ -1,0 +1,235 @@
+{
+    "title": "Trump is returning to social media in a few months with his own platform, spokesman says",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main"
+            ],
+            [
+                "C",
+                "C"
+            ]
+        ],
+        [
+            "Donald Trump's own platform",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Jason Miller",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Donald Trump's own platform",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jason Miller",
+                "sentiment": "POS",
+                "object": "Donald Trump's own platform",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Jason Miller",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Jason Miller",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Jason Miller",
+                "sentiment": "POS",
+                "object": "Donald Trump's own platform",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Donald Trump's own platform",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Jason Miller",
+                "sentiment": "POS",
+                "object": "Donald Trump's own platform",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Jason Miller",
+                "sentiment": "POS",
+                "object": "Donald Trump's own platform",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Jason Miller",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jason Miller",
+                "sentiment": "POS",
+                "object": "Donald Trump's own platform",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Donald Trump's own platform",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Jason Miller",
+                "sentiment": "POS",
+                "object": "Donald Trump's own platform",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Jason Miller",
+                "sentiment": "POS",
+                "object": "Donald Trump's own platform",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Unknown",
+                "C"
+            ],
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "Jason Miller": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Donald Trump's own platform": [
+            [
+                "Very Positive",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "C"
+            ],
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "Jason Miller": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Donald Trump's own platform": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "C"
+        }
+    ]
+}

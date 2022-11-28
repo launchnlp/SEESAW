@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/should-mcconnell-resign-next",
+    "story_title": "Should McConnell Resign Next",
+    "story_time": "2015-09-26",
+    "story_topic": "us_senate",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/entry/mitch-mcconnell-john-boehner-conservatives_5605988be4b0af3706dc36ba?pnbz9f6r",
+        "title": "Conservatives Celebrate John Boehner's Exit, But They're Still Mad At Mitch McConnell",
+        "bias_label": 0
+    },
+    "Meta info for article 1": {
+        "source": "Breitbart News",
+        "url": "http://www.breitbart.com/big-government/2015/09/25/bobby-jindal-calls-senate-leader-mitch-mcconnell-resign-next/",
+        "title": "Bobby Jindal Calls for Senate Leader Mitch McConnell to Resign Next",
+        "bias_label": 3
+    },
+    "Meta info for article 2": {
+        "source": "CNN (Online News)",
+        "url": "http://www.cnn.com/2015/09/25/politics/boehner-mcconnell-jindal-conservative-tea-party/index.html",
+        "title": "Is Mitch McConnell next?",
+        "bias_label": 0
+    },
+    "triplet_id": "010"
+}

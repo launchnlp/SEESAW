@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/lynch-being-held-hostage",
+    "story_title": "Lynch Being Held \"Hostage\"?",
+    "story_time": "2015-03-21",
+    "story_topic": "us_senate",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2015/mar/21/obama-congress-endangers-national-security-loretta/",
+        "title": "Obama: Congress endangers national security with Lynch delay",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "http://www.cnn.com/2015/03/20/politics/eric-holder-attorney-general-for-life/index.html",
+        "title": "Eric Holder: Attorney General for life?",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2015/03/20/obama-loretta-lynch_n_6905422.html?",
+        "title": "Obama On Loretta Lynch: 'You Don't Hold Attorney General Nominees Hostage'",
+        "bias_label": 0
+    },
+    "triplet_id": "000"
+}

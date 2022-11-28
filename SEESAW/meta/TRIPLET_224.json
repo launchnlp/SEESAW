@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/avoiding-fiscal-cliff",
+    "story_title": "Avoiding the Fiscal Cliff",
+    "story_time": "2012-11-18",
+    "story_topic": "federal_budget",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "New York Times (News)",
+        "url": "http://www.nytimes.com/2012/11/17/us/politics/at-white-house-budget-meeting-old-hurdles-and-new-attitude.html",
+        "title": "At Bipartisan Budget Meeting, Familiar Hurdles but a New Attitude",
+        "bias_label": 1
+    },
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2012/nov/18/pressure-intensifies-for-gop-to-raise-taxes-on-ric/",
+        "title": "Pressure intensifies for GOP to raise taxes on rich",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "http://abcnews.go.com/blogs/politics/2012/11/obama-asks-for-prayer-on-budget-deal/",
+        "title": "Obama Asks for Prayer on Budget Deal",
+        "bias_label": 0
+    },
+    "triplet_id": "224"
+}

@@ -1,0 +1,318 @@
+{
+    "title": "The Governor Of Texas Has Signed A Law That Bans Abortion As Early As 6 Weeks",
+    "entity lists": [
+        [
+            "Greg Abbott",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "abortion",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "law a bill that bans abortion the moment a fetal heartbeat has been detected",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "texas right to life",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Planned Parenthood Texas Votes",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "planned parenthood action fund",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Greg Abbott",
+                "sentiment": "NEG",
+                "object": "abortion",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Greg Abbott",
+                "sentiment": "POS",
+                "object": "law a bill that bans abortion the moment a fetal heartbeat has been detected",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Greg Abbott",
+                "sentiment": "NEG",
+                "object": "abortion",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "law a bill that bans abortion the moment a fetal heartbeat has been detected",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "law a bill that bans abortion the moment a fetal heartbeat has been detected",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "law a bill that bans abortion the moment a fetal heartbeat has been detected",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "law a bill that bans abortion the moment a fetal heartbeat has been detected",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Greg Abbott",
+                "sentiment": "NEG",
+                "object": "abortion",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Greg Abbott",
+                "sentiment": "POS",
+                "object": "law a bill that bans abortion the moment a fetal heartbeat has been detected",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "law a bill that bans abortion the moment a fetal heartbeat has been detected",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "law a bill that bans abortion the moment a fetal heartbeat has been detected",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "texas right to life",
+                "sentiment": "NEG",
+                "object": "abortion",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "texas right to life",
+                "sentiment": "POS",
+                "object": "law a bill that bans abortion the moment a fetal heartbeat has been detected",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Planned Parenthood Texas Votes",
+                "sentiment": "NEG",
+                "object": "law a bill that bans abortion the moment a fetal heartbeat has been detected",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "planned parenthood action fund",
+                "sentiment": "NEG",
+                "object": "law a bill that bans abortion the moment a fetal heartbeat has been detected",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "law a bill that bans abortion the moment a fetal heartbeat has been detected": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Greg Abbott": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "abortion": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "texas right to life": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Planned Parenthood Texas Votes": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "planned parenthood action fund": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "law a bill that bans abortion the moment a fetal heartbeat has been detected": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Greg Abbott": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "abortion": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "texas right to life": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Planned Parenthood Texas Votes": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "planned parenthood action fund": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

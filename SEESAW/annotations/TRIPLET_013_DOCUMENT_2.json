@@ -1,0 +1,383 @@
+{
+    "title": "Loretta Lynch, in Confirmation Hearing, Defends Legality of Obama Immigration Action",
+    "entity lists": [
+        [
+            "Senate Republicans",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Eric Holder",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Loretta Lynch",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Republican lawmakers",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "John Cornyn",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Sheldon Whitehouse",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Richard Blumenthal",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Senate Republicans",
+                "sentiment": "NEG",
+                "object": "Eric Holder",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Senate Republicans",
+                "sentiment": "NEG",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Senate Republicans",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Eric Holder",
+                "sentiment": "NEG",
+                "object": "Republican lawmakers",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Senate Republicans",
+                "sentiment": "NEG",
+                "object": "Eric Holder",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Eric Holder",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "John Cornyn",
+                "sentiment": "NEG",
+                "object": "Eric Holder",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "John Cornyn",
+                "sentiment": "NEG",
+                "object": "Eric Holder",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Sheldon Whitehouse",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "Richard Blumenthal",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "42": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Eric Holder",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "46": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Eric Holder",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Loretta Lynch": [
+            [
+                "Positive",
+                "C"
+            ]
+        ],
+        "Eric Holder": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Senate Republicans": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "Republican lawmakers": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "John Cornyn": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Sheldon Whitehouse": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Richard Blumenthal": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Loretta Lynch": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Eric Holder": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Senate Republicans": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Republican lawmakers": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "John Cornyn": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Sheldon Whitehouse": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Richard Blumenthal": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "C"
+        }
+    ]
+}

@@ -1,0 +1,486 @@
+{
+    "title": "Divisions remain on infrastructure as clock ticks on bipartisan deal",
+    "entity lists": [
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "human infrastructure",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "infrastructure",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "White House",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "increasing the corporate tax rate",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Pete Buttigieg",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Joe Manchin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "infrastructure bill",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Jennifer Granholm",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "3": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "human infrastructure",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "infrastructure",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "White House",
+                "sentiment": "POS",
+                "object": "increasing the corporate tax rate",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "increasing the corporate tax rate",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Pete Buttigieg",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Pete Buttigieg",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Pete Buttigieg",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Pete Buttigieg",
+                "sentiment": "POS",
+                "object": "Joe Biden",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Pete Buttigieg",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "infrastructure bill",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Jennifer Granholm",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "infrastructure bill": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "White House": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Pete Buttigieg": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "human infrastructure": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "infrastructure": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "increasing the corporate tax rate": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Jennifer Granholm": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "infrastructure bill": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "White House": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "Pete Buttigieg": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "human infrastructure": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "infrastructure": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "increasing the corporate tax rate": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Jennifer Granholm": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        }
+    ]
+}

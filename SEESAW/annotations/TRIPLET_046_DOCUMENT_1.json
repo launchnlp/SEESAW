@@ -1,0 +1,758 @@
+{
+    "title": "Biden: Trump's 'Toxic Tongue' Linked to Mass Shootings",
+    "entity lists": [
+        [
+            "Joe Biden",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "white supremacy",
+            [
+                "Topic",
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Main",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Hispanic invasion of Texas",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "mental health law",
+            [
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A"
+            ]
+        ],
+        [
+            "George W. Bush",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A"
+            ]
+        ],
+        [
+            "Bill Clinton",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A"
+            ]
+        ],
+        [
+            "a political strategy of hate, racism, and division",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "gunman",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Hispanic",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "hate, racism, and division",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "white supremacy",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "white supremacy",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "white supremacy",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Hispanic invasion of Texas",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C",
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Hispanic invasion of Texas",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "gunman",
+                "sentiment": "NEG",
+                "object": "Hispanic",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Hispanic invasion of Texas",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "gunman",
+                "sentiment": "NEG",
+                "object": "Hispanic",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "gunman",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "white supremacy",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "white supremacy",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "mental health law",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "George W. Bush",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "Bill Clinton",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "a political strategy of hate, racism, and division",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "a political strategy of hate, racism, and division",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "hate, racism, and division",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Joe Biden": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Slightly Positive",
+                "C"
+            ],
+            [
+                "Slightly Positive",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Negative",
+                "B"
+            ],
+            [
+                "Negative",
+                "C"
+            ],
+            [
+                "Very Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "white supremacy": [
+            [
+                "Negative",
+                "B"
+            ],
+            [
+                "Very Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "George W. Bush": [
+            [
+                "Slightly Positive",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Bill Clinton": [
+            [
+                "Slightly Positive",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Hispanic invasion of Texas": [
+            [
+                "Negative",
+                "B"
+            ]
+        ],
+        "mental health law": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "a political strategy of hate, racism, and division": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Hispanic": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "gunman": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "hate, racism, and division": [
+            [
+                "Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Joe Biden": [
+            [
+                "Very Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Very Conservative",
+                "D"
+            ]
+        ],
+        "white supremacy": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Very Conservative",
+                "D"
+            ]
+        ],
+        "George W. Bush": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Bill Clinton": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Hispanic invasion of Texas": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "mental health law": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "a political strategy of hate, racism, and division": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Hispanic": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "gunman": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "hate, racism, and division": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "B"
+        },
+        {
+            "ideology": "Liberal",
+            "annotator": "C"
+        },
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "D"
+        }
+    ]
+}

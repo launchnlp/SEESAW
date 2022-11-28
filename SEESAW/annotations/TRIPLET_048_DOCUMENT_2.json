@@ -1,0 +1,461 @@
+{
+    "title": "Nancy Pelosi: Trump 'leaves us no choice' but to proceed with impeachment",
+    "entity lists": [
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "the Bidens",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Stephanie Grisham",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Brad Parscale",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Adam Schiff",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Hunter Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "the Bidens",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Nancy Pelosi",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Adam Schiff",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Hunter Biden",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Stephanie Grisham",
+                "sentiment": "NEG",
+                "object": "Nancy Pelosi",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Stephanie Grisham",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Brad Parscale",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Brad Parscale",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Brad Parscale",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Brad Parscale",
+                "sentiment": "NEG",
+                "object": "Adam Schiff",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Brad Parscale",
+                "sentiment": "NEG",
+                "object": "Nancy Pelosi",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Brad Parscale",
+                "sentiment": "NEG",
+                "object": "Hunter Biden",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Nancy Pelosi": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Positive",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "the Bidens": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Stephanie Grisham": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Brad Parscale": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Adam Schiff": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Hunter Biden": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Nancy Pelosi": [
+            [
+                "Very Liberal",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "the Bidens": [
+            [
+                "Very Liberal",
+                "B"
+            ]
+        ],
+        "Stephanie Grisham": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Brad Parscale": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Very Liberal",
+                "B"
+            ]
+        ],
+        "Adam Schiff": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Hunter Biden": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "B"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/ban-assault-weapons",
+    "story_title": "LaPierre CPAC Speech",
+    "story_time": "2013-03-15",
+    "story_topic": "gun_control_and_gun_rights",
+    "Split": "train",
+    "Meta info for article 1": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2013/03/15/wayne-lapierre-cpac-speech-2013_n_2865007.html",
+        "title": "Wayne LaPierre Delivers Fiery Speech At CPAC",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2013/mar/15/cpac-2013-we-will-not-be-demonized-and-we-will-not/",
+        "title": "CPAC 2013: We will not be demonized, and we will not be silent, LaPierre says",
+        "bias_label": 4
+    },
+    "Meta info for article 0": {
+        "source": "CNN (Online News)",
+        "url": "http://www.cnn.com/2013/03/15/politics/pol-cpac-lapierre/index.html",
+        "title": "NRA's LaPierre slams Obama administration over gun proposals",
+        "bias_label": 0
+    },
+    "triplet_id": "211"
+}

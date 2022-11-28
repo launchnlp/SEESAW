@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/obama-takes-fire-crusades-comment",
+    "story_title": "Obama Takes Fire for Crusades Comment",
+    "story_time": "2015-02-06",
+    "story_topic": "religion_and_faith",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "CNN (Online News)",
+        "url": "http://www.cnn.com/2015/02/06/politics/obama-isis-crusades-comparison/index.html",
+        "title": "Obama takes fire for Crusades comparison",
+        "bias_label": 0
+    },
+    "Meta info for article 1": {
+        "source": "Washington Post",
+        "url": "http://www.washingtonpost.com/politics/obamas-speech-at-prayer-breakfast-called-offensive-to-christians/2015/02/05/6a15a240-ad50-11e4-ad71-7b9eba0f87d6_story.html?hpid=z1",
+        "title": "Critics pounce after Obama talks Crusades, slavery at prayer breakfast",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2015/feb/5/obamas-preaches-tolerance-to-the-wrong-religion/",
+        "title": "OPINION: Obama\u2019s comparison of Crusades to Islamist terror acts misses mark",
+        "bias_label": 4
+    },
+    "triplet_id": "039"
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/donald-endorses-paul-ryan",
+    "story_title": "Donald Endorses Paul Ryan",
+    "story_time": "2016-08-06",
+    "story_topic": "elections",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/news/the-fix/wp/2016/08/06/paul-ryan-and-john-mccain-1-donald-trump-0/",
+        "title": "Paul Ryan 1, Donald Trump 0",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "BBC News",
+        "url": "http://www.bbc.com/news/election-us-2016-36994996",
+        "title": "Donald Trump relents over Paul Ryan re-election",
+        "bias_label": 2
+    },
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2016/aug/5/trump-endorses-ryan-irks-activists/",
+        "title": "Trump\u2019s Ryan endorsement infuriates anti-establishment activists: \u2018Sold us out\u2019",
+        "bias_label": 4
+    },
+    "triplet_id": "096"
+}

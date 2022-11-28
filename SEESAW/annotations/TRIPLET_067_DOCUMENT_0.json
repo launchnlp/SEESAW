@@ -1,0 +1,662 @@
+{
+    "title": "New Hampshire abolishes death penalty after state senate overrides governor",
+    "entity lists": [
+        [
+            "New Hampshire",
+            [
+                "GPE"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "death penalty",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Chris Sununu",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Melanie Levesque",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "michael addison",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "michael briggs",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Sharon Carson",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Lou D'Allesandro",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "law enforcement officer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Bob Giuda",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "joeanne shaheen",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "John Lynch",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "New Hampshire",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Chris Sununu",
+                "sentiment": "POS",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Melanie Levesque",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Chris Sununu",
+                "sentiment": "POS",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "michael addison",
+                "sentiment": "NEG",
+                "object": "michael briggs",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Sharon Carson",
+                "sentiment": "POS",
+                "object": "New Hampshire",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Sharon Carson",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Sharon Carson",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Sharon Carson",
+                "sentiment": "POS",
+                "object": "New Hampshire",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Lou D'Allesandro",
+                "sentiment": "POS",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Lou D'Allesandro",
+                "sentiment": "POS",
+                "object": "law enforcement officer",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Lou D'Allesandro",
+                "sentiment": "POS",
+                "object": "law enforcement officer",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Lou D'Allesandro",
+                "sentiment": "POS",
+                "object": "law enforcement officer",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Lou D'Allesandro",
+                "sentiment": "POS",
+                "object": "law enforcement officer",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Lou D'Allesandro",
+                "sentiment": "POS",
+                "object": "law enforcement officer",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Lou D'Allesandro",
+                "sentiment": "POS",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Bob Giuda",
+                "sentiment": "POS",
+                "object": "law enforcement officer",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Bob Giuda",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Bob Giuda",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Bob Giuda",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Bob Giuda",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "New Hampshire",
+                "sentiment": "POS",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "joeanne shaheen",
+                "sentiment": "POS",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "John Lynch",
+                "sentiment": "POS",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "death penalty": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "New Hampshire": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Melanie Levesque": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Chris Sununu": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "michael addison": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "michael briggs": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Sharon Carson": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Lou D'Allesandro": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "law enforcement officer": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Bob Giuda": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "joeanne shaheen": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "John Lynch": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "death penalty": [
+            [
+                "Slightly Conservative",
+                "A"
+            ]
+        ],
+        "New Hampshire": [
+            [
+                "Moderate",
+                "A"
+            ]
+        ],
+        "Melanie Levesque": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Chris Sununu": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "michael addison": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "michael briggs": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Sharon Carson": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Lou D'Allesandro": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "law enforcement officer": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Bob Giuda": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "joeanne shaheen": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "John Lynch": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

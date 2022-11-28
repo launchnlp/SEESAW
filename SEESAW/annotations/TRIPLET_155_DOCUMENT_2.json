@@ -1,0 +1,502 @@
+{
+    "title": "George Floyd murder: Minneapolis police to face US federal probe",
+    "entity lists": [
+        [
+            "George Floyd",
+            [
+                "Event",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "B"
+            ]
+        ],
+        [
+            "Derek Chauvin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Merrick Garland",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Minneapolis Police Department",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "United States Department of Justice",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "consent decree",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "conviction",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "police",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "George Floyd",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Derek Chauvin",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Derek Chauvin",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Derek Chauvin",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "George Floyd",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "George Floyd",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "George Floyd",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Derek Chauvin",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Merrick Garland",
+                "sentiment": "NEG",
+                "object": "Minneapolis Police Department",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "POS",
+                "object": "consent decree",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "consent decree",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "consent decree",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Derek Chauvin",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Derek Chauvin",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "conviction",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "conviction",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "conviction",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "conviction",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "conviction",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "police",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "conviction",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "Derek Chauvin",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Merrick Garland": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Minneapolis Police Department": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Derek Chauvin": [
+            [
+                "Negative",
+                "B"
+            ]
+        ],
+        "consent decree": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "George Floyd": [
+            [
+                "Negative",
+                "B"
+            ],
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "conviction": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "police": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Merrick Garland": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Minneapolis Police Department": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "Derek Chauvin": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "consent decree": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "George Floyd": [
+            [
+                "Slightly Conservative",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "conviction": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "police": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        }
+    ]
+}

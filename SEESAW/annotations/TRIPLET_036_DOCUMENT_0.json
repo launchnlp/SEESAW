@@ -1,0 +1,805 @@
+{
+    "title": "Obama to target lack of opportunity at poverty summit",
+    "entity lists": [
+        [
+            "Jerry Abramson",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "minority communities",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "police",
+            [
+                "Organization",
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "recent high-profile confrontations between police and blacks",
+            [
+                "Event",
+                "Event",
+                "Event",
+                "Event"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "opportunities for urban children",
+            [
+                "Topic",
+                "Topic",
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "White House",
+            [
+                "Organization",
+                "Organization",
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Pope Francis",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Jerry Abramson",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "recent high-profile confrontations between police and blacks",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Jerry Abramson",
+                "sentiment": "POS",
+                "object": "White House",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Jerry Abramson",
+                "sentiment": "NEG",
+                "object": "recent high-profile confrontations between police and blacks",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jerry Abramson",
+                "sentiment": "NEG",
+                "object": "recent high-profile confrontations between police and blacks",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "minority communities",
+                "sentiment": "NEG",
+                "object": "police",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "police",
+                "sentiment": "NEG",
+                "object": "minority communities",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "recent high-profile confrontations between police and blacks",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "recent high-profile confrontations between police and blacks",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "opportunities for urban children",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jerry Abramson",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "minority communities",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Jerry Abramson",
+                "sentiment": "POS",
+                "object": "opportunities for urban children",
+                "annotators": [
+                    "B",
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jerry Abramson",
+                "sentiment": "POS",
+                "object": "minority communities",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Jerry Abramson",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B",
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "recent high-profile confrontations between police and blacks",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "minority communities",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Jerry Abramson",
+                "sentiment": "NEG",
+                "object": "recent high-profile confrontations between police and blacks",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "White House",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "opportunities for urban children",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "minority communities",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Pope Francis",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B",
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "minority communities",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Pope Francis",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Pope Francis",
+                "sentiment": "NEG",
+                "object": "recent high-profile confrontations between police and blacks",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "0": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "recent high-profile confrontations between police and blacks",
+                "annotators": [
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "opportunities for urban children",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Jerry Abramson",
+                "sentiment": "POS",
+                "object": "opportunities for urban children",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "recent high-profile confrontations between police and blacks",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "recent high-profile confrontations between police and blacks",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Positive",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Positive",
+                "A"
+            ],
+            [
+                "Positive",
+                "D"
+            ]
+        ],
+        "police": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Pope Francis": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Slightly Positive",
+                "C"
+            ],
+            [
+                "Slightly Positive",
+                "A"
+            ],
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "minority communities": [
+            [
+                "Slightly Positive",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Slightly Positive",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "White House": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Slightly Positive",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "opportunities for urban children": [
+            [
+                "Slightly Positive",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Slightly Positive",
+                "A"
+            ],
+            [
+                "Positive",
+                "D"
+            ]
+        ],
+        "recent high-profile confrontations between police and blacks": [
+            [
+                "Negative",
+                "B"
+            ],
+            [
+                "Negative",
+                "C"
+            ],
+            [
+                "Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Jerry Abramson": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Slightly Positive",
+                "A"
+            ],
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "police": [
+            [
+                "Moderate",
+                "B"
+            ],
+            [
+                "Moderate",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Pope Francis": [
+            [
+                "Slightly Liberal",
+                "B"
+            ],
+            [
+                "Slightly Conservative",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "minority communities": [
+            [
+                "Slightly Liberal",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "C"
+            ],
+            [
+                "Slightly Liberal",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "White House": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "opportunities for urban children": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Very Liberal",
+                "C"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "recent high-profile confrontations between police and blacks": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "C"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Jerry Abramson": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "B"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        },
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "D"
+        }
+    ]
+}

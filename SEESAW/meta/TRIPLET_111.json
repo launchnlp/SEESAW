@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/president-trump-signs-bill-scrapping-auto-lending-measure-targeting-racial-bias",
+    "story_title": "President Trump Signs Bill Scrapping Auto-lending Measure Targeting Racial Bias",
+    "story_time": "2018-05-21",
+    "story_topic": "inequality",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2018/05/21/trump-signs-resolution-killing-auto-lending-rule/628326002/",
+        "title": "Trump signs resolution killing rule intended to prevent racial bias in auto lending",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Reason",
+        "url": "https://reason.com/archives/2018/05/10/the-tyranny-of-the-administrative-state",
+        "title": "The Tyranny of the Administrative State",
+        "bias_label": 4
+    },
+    "Meta info for article 2": {
+        "source": "Politico",
+        "url": "https://www.politico.com/story/2018/05/21/trump-signs-bill-blocking-cfpb-auto-lending-measure-558281",
+        "title": "Trump signs bill blocking consumer bureau auto-lending measure",
+        "bias_label": 1
+    },
+    "triplet_id": "111"
+}

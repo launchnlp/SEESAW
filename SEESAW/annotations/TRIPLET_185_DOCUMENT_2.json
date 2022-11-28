@@ -1,0 +1,291 @@
+{
+    "title": "Americans agree with Barbara Bush",
+    "entity lists": [
+        [
+            "Barbara Bush",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Jeb Bush",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "dynasty issue",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "George H.W. Bush",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Barbara Bush",
+                "sentiment": "NEG",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Barbara Bush",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Barbara Bush",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Barbara Bush",
+                "sentiment": "POS",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Barbara Bush",
+                "sentiment": "POS",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Jeb Bush",
+                "sentiment": "POS",
+                "object": "dynasty issue",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Jeb Bush",
+                "sentiment": "POS",
+                "object": "dynasty issue",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "George H.W. Bush",
+                "sentiment": "NEG",
+                "object": "Barbara Bush",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "George H.W. Bush",
+                "sentiment": "POS",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "George H.W. Bush",
+                "sentiment": "POS",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "George H.W. Bush",
+                "sentiment": "POS",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Jeb Bush": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Barbara Bush": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "dynasty issue": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "George H.W. Bush": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Jeb Bush": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Barbara Bush": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "dynasty issue": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "George H.W. Bush": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        }
+    ]
+}

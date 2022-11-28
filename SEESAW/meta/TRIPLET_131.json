@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/follow-jan-8-missile-attack-left-34-us-troops-brain-injuries",
+    "story_title": "Follow-up: Jan. 8 Missile Attack Left 34 US Troops with Brain Injuries",
+    "story_time": "2020-01-24",
+    "story_topic": "national_defense",
+    "Split": "test",
+    "Meta info for article 2": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2020/01/24/799342078/pentagon-says-34-u-s-troops-suffered-brain-injuries-from-iranian-missile-strike",
+        "title": "Pentagon Says 34 U.S. Troops Suffered Brain Injuries From Iranian Missile Strike",
+        "bias_label": 2
+    },
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2020/jan/24/34-us-troops-suffered-brain-injuries-iranian-attac/",
+        "title": "34 U.S. troops suffered brain injuries in Iranian attack, Pentagon says",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2020/01/24/troops-brain-injuries-iran-trump-103625",
+        "title": "34 troops diagnosed with brain injuries days after Trump dismissed them as 'headaches'",
+        "bias_label": 1
+    },
+    "triplet_id": "131"
+}

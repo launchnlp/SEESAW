@@ -1,0 +1,657 @@
+{
+    "title": "Trump praises Putin over US sanctions \u2013 a move that puts him at odds with GOP",
+    "entity lists": [
+        [
+            "Obama administration",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Russia",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Vladimir Putin",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "the Obama administration\u2019s tough new sanctions against Russia",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "boris zilberman",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Lindsey Graham",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "John McCain",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "thomas wright",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Obama administration",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Vladimir Putin",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Vladimir Putin",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Vladimir Putin",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Vladimir Putin",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Vladimir Putin",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "the Obama administration\u2019s tough new sanctions against Russia",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "the Obama administration\u2019s tough new sanctions against Russia",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "the Obama administration\u2019s tough new sanctions against Russia",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "the Obama administration\u2019s tough new sanctions against Russia",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Vladimir Putin",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "boris zilberman",
+                "sentiment": "NEG",
+                "object": "the Obama administration\u2019s tough new sanctions against Russia",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "boris zilberman",
+                "sentiment": "NEG",
+                "object": "Obama administration",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Obama administration",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Obama administration",
+                "sentiment": "POS",
+                "object": "Russia",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "Obama administration",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "the Obama administration\u2019s tough new sanctions against Russia",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "41": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Obama administration",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "42": [
+            {
+                "id": 0,
+                "subject": "Lindsey Graham",
+                "sentiment": "NEG",
+                "object": "Obama administration",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Lindsey Graham",
+                "sentiment": "POS",
+                "object": "the Obama administration\u2019s tough new sanctions against Russia",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "John McCain",
+                "sentiment": "NEG",
+                "object": "Obama administration",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "John McCain",
+                "sentiment": "POS",
+                "object": "the Obama administration\u2019s tough new sanctions against Russia",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "43": [
+            {
+                "id": 0,
+                "subject": "John McCain",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Lindsey Graham",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "44": [
+            {
+                "id": 0,
+                "subject": "John McCain",
+                "sentiment": "POS",
+                "object": "Russia",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Lindsey Graham",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "45": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "46": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Obama administration",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "48": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Obama administration",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "the Obama administration\u2019s tough new sanctions against Russia",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "49": [
+            {
+                "id": 0,
+                "subject": "thomas wright",
+                "sentiment": "NEG",
+                "object": "the Obama administration\u2019s tough new sanctions against Russia",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "50": [
+            {
+                "id": 0,
+                "subject": "thomas wright",
+                "sentiment": "NEG",
+                "object": "the Obama administration\u2019s tough new sanctions against Russia",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "51": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "52": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "the Obama administration\u2019s tough new sanctions against Russia",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Vladimir Putin": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "the Obama administration\u2019s tough new sanctions against Russia": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Obama administration": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Russia": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "boris zilberman": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "John McCain": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Lindsey Graham": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "thomas wright": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "Vladimir Putin": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "the Obama administration\u2019s tough new sanctions against Russia": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Obama administration": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Russia": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "boris zilberman": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "John McCain": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Lindsey Graham": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "thomas wright": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "C"
+        }
+    ]
+}

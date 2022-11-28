@@ -1,0 +1,131 @@
+{
+    "title": "Feinstein: Obama maybe \u2018too cautious\u2019 on ISIS, but plans are underway",
+    "entity lists": [
+        [
+            "Islamic State",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Dianne Feinstein",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Islamic State",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Dianne Feinstein",
+                "sentiment": "NEG",
+                "object": "Islamic State",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Dianne Feinstein",
+                "sentiment": "NEG",
+                "object": "Islamic State",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Islamic State": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Dianne Feinstein": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Islamic State": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Dianne Feinstein": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

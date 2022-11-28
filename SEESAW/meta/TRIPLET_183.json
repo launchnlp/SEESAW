@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/house-passes-va-reform-bill",
+    "story_title": "House Passes VA Reform Bill",
+    "story_time": "2014-07-30",
+    "story_topic": "us_house",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2014/07/30/house-democrats-border_n_5634076.html?utm_hp_ref=politics",
+        "title": "House Democrats Fighting Hard Against Republicans' Border Bill",
+        "bias_label": 0
+    },
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2014/jul/30/house-passes-va-reform-compromise/",
+        "title": "House passes VA reform compromise",
+        "bias_label": 4
+    },
+    "Meta info for article 2": {
+        "source": "Politico",
+        "url": "http://www.politico.com/story/2014/07/veterans-affairs-reform-house-109555.html?hp=l4",
+        "title": "House approves VA reform bill",
+        "bias_label": 1
+    },
+    "triplet_id": "183"
+}

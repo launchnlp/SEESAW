@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/congressional-leaders-criticize-maxine-waters",
+    "story_title": "Congressional Leaders Criticize Maxine Waters",
+    "story_time": "2018-06-26",
+    "story_topic": "us_congress",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2018/06/25/623206039/congressional-leaders-criticize-maxine-waters-for-urging-confrontation",
+        "title": "Congressional Leaders Criticize Maxine Waters For Urging Confrontation",
+        "bias_label": 2
+    },
+    "Meta info for article 0": {
+        "source": "Newsmax (News)",
+        "url": "https://www.newsmax.com/politics/andy-biggs-maxine-waters-resignation-trump/2018/06/26/id/868332/",
+        "title": "Representative Andy Biggs: Maxine Waters Should Resign",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/2018/06/25/politics/chuck-schumer-maxine-waters-harassment-trump-officials/index.html",
+        "title": "Schumer on Waters: Calling for harassment 'not American'",
+        "bias_label": 0
+    },
+    "triplet_id": "107"
+}

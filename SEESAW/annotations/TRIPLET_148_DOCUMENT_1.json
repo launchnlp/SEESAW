@@ -1,0 +1,489 @@
+{
+    "title": "House votes to override Trump\u2019s veto of defense bill, setting up first such rebuke during his presidency",
+    "entity lists": [
+        [
+            "United States House of Representatives",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "National Defense Authorization Act",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main"
+            ],
+            [
+                "A",
+                "A"
+            ]
+        ],
+        [
+            "Kevin McCarthy",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Congress",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Mac Thornberry",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "adam smith",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "US-Mexico border wall",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "POS",
+                "object": "National Defense Authorization Act",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "National Defense Authorization Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "National Defense Authorization Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Kevin McCarthy",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Kevin McCarthy",
+                "sentiment": "POS",
+                "object": "National Defense Authorization Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "United States Congress",
+                "sentiment": "POS",
+                "object": "National Defense Authorization Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "National Defense Authorization Act",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "National Defense Authorization Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Mac Thornberry",
+                "sentiment": "POS",
+                "object": "National Defense Authorization Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Mac Thornberry",
+                "sentiment": "POS",
+                "object": "National Defense Authorization Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "adam smith",
+                "sentiment": "POS",
+                "object": "National Defense Authorization Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "adam smith",
+                "sentiment": "POS",
+                "object": "National Defense Authorization Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "National Defense Authorization Act",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "National Defense Authorization Act",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "National Defense Authorization Act",
+                "sentiment": "NEG",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "National Defense Authorization Act",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "United States House of Representatives": [
+            [
+                "Unknown",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Unknown",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "National Defense Authorization Act": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Kevin McCarthy": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Mac Thornberry": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "adam smith": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "US-Mexico border wall": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "United States House of Representatives": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "National Defense Authorization Act": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Kevin McCarthy": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Moderate",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Mac Thornberry": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "adam smith": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "US-Mexico border wall": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

@@ -1,0 +1,282 @@
+{
+    "title": "Democrats' next political high-wire act: Selling their $3.5T budget deal",
+    "entity lists": [
+        [
+            "Senate Democrats",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "one-party spending bill",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Chuck Schumer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "infrastructure bill",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jon Tester",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Joe Manchin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "5": [
+            {
+                "id": 0,
+                "subject": "Senate Democrats",
+                "sentiment": "POS",
+                "object": "one-party spending bill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "POS",
+                "object": "infrastructure bill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "infrastructure bill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "POS",
+                "object": "infrastructure bill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Jon Tester",
+                "sentiment": "NEG",
+                "object": "infrastructure bill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "infrastructure bill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Senate Democrats",
+                "sentiment": "POS",
+                "object": "infrastructure bill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "Jon Tester",
+                "sentiment": "POS",
+                "object": "infrastructure bill",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "infrastructure bill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Senate Democrats": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "one-party spending bill": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "infrastructure bill": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Jon Tester": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Senate Democrats": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "one-party spending bill": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "infrastructure bill": [
+            [
+                "Moderate",
+                "A"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Jon Tester": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

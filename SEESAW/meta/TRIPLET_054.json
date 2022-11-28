@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/heather-nauert-withdraws-bid-us-ambassador-united-nations",
+    "story_title": "Heather Nauert Withdraws Bid for U.S. Ambassador to the United Nations",
+    "story_time": "2019-02-17",
+    "story_topic": "state_department",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2019/feb/16/heather-nauert-withdraws-consideration-un-post/",
+        "title": "Heather Nauert withdraws from consideration for U.N. post",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/world-us-canada-47268967",
+        "title": "Heather Nauert withdraws bid to be US envoy to UN",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/politics/heather-nauert-nominee-for-us-ambassador-to-the-united-nations-has-withdrawn-herself-from-consideration/2019/02/16/64b86524-3250-11e9-86ab-5d02109aeb01_story.html?utm_term=.be67e9df4e1b",
+        "title": "Heather Nauert, Trump\u2019s pick for U.S. ambassador to the United Nations, withdraws from consideration",
+        "bias_label": 1
+    },
+    "triplet_id": "054"
+}

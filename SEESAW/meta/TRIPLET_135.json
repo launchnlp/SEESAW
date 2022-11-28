@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/appeals-court-orders-trump-turn-over-taxes",
+    "story_title": "Appeals Court Orders Trump to Turn Over Taxes",
+    "story_time": "2020-10-07",
+    "story_topic": "justice",
+    "Split": "test",
+    "Meta info for article 0": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/2020/10/07/politics/trump-tax-returns-subpoena-ruling/index.html",
+        "title": "Federal appeals court rules Trump can't block New York subpoena for his tax returns",
+        "bias_label": 0
+    },
+    "Meta info for article 1": {
+        "source": "The Hill",
+        "url": "https://thehill.com/regulation/court-battles/519962-trump-cannot-block-grand-jury-subpoena-for-his-tax-returns-court",
+        "title": "Trump cannot block grand jury subpoena for his tax returns, court rules",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2020/oct/7/federal-appeals-court-upholds-new-york-subpoena-tr/",
+        "title": "Federal appeals court upholds New York subpoena for Trump's taxes",
+        "bias_label": 4
+    },
+    "triplet_id": "135"
+}

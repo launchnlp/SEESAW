@@ -1,0 +1,811 @@
+{
+    "title": "Senate Hopeful Joe Miller Calls For Obama's Impeachment, Blasts Mark Begich Over Border",
+    "entity lists": [
+        [
+            "Joe Miller",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Sarah Palin",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "crisis on the U.S.-Mexico border",
+            [
+                "Event",
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "conservatives",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "John Boehner",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Mark Begich",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "President Barack Obama's impeachment",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "John McCain",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "the president's use of executive powers",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United States Congress",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "unaccompanied minors arriving at the southern border",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Joe Miller",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Miller",
+                "sentiment": "NEG",
+                "object": "Mark Begich",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Joe Miller",
+                "sentiment": "POS",
+                "object": "President Barack Obama's impeachment",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Sarah Palin",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Miller",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Joe Miller",
+                "sentiment": "POS",
+                "object": "Sarah Palin",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Joe Miller",
+                "sentiment": "POS",
+                "object": "President Barack Obama's impeachment",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Joe Miller",
+                "sentiment": "NEG",
+                "object": "crisis on the U.S.-Mexico border",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Miller",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Sarah Palin",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Sarah Palin",
+                "sentiment": "POS",
+                "object": "John McCain",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "John McCain",
+                "sentiment": "POS",
+                "object": "Sarah Palin",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Sarah Palin",
+                "sentiment": "POS",
+                "object": "President Barack Obama's impeachment",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Sarah Palin",
+                "sentiment": "NEG",
+                "object": "crisis on the U.S.-Mexico border",
+                "annotators": [
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Sarah Palin",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Sarah Palin",
+                "sentiment": "POS",
+                "object": "President Barack Obama's impeachment",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "conservatives",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John Boehner",
+                "sentiment": "NEG",
+                "object": "the president's use of executive powers",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "John Boehner",
+                "sentiment": "NEG",
+                "object": "President Barack Obama's impeachment",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "conservatives",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "conservatives",
+                "sentiment": "NEG",
+                "object": "crisis on the U.S.-Mexico border",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "unaccompanied minors arriving at the southern border",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Joe Miller",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Joe Miller",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Miller",
+                "sentiment": "NEG",
+                "object": "Mark Begich",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Joe Miller",
+                "sentiment": "NEG",
+                "object": "crisis on the U.S.-Mexico border",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Joe Miller",
+                "sentiment": "NEG",
+                "object": "Mark Begich",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Miller",
+                "sentiment": "NEG",
+                "object": "crisis on the U.S.-Mexico border",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Joe Miller",
+                "sentiment": "NEG",
+                "object": "Mark Begich",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Miller",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Joe Miller",
+                "sentiment": "NEG",
+                "object": "crisis on the U.S.-Mexico border",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Joe Miller",
+                "sentiment": "NEG",
+                "object": "unaccompanied minors arriving at the southern border",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "United States Congress",
+                "sentiment": "POS",
+                "object": "President Barack Obama's impeachment",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Slightly Positive",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "conservatives": [
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Sarah Palin": [
+            [
+                "Slightly Negative",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Joe Miller": [
+            [
+                "Negative",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "crisis on the U.S.-Mexico border": [
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Mark Begich": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "President Barack Obama's impeachment": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "John McCain": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "the president's use of executive powers": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "unaccompanied minors arriving at the southern border": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "conservatives": [
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Sarah Palin": [
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Joe Miller": [
+            [
+                "Very Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "crisis on the U.S.-Mexico border": [
+            [
+                "Not Applicable",
+                "C"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Mark Begich": [
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "President Barack Obama's impeachment": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "John McCain": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "the president's use of executive powers": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "unaccompanied minors arriving at the southern border": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "C"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "D"
+        }
+    ]
+}

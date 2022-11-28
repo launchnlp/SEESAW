@@ -1,0 +1,648 @@
+{
+    "title": "Trey Gowdy Focusing On Hillary Clinton Allies In Closed Benghazi Committee Interviews",
+    "entity lists": [
+        [
+            "Trey Gowdy",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Benghazi Committee investigation",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Cheryl Mills",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jake Sullivan",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Sidney Blumenthal",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "bryan pagliano",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "jamal ware",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Elijah Cummings",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "select committee",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "benghazi",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Kevin McCarthy",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Richard L. Hanna",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "POS",
+                "object": "Benghazi Committee investigation",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Trey Gowdy",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Cheryl Mills",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jake Sullivan",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Sidney Blumenthal",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "bryan pagliano",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Trey Gowdy",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "jamal ware",
+                "sentiment": "POS",
+                "object": "Trey Gowdy",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "jamal ware",
+                "sentiment": "POS",
+                "object": "Trey Gowdy",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "jamal ware",
+                "sentiment": "POS",
+                "object": "Trey Gowdy",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "jamal ware",
+                "sentiment": "NEG",
+                "object": "Elijah Cummings",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "jamal ware",
+                "sentiment": "POS",
+                "object": "select committee",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "select committee",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "NEG",
+                "object": "benghazi",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "NEG",
+                "object": "Benghazi Committee investigation",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Elijah Cummings",
+                "sentiment": "NEG",
+                "object": "select committee",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Kevin McCarthy",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "select committee",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Richard L. Hanna",
+                "sentiment": "NEG",
+                "object": "select committee",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "select committee",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Richard L. Hanna",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "select committee",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Richard L. Hanna",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Richard L. Hanna",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "POS",
+                "object": "select committee",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Trey Gowdy",
+                "sentiment": "POS",
+                "object": "Benghazi Committee investigation",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Trey Gowdy": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Benghazi Committee investigation": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Cheryl Mills": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Jake Sullivan": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Sidney Blumenthal": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "bryan pagliano": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "jamal ware": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "select committee": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "benghazi": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Kevin McCarthy": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Richard L. Hanna": [
+            [
+                "Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Trey Gowdy": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Benghazi Committee investigation": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Cheryl Mills": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Jake Sullivan": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Sidney Blumenthal": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "bryan pagliano": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "jamal ware": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "select committee": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "benghazi": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Kevin McCarthy": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Richard L. Hanna": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{
+    "title": "Robert E. Lee statue removed from Capitol",
+    "entity lists": [
+        [
+            "NAACP",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Barbara Rose Johns",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Donald McEachin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Robert E. Lee",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Jennifer Wexton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "racism",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Confederate States of America",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "NAACP",
+                "sentiment": "POS",
+                "object": "Barbara Rose Johns",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Donald McEachin",
+                "sentiment": "NEG",
+                "object": "Robert E. Lee",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jennifer Wexton",
+                "sentiment": "NEG",
+                "object": "Robert E. Lee",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Robert E. Lee",
+                "sentiment": "POS",
+                "object": "racism",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald McEachin",
+                "sentiment": "NEG",
+                "object": "racism",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald McEachin",
+                "sentiment": "NEG",
+                "object": "Robert E. Lee",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Jennifer Wexton",
+                "sentiment": "NEG",
+                "object": "Robert E. Lee",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Jennifer Wexton",
+                "sentiment": "NEG",
+                "object": "racism",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Robert E. Lee",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Nancy Pelosi",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Robert E. Lee",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "racism",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Confederate States of America",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Robert E. Lee": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Barbara Rose Johns": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "racism": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Donald McEachin": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Jennifer Wexton": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "NAACP": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Confederate States of America": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Robert E. Lee": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Barbara Rose Johns": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "racism": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "Donald McEachin": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Jennifer Wexton": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "NAACP": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Confederate States of America": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        }
+    ]
+}

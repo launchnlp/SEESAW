@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/trump-team-sues-capital-one-and-deutsche-bank-over-democrat-subpoenas",
+    "story_title": "Trump Team Sues Capital One And Deutsche Bank Over Democrat Subpoenas",
+    "story_time": "2019-04-30",
+    "story_topic": "white_house",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Politico",
+        "url": "https://www.politico.com/story/2019/04/29/trump-sues-deutsche-bank-capitol-one-1292575",
+        "title": "Trump sues Deutsche Bank, Capital One to block House subpoenas",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2019/apr/29/donald-trump-sues-deutsche-bank-capital-one-block-/",
+        "title": "Trump sues banks to block House subpoenas for records",
+        "bias_label": 4
+    },
+    "Meta info for article 2": {
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/world-us-canada-48102647",
+        "title": "Trump sues Deutsche Bank and Capital One over Democrat subpoenas",
+        "bias_label": 2
+    },
+    "triplet_id": "074"
+}

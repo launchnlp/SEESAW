@@ -1,0 +1,177 @@
+{
+    "title": "Florida election official Brenda Snipes resigns after tumultuous recount",
+    "entity lists": [
+        [
+            "Marco Rubio",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Brenda Snipes",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Rick Scott",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "14": [
+            {
+                "id": 0,
+                "subject": "Marco Rubio",
+                "sentiment": "NEG",
+                "object": "Brenda Snipes",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Brenda Snipes",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Rick Scott",
+                "sentiment": "NEG",
+                "object": "Brenda Snipes",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Brenda Snipes",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Brenda Snipes": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Marco Rubio": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Rick Scott": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Brenda Snipes": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Marco Rubio": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Rick Scott": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/obamacare-premiums-rise-sharply",
+    "story_title": "Obamacare Premiums to Rise Sharply",
+    "story_time": "2016-10-25",
+    "story_topic": "healthcare",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2016/oct/24/obamacare-premiums-rise-sharply-choices-dwindle-ad/",
+        "title": "Obamacare premiums to rise by double-digit percentages for millions",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "NPR (Online News)",
+        "url": "http://www.npr.org/sections/health-shots/2016/10/24/499190020/rates-rise-again-for-obamacare-health-plans-but-so-do-subsidies",
+        "title": "Rates Rise Again For Obamacare Health Plans, But So Do Subsidies  Listen\u00b7 3:56",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "Vox",
+        "url": "http://www.vox.com/2016/10/24/13394258/obamacare-premiums-hike-explained",
+        "title": "Obamacare's double-digit rate hike, explained in 400 words",
+        "bias_label": 0
+    },
+    "triplet_id": "085"
+}

@@ -1,0 +1,214 @@
+{
+    "title": "Presidential Candidates Set Their Sights On Colorado's Latinos",
+    "entity lists": [
+        [
+            "latino",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "DREAM Act",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Mitt Romney",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "11": [
+            {
+                "id": 0,
+                "subject": "latino",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "latino",
+                "sentiment": "POS",
+                "object": "DREAM Act",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Mitt Romney",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Mitt Romney",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Mitt Romney": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "latino": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "DREAM Act": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Mitt Romney": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "latino": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ],
+        "DREAM Act": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "C"
+        }
+    ]
+}

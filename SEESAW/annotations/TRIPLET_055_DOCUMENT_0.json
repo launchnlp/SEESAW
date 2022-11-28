@@ -1,0 +1,609 @@
+{
+    "title": "White House economic adviser Larry Kudlow foresees another budget fight over border wall",
+    "entity lists": [
+        [
+            "Larry Kudlow",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "C",
+                "A"
+            ]
+        ],
+        [
+            "2020 budget blueprint",
+            [
+                "Topic",
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "C",
+                "A"
+            ]
+        ],
+        [
+            "US-Mexico border wall",
+            [
+                "Topic",
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "C",
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A"
+            ]
+        ],
+        [
+            "president 's emergency declaration",
+            [
+                "Event",
+                "Event",
+                "Event"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A"
+            ]
+        ],
+        [
+            "United States House of Representatives",
+            [
+                "Organization",
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Larry Kudlow",
+                "sentiment": "NEG",
+                "object": "2020 budget blueprint",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "2020 budget blueprint",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B",
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Larry Kudlow",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Larry Kudlow",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Larry Kudlow",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Larry Kudlow",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "president 's emergency declaration",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "president 's emergency declaration",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "NEG",
+                "object": "president 's emergency declaration",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "United States House of Representatives",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "president 's emergency declaration",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "2020 budget blueprint",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "C",
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "2020 budget blueprint",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "2020 budget blueprint",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Larry Kudlow",
+                "sentiment": "POS",
+                "object": "2020 budget blueprint",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "2020 budget blueprint",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Larry Kudlow": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Positive",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "2020 budget blueprint": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Slightly Positive",
+                "C"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "US-Mexico border wall": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Slightly Positive",
+                "C"
+            ],
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Slightly Positive",
+                "C"
+            ],
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "president 's emergency declaration": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Larry Kudlow": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "2020 budget blueprint": [
+            [
+                "Moderate",
+                "B"
+            ],
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "US-Mexico border wall": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Very Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "B"
+            ],
+            [
+                "Very Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Slightly Liberal",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "C"
+            ],
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "president 's emergency declaration": [
+            [
+                "Moderate",
+                "B"
+            ],
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "B"
+        },
+        {
+            "ideology": "Conservative",
+            "annotator": "C"
+        },
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

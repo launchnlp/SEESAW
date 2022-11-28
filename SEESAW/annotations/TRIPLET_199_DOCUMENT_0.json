@@ -1,0 +1,243 @@
+{
+    "title": "Obama Administration Delays 2015 Obamacare Enrollment Period Until After 2014 Elections",
+    "entity lists": [
+        [
+            "Obama administration",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Delays 2015 Obamacare Enrollment Period",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Affordable Care Act",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "United States Department of Health and Human Services",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Obama administration",
+                "sentiment": "POS",
+                "object": "Delays 2015 Obamacare Enrollment Period",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Delays 2015 Obamacare Enrollment Period",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Obama administration",
+                "sentiment": "POS",
+                "object": "Delays 2015 Obamacare Enrollment Period",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Delays 2015 Obamacare Enrollment Period",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "United States Department of Health and Human Services",
+                "sentiment": "POS",
+                "object": "Delays 2015 Obamacare Enrollment Period",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Delays 2015 Obamacare Enrollment Period",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "United States Department of Health and Human Services",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Affordable Care Act": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Delays 2015 Obamacare Enrollment Period": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Obama administration": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "United States Department of Health and Human Services": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Affordable Care Act": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Delays 2015 Obamacare Enrollment Period": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "Obama administration": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "United States Department of Health and Human Services": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "B"
+        }
+    ]
+}

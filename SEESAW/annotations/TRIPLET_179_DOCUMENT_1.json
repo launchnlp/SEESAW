@@ -1,0 +1,144 @@
+{
+    "title": "Gov. Jan Brewer: \"I will do the right thing for Arizona\"",
+    "entity lists": [
+        [
+            "John McCain",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "bill",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Jeff Flake",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Center for Arizona Policy",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "6": [
+            {
+                "id": 0,
+                "subject": "John McCain",
+                "sentiment": "NEG",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jeff Flake",
+                "sentiment": "NEG",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Center for Arizona Policy",
+                "sentiment": "POS",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "bill": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "John McCain": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Jeff Flake": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Center for Arizona Policy": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "bill": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "John McCain": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Jeff Flake": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Center for Arizona Policy": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        }
+    ]
+}

@@ -1,0 +1,414 @@
+{
+    "title": "Senate Leaders Announce Deal On Human Trafficking Bill, Clearing Path For Loretta Lynch Vote",
+    "entity lists": [
+        [
+            "sex trafficking bill",
+            [
+                "Others"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "anti-abortion language",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Patty Murray",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "standoff",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "John Cornyn",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Hyde Amendment",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "restricting abortion funds",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Loretta Lynch",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "sex trafficking bill",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "anti-abortion language",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Patty Murray",
+                "sentiment": "NEG",
+                "object": "standoff",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John Cornyn",
+                "sentiment": "NEG",
+                "object": "standoff",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Hyde Amendment",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Hyde Amendment",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "restricting abortion funds",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Patty Murray",
+                "sentiment": "POS",
+                "object": "sex trafficking bill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "John Cornyn",
+                "sentiment": "POS",
+                "object": "sex trafficking bill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "John Cornyn",
+                "sentiment": "POS",
+                "object": "sex trafficking bill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "anti-abortion language",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "sex trafficking bill": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Loretta Lynch": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "anti-abortion language": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "standoff": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Patty Murray": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "John Cornyn": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Hyde Amendment": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "restricting abortion funds": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "sex trafficking bill": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Loretta Lynch": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "anti-abortion language": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "standoff": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Patty Murray": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "John Cornyn": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Hyde Amendment": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "restricting abortion funds": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

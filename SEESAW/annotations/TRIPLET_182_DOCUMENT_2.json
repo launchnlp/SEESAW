@@ -1,0 +1,144 @@
+{
+    "title": "House Expected to Vote on Training Syrian Rebels to Fight ISIS",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "train and equip Syrian rebels to battle the Islamic State",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "John Boehner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "train and equip Syrian rebels to battle the Islamic State",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "NEG",
+                "object": "train and equip Syrian rebels to battle the Islamic State",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "train and equip Syrian rebels to battle the Islamic State": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "train and equip Syrian rebels to battle the Islamic State": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "C"
+        }
+    ]
+}

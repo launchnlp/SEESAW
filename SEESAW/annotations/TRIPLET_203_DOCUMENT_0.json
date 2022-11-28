@@ -1,0 +1,203 @@
+{
+    "title": "Why retirement of Lois Lerner doesn't end IRS tea party scandal (+video)",
+    "entity lists": [
+        [
+            "Lois Lerner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "tea party group",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Orrin Hatch",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "conservatives",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Internal Revenue Service",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Lois Lerner",
+                "sentiment": "NEG",
+                "object": "tea party group",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Lois Lerner",
+                "sentiment": "NEG",
+                "object": "tea party group",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Orrin Hatch",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "conservatives",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Internal Revenue Service",
+                "sentiment": "NEG",
+                "object": "conservatives",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Internal Revenue Service",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Lois Lerner": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "tea party group": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Orrin Hatch": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "conservatives": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Internal Revenue Service": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Lois Lerner": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "tea party group": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Orrin Hatch": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "conservatives": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Internal Revenue Service": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "A"
+        }
+    ]
+}

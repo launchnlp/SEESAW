@@ -1,0 +1,157 @@
+{
+    "title": "House passes VA reform compromise",
+    "entity lists": [
+        [
+            "Jeff Miller",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "veteran",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Walter B. Jones Jr.",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "4": [
+            {
+                "id": 0,
+                "subject": "Jeff Miller",
+                "sentiment": "POS",
+                "object": "veteran",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "POS",
+                "object": "veteran",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Walter B. Jones Jr.",
+                "sentiment": "POS",
+                "object": "veteran",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Walter B. Jones Jr.",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "veteran": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Jeff Miller": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Walter B. Jones Jr.": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "veteran": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Jeff Miller": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Walter B. Jones Jr.": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

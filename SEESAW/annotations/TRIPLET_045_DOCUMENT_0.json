@@ -1,0 +1,693 @@
+{
+    "title": "U.S. appeals court to take up constitutionality of Obamacare",
+    "entity lists": [
+        [
+            "appeals court panel",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Affordable Care Act",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States House of Representatives",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "George W. Bush",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jennifer Walker Elrod",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Kurt D. Engelhardt",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Xavier Becerra",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "The Supreme Court\u2019s conservative majority",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "John Roberts",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican-led states",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Texas",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Reed O'Connor",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Department of Justice",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "mandate",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "appeals court panel",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "appeals court panel",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "George W. Bush",
+                "sentiment": "POS",
+                "object": "Jennifer Walker Elrod",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Kurt D. Engelhardt",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Xavier Becerra",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "The Supreme Court\u2019s conservative majority",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "John Roberts",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Republican-led states",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Texas",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican-led states",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Texas",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "George W. Bush",
+                "sentiment": "POS",
+                "object": "Reed O'Connor",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "NEG",
+                "object": "mandate",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "appeals court panel": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Affordable Care Act": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "George W. Bush": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Jennifer Walker Elrod": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Kurt D. Engelhardt": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Xavier Becerra": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "The Supreme Court\u2019s conservative majority": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "John Roberts": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Republican-led states": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Texas": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Reed O'Connor": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "mandate": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "appeals court panel": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Affordable Care Act": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "George W. Bush": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Jennifer Walker Elrod": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Kurt D. Engelhardt": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Xavier Becerra": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "The Supreme Court\u2019s conservative majority": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "John Roberts": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Republican-led states": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Texas": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Reed O'Connor": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "mandate": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

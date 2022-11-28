@@ -1,0 +1,309 @@
+{
+    "title": "Mike Pence's decision to stay at Trump hotel in Ireland came after president's 'suggestion', top aide says",
+    "entity lists": [
+        [
+            "Marc Short",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Mike Pence",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Doonbeg",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Ted Lieu",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Marc Short",
+                "sentiment": "POS",
+                "object": "Mike Pence",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Mike Pence",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Mike Pence",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Marc Short",
+                "sentiment": "POS",
+                "object": "Mike Pence",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Marc Short",
+                "sentiment": "POS",
+                "object": "Mike Pence",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Mike Pence",
+                "sentiment": "POS",
+                "object": "Doonbeg",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Mike Pence",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Mike Pence",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mike Pence",
+                "sentiment": "POS",
+                "object": "Doonbeg",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Mike Pence",
+                "sentiment": "POS",
+                "object": "Doonbeg",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Mike Pence",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Mike Pence",
+                "sentiment": "POS",
+                "object": "Doonbeg",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Mike Pence",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Ted Lieu",
+                "sentiment": "NEG",
+                "object": "Mike Pence",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Marc Short",
+                "sentiment": "NEG",
+                "object": "Ted Lieu",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Marc Short",
+                "sentiment": "NEG",
+                "object": "Ted Lieu",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Mike Pence": [
+            [
+                "Positive",
+                "C"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Marc Short": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Ted Lieu": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Doonbeg": [
+            [
+                "Positive",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Mike Pence": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "Marc Short": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Ted Lieu": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Doonbeg": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "C"
+        }
+    ]
+}

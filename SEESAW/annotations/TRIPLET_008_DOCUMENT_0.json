@@ -1,0 +1,398 @@
+{
+    "title": "Beau Biden honored by presidents Obama, Clinton",
+    "entity lists": [
+        [
+            "Bill Clinton",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Beau Biden",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Michelle Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Jill Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Bill Clinton",
+                "sentiment": "POS",
+                "object": "Beau Biden",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Beau Biden",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Beau Biden",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Joe Biden",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Hillary Clinton",
+                "sentiment": "POS",
+                "object": "Beau Biden",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Bill Clinton",
+                "sentiment": "POS",
+                "object": "Beau Biden",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Bill Clinton",
+                "sentiment": "POS",
+                "object": "Beau Biden",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Hillary Clinton",
+                "sentiment": "POS",
+                "object": "Beau Biden",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Beau Biden",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Michelle Obama",
+                "sentiment": "POS",
+                "object": "Jill Biden",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Joe Biden",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Michelle Obama",
+                "sentiment": "POS",
+                "object": "Joe Biden",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Jill Biden",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Joe Biden",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Joe Biden",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Joe Biden",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Beau Biden",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Jill Biden",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Joe Biden",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Beau Biden",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Beau Biden",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Bill Clinton": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "Beau Biden": [
+            [
+                "Very Positive",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "Michelle Obama": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "Jill Biden": [
+            [
+                "Positive",
+                "C"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Positive",
+                "C"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Bill Clinton": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Beau Biden": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Michelle Obama": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Jill Biden": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "C"
+        }
+    ]
+}

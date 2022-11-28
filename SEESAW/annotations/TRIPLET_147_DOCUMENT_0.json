@@ -1,0 +1,315 @@
+{
+    "title": "CDC Considers Asking People to Wear Makeshift Masks in Public",
+    "entity lists": [
+        [
+            "Centers for Disease Control and Prevention",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "wearing face masks outside the home",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Austria",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Hong Kong",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "South Korea",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Singapore",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Japan",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Tom Inglesby",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Centers for Disease Control and Prevention",
+                "sentiment": "POS",
+                "object": "wearing face masks outside the home",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "wearing face masks outside the home",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Centers for Disease Control and Prevention",
+                "sentiment": "POS",
+                "object": "wearing face masks outside the home",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Austria",
+                "sentiment": "POS",
+                "object": "wearing face masks outside the home",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Hong Kong",
+                "sentiment": "POS",
+                "object": "wearing face masks outside the home",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "South Korea",
+                "sentiment": "POS",
+                "object": "wearing face masks outside the home",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Singapore",
+                "sentiment": "POS",
+                "object": "wearing face masks outside the home",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Japan",
+                "sentiment": "POS",
+                "object": "wearing face masks outside the home",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Tom Inglesby",
+                "sentiment": "POS",
+                "object": "wearing face masks outside the home",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Tom Inglesby",
+                "sentiment": "POS",
+                "object": "wearing face masks outside the home",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Centers for Disease Control and Prevention": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "wearing face masks outside the home": [
+            [
+                "Positive",
+                "D"
+            ]
+        ],
+        "Austria": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Tom Inglesby": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Hong Kong": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "South Korea": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Singapore": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Japan": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Centers for Disease Control and Prevention": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "wearing face masks outside the home": [
+            [
+                "Slightly Liberal",
+                "D"
+            ]
+        ],
+        "Austria": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Tom Inglesby": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "Hong Kong": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "South Korea": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Singapore": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Japan": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "D"
+        }
+    ]
+}

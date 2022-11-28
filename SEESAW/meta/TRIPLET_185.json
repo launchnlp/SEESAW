@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/polls-should-jeb-bush-run",
+    "story_title": "Polls: Should Jeb Bush Run",
+    "story_time": "2014-04-30",
+    "story_topic": "elections",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "CNN (Online News)",
+        "url": "http://politicalticker.blogs.cnn.com/2014/04/30/americans-agree-with-barbara-bush/",
+        "title": "Americans agree with Barbara Bush",
+        "bias_label": 0
+    },
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2014/apr/30/tim-pawlenty-cites-john-mccain-mitt-romney-predict/",
+        "title": "Tim Pawlenty cites John McCain, Mitt Romney in predicting Jeb Bush can win GOP nomination ",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "Washington Post",
+        "url": "http://www.washingtonpost.com/politics/poll-gop-presidential-race-wide-open-hillary-clinton-leads-jeb-bush-in-theoretical-matchup/2014/04/29/44c75634-cfb9-11e3-b812-0c92213941f4_story.html",
+        "title": "Poll: GOP presidential race wide open; Hillary Clinton leads Jeb Bush in theoretical matchup",
+        "bias_label": 1
+    },
+    "triplet_id": "185"
+}

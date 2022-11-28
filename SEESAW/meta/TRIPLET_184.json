@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/house-hearing-ebola",
+    "story_title": "House Hearing on Ebola",
+    "story_time": "2014-10-25",
+    "story_topic": "us_house",
+    "Split": "train",
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "http://www.cnn.com/2014/10/24/politics/house-ebola-hearing/index.html?hpt=po_c2",
+        "title": "4 issues raised at the House Ebola hearing",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2014/10/24/darrell-issa-ebola_n_6041716.html",
+        "title": "Darrell Issa: What We Don't Know Could Kill Us",
+        "bias_label": 0
+    },
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2014/oct/24/house-lawmakers-grapple-with-ebola-both-home-and-a/",
+        "title": "House lawmakers grapple with Ebola both at home and abroad",
+        "bias_label": 4
+    },
+    "triplet_id": "184"
+}

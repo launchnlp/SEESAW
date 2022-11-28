@@ -1,0 +1,550 @@
+{
+    "title": "House Democrats Fighting Hard Against Republicans' Border Bill",
+    "entity lists": [
+        [
+            "House Democrats",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "GOP-authored bill to address the border crisis",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Steny Hoyer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jeff Sessions",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Ted Cruz",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Harry Reid",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "John Boehner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Henry Cuellar",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "John Cornyn",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Ron Barber",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Collin Peterson",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Mary Landrieu",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "North Carolina",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "House Democrats",
+                "sentiment": "NEG",
+                "object": "GOP-authored bill to address the border crisis",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "House Democrats",
+                "sentiment": "NEG",
+                "object": "GOP-authored bill to address the border crisis",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Steny Hoyer",
+                "sentiment": "NEG",
+                "object": "GOP-authored bill to address the border crisis",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "House Democrats",
+                "sentiment": "NEG",
+                "object": "GOP-authored bill to address the border crisis",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "House Democrats",
+                "sentiment": "NEG",
+                "object": "GOP-authored bill to address the border crisis",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "GOP-authored bill to address the border crisis",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Jeff Sessions",
+                "sentiment": "NEG",
+                "object": "GOP-authored bill to address the border crisis",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ted Cruz",
+                "sentiment": "NEG",
+                "object": "GOP-authored bill to address the border crisis",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Jeff Sessions",
+                "sentiment": "NEG",
+                "object": "GOP-authored bill to address the border crisis",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "GOP-authored bill to address the border crisis",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "GOP-authored bill to address the border crisis",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Henry Cuellar",
+                "sentiment": "POS",
+                "object": "GOP-authored bill to address the border crisis",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Henry Cuellar",
+                "sentiment": "POS",
+                "object": "John Cornyn",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "House Democrats",
+                "sentiment": "NEG",
+                "object": "Henry Cuellar",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ron Barber",
+                "sentiment": "POS",
+                "object": "Henry Cuellar",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Collin Peterson",
+                "sentiment": "POS",
+                "object": "Henry Cuellar",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Mary Landrieu",
+                "sentiment": "NEG",
+                "object": "GOP-authored bill to address the border crisis",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "North Carolina",
+                "sentiment": "NEG",
+                "object": "GOP-authored bill to address the border crisis",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "House Democrats": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "GOP-authored bill to address the border crisis": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Steny Hoyer": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Ted Cruz": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Jeff Sessions": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Henry Cuellar": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "John Cornyn": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Ron Barber": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Collin Peterson": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Mary Landrieu": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "North Carolina": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "House Democrats": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "GOP-authored bill to address the border crisis": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Steny Hoyer": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Ted Cruz": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Jeff Sessions": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Henry Cuellar": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "John Cornyn": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Ron Barber": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Collin Peterson": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Mary Landrieu": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "North Carolina": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

@@ -1,0 +1,1107 @@
+{
+    "title": "Obama draws line between racial segregation of the past and class segregation today",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "opportunity gap",
+            [
+                "Topic",
+                "Topic",
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "class segregation",
+            [
+                "Topic",
+                "Topic",
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "poverty",
+            [
+                "Topic",
+                "Topic",
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Pope Francis",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "food stamps, tax credits and social security",
+            [
+                "Topic",
+                "Topic",
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Jerry Abramson",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Paul Ryan",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization",
+                "Organization",
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "6": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "opportunity gap",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "class segregation",
+                "annotators": [
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "class segregation",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "B",
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "opportunity gap",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "class segregation",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "class segregation",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "class segregation",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "class segregation",
+                "annotators": [
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Pope Francis",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Pope Francis",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Pope Francis",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Pope Francis",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "opportunity gap",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "food stamps, tax credits and social security",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Jerry Abramson",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Jerry Abramson",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "Paul Ryan",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "Paul Ryan",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Paul Ryan",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "Paul Ryan",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Paul Ryan",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "Paul Ryan",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            }
+        ],
+        "41": [
+            {
+                "id": 0,
+                "subject": "Paul Ryan",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "42": [
+            {
+                "id": 0,
+                "subject": "Paul Ryan",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Paul Ryan",
+                "sentiment": "NEG",
+                "object": "food stamps, tax credits and social security",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Paul Ryan",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "40": [
+            {
+                "id": 0,
+                "subject": "Paul Ryan",
+                "sentiment": "NEG",
+                "object": "food stamps, tax credits and social security",
+                "annotators": [
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Paul Ryan",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "food stamps, tax credits and social security",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "poverty",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "opportunity gap",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "class segregation",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Positive",
+                "B"
+            ],
+            [
+                "Positive",
+                "C"
+            ],
+            [
+                "Positive",
+                "A"
+            ],
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "poverty": [
+            [
+                "Negative",
+                "B"
+            ],
+            [
+                "Negative",
+                "C"
+            ],
+            [
+                "Negative",
+                "A"
+            ],
+            [
+                "Very Negative",
+                "D"
+            ]
+        ],
+        "Pope Francis": [
+            [
+                "Slightly Positive",
+                "B"
+            ],
+            [
+                "Slightly Positive",
+                "C"
+            ],
+            [
+                "Positive",
+                "A"
+            ],
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "opportunity gap": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Negative",
+                "C"
+            ],
+            [
+                "Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "food stamps, tax credits and social security": [
+            [
+                "Slightly Positive",
+                "B"
+            ],
+            [
+                "Slightly Positive",
+                "C"
+            ],
+            [
+                "Slightly Positive",
+                "A"
+            ],
+            [
+                "Positive",
+                "D"
+            ]
+        ],
+        "Jerry Abramson": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Slightly Positive",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Slightly Positive",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Paul Ryan": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Slightly Negative",
+                "C"
+            ],
+            [
+                "Slightly Positive",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "class segregation": [
+            [
+                "Negative",
+                "B"
+            ],
+            [
+                "Negative",
+                "C"
+            ],
+            [
+                "Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Very Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "poverty": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "C"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Pope Francis": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Moderate",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "opportunity gap": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "C"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "food stamps, tax credits and social security": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Slightly Liberal",
+                "D"
+            ]
+        ],
+        "Jerry Abramson": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Very Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Paul Ryan": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "class segregation": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "C"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "B"
+        },
+        {
+            "ideology": "Liberal",
+            "annotator": "C"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "D"
+        }
+    ]
+}

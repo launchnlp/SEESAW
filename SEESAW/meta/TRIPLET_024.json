@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/ft-lauderdale-airport-shooting",
+    "story_title": "Ft. Lauderdale Airport Shooting",
+    "story_time": "2017-01-07",
+    "story_topic": "violence_in_america",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2017/jan/6/shots-fired-ft-lauderdale-airport-report/",
+        "title": "5 dead, at least 8 injured in shooting at Fort Lauderdale airport",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/news/post-nation/wp/2017/01/07/fort-lauderdale-airport-gunman-lost-his-mind-in-iraq-family-says/?utm_term=.955937acfc9d",
+        "title": "Fort Lauderdale shooting suspect \u2018lost his mind\u2019 in Iraq, family says",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "USA TODAY",
+        "url": "http://www.usatoday.com/story/news/nation-now/2017/01/07/fort-lauderdale-airport-shooting-what-we-know/96279672/",
+        "title": "'A hateful act': What we know about the Ft. Lauderdale airport shooting",
+        "bias_label": 1
+    },
+    "triplet_id": "024"
+}

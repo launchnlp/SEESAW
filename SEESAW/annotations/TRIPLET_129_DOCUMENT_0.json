@@ -1,0 +1,277 @@
+{
+    "title": "Wayne County GOP Board Members Want to Rescind Votes",
+    "entity lists": [
+        [
+            "monica palmer",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "certify the election results in the state's most populous county",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "william hartmann",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "jonathan kinloch",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "monica palmer",
+                "sentiment": "NEG",
+                "object": "certify the election results in the state's most populous county",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "william hartmann",
+                "sentiment": "NEG",
+                "object": "certify the election results in the state's most populous county",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "william hartmann",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "monica palmer",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "monica palmer",
+                "sentiment": "NEG",
+                "object": "certify the election results in the state's most populous county",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "jonathan kinloch",
+                "sentiment": "NEG",
+                "object": "monica palmer",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "jonathan kinloch",
+                "sentiment": "NEG",
+                "object": "william hartmann",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "jonathan kinloch",
+                "sentiment": "POS",
+                "object": "certify the election results in the state's most populous county",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "jonathan kinloch",
+                "sentiment": "NEG",
+                "object": "monica palmer",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "jonathan kinloch",
+                "sentiment": "NEG",
+                "object": "william hartmann",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "jonathan kinloch",
+                "sentiment": "NEG",
+                "object": "monica palmer",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "jonathan kinloch",
+                "sentiment": "NEG",
+                "object": "william hartmann",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "jonathan kinloch",
+                "sentiment": "NEG",
+                "object": "monica palmer",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "jonathan kinloch",
+                "sentiment": "NEG",
+                "object": "william hartmann",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "monica palmer": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "william hartmann": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "jonathan kinloch": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "certify the election results in the state's most populous county": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "monica palmer": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "william hartmann": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "jonathan kinloch": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "certify the election results in the state's most populous county": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "C"
+        }
+    ]
+}

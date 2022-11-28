@@ -1,0 +1,144 @@
+{
+    "title": "Moderna\u2019s coronavirus vaccine shows encouraging early results in human safety trial",
+    "entity lists": [
+        [
+            "White House",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "coronavirus vaccine",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Moncef Slaoui",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "4": [
+            {
+                "id": 0,
+                "subject": "White House",
+                "sentiment": "POS",
+                "object": "coronavirus vaccine",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Moncef Slaoui",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "coronavirus vaccine",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "coronavirus vaccine",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "coronavirus vaccine",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "White House": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "coronavirus vaccine": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Moncef Slaoui": [
+            [
+                "Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "White House": [
+            [
+                "Moderate",
+                "A"
+            ]
+        ],
+        "coronavirus vaccine": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Moncef Slaoui": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

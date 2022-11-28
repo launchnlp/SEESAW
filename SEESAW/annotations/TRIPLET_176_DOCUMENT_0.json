@@ -1,0 +1,458 @@
+{
+    "title": "Central American leaders to Obama: We're working on it",
+    "entity lists": [
+        [
+            "United States Congress",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "youth migrant surge",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Central American leaders",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "United States House of Representatives",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "United States Senate",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "U.S. immigration system",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "U.S. deportation policy around young immigrants",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Josh Earnest",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "scaled-down border bill",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "United States Congress",
+                "sentiment": "NEG",
+                "object": "youth migrant surge",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Central American leaders",
+                "sentiment": "NEG",
+                "object": "youth migrant surge",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "United States House of Representatives",
+                "sentiment": "NEG",
+                "object": "United States Senate",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "United States Senate",
+                "sentiment": "NEG",
+                "object": "United States House of Representatives",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "U.S. immigration system",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Central American leaders",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Central American leaders",
+                "sentiment": "NEG",
+                "object": "youth migrant surge",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Central American leaders",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "U.S. deportation policy around young immigrants",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Josh Earnest",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "scaled-down border bill",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "scaled-down border bill",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Central American leaders": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "youth migrant surge": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "U.S. immigration system": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "U.S. deportation policy around young immigrants": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Josh Earnest": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "scaled-down border bill": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Central American leaders": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "youth migrant surge": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "U.S. immigration system": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "U.S. deportation policy around young immigrants": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "Josh Earnest": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "scaled-down border bill": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "B"
+        }
+    ]
+}

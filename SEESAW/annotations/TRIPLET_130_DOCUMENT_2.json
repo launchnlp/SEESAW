@@ -1,0 +1,535 @@
+{
+    "title": "Schiff reveals new whistleblower complaint alleging suppression of Russian election interference intel reports",
+    "entity lists": [
+        [
+            "Brian Murphy",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Trump administration",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United States Department of Homeland Security",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Adam Schiff",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Russia",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "andrew bates",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Brian Murphy",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Brian Murphy",
+                "sentiment": "NEG",
+                "object": "United States Department of Homeland Security",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States Department of Homeland Security",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Adam Schiff",
+                "sentiment": "NEG",
+                "object": "United States Department of Homeland Security",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Adam Schiff",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "United States Department of Homeland Security",
+                "sentiment": "NEG",
+                "object": "Brian Murphy",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Brian Murphy",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Trump administration",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Adam Schiff",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Adam Schiff",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Adam Schiff",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Adam Schiff",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Brian Murphy",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Brian Murphy",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Brian Murphy",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Brian Murphy",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Trump administration",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Adam Schiff",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Adam Schiff",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Adam Schiff",
+                "sentiment": "POS",
+                "object": "Joe Biden",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Russia",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Russia",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "andrew bates",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "andrew bates",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Trump administration",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Adam Schiff",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Adam Schiff",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Adam Schiff",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Adam Schiff",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Brian Murphy": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Russia": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "United States Department of Homeland Security": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "andrew bates": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Trump administration": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Adam Schiff": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Brian Murphy": [
+            [
+                "Slightly Liberal",
+                "D"
+            ]
+        ],
+        "Russia": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "United States Department of Homeland Security": [
+            [
+                "Slightly Conservative",
+                "D"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "andrew bates": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Trump administration": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Adam Schiff": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "D"
+        }
+    ]
+}

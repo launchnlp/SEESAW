@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/hypothetical-2016-elections",
+    "story_title": "Hypothetical 2016 Elections",
+    "story_time": "2014-12-08",
+    "story_topic": "elections",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2014/12/07/george-bush-jeb-bush-hillary-clinton_n_6284062.html",
+        "title": "George W. Bush: Jeb Would Beat Hillary Clinton In 2016",
+        "bias_label": 0
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "http://www.cnn.com/2014/12/08/politics/2016-poll/index.html?hpt=po_c2",
+        "title": "Poll: Hillary Clinton ahead in 5 would-be GOP match-ups",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2014/dec/8/hillary-clinton-outpacing-gop-rivals-early-look-20/",
+        "title": "Hillary Clinton outpacing GOP rivals in early look at 2016",
+        "bias_label": 4
+    },
+    "triplet_id": "186"
+}

@@ -1,0 +1,727 @@
+{
+    "title": "House Passes Bill To Give Back Pay To Federal Workers Furloughed In Government Shutdown",
+    "entity lists": [
+        [
+            "United States House of Representatives",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "worker",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "The Federal Employee Retroactive Pay Fairness Act",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Jim Moran",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Frank Wolf",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Harry Reid",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "House Republicans",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "government shutdown",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "White House",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "U.S. troops",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Hal Rogers",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United States Senate",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "John Boehner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Elijah Cummings",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "POS",
+                "object": "The Federal Employee Retroactive Pay Fairness Act",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Jim Moran",
+                "sentiment": "POS",
+                "object": "The Federal Employee Retroactive Pay Fairness Act",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Frank Wolf",
+                "sentiment": "POS",
+                "object": "The Federal Employee Retroactive Pay Fairness Act",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "The Federal Employee Retroactive Pay Fairness Act",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "House Republicans",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "House Republicans",
+                "sentiment": "NEG",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "House Republicans",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "House Republicans",
+                "sentiment": "NEG",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "House Republicans",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "government shutdown",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "government shutdown",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "government shutdown",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "White House",
+                "sentiment": "POS",
+                "object": "The Federal Employee Retroactive Pay Fairness Act",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "U.S. troops",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States House of Representatives",
+                "sentiment": "POS",
+                "object": "U.S. troops",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Hal Rogers",
+                "sentiment": "NEG",
+                "object": "United States Senate",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States Senate",
+                "sentiment": "POS",
+                "object": "The Federal Employee Retroactive Pay Fairness Act",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "United States Senate",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "United States Senate",
+                "sentiment": "POS",
+                "object": "The Federal Employee Retroactive Pay Fairness Act",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "House Republicans",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "United States Senate",
+                "sentiment": "NEG",
+                "object": "House Republicans",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "government shutdown",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "White House",
+                "sentiment": "NEG",
+                "object": "House Republicans",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "John Boehner",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "John Boehner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "government shutdown",
+                "sentiment": "NEG",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Elijah Cummings",
+                "sentiment": "POS",
+                "object": "The Federal Employee Retroactive Pay Fairness Act",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "The Federal Employee Retroactive Pay Fairness Act": [
+            [
+                "Positive",
+                "D"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "worker": [
+            [
+                "Positive",
+                "D"
+            ]
+        ],
+        "Jim Moran": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Frank Wolf": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "House Republicans": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "government shutdown": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "White House": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "U.S. troops": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Hal Rogers": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "The Federal Employee Retroactive Pay Fairness Act": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Slightly Conservative",
+                "D"
+            ]
+        ],
+        "worker": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Jim Moran": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Frank Wolf": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "House Republicans": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "government shutdown": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "White House": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "U.S. troops": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Hal Rogers": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Slightly Liberal",
+                "D"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "D"
+        }
+    ]
+}

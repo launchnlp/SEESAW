@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/will-christie-run",
+    "story_title": "Will Christie Run",
+    "story_time": "2013-11-10",
+    "story_topic": "elections",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Newsmax (News)",
+        "url": "http://www.newsmax.com/Newsfront/christie-jersey-presidency/2013/11/10/id/535812",
+        "title": "Christie: Focused on New Jersey, Not on Seeking Presidency ",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "http://politicalticker.blogs.cnn.com/2013/11/10/christie-wont-commit-to-serving-full-term-in-new-jersey/?iref=allsearch",
+        "title": "Christie won't commit to serving full term in New Jersey",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2013/11/10/chris-christie-gun-control_n_4250341.html?utm_hp_ref=politics",
+        "title": "Chris Christie: Gun Control 'Can Be' A Part Of Violence Control",
+        "bias_label": 0
+    },
+    "triplet_id": "198"
+}

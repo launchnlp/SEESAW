@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/lois-lerner-retires-irs",
+    "story_title": "Lois Lerner Retires From IRS",
+    "story_time": "2013-09-24",
+    "story_topic": "treasury",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "Washington Post",
+        "url": "http://www.washingtonpost.com/politics/federal_government/central-figure-in-irs-tea-party-controversy-resigns/2013/09/23/db0d3d28-248a-11e3-b75d-5b7f66349852_story.html",
+        "title": "Central figure in IRS tea party controversy resigns",
+        "bias_label": 1
+    },
+    "Meta info for article 0": {
+        "source": "Christian Science Monitor",
+        "url": "http://www.csmonitor.com/USA/DC-Decoder/2013/0923/Why-retirement-of-Lois-Lerner-doesn-t-end-IRS-tea-party-scandal-video",
+        "title": "Why retirement of Lois Lerner doesn't end IRS tea party scandal (+video)",
+        "bias_label": 2
+    },
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2013/sep/23/lois-lerner-irs-official-tea-party-scandal-retires/",
+        "title": "Lois Lerner, IRS official in tea party scandal, forced out for 'neglect of duties'",
+        "bias_label": 4
+    },
+    "triplet_id": "203"
+}

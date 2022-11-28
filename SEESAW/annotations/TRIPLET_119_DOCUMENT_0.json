@@ -1,0 +1,239 @@
+{
+    "title": "Larry Klayman: Unethical for Cohen to Secretly Tape Trump",
+    "entity lists": [
+        [
+            "Larry Klayman",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Michael Cohen",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "A360media",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Rudy Giuliani",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Larry Klayman",
+                "sentiment": "NEG",
+                "object": "Michael Cohen",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Michael Cohen",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Larry Klayman",
+                "sentiment": "NEG",
+                "object": "Michael Cohen",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Larry Klayman",
+                "sentiment": "NEG",
+                "object": "Michael Cohen",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Larry Klayman",
+                "sentiment": "NEG",
+                "object": "Michael Cohen",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Larry Klayman",
+                "sentiment": "NEG",
+                "object": "Michael Cohen",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Larry Klayman",
+                "sentiment": "NEG",
+                "object": "Michael Cohen",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "A360media",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Rudy Giuliani",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Michael Cohen": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "Larry Klayman": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "Rudy Giuliani": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "A360media": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Michael Cohen": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Larry Klayman": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Rudy Giuliani": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "D"
+        }
+    ]
+}

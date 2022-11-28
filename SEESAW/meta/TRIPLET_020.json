@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/doj-ferguson-police-racially-biased",
+    "story_title": "DOJ: Ferguson Police Racially Biased",
+    "story_time": "2015-03-03",
+    "story_topic": "justice_department",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "New York Times (News)",
+        "url": "http://www.nytimes.com/2015/03/04/us/justice-department-finds-pattern-of-police-bias-and-excessive-force-in-ferguson.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news",
+        "title": "Justice Department Finds Pattern of Police Bias and Excessive Force in Ferguson",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2015/mar/3/doj-us-report-finds-racial-bias-ferguson-police/",
+        "title": "Justice Dept.: U.S. report finds racial bias in Ferguson police",
+        "bias_label": 4
+    },
+    "Meta info for article 2": {
+        "source": "USA TODAY",
+        "url": "http://www.usatoday.com/story/news/2015/03/03/ferguson-justice-report/24320987/",
+        "title": "DOJ: Ferguson PD engaged in racially biased policing",
+        "bias_label": 1
+    },
+    "triplet_id": "020"
+}

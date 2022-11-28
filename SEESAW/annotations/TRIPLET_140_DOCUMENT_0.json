@@ -1,0 +1,398 @@
+{
+    "title": "Trump attacks Robert Mueller's 'hit squad' in row over 'wiped' phones",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Robert Mueller",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Ron Johnson",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Department of Justice",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Michael E. Horowitz",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Peter Strzok",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "James Comey",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "John Durham",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "John Gleeson",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Robert Mueller",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Robert Mueller",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Ron Johnson",
+                "sentiment": "NEG",
+                "object": "United States Department of Justice",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ron Johnson",
+                "sentiment": "POS",
+                "object": "Michael E. Horowitz",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Peter Strzok",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Peter Strzok",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "James Comey",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Robert Mueller",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "John Durham",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "John Gleeson",
+                "sentiment": "NEG",
+                "object": "Robert Mueller",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Robert Mueller": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Ron Johnson": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Michael E. Horowitz": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Peter Strzok": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "James Comey": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "John Durham": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "John Gleeson": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Robert Mueller": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Ron Johnson": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Michael E. Horowitz": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Peter Strzok": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "James Comey": [
+            [
+                "Moderate",
+                "A"
+            ]
+        ],
+        "John Durham": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "John Gleeson": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "A"
+        }
+    ]
+}

@@ -1,0 +1,316 @@
+{
+    "title": "Virginia Removes Its Robert E. Lee Statue From U.S. Capitol",
+    "entity lists": [
+        [
+            "Robert E. Lee",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Barbara Rose Johns",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Donald McEachin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Jennifer Wexton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "racism",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Ralph Northam",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Confederate States of America",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Robert E. Lee",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Barbara Rose Johns",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Donald McEachin",
+                "sentiment": "NEG",
+                "object": "Robert E. Lee",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jennifer Wexton",
+                "sentiment": "NEG",
+                "object": "Robert E. Lee",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Robert E. Lee",
+                "sentiment": "POS",
+                "object": "racism",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald McEachin",
+                "sentiment": "NEG",
+                "object": "Robert E. Lee",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald McEachin",
+                "sentiment": "NEG",
+                "object": "racism",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Jennifer Wexton",
+                "sentiment": "NEG",
+                "object": "Robert E. Lee",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Jennifer Wexton",
+                "sentiment": "NEG",
+                "object": "racism",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Ralph Northam",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ralph Northam",
+                "sentiment": "NEG",
+                "object": "Confederate States of America",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Ralph Northam",
+                "sentiment": "POS",
+                "object": "Barbara Rose Johns",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Barbara Rose Johns",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Robert E. Lee": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Barbara Rose Johns": [
+            [
+                "Positive",
+                "B"
+            ]
+        ],
+        "Ralph Northam": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "racism": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Donald McEachin": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Jennifer Wexton": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Confederate States of America": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Robert E. Lee": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Barbara Rose Johns": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "Ralph Northam": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "racism": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "Donald McEachin": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Jennifer Wexton": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Confederate States of America": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "B"
+        }
+    ]
+}

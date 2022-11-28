@@ -1,0 +1,638 @@
+{
+    "title": "Republican Tax Bill in Final Sprint Across Finish Line",
+    "entity lists": [
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican Tax Bill",
+            [
+                "Others"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "tax",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States House of Representatives",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Susan Collins",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "individual alternative minimum tax",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Senate",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "taxing multinational companies",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "lower individual rate",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Marco Rubio",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "child tax credit",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Bob Corker",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "national debt",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "Republican Tax Bill",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "tax",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "tax",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Susan Collins",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Susan Collins",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Republican Tax Bill",
+                "sentiment": "NEG",
+                "object": "tax",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "Republican Tax Bill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "NEG",
+                "object": "individual alternative minimum tax",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States Senate",
+                "sentiment": "POS",
+                "object": "individual alternative minimum tax",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "United States Senate",
+                "sentiment": "NEG",
+                "object": "tax",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "United States Senate",
+                "sentiment": "POS",
+                "object": "taxing multinational companies",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "United States House of Representatives",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "United States Senate",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Susan Collins",
+                "sentiment": "NEG",
+                "object": "lower individual rate",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Marco Rubio",
+                "sentiment": "POS",
+                "object": "child tax credit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "Bob Corker",
+                "sentiment": "NEG",
+                "object": "Republican Tax Bill",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Susan Collins",
+                "sentiment": "POS",
+                "object": "Republican Tax Bill",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "Bob Corker",
+                "sentiment": "NEG",
+                "object": "Republican Tax Bill",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Bob Corker",
+                "sentiment": "NEG",
+                "object": "national debt",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "43": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "44": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Republican Tax Bill": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "tax": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Susan Collins": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "individual alternative minimum tax": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "taxing multinational companies": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Marco Rubio": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "lower individual rate": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "child tax credit": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Bob Corker": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "national debt": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Republican Tax Bill": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "tax": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Susan Collins": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "individual alternative minimum tax": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "taxing multinational companies": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Marco Rubio": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "lower individual rate": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "child tax credit": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Bob Corker": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "national debt": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

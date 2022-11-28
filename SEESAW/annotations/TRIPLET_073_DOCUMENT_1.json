@@ -1,0 +1,221 @@
+{
+    "title": "Trump administration bans abortion referrals at U.S.-funded clinics",
+    "entity lists": [
+        [
+            "Trump administration",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "bans abortion referrals at U.S.-funded clinics",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Conservatives",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Leana Wen",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "3": [
+            {
+                "id": 0,
+                "subject": "Trump administration",
+                "sentiment": "POS",
+                "object": "bans abortion referrals at U.S.-funded clinics",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Conservatives",
+                "sentiment": "POS",
+                "object": "bans abortion referrals at U.S.-funded clinics",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Conservatives",
+                "sentiment": "POS",
+                "object": "Trump administration",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "bans abortion referrals at U.S.-funded clinics",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "bans abortion referrals at U.S.-funded clinics",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Leana Wen",
+                "sentiment": "NEG",
+                "object": "bans abortion referrals at U.S.-funded clinics",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Leana Wen",
+                "sentiment": "NEG",
+                "object": "bans abortion referrals at U.S.-funded clinics",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Trump administration": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Unknown",
+                "B"
+            ]
+        ],
+        "bans abortion referrals at U.S.-funded clinics": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Leana Wen": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Conservatives": [
+            [
+                "Unknown",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Trump administration": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "bans abortion referrals at U.S.-funded clinics": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Leana Wen": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Conservatives": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        }
+    ]
+}

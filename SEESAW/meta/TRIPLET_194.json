@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/obama-votes-early-midterms",
+    "story_title": "Obama Votes Early in Midterms",
+    "story_time": "2014-10-20",
+    "story_topic": "white_house",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2014/oct/20/obama-casts-ballot-chicago-urges-everyone-vote-ear/",
+        "title": "Obama casts ballot in Chicago, urges \u2018everyone\u2019 to vote early",
+        "bias_label": 4
+    },
+    "Meta info for article 0": {
+        "source": "Politico",
+        "url": "http://www.politico.com/story/2014/10/obama-early-voting-chicago-112036.html?hp=r2",
+        "title": "Obama votes early in Chicago",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "New York Times (News)",
+        "url": "http://www.nytimes.com/2014/10/20/us/back-on-trail-obama-aids-maryland-democrat.html",
+        "title": "Obama Returns to Trail With a Blue State Focus",
+        "bias_label": 1
+    },
+    "triplet_id": "194"
+}

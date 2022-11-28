@@ -1,0 +1,471 @@
+{
+    "title": "House Dems probe White House handling of Saudi nuclear plan",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Saudi Arabia",
+            [
+                "GPE"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Iran",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "trump white house",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "White House",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Adam Schiff",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States House Permanent Select Committee on Intelligence",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Elijah Cummings",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "top Saudi officials",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Michael Flynn",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "mcfarland",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "fast-tracked sensitive details on U.S. nuclear technologies",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Saudi Arabia",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Iran",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "trump white house",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "White House",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Adam Schiff",
+                "sentiment": "POS",
+                "object": "United States House Permanent Select Committee on Intelligence",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Adam Schiff",
+                "sentiment": "POS",
+                "object": "Elijah Cummings",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Elijah Cummings",
+                "sentiment": "NEG",
+                "object": "trump white house",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Adam Schiff",
+                "sentiment": "NEG",
+                "object": "trump white house",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "top Saudi officials",
+                "sentiment": "POS",
+                "object": "Michael Flynn",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "top Saudi officials",
+                "sentiment": "POS",
+                "object": "mcfarland",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Michael Flynn",
+                "sentiment": "POS",
+                "object": "top Saudi officials",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "mcfarland",
+                "sentiment": "POS",
+                "object": "top Saudi officials",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Adam Schiff",
+                "sentiment": "NEG",
+                "object": "fast-tracked sensitive details on U.S. nuclear technologies",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "trump white house",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Saudi Arabia": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "trump white house": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Iran": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "White House": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "United States House Permanent Select Committee on Intelligence": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Adam Schiff": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "top Saudi officials": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Michael Flynn": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "mcfarland": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "fast-tracked sensitive details on U.S. nuclear technologies": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Saudi Arabia": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "trump white house": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Iran": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "White House": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "United States House Permanent Select Committee on Intelligence": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Adam Schiff": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "top Saudi officials": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Michael Flynn": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "mcfarland": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "fast-tracked sensitive details on U.S. nuclear technologies": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

@@ -1,0 +1,258 @@
+{
+    "title": "Thousands download 3D-printed gun designs",
+    "entity lists": [
+        [
+            "United States Department of Justice",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "3-D printed guns",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Cody Wilson",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Bob Ferguson",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Trump administration",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "POS",
+                "object": "3-D printed guns",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "3-D printed guns",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Cody Wilson",
+                "sentiment": "POS",
+                "object": "3-D printed guns",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "POS",
+                "object": "3-D printed guns",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Bob Ferguson",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Bob Ferguson",
+                "sentiment": "NEG",
+                "object": "3-D printed guns",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Bob Ferguson",
+                "sentiment": "NEG",
+                "object": "3-D printed guns",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "3-D printed guns",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "3-D printed guns",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "3-D printed guns": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Trump administration": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Cody Wilson": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Bob Ferguson": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "3-D printed guns": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Trump administration": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Cody Wilson": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Bob Ferguson": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

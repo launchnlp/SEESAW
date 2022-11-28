@@ -1,0 +1,166 @@
+{
+    "title": "Drug Agency Lowers Age for Next-Day Birth Control",
+    "entity lists": [
+        [
+            "Edward R. Korman",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Obama administration",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "morning-after pill without prescription for girls 15 and older",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Food and Drug Administration",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "3": [
+            {
+                "id": 0,
+                "subject": "Edward R. Korman",
+                "sentiment": "NEG",
+                "object": "Obama administration",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Edward R. Korman",
+                "sentiment": "POS",
+                "object": "morning-after pill without prescription for girls 15 and older",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "0": [
+            {
+                "id": 0,
+                "subject": "Food and Drug Administration",
+                "sentiment": "POS",
+                "object": "morning-after pill without prescription for girls 15 and older",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "morning-after pill without prescription for girls 15 and older",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "morning-after pill without prescription for girls 15 and older",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Obama administration": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "morning-after pill without prescription for girls 15 and older": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Edward R. Korman": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Food and Drug Administration": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Obama administration": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "morning-after pill without prescription for girls 15 and older": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Edward R. Korman": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Food and Drug Administration": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

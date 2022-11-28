@@ -1,0 +1,416 @@
+{
+    "title": "Harry Reid taps Elizabeth Warren as envoy to liberal groups",
+    "entity lists": [
+        [
+            "Harry Reid",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Elizabeth Warren",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Senate Democratic Caucus",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "compromise",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Claire McCaskill",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Joe Manchin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Heidi Heitkamp",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Mary Landrieu",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "politico magazine",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "POS",
+                "object": "Elizabeth Warren",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "POS",
+                "object": "Elizabeth Warren",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Elizabeth Warren",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Senate Democratic Caucus",
+                "sentiment": "POS",
+                "object": "Elizabeth Warren",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Elizabeth Warren",
+                "sentiment": "NEG",
+                "object": "compromise",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Senate Democratic Caucus",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Claire McCaskill",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Heidi Heitkamp",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Mary Landrieu",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "politico magazine",
+                "sentiment": "NEG",
+                "object": "Elizabeth Warren",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Senate Democratic Caucus",
+                "sentiment": "POS",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Senate Democratic Caucus",
+                "sentiment": "POS",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "POS",
+                "object": "compromise",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Elizabeth Warren": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Senate Democratic Caucus": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "compromise": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "Claire McCaskill": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Heidi Heitkamp": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Mary Landrieu": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "politico magazine": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Elizabeth Warren": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Senate Democratic Caucus": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "compromise": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "Claire McCaskill": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Heidi Heitkamp": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Mary Landrieu": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "politico magazine": [
+            [
+                "Slightly Conservative",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "E"
+        }
+    ]
+}

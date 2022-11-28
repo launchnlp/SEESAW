@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/fake-video-trump-shooting-media-and-critics-shown-doral-resort",
+    "story_title": "Fake Video Of Trump Shooting Media and Critics Shown At Doral Resort",
+    "story_time": "2019-10-14",
+    "story_topic": "politics",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2019/oct/13/trump-massacre-church-fake-news-parody-video-shown/",
+        "title": "Trump campaign denies showing massacre in 'Church of Fake News' parody video at Doral",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "New York Times (News)",
+        "url": "https://www.nytimes.com/2019/10/13/us/politics/trump-video.html",
+        "title": "Macabre Video of Fake Trump Shooting Media and Critics Is Shown at His Resort",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2019/10/14/violent-video-trump-shooting-media-critics-shown-conference/3972884002/",
+        "title": "Fake video of Trump shooting media and political opponents shown at conference: New York Times",
+        "bias_label": 1
+    },
+    "triplet_id": "076"
+}

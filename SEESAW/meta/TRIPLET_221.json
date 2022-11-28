@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/fiscal-cliff-negotiations",
+    "story_title": "Fiscal Cliff Negotiations",
+    "story_time": "2012-12-12",
+    "story_topic": "treasury",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2012/12/12/john-boehners-fiscal-clif_n_2283652.html",
+        "title": "John Boehner's Fiscal Cliff Approach Unpopular With Voters",
+        "bias_label": 0
+    },
+    "Meta info for article 0": {
+        "source": "Fox News (Online News)",
+        "url": "http://www.foxnews.com/politics/2012/12/11/obama-boehner-discuss-fiscal-cliff-on-phone-after-exchange-offers/",
+        "title": "Obama, Boehner talk by phone after exchange of offers on averting fiscal crisis",
+        "bias_label": 3
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "http://politicalticker.blogs.cnn.com/2012/12/11/house-gop-sends-counter-offer-to-white-house-on-the-fiscal-cliff/?hpt=po_c1",
+        "title": "Obama, Boehner speak by telephone after GOP counter-offer",
+        "bias_label": 0
+    },
+    "triplet_id": "221"
+}

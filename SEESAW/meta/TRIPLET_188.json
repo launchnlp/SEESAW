@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/feinsteins-views-obama",
+    "story_title": "Feinsteins Views on Obama",
+    "story_time": "2014-08-31",
+    "story_topic": "us_senate",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2014/08/30/feinstein-obama-cautious-isis_n_5742552.html?utm_hp_ref=politics",
+        "title": "Sen. Dianne Feinstein: Obama 'Too Cautious' On ISIS",
+        "bias_label": 0
+    },
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2014/aug/31/feinstein-obama-maybe-too-cautious-isis-plans-are-/",
+        "title": "Feinstein: Obama maybe \u2018too cautious\u2019 on ISIS, but plans are underway",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "Politico",
+        "url": "http://www.politico.com/blogs/politico-live/2014/08/dianne-feinstein-obama-may-be-too-cautious-194669.html?hp=f3",
+        "title": "Feinstein says Obama may be 'too cautious'",
+        "bias_label": 1
+    },
+    "triplet_id": "188"
+}

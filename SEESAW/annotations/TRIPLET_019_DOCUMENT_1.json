@@ -1,0 +1,701 @@
+{
+    "title": "Obama\u2019s year of the veto",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Republican majority",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "the Keystone bill",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "John Boehner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Stephen Murphy",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Tom Udall",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Mary Landrieu",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Ben Cardin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Chuck Schumer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Debbie Stabenow",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Pat McCrory",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Republican majority",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican majority",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "the Keystone bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Republican majority",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "the Keystone bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "POS",
+                "object": "the Keystone bill",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican majority",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "the Keystone bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Republican majority",
+                "sentiment": "POS",
+                "object": "the Keystone bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Republican majority",
+                "sentiment": "POS",
+                "object": "the Keystone bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John Boehner",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Stephen Murphy",
+                "sentiment": "NEG",
+                "object": "the Keystone bill",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Stephen Murphy",
+                "sentiment": "NEG",
+                "object": "Republican majority",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Stephen Murphy",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Stephen Murphy",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Stephen Murphy",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Tom Udall",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Tom Udall",
+                "sentiment": "NEG",
+                "object": "the Keystone bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "the Keystone bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Republican majority",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Mary Landrieu",
+                "sentiment": "POS",
+                "object": "the Keystone bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Ben Cardin",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ben Cardin",
+                "sentiment": "NEG",
+                "object": "the Keystone bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "Ben Cardin",
+                "sentiment": "NEG",
+                "object": "the Keystone bill",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ben Cardin",
+                "sentiment": "NEG",
+                "object": "Republican majority",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Republican majority",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Debbie Stabenow",
+                "sentiment": "POS",
+                "object": "Republican majority",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "42": [
+            {
+                "id": 0,
+                "subject": "Debbie Stabenow",
+                "sentiment": "NEG",
+                "object": "the Keystone bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "43": [
+            {
+                "id": 0,
+                "subject": "Debbie Stabenow",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "44": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Pat McCrory",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "45": [
+            {
+                "id": 0,
+                "subject": "Pat McCrory",
+                "sentiment": "POS",
+                "object": "the Keystone bill",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Pat McCrory",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "the Keystone bill": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Republican majority": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Stephen Murphy": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Tom Udall": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Mary Landrieu": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Ben Cardin": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Debbie Stabenow": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Pat McCrory": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Very Liberal",
+                "C"
+            ]
+        ],
+        "the Keystone bill": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Republican majority": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Stephen Murphy": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Tom Udall": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Mary Landrieu": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Ben Cardin": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Debbie Stabenow": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ],
+        "Pat McCrory": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        }
+    ]
+}

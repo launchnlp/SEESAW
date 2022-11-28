@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/doj-rejects-mccabes-appeal-avoid-charges",
+    "story_title": "DOJ Rejects McCabe's Appeal to Avoid Charges",
+    "story_time": "2019-09-12",
+    "story_topic": "fbi",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "New York Times (News)",
+        "url": "https://www.nytimes.com/2019/09/12/us/politics/andrew-mccabe-investigation.html",
+        "title": "Justice Dept. Rejects Andrew McCabe\u2019s Bid to Avoid Charges",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2019/09/12/andrew-mccabe-prosecutors-recommend-charges-former-fbi-official/2301473001/",
+        "title": "Federal prosecutors recommend that Andrew McCabe, former FBI second-in-command, face criminal charge",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "Newsmax (News)",
+        "url": "https://www.newsmax.com/newsfront/mccabe-criminal-charges/2019/09/12/id/932397/",
+        "title": "Ex-FBI Director Andrew McCabe Loses Appeal to Avoid Criminal Charges",
+        "bias_label": 4
+    },
+    "triplet_id": "050"
+}

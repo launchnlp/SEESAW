@@ -1,0 +1,236 @@
+{
+    "title": "FDA approves morning-after pill without prescription for girls 15 and older",
+    "entity lists": [
+        [
+            "Food and Drug Administration",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "morning-after pill without prescription for girls 15 and older",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Department of Justice",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Planned Parenthood",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Edward R. Korman",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Food and Drug Administration",
+                "sentiment": "NEG",
+                "object": "morning-after pill without prescription for girls 15 and older",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "morning-after pill without prescription for girls 15 and older",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "NEG",
+                "object": "morning-after pill without prescription for girls 15 and older",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "NEG",
+                "object": "morning-after pill without prescription for girls 15 and older",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Planned Parenthood",
+                "sentiment": "POS",
+                "object": "morning-after pill without prescription for girls 15 and older",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "morning-after pill without prescription for girls 15 and older",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "morning-after pill without prescription for girls 15 and older",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "morning-after pill without prescription for girls 15 and older",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Edward R. Korman",
+                "sentiment": "POS",
+                "object": "morning-after pill without prescription for girls 15 and older",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "morning-after pill without prescription for girls 15 and older": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Edward R. Korman": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Planned Parenthood": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Food and Drug Administration": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "morning-after pill without prescription for girls 15 and older": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Edward R. Korman": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Planned Parenthood": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Food and Drug Administration": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/hillary-used-private-email-account",
+    "story_title": "Hillary Used Private Email Account",
+    "story_time": "2015-03-03",
+    "story_topic": "state_department",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Washington Post",
+        "url": "http://www.washingtonpost.com/politics/hillary-clinton-used-private-e-mail-for-government-business-at-state-dept/2015/03/02/275d13d8-c156-11e4-9271-610273846239_story.html",
+        "title": "Hillary Clinton used private e-mail for government business at State Dept.",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Politico",
+        "url": "http://www.politico.com/story/2015/03/robert-gibbs-hillary-clinton-private-emails-115689.html?hp=rc3_4",
+        "title": "Gibbs: Use of private Clinton emails 'highly unusual'",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "Townhall",
+        "url": "http://townhall.com/tipsheet/katiepavlich/2015/03/03/hillary-clinton-didnt-use-her-government-email-account-as-secretary-of-state-n1964994",
+        "title": "Surprise: Hillary Clinton Went Around Federal Law, Used Her Personal Email Account For Official Business as Secretary of State",
+        "bias_label": 3
+    },
+    "triplet_id": "014"
+}

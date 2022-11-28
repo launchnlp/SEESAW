@@ -1,0 +1,1196 @@
+{
+    "title": "Rhetoric heats up on debt ceiling",
+    "entity lists": [
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "conservative groups",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "raising the debt ceiling",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "deficit spending",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "nation\u2019s debt",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "default on the nation\u2019s debts",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Eric Cantor",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "White House",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "spending cut",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Paul Ryan",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United States Senate",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Tea Party Patriots",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Jenny Beth Martin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "higher taxes on the wealthy",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "unilaterally act to make sure the federal government\u2019s debts are paid",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "shutting down the government",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "\u201cfiscal cliff\u201d deal",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Cathy McMorris Rodgers",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "conservative groups",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "spending cut",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "spending cut",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "raising the debt ceiling",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "deficit spending",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "deficit spending",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "deficit spending",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "nation\u2019s debt",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "deficit spending",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "nation\u2019s debt",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "default on the nation\u2019s debts",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "default on the nation\u2019s debts",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Eric Cantor",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Eric Cantor",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Eric Cantor",
+                "sentiment": "NEG",
+                "object": "White House",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Eric Cantor",
+                "sentiment": "NEG",
+                "object": "deficit spending",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Eric Cantor",
+                "sentiment": "POS",
+                "object": "spending cut",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Eric Cantor",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Eric Cantor",
+                "sentiment": "NEG",
+                "object": "deficit spending",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Eric Cantor",
+                "sentiment": "NEG",
+                "object": "nation\u2019s debt",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Eric Cantor",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Eric Cantor",
+                "sentiment": "NEG",
+                "object": "deficit spending",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Eric Cantor",
+                "sentiment": "NEG",
+                "object": "nation\u2019s debt",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Eric Cantor",
+                "sentiment": "NEG",
+                "object": "White House",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "White House",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Paul Ryan",
+                "sentiment": "NEG",
+                "object": "United States Senate",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Tea Party Patriots",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "spending cut",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "deficit spending",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Tea Party Patriots",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "raising the debt ceiling",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "spending cut",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 6,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "deficit spending",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 7,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "shutting down the government",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Jenny Beth Martin",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jenny Beth Martin",
+                "sentiment": "POS",
+                "object": "Tea Party Patriots",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Tea Party Patriots",
+                "sentiment": "POS",
+                "object": "Jenny Beth Martin",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Jenny Beth Martin",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Jenny Beth Martin",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jenny Beth Martin",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "higher taxes on the wealthy",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "higher taxes on the wealthy",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "deficit spending",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "unilaterally act to make sure the federal government\u2019s debts are paid",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "unilaterally act to make sure the federal government\u2019s debts are paid",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "shutting down the government",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "spending cut",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "spending cut",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "\u201cfiscal cliff\u201d deal",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "Mitch McConnell",
+                "sentiment": "POS",
+                "object": "\u201cfiscal cliff\u201d deal",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 6,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "\u201cfiscal cliff\u201d deal",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Cathy McMorris Rodgers",
+                "sentiment": "POS",
+                "object": "shutting down the government",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Cathy McMorris Rodgers",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Cathy McMorris Rodgers",
+                "sentiment": "POS",
+                "object": "spending cut",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "spending cut",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "spending cut",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "White House",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "raising the debt ceiling": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "conservative groups": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Eric Cantor": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "White House": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Paul Ryan": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Tea Party Patriots": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Jenny Beth Martin": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "higher taxes on the wealthy": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Cathy McMorris Rodgers": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "spending cut": [
+            [
+                "Positive",
+                "D"
+            ]
+        ],
+        "deficit spending": [
+            [
+                "Very Negative",
+                "D"
+            ]
+        ],
+        "nation\u2019s debt": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "default on the nation\u2019s debts": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "unilaterally act to make sure the federal government\u2019s debts are paid": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "shutting down the government": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "\u201cfiscal cliff\u201d deal": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "raising the debt ceiling": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "conservative groups": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Eric Cantor": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "White House": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Paul Ryan": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Slightly Liberal",
+                "D"
+            ]
+        ],
+        "Tea Party Patriots": [
+            [
+                "Very Conservative",
+                "D"
+            ]
+        ],
+        "Jenny Beth Martin": [
+            [
+                "Very Conservative",
+                "D"
+            ]
+        ],
+        "higher taxes on the wealthy": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Cathy McMorris Rodgers": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "spending cut": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "deficit spending": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "nation\u2019s debt": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "default on the nation\u2019s debts": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "unilaterally act to make sure the federal government\u2019s debts are paid": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "shutting down the government": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "\u201cfiscal cliff\u201d deal": [
+            [
+                "Slightly Liberal",
+                "D"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "D"
+        }
+    ]
+}

@@ -1,0 +1,684 @@
+{
+    "title": "Justice Department Finds Pattern of Police Bias and Excessive Force in Ferguson",
+    "entity lists": [
+        [
+            "Ferguson Police Department",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "black people",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "racial bias",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "white",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Michael Brown",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Department of Justice",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "darren wilson",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "washington",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Ferguson, MO",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Eric Holder",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "brian p. fletcher",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "James Comey",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "racial profiling",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "angel goree",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "black people",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "black people",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "black people",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "black people",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "black people",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "black people",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "black people",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "black people",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "racial bias",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "black people",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ferguson Police Department",
+                "sentiment": "POS",
+                "object": "white",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "black people",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Ferguson Police Department",
+                "sentiment": "POS",
+                "object": "white",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Michael Brown",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "United States Department of Justice",
+                "sentiment": "POS",
+                "object": "darren wilson",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Ferguson Police Department",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "washington",
+                "sentiment": "NEG",
+                "object": "Ferguson, MO",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ferguson, MO",
+                "sentiment": "NEG",
+                "object": "washington",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Eric Holder",
+                "sentiment": "NEG",
+                "object": "Ferguson Police Department",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "Eric Holder",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "brian p. fletcher",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "brian p. fletcher",
+                "sentiment": "NEG",
+                "object": "Eric Holder",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Eric Holder",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "James Comey",
+                "sentiment": "POS",
+                "object": "Eric Holder",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "James Comey",
+                "sentiment": "NEG",
+                "object": "racial bias",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Eric Holder",
+                "sentiment": "NEG",
+                "object": "racial profiling",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "41": [
+            {
+                "id": 0,
+                "subject": "angel goree",
+                "sentiment": "NEG",
+                "object": "Ferguson Police Department",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "black people": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Ferguson Police Department": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Michael Brown": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "racial bias": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "white": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Eric Holder": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "darren wilson": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "washington": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Ferguson, MO": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "brian p. fletcher": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "James Comey": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "racial profiling": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "angel goree": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "black people": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Ferguson Police Department": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Michael Brown": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "racial bias": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "white": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Eric Holder": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "darren wilson": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "washington": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Ferguson, MO": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "brian p. fletcher": [
+            [
+                "Slightly Conservative",
+                "A"
+            ]
+        ],
+        "James Comey": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "racial profiling": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "angel goree": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

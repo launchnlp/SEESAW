@@ -1,0 +1,232 @@
+{
+    "title": "What to Watch For as Harris and Pence Visit Wisconsin on Labor Day",
+    "entity lists": [
+        [
+            "Wisconsin",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Mike Pence",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Kamala Harris",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "5": [
+            {
+                "id": 0,
+                "subject": "Wisconsin",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Wisconsin",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Mike Pence",
+                "sentiment": "POS",
+                "object": "Wisconsin",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Kamala Harris",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Kamala Harris",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Kamala Harris",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Mike Pence": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Kamala Harris": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Wisconsin": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "D"
+            ]
+        ],
+        "Mike Pence": [
+            [
+                "Very Conservative",
+                "D"
+            ]
+        ],
+        "Kamala Harris": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Wisconsin": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "D"
+        }
+    ]
+}

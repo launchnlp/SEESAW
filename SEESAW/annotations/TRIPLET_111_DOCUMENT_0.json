@@ -1,0 +1,190 @@
+{
+    "title": "Trump signs resolution killing rule intended to prevent racial bias in auto lending",
+    "entity lists": [
+        [
+            "mark up the interest rates on auto loans",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Obama administration",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Congressional Review Act",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Pat Toomey",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "mark up the interest rates on auto loans",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "mark up the interest rates on auto loans",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Obama administration",
+                "sentiment": "NEG",
+                "object": "mark up the interest rates on auto loans",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Congressional Review Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Pat Toomey",
+                "sentiment": "POS",
+                "object": "Congressional Review Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "mark up the interest rates on auto loans": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Obama administration": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Congressional Review Act": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Pat Toomey": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "mark up the interest rates on auto loans": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Obama administration": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Congressional Review Act": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Pat Toomey": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

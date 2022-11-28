@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/beau-biden-eulogy",
+    "story_title": "Beau Biden Eulogy",
+    "story_time": "2015-06-06",
+    "story_topic": "white_house",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Townhall",
+        "url": "http://townhall.com/tipsheet/danieldoherty/2015/06/06/obama-eulogy-on-saturday-n2008741",
+        "title": "Obama: \"He Did in 46 Years What Most of Us Couldn\u2019t Do in 146\"",
+        "bias_label": 3
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "http://www.cnn.com/2015/06/06/politics/beau-biden-funeral/index.html",
+        "title": "'A man of character': Obama delivers emotional eulogy for Beau Biden",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2015/06/06/obama-beau-biden-eulogy_n_7525334.html?utm_hp_ref=politics",
+        "title": "Obama Delivers Emotional Eulogy For Beau Biden",
+        "bias_label": 0
+    },
+    "triplet_id": "011"
+}

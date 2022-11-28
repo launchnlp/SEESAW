@@ -1,0 +1,338 @@
+{
+    "title": "Gowdy and Cummings duke it out over Benghazi",
+    "entity lists": [
+        [
+            "Benghazi House Benghazi Committee",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Trey Gowdy",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Kevin McCarthy",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Richard L. Hanna",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Elijah Cummings",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Benghazi House Benghazi Committee",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Benghazi House Benghazi Committee",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Trey Gowdy",
+                "sentiment": "POS",
+                "object": "Benghazi House Benghazi Committee",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Kevin McCarthy",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Richard L. Hanna",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "NEG",
+                "object": "Benghazi House Benghazi Committee",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "NEG",
+                "object": "Benghazi House Benghazi Committee",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "POS",
+                "object": "Trey Gowdy",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Benghazi House Benghazi Committee",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Trey Gowdy": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Benghazi House Benghazi Committee": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Kevin McCarthy": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Richard L. Hanna": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Trey Gowdy": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Benghazi House Benghazi Committee": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Kevin McCarthy": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Richard L. Hanna": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

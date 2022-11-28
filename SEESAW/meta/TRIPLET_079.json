@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/muellers-office-calls-report-buzzfeed-not-accurate",
+    "story_title": "Mueller's Office Calls Report by Buzzfeed Not Accurate",
+    "story_time": "2019-01-19",
+    "story_topic": "fake_news",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2019/jan/19/donald-trump-bemoans-mainstream-media-disgraceful-/",
+        "title": "Trump bemoans mainstream media 'disgraceful' coverage of 'phony' BuzzFeed report",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2019/01/18/robert-mueller-disputes-buzzfeed-story-trump-directing-michael-cohen-lie/2620598002/",
+        "title": "Mueller's office disputes BuzzFeed story about Trump directing Cohen's false testimony",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/world/national-security/2019/01/18/b9c40d34-1b85-11e9-8813-cb9dec761e73_story.html?utm_term=.8e397a0a8992",
+        "title": "In a rare move, Mueller\u2019s office denies BuzzFeed report that Trump told Cohen to lie about Moscow project",
+        "bias_label": 1
+    },
+    "triplet_id": "079"
+}

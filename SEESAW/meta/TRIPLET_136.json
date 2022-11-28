@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/what-expect-years-lame-duck-congress",
+    "story_title": "What To Expect From This Year's 'Lame Duck' Congress",
+    "story_time": "2020-11-06",
+    "story_topic": "us_congress",
+    "Split": "test",
+    "Meta info for article 1": {
+        "source": "Vox",
+        "url": "https://www.vox.com/2020/11/5/21549725/mitch-mcconnell-stimulus-lame-duck-congress",
+        "title": "Mitch McConnell says he\u2019s open to stimulus during lame duck \u2014 but there are a lot of wild cards",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "Reuters",
+        "url": "https://www.reuters.com/article/us-usa-congress-lame-duck-idUSKBN27K18D",
+        "title": "'Lame duck' U.S. Congress to grapple with coronavirus aid, budget bills",
+        "bias_label": 2
+    },
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2020/nov/6/pelosi-still-resistant-scaled-down-coronavirus-rel/",
+        "title": "Pelosi still resistant to scaled-down coronavirus relief deal, calls for negotiations to restart",
+        "bias_label": 4
+    },
+    "triplet_id": "136"
+}

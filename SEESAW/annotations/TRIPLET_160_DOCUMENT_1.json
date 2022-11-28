@@ -1,0 +1,390 @@
+{
+    "title": "Texas governor signs extreme six-week abortion ban into law",
+    "entity lists": [
+        [
+            "Greg Abbott",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "abortion",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Senate Bill 8",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "aimee arrambide",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "lawmaker",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donna Howard",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "christian menefee",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Greg Abbott",
+                "sentiment": "NEG",
+                "object": "abortion",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Greg Abbott",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Greg Abbott",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Greg Abbott",
+                "sentiment": "NEG",
+                "object": "abortion",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Senate Bill 8",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "aimee arrambide",
+                "sentiment": "NEG",
+                "object": "Senate Bill 8",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "aimee arrambide",
+                "sentiment": "NEG",
+                "object": "Senate Bill 8",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Senate Bill 8",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "lawmaker",
+                "sentiment": "NEG",
+                "object": "Senate Bill 8",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Senate Bill 8",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Senate Bill 8",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Donna Howard",
+                "sentiment": "NEG",
+                "object": "Senate Bill 8",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Donna Howard",
+                "sentiment": "NEG",
+                "object": "Senate Bill 8",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "christian menefee",
+                "sentiment": "NEG",
+                "object": "Senate Bill 8",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "christian menefee",
+                "sentiment": "NEG",
+                "object": "Senate Bill 8",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Senate Bill 8",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Senate Bill 8",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Senate Bill 8",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "abortion",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Greg Abbott": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "abortion": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Senate Bill 8": [
+            [
+                "Very Negative",
+                "A"
+            ]
+        ],
+        "aimee arrambide": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "lawmaker": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Donna Howard": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "christian menefee": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Greg Abbott": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "abortion": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Senate Bill 8": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "aimee arrambide": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "lawmaker": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Donna Howard": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "christian menefee": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

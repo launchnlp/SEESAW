@@ -1,0 +1,405 @@
+{
+    "title": "House lawmakers grapple with Ebola both at home and abroad",
+    "entity lists": [
+        [
+            "Darrell Issa",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Elijah Cummings",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "West Africa",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Ebola",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Obama administration",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Peter T. King",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Centers for Disease Control and Prevention",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "craig spencer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "John Mica",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Darrell Issa",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Darrell Issa",
+                "sentiment": "NEG",
+                "object": "Obama administration",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Darrell Issa",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "POS",
+                "object": "West Africa",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "West Africa",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Ebola",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "POS",
+                "object": "West Africa",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Ebola",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Obama administration",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Peter T. King",
+                "sentiment": "NEG",
+                "object": "Centers for Disease Control and Prevention",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "craig spencer",
+                "sentiment": "POS",
+                "object": "West Africa",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Peter T. King",
+                "sentiment": "POS",
+                "object": "craig spencer",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "John Mica",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "John Mica",
+                "sentiment": "NEG",
+                "object": "craig spencer",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Ebola": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Darrell Issa": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Peter T. King": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "John Mica": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Centers for Disease Control and Prevention": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "West Africa": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Obama administration": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "craig spencer": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Ebola": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Darrell Issa": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Peter T. King": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "John Mica": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Centers for Disease Control and Prevention": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "West Africa": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Obama administration": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "craig spencer": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "D"
+        }
+    ]
+}

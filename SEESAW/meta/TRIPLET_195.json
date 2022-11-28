@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/debt-ceiling-vote",
+    "story_title": "Debt Ceiling Vote",
+    "story_time": "2014-02-11",
+    "story_topic": "federal_budget",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2014/02/11/john-boehner-debt-ceiling_n_4766730.html",
+        "title": "John Boehner To Bring Up Clean Debt-Ceiling Vote",
+        "bias_label": 0
+    },
+    "Meta info for article 1": {
+        "source": "Christian Science Monitor",
+        "url": "http://www.csmonitor.com/USA/Politics/monitor_breakfast/2014/0211/No-debt-ceiling-crisis-Obama-economic-adviser-sees-investment-boon",
+        "title": "No debt ceiling crisis? Obama economic adviser sees investment boon.",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "Townhall",
+        "url": "http://townhall.com/tipsheet/conncarroll/2014/02/11/confirmed-boehner-debt-limit-plan-raises-spending-n1793149",
+        "title": "Confirmed: Boehner's Debt Limit Plan Raises Spending",
+        "bias_label": 3
+    },
+    "triplet_id": "195"
+}

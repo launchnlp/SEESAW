@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/aide-vice-president-mike-pence-defends-stay-trump-property-ireland",
+    "story_title": "Aide To Vice President Mike Pence Defends Stay At Trump Property In Ireland",
+    "story_time": "2019-09-03",
+    "story_topic": "politics",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2019/sep/3/mike-pence-forced-defend-ireland-stay-trump-proper/",
+        "title": "Mike Pence forced to defend his stay at Trump property in Ireland",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2019/09/03/pences-decision-stay-doonbeg-ireland-trump-hotel-criticized/2195539001/",
+        "title": "Mike Pence's decision to stay at Trump hotel in Ireland came after president's 'suggestion', top aide says",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/2019/09/03/politics/pence-ireland-doonbeg/index.html",
+        "title": "Pence stays at Trump's Doonbeg resort hours away from official meetings",
+        "bias_label": 0
+    },
+    "triplet_id": "056"
+}

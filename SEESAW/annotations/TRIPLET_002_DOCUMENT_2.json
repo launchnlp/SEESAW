@@ -1,0 +1,282 @@
+{
+    "title": "Clinton Foundation to restrict foreign donations",
+    "entity lists": [
+        [
+            "Clinton Foundation",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Norway",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "netherlands",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Australia",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Fred Wertheimer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Clinton Foundation",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Clinton Foundation",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Hillary Clinton",
+                "sentiment": "NEG",
+                "object": "Clinton Foundation",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Norway",
+                "sentiment": "POS",
+                "object": "Clinton Foundation",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "netherlands",
+                "sentiment": "POS",
+                "object": "Clinton Foundation",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Australia",
+                "sentiment": "POS",
+                "object": "Clinton Foundation",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Clinton Foundation",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Fred Wertheimer",
+                "sentiment": "NEG",
+                "object": "Clinton Foundation",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Hillary Clinton": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Clinton Foundation": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Australia": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Norway": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "netherlands": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Fred Wertheimer": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Clinton Foundation": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Australia": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Norway": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "netherlands": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Fred Wertheimer": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        }
+    ]
+}

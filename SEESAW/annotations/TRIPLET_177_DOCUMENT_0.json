@@ -1,0 +1,723 @@
+{
+    "title": "5 Things to Watch in Senate Races Tuesday Night",
+    "entity lists": [
+        [
+            "West Virginia",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Montana",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "South Dakota",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Alaska",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Louisiana",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Arkansas",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "North Carolina",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Alison Lundergan Grimes",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Kentucky",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Scott Brown",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Jeanne Shaheen",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Kay Hagan",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Thom Tillis",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Georgia",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Michelle Nunn",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "David Perdue",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "West Virginia",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Montana",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "South Dakota",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Alaska",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Louisiana",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Arkansas",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "North Carolina",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Alison Lundergan Grimes",
+                "sentiment": "NEG",
+                "object": "Mitch McConnell",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Alison Lundergan Grimes",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Mitch McConnell",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Kentucky",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Scott Brown",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Scott Brown",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Jeanne Shaheen",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Scott Brown",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Kay Hagan",
+                "sentiment": "NEG",
+                "object": "Thom Tillis",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Georgia",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Michelle Nunn",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "David Perdue",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Michelle Nunn",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "David Perdue",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Republican Party": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "West Virginia": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Montana": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "South Dakota": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Alaska": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Louisiana": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Arkansas": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "North Carolina": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Kentucky": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Alison Lundergan Grimes": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Jeanne Shaheen": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Scott Brown": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Kay Hagan": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Thom Tillis": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Georgia": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Michelle Nunn": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "David Perdue": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Republican Party": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "West Virginia": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Montana": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "South Dakota": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Alaska": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "Louisiana": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "Arkansas": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "North Carolina": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "Kentucky": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Alison Lundergan Grimes": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Jeanne Shaheen": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Scott Brown": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Kay Hagan": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "Thom Tillis": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Georgia": [
+            [
+                "Slightly Conservative",
+                "D"
+            ]
+        ],
+        "Michelle Nunn": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "David Perdue": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "D"
+        }
+    ]
+}

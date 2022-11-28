@@ -1,0 +1,234 @@
+{
+    "title": "Senators try Sabotage",
+    "entity lists": [
+        [
+            "Republican senators",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "The letter, signed by 47 U.S. senators",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Ali Khamenei",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Benjamin Netanyahu",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Republican senators",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Republican senators",
+                "sentiment": "POS",
+                "object": "The letter, signed by 47 U.S. senators",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Republican senators",
+                "sentiment": "NEG",
+                "object": "Ali Khamenei",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican senators",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Benjamin Netanyahu",
+                "sentiment": "POS",
+                "object": "The letter, signed by 47 U.S. senators",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Benjamin Netanyahu",
+                "sentiment": "POS",
+                "object": "Republican senators",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "POS",
+                "object": "The letter, signed by 47 U.S. senators",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "The letter, signed by 47 U.S. senators": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Republican senators": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Ali Khamenei": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Benjamin Netanyahu": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "The letter, signed by 47 U.S. senators": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Republican senators": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Ali Khamenei": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Benjamin Netanyahu": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        }
+    ]
+}

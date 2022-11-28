@@ -1,0 +1,324 @@
+{
+    "title": "Federal appeals court upholds New York subpoena for Trump's taxes",
+    "entity lists": [
+        [
+            "appeals court",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "subpoena",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Jay Sekulow",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Cyrus Vance Jr.",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Supreme court",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "three-judge panel",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "appeals court",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "appeals court",
+                "sentiment": "POS",
+                "object": "subpoena",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "appeals court",
+                "sentiment": "POS",
+                "object": "subpoena",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Jay Sekulow",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jay Sekulow",
+                "sentiment": "NEG",
+                "object": "subpoena",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Cyrus Vance Jr.",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Cyrus Vance Jr.",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Cyrus Vance Jr.",
+                "sentiment": "POS",
+                "object": "subpoena",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Supreme court",
+                "sentiment": "POS",
+                "object": "subpoena",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Supreme court",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "subpoena",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "three-judge panel",
+                "sentiment": "POS",
+                "object": "subpoena",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "three-judge panel",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "three-judge panel": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "subpoena": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Supreme court": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Cyrus Vance Jr.": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "appeals court": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Jay Sekulow": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "three-judge panel": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "subpoena": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ],
+        "Supreme court": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Cyrus Vance Jr.": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "appeals court": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Jay Sekulow": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "C"
+        }
+    ]
+}

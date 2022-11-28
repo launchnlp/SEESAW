@@ -1,0 +1,415 @@
+{
+    "title": "Republicans barging into secure room to stall impeachment inquiry highlights another wild day",
+    "entity lists": [
+        [
+            "impeachment probe",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Republican lawmakers",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Adam Schiff",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Lindsey Graham",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Occupy Wall Street",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Jim Jordan",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "3": [
+            {
+                "id": 0,
+                "subject": "impeachment probe",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Republican lawmakers",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican lawmakers",
+                "sentiment": "NEG",
+                "object": "Adam Schiff",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican lawmakers",
+                "sentiment": "NEG",
+                "object": "impeachment probe",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "impeachment probe",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Republican lawmakers",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Republican lawmakers",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Republican lawmakers",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Lindsey Graham",
+                "sentiment": "POS",
+                "object": "Republican lawmakers",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Lindsey Graham",
+                "sentiment": "NEG",
+                "object": "impeachment probe",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Lindsey Graham",
+                "sentiment": "NEG",
+                "object": "Occupy Wall Street",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Lindsey Graham",
+                "sentiment": "NEG",
+                "object": "impeachment probe",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Republican lawmakers",
+                "sentiment": "NEG",
+                "object": "impeachment probe",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "impeachment probe",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "45": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "52": [
+            {
+                "id": 0,
+                "subject": "Jim Jordan",
+                "sentiment": "NEG",
+                "object": "Adam Schiff",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Adam Schiff",
+                "sentiment": "POS",
+                "object": "impeachment probe",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "61": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "62": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "impeachment probe",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "impeachment probe": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Republican lawmakers": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Adam Schiff": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Lindsey Graham": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Occupy Wall Street": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Jim Jordan": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "impeachment probe": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Republican lawmakers": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Adam Schiff": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Lindsey Graham": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Occupy Wall Street": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Jim Jordan": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "D"
+        }
+    ]
+}

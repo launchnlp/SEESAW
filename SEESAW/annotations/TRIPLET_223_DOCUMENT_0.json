@@ -1,0 +1,375 @@
+{
+    "title": "Romney calls on Reid to reveal source as fact-check sites challenge tax claim",
+    "entity lists": [
+        [
+            "Mitt Romney",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Harry Reid",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "PolitiFact",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "claim",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "The Washington Post",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "fact-check site",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Mitt Romney",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "fact-check site",
+                "sentiment": "NEG",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Mitt Romney",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Mitt Romney",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Mitt Romney",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "PolitiFact",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "PolitiFact",
+                "sentiment": "NEG",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "The Washington Post",
+                "sentiment": "NEG",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "The Washington Post",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "The Washington Post",
+                "sentiment": "NEG",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "fact-check site",
+                "sentiment": "NEG",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "PolitiFact",
+                "sentiment": "NEG",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "The Washington Post",
+                "sentiment": "NEG",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "POS",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "POS",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Nancy Pelosi",
+                "sentiment": "POS",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "POS",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Mitt Romney": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "claim": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "PolitiFact": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "The Washington Post": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "fact-check site": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Mitt Romney": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "claim": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "PolitiFact": [
+            [
+                "Slightly Conservative",
+                "E"
+            ]
+        ],
+        "The Washington Post": [
+            [
+                "Slightly Conservative",
+                "E"
+            ]
+        ],
+        "fact-check site": [
+            [
+                "Moderate",
+                "E"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "E"
+        }
+    ]
+}

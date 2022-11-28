@@ -1,0 +1,433 @@
+{
+    "title": "White House may consider funding for police in schools after Newtown",
+    "entity lists": [
+        [
+            "Obama administration",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "police officers in public schools",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "gun violence agenda",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Democratic lawmakers",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "National Rifle Association",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "naacp legal defense and education fund",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Obama administration",
+                "sentiment": "POS",
+                "object": "police officers in public schools",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Obama administration",
+                "sentiment": "POS",
+                "object": "gun violence agenda",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Democratic lawmakers",
+                "sentiment": "POS",
+                "object": "gun violence agenda",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic lawmakers",
+                "sentiment": "POS",
+                "object": "police officers in public schools",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "police officers in public schools",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "gun violence agenda",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "police officers in public schools",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "gun violence agenda",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "police officers in public schools",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "National Rifle Association",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "National Rifle Association",
+                "sentiment": "NEG",
+                "object": "gun violence agenda",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "gun violence agenda",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Obama administration",
+                "sentiment": "POS",
+                "object": "gun violence agenda",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "gun violence agenda",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "National Rifle Association",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "National Rifle Association",
+                "sentiment": "NEG",
+                "object": "gun violence agenda",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "gun violence agenda",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "gun violence agenda",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "naacp legal defense and education fund",
+                "sentiment": "NEG",
+                "object": "police officers in public schools",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "naacp legal defense and education fund",
+                "sentiment": "NEG",
+                "object": "National Rifle Association",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "naacp legal defense and education fund",
+                "sentiment": "NEG",
+                "object": "police officers in public schools",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "naacp legal defense and education fund",
+                "sentiment": "NEG",
+                "object": "police officers in public schools",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Obama administration": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "police officers in public schools": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "gun violence agenda": [
+            [
+                "Positive",
+                "C"
+            ]
+        ],
+        "National Rifle Association": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Democratic lawmakers": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "naacp legal defense and education fund": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Obama administration": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "police officers in public schools": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "gun violence agenda": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "National Rifle Association": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Democratic lawmakers": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "naacp legal defense and education fund": [
+            [
+                "Very Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "C"
+        }
+    ]
+}

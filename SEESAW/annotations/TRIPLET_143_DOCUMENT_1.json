@@ -1,0 +1,120 @@
+{
+    "title": "Navarro's Memos Warned of Millions of Deaths, $6 Trillion in Costs",
+    "entity lists": [
+        [
+            "Peter Navarro",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "coronavirus outbreak",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Peter Navarro",
+                "sentiment": "NEG",
+                "object": "coronavirus outbreak",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Peter Navarro",
+                "sentiment": "NEG",
+                "object": "coronavirus outbreak",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Peter Navarro",
+                "sentiment": "NEG",
+                "object": "coronavirus outbreak",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Peter Navarro",
+                "sentiment": "NEG",
+                "object": "coronavirus outbreak",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Peter Navarro",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Peter Navarro": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "coronavirus outbreak": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Peter Navarro": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "coronavirus outbreak": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

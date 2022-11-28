@@ -1,0 +1,876 @@
+{
+    "title": "Trump will ask for $8.6B for wall in budget",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "C",
+                "A"
+            ]
+        ],
+        [
+            "US-Mexico border wall",
+            [
+                "Topic",
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A"
+            ]
+        ],
+        [
+            "United States Congress",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A"
+            ]
+        ],
+        [
+            "United States House of Representatives",
+            [
+                "Organization",
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A"
+            ]
+        ],
+        [
+            "emergency",
+            [
+                "Event",
+                "Event",
+                "Event"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A"
+            ]
+        ],
+        [
+            "United States Senate",
+            [
+                "Organization",
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A"
+            ]
+        ],
+        [
+            "Larry Kudlow",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "United States Congress",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "United States Congress",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "NEG",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States House of Representatives",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States House of Representatives",
+                "sentiment": "NEG",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "United States House of Representatives",
+                "sentiment": "NEG",
+                "object": "emergency",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "United States Congress",
+                "sentiment": "NEG",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States Congress",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "United States House of Representatives",
+                "sentiment": "NEG",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "United States House of Representatives",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States House of Representatives",
+                "sentiment": "NEG",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "C",
+                    "A"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "emergency",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "United States Congress",
+                "sentiment": "NEG",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "United States Congress",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "United States Congress",
+                "sentiment": "NEG",
+                "object": "emergency",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States House of Representatives",
+                "sentiment": "NEG",
+                "object": "emergency",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "United States Senate",
+                "sentiment": "NEG",
+                "object": "emergency",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "United States Senate",
+                "sentiment": "NEG",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Larry Kudlow",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Larry Kudlow",
+                "sentiment": "NEG",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "United States Congress",
+                "sentiment": "NEG",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Larry Kudlow",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Larry Kudlow",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Larry Kudlow",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Larry Kudlow",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C",
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "United States Senate",
+                "sentiment": "NEG",
+                "object": "emergency",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "US-Mexico border wall": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "emergency": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Larry Kudlow": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "B"
+            ],
+            [
+                "Very Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "US-Mexico border wall": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "C"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "emergency": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Larry Kudlow": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

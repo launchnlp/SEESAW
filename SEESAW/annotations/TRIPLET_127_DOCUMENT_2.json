@@ -1,0 +1,52 @@
+{
+    "title": "Moderna reports 'positive' results from early data on coronavirus vaccine",
+    "entity lists": [
+        [
+            "coronavirus vaccine",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "11": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "coronavirus vaccine",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "coronavirus vaccine": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "coronavirus vaccine": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

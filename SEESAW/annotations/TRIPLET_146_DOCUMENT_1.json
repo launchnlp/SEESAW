@@ -1,0 +1,323 @@
+{
+    "title": "Trump campaign seizes on Biden's 'you aint black' comments to court black voters",
+    "entity lists": [
+        [
+            "Marc Lotter",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "decriminalizing marijuana",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "black Americans",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "3": [
+            {
+                "id": 0,
+                "subject": "Marc Lotter",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Marc Lotter",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Marc Lotter",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "B",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Marc Lotter",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Marc Lotter",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "B",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Marc Lotter",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "decriminalizing marijuana",
+                "sentiment": "NEG",
+                "object": "black Americans",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Marc Lotter",
+                "sentiment": "POS",
+                "object": "decriminalizing marijuana",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Joe Biden": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Slightly Negative",
+                "D"
+            ],
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Positive",
+                "B"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Marc Lotter": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "black Americans": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "decriminalizing marijuana": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Joe Biden": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "D"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Marc Lotter": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "D"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "black Americans": [
+            [
+                "Slightly Liberal",
+                "E"
+            ]
+        ],
+        "decriminalizing marijuana": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "D"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "E"
+        }
+    ]
+}

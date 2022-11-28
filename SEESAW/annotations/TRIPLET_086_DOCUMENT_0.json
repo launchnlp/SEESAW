@@ -1,0 +1,540 @@
+{
+    "title": "Poll: Clinton's Lead Over Trump Slips After Florida Shooting",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "A"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Salient"
+            ],
+            [
+                "B",
+                "A"
+            ]
+        ],
+        [
+            "immigration",
+            [
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A"
+            ]
+        ],
+        [
+            "Muslims",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A"
+            ]
+        ],
+        [
+            "gun control",
+            [
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A"
+            ]
+        ],
+        [
+            "radical jihadist terrorism",
+            [
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Hillary Clinton",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "immigration",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Muslims",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "gun control",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "gun control",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Muslims",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "immigration",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Muslims",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "immigration",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "gun control",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "gun control",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "gun control",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Hillary Clinton",
+                "sentiment": "NEG",
+                "object": "radical jihadist terrorism",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Hillary Clinton",
+                "sentiment": "POS",
+                "object": "Muslims",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Hillary Clinton",
+                "sentiment": "POS",
+                "object": "gun control",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Positive",
+                "B"
+            ],
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "gun control": [
+            [
+                "Slightly Positive",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "immigration": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "radical jihadist terrorism": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Muslims": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "gun control": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "immigration": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "radical jihadist terrorism": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Muslims": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "B"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

@@ -1,0 +1,291 @@
+{
+    "title": "Trump campaign denies showing massacre in 'Church of Fake News' parody video at Doral",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "John McCain",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Rosie O'Donnell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Bernie Sanders",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "news media",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "american priority",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "parody video",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Trump campaign",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "John McCain",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Rosie O'Donnell",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Bernie Sanders",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "news media",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "american priority",
+                "sentiment": "NEG",
+                "object": "parody video",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "american priority",
+                "sentiment": "NEG",
+                "object": "parody video",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Trump campaign",
+                "sentiment": "NEG",
+                "object": "parody video",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "news media",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "parody video": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "John McCain": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Rosie O'Donnell": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Bernie Sanders": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "news media": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "american priority": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Trump campaign": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "parody video": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "John McCain": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Rosie O'Donnell": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Bernie Sanders": [
+            [
+                "Very Liberal",
+                "A"
+            ]
+        ],
+        "news media": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "american priority": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Trump campaign": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

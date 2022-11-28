@@ -1,0 +1,564 @@
+{
+    "title": "Why Mitch McConnell relented on his demands about preserving the filibuster",
+    "entity lists": [
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "filibuster",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Chuck Schumer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Joe Manchin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Kyrsten Sinema",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "power - sharing agreement",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "justin goodman",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Elizabeth Warren",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Ed Markey",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Jon Tester",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "filibuster",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "POS",
+                "object": "filibuster",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "filibuster",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "filibuster",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Kyrsten Sinema",
+                "sentiment": "POS",
+                "object": "filibuster",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "POS",
+                "object": "Joe Manchin",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mitch McConnell",
+                "sentiment": "POS",
+                "object": "Kyrsten Sinema",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "POS",
+                "object": "power - sharing agreement",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Mitch McConnell",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "justin goodman",
+                "sentiment": "NEG",
+                "object": "Mitch McConnell",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "justin goodman",
+                "sentiment": "POS",
+                "object": "Democratic Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "filibuster",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Kyrsten Sinema",
+                "sentiment": "POS",
+                "object": "filibuster",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Kyrsten Sinema",
+                "sentiment": "POS",
+                "object": "filibuster",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "filibuster",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "POS",
+                "object": "filibuster",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "filibuster",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Elizabeth Warren",
+                "sentiment": "NEG",
+                "object": "filibuster",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ed Markey",
+                "sentiment": "NEG",
+                "object": "filibuster",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Jon Tester",
+                "sentiment": "POS",
+                "object": "filibuster",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Kyrsten Sinema",
+                "sentiment": "POS",
+                "object": "filibuster",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "filibuster",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Mitch McConnell": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "filibuster": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "power - sharing agreement": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "justin goodman": [
+            [
+                "Unknown",
+                "B"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Kyrsten Sinema": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Elizabeth Warren": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Ed Markey": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Jon Tester": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "filibuster": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "power - sharing agreement": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "justin goodman": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Kyrsten Sinema": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Elizabeth Warren": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Ed Markey": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Jon Tester": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "B"
+        }
+    ]
+}

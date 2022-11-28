@@ -1,0 +1,378 @@
+{
+    "title": "No Copies of Clinton Emails on Server, Lawyer Says",
+    "entity lists": [
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "the personal email account that Hillary Rodham Clinton used exclusively when she was secretary of state",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "David E. Kendall",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "the House select committee investigating the 2012 attacks in Benghazi, Libya",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Trey Gowdy",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Elijah Cummings",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Hillary Clinton",
+                "sentiment": "POS",
+                "object": "the personal email account that Hillary Rodham Clinton used exclusively when she was secretary of state",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "David E. Kendall",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "the House select committee investigating the 2012 attacks in Benghazi, Libya",
+                "sentiment": "NEG",
+                "object": "the personal email account that Hillary Rodham Clinton used exclusively when she was secretary of state",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "the personal email account that Hillary Rodham Clinton used exclusively when she was secretary of state",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "the personal email account that Hillary Rodham Clinton used exclusively when she was secretary of state",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "the personal email account that Hillary Rodham Clinton used exclusively when she was secretary of state",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "POS",
+                "object": "the personal email account that Hillary Rodham Clinton used exclusively when she was secretary of state",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Elijah Cummings",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "David E. Kendall",
+                "sentiment": "POS",
+                "object": "the personal email account that Hillary Rodham Clinton used exclusively when she was secretary of state",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "David E. Kendall",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "David E. Kendall",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "David E. Kendall",
+                "sentiment": "POS",
+                "object": "the personal email account that Hillary Rodham Clinton used exclusively when she was secretary of state",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "David E. Kendall",
+                "sentiment": "NEG",
+                "object": "Trey Gowdy",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "the personal email account that Hillary Rodham Clinton used exclusively when she was secretary of state": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "David E. Kendall": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "the House select committee investigating the 2012 attacks in Benghazi, Libya": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Trey Gowdy": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "the personal email account that Hillary Rodham Clinton used exclusively when she was secretary of state": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "David E. Kendall": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ],
+        "the House select committee investigating the 2012 attacks in Benghazi, Libya": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Trey Gowdy": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "C"
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "title": "Darrell Issa forfeits John Kerry appearance on Benghazi",
+    "entity lists": [
+        [
+            "Darrell Issa",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "John Kerry",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "United States Department of State",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Peter Roskam",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "3": [
+            {
+                "id": 0,
+                "subject": "Darrell Issa",
+                "sentiment": "NEG",
+                "object": "John Kerry",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Darrell Issa",
+                "sentiment": "NEG",
+                "object": "United States Department of State",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Darrell Issa",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Peter Roskam",
+                "sentiment": "NEG",
+                "object": "Darrell Issa",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "John Kerry": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Darrell Issa": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "United States Department of State": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Peter Roskam": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "John Kerry": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ],
+        "Darrell Issa": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "United States Department of State": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Peter Roskam": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "C"
+        }
+    ]
+}

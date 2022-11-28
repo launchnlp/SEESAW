@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/idaho-gay-marriage-ban-struck-down",
+    "story_title": "Idaho Gay Marriage Ban Struck Down",
+    "story_time": "2014-05-14",
+    "story_topic": "lgbt_rights",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Politico",
+        "url": "http://www.politico.com/story/2014/05/idaho-gay-marriage-ban-struck-down-106655.html",
+        "title": "Idaho ban on gay marriage struck down",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Townhall",
+        "url": "http://townhall.com/columnists/frankturek/2014/05/14/same-sex-marriage-stealing-heresy-from-god-n1836225",
+        "title": "Same Sex Marriage: Stealing Heresy From God",
+        "bias_label": 3
+    },
+    "Meta info for article 2": {
+        "source": "Washington Post",
+        "url": "http://www.washingtonpost.com/blogs/the-fix/wp/2014/05/14/were-on-the-brink-of-a-majority-of-gay-americans-being-able-to-marry/",
+        "title": "We're on the brink of a majority of gay Americans being able to marry",
+        "bias_label": 1
+    },
+    "triplet_id": "180"
+}

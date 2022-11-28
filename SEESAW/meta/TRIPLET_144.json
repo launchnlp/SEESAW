@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/federal-judge-rules-pennsylvanias-covid-19-lockdown-order-unconstitutional",
+    "story_title": "Federal Judge Rules Pennsylvania's COVID-19 Lockdown Order Unconstitutional",
+    "story_time": "2020-09-15",
+    "story_topic": "coronavirus",
+    "Split": "test",
+    "Meta info for article 0": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2020/09/14/pennsylvania-ruling-trump/",
+        "title": "Trump seizes on judge\u2019s ruling that Pennsylvania lockdown is \u2018unconstitutional\u2019",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "The Hill",
+        "url": "https://thehill.com/regulation/court-battles/516333-federal-judge-rules-pennsylvanias-coronavirus-orders-are",
+        "title": "Federal judge rules Pennsylvania's coronavirus orders are unconstitutional",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "Reason",
+        "url": "https://reason.com/2020/09/14/federal-court-rules-pennsylvanias-lockdown-order-unconstitutional/",
+        "title": "Federal Court Rules Pennsylvania's Lockdown Order Unconstitutional",
+        "bias_label": 4
+    },
+    "triplet_id": "144"
+}

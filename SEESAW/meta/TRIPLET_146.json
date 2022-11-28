@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/perspectives-joe-bidens-aint-black-comment",
+    "story_title": "Perspectives: Joe Biden's 'You Ain't Black' Remark",
+    "story_time": "2020-05-28",
+    "story_topic": "race_and_racism",
+    "Split": "test",
+    "Meta info for article 2": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2020/may/28/joe-bidens-you-aint-black-comment-the-scourge-of-t/",
+        "title": "Joe Biden's 'you ain't black' comment: The scourge of the left's identity politics",
+        "bias_label": 4
+    },
+    "Meta info for article 0": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2020/05/28/heres-why-black-americans-were-mad-bidens-comment-even-if-theyd-say-same-thing-themselves/",
+        "title": "Here\u2019s why black Americans were mad at Biden\u2019s comment \u2014 even if they\u2019d say the same thing themselves",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "The Hill",
+        "url": "https://thehill.com/hilltv/rising/499767-trump-campaign-to-seize-on-biden-you-aint-black-comments-to-court-black-voters",
+        "title": "Trump campaign seizes on Biden's 'you aint black' comments to court black voters",
+        "bias_label": 2
+    },
+    "triplet_id": "146"
+}

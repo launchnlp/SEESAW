@@ -1,0 +1,553 @@
+{
+    "title": "Ruling By Senate Parliamentarian Opens Up Potential Pathway For Democrats",
+    "entity lists": [
+        [
+            "Democratic Party",
+            [
+                "People",
+                "Organization",
+                "People"
+            ],
+            [
+                "Salient",
+                "Main",
+                "Main"
+            ],
+            [
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "infrastructure proposal",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Joe Manchin",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Chuck Schumer",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization",
+                "People"
+            ],
+            [
+                "Main",
+                "Main"
+            ],
+            [
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "budget reconciliation",
+            [
+                "Topic",
+                "Others"
+            ],
+            [
+                "Main",
+                "Main"
+            ],
+            [
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "infrastructure plan",
+            [
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "parliamentarian\u2019s decision",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "parliamentarian",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "9": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "infrastructure proposal",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "infrastructure plan",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "infrastructure plan",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "NEG",
+                "object": "infrastructure proposal",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Manchin",
+                "sentiment": "NEG",
+                "object": "infrastructure plan",
+                "annotators": [
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Chuck Schumer",
+                "sentiment": "POS",
+                "object": "Democratic Party",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Chuck Schumer",
+                "sentiment": "POS",
+                "object": "budget reconciliation",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "budget reconciliation",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "parliamentarian",
+                "sentiment": "POS",
+                "object": "Democratic Party",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Joe Biden",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "parliamentarian\u2019s decision",
+                "sentiment": "POS",
+                "object": "Democratic Party",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "parliamentarian\u2019s decision",
+                "sentiment": "POS",
+                "object": "Joe Biden",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "budget reconciliation",
+                "annotators": [
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "parliamentarian",
+                "sentiment": "POS",
+                "object": "budget reconciliation",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "parliamentarian\u2019s decision",
+                "sentiment": "POS",
+                "object": "Democratic Party",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Democratic Party": [
+            [
+                "Slightly Positive",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "infrastructure proposal": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "budget reconciliation": [
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "infrastructure plan": [
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "parliamentarian\u2019s decision": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "parliamentarian": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Moderate",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "infrastructure proposal": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "D"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "budget reconciliation": [
+            [
+                "Not Applicable",
+                "D"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "infrastructure plan": [
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "parliamentarian\u2019s decision": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "parliamentarian": [
+            [
+                "Moderate",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "D"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "E"
+        }
+    ]
+}

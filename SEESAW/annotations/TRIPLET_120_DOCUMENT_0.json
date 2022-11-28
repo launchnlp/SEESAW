@@ -1,0 +1,719 @@
+{
+    "title": "California Voters Remove Aaron Persky, the Judge Who Gave a 6-Month Sentence for Sexual Assault",
+    "entity lists": [
+        [
+            "Aaron Persky",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "voter",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Brock Turner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Stanford University",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "recall",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Michele Dauber",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "sexual violence",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "LaDoris Cordell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "judicial independence",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "emily doe",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Anita Hill",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Kirsten Gillibrand",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Opponents of the recall",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "California law",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Turner\u2019s sentence",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Aaron Persky",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "Aaron Persky",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "voter",
+                "sentiment": "POS",
+                "object": "recall",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Aaron Persky",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Aaron Persky",
+                "sentiment": "POS",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Turner\u2019s sentence",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Stanford University",
+                "sentiment": "NEG",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Aaron Persky",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Michele Dauber",
+                "sentiment": "POS",
+                "object": "recall",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Michele Dauber",
+                "sentiment": "NEG",
+                "object": "sexual violence",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "sexual violence",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "LaDoris Cordell",
+                "sentiment": "NEG",
+                "object": "recall",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Aaron Persky",
+                "sentiment": "POS",
+                "object": "recall",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "recall",
+                "sentiment": "NEG",
+                "object": "judicial independence",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Aaron Persky",
+                "sentiment": "POS",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Aaron Persky",
+                "sentiment": "NEG",
+                "object": "emily doe",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "emily doe",
+                "sentiment": "NEG",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Aaron Persky",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "recall",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Michele Dauber",
+                "sentiment": "POS",
+                "object": "recall",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Anita Hill",
+                "sentiment": "POS",
+                "object": "recall",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Kirsten Gillibrand",
+                "sentiment": "POS",
+                "object": "recall",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Opponents of the recall",
+                "sentiment": "NEG",
+                "object": "recall",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Opponents of the recall",
+                "sentiment": "NEG",
+                "object": "Aaron Persky",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Michele Dauber",
+                "sentiment": "NEG",
+                "object": "sexual violence",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "LaDoris Cordell",
+                "sentiment": "NEG",
+                "object": "recall",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "LaDoris Cordell",
+                "sentiment": "POS",
+                "object": "Aaron Persky",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "LaDoris Cordell",
+                "sentiment": "NEG",
+                "object": "voter",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "LaDoris Cordell",
+                "sentiment": "NEG",
+                "object": "California law",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Turner\u2019s sentence",
+                "sentiment": "NEG",
+                "object": "California law",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Turner\u2019s sentence",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Aaron Persky": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "sexual violence": [
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "recall": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "voter": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Brock Turner": [
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "Stanford University": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "Michele Dauber": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "LaDoris Cordell": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "judicial independence": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "emily doe": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "Anita Hill": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Kirsten Gillibrand": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Opponents of the recall": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "California law": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "Turner\u2019s sentence": [
+            [
+                "Negative",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Aaron Persky": [
+            [
+                "Slightly Conservative",
+                "E"
+            ]
+        ],
+        "sexual violence": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "recall": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "voter": [
+            [
+                "Slightly Liberal",
+                "E"
+            ]
+        ],
+        "Brock Turner": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "Stanford University": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Michele Dauber": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "LaDoris Cordell": [
+            [
+                "Slightly Conservative",
+                "E"
+            ]
+        ],
+        "judicial independence": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "emily doe": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Anita Hill": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Kirsten Gillibrand": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Opponents of the recall": [
+            [
+                "Moderate",
+                "E"
+            ]
+        ],
+        "California law": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Turner\u2019s sentence": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "E"
+        }
+    ]
+}

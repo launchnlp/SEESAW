@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/us-senate-passes-bill-make-juneteenth-national-holiday",
+    "story_title": "Senate Passes Bill to Make Juneteenth A National Holiday",
+    "story_time": "2021-06-15",
+    "story_topic": "holidays",
+    "Split": "test",
+    "Meta info for article 2": {
+        "source": "National Review",
+        "url": "https://www.nationalreview.com/news/senate-passes-bill-making-juneteenth-a-national-holiday/",
+        "title": "Senate Passes Bill Making Juneteenth a National Holiday",
+        "bias_label": 3
+    },
+    "Meta info for article 0": {
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2021/06/15/senate-passes-juneteenth-bill-holiday-494707",
+        "title": "Senate passes bill to make Juneteenth a federal holiday",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2021/06/15/1006934154/senate-unanimously-approves-a-bill-to-make-juneteenth-a-public-holiday",
+        "title": "Senate Unanimously Approves A Bill To Make Juneteenth A Public Holiday",
+        "bias_label": 2
+    },
+    "triplet_id": "158"
+}

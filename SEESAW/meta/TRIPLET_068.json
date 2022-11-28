@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/trump-tweets-about-break-baltimore-representatives-house",
+    "story_title": "Trump Tweets About Break-In at Baltimore Representative's House",
+    "story_time": "2019-08-02",
+    "story_topic": "politics",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2019/08/02/donald-trump-really-bad-news-someone-broke-into-baltimore-house-of-elijah-cummings/",
+        "title": "Donald Trump: \u2018Really Bad News\u2019 Someone Broke into Baltimore House of Elijah Cummings",
+        "bias_label": 3
+    },
+    "Meta info for article 1": {
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2019/08/02/trump-responds-news-burglary-elijah-cummings-baltimore-home/1898235001/",
+        "title": "'Too bad!': Trump responds to reports of a burglary at Rep. Elijah Cummings' Baltimore home",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/politics/trump-seems-to-make-light-of-reports-that-baltimore-home-owned-by-cummings-was-burglarized/2019/08/02/65ca96be-b516-11e9-951e-de024209545d_story.html?utm_term=.9f19b3106c7a",
+        "title": "Trump seems to make light of reports that Baltimore home of Cummings was burglarized",
+        "bias_label": 1
+    },
+    "triplet_id": "068"
+}

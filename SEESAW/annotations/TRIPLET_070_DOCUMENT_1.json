@@ -1,0 +1,456 @@
+{
+    "title": "Trump Vetoes Bill To End U.S. Support For Saudis In Yemen War",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "end U.S. support of Saudi Arabia\u2019s military campaign in Yemen",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "United States House of Representatives",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "United States Senate",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Bernie Sanders",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Chris Murphy",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Saudi Arabia",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "end U.S. support of Saudi Arabia\u2019s military campaign in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "end U.S. support of Saudi Arabia\u2019s military campaign in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "POS",
+                "object": "end U.S. support of Saudi Arabia\u2019s military campaign in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States Senate",
+                "sentiment": "POS",
+                "object": "end U.S. support of Saudi Arabia\u2019s military campaign in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "end U.S. support of Saudi Arabia\u2019s military campaign in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "end U.S. support of Saudi Arabia\u2019s military campaign in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "end U.S. support of Saudi Arabia\u2019s military campaign in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Bernie Sanders",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Bernie Sanders",
+                "sentiment": "POS",
+                "object": "end U.S. support of Saudi Arabia\u2019s military campaign in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Bernie Sanders",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Bernie Sanders",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "POS",
+                "object": "end U.S. support of Saudi Arabia\u2019s military campaign in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Chris Murphy",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Chris Murphy",
+                "sentiment": "POS",
+                "object": "end U.S. support of Saudi Arabia\u2019s military campaign in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Chris Murphy",
+                "sentiment": "POS",
+                "object": "end U.S. support of Saudi Arabia\u2019s military campaign in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Saudi Arabia",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Saudi Arabia",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "end U.S. support of Saudi Arabia\u2019s military campaign in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "end U.S. support of Saudi Arabia\u2019s military campaign in Yemen",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Negative",
+                "B"
+            ]
+        ],
+        "end U.S. support of Saudi Arabia\u2019s military campaign in Yemen": [
+            [
+                "Positive",
+                "B"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Bernie Sanders": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Chris Murphy": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Saudi Arabia": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "end U.S. support of Saudi Arabia\u2019s military campaign in Yemen": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Bernie Sanders": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Chris Murphy": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Saudi Arabia": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "B"
+        }
+    ]
+}

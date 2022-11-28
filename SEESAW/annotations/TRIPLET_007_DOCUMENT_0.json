@@ -1,0 +1,689 @@
+{
+    "title": "Senate trafficking deal clears way for vote on Loretta Lynch AG nomination",
+    "entity lists": [
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "bill against human trafficking",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Loretta Lynch",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "rearranging money for a victims\u2019 fund",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Patty Murray",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Eric Holder",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Hyde Amendment",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "abortion restrictions",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Amy Klobuchar",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "planned parenthood action fund",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Harry Reid",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "amendment",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "bill against human trafficking",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "bill against human trafficking",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "bill against human trafficking",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "rearranging money for a victims\u2019 fund",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "rearranging money for a victims\u2019 fund",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Patty Murray",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Eric Holder",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "POS",
+                "object": "bill against human trafficking",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Hyde Amendment",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "abortion restrictions",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Hyde Amendment",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "Hyde Amendment",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Amy Klobuchar",
+                "sentiment": "POS",
+                "object": "rearranging money for a victims\u2019 fund",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "rearranging money for a victims\u2019 fund",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "rearranging money for a victims\u2019 fund",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "planned parenthood action fund",
+                "sentiment": "POS",
+                "object": "Democratic Party",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "planned parenthood action fund",
+                "sentiment": "POS",
+                "object": "rearranging money for a victims\u2019 fund",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "abortion restrictions",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "abortion restrictions",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "POS",
+                "object": "amendment",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "amendment",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "amendment",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Loretta Lynch": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "bill against human trafficking": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Eric Holder": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Hyde Amendment": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "planned parenthood action fund": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "abortion restrictions": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "rearranging money for a victims\u2019 fund": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Patty Murray": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Amy Klobuchar": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "amendment": [
+            [
+                "Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Loretta Lynch": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "bill against human trafficking": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Eric Holder": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Hyde Amendment": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "planned parenthood action fund": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "abortion restrictions": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "rearranging money for a victims\u2019 fund": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Patty Murray": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Amy Klobuchar": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "amendment": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

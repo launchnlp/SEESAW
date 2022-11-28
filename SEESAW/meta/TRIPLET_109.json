@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/session-vows-fight-bias-doj",
+    "story_title": "Sessions Vows to Fight Bias at DOJ",
+    "story_time": "2018-01-27",
+    "story_topic": "justice_department",
+    "Split": "train",
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2018/jan/26/sessions-vows-eliminate-political-bias-doj/",
+        "title": "Sessions vows to eliminate political bias at DOJ",
+        "bias_label": 4
+    },
+    "Meta info for article 2": {
+        "source": "The Hill",
+        "url": "http://thehill.com/homenews/administration/371006-sessions-vows-to-battle-bias-following-fbi-texting-controversy",
+        "title": "Sessions vows to battle bias following FBI texting controversy",
+        "bias_label": 2
+    },
+    "Meta info for article 0": {
+        "source": "HuffPost",
+        "url": "https://www.huffingtonpost.com/entry/doj-fbi-sessions-gop-attacks_us_5a6b7e16e4b0ddb658c63d1d",
+        "title": "As Republicans Attack The DOJ And FBI, Sessions Vows To Stand Up To \u2018Unfair\u2019 Criticism",
+        "bias_label": 0
+    },
+    "triplet_id": "109"
+}

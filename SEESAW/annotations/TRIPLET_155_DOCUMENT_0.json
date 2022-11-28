@@ -1,0 +1,355 @@
+{
+    "title": "Attorney General Merrick Garland announces an investigation into the Minneapolis Police Department.",
+    "entity lists": [
+        [
+            "Merrick Garland",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Minneapolis Police Department",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "police violence",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Derek Chauvin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "former officer Derek Chauvin was convicted of murder in the death of George Floyd",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "consent decree",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Trump administration",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Obama administration",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Biden administration",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Merrick Garland",
+                "sentiment": "NEG",
+                "object": "Minneapolis Police Department",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "police violence",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "former officer Derek Chauvin was convicted of murder in the death of George Floyd",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "police violence",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Merrick Garland",
+                "sentiment": "NEG",
+                "object": "Minneapolis Police Department",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Minneapolis Police Department",
+                "sentiment": "NEG",
+                "object": "Derek Chauvin",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "former officer Derek Chauvin was convicted of murder in the death of George Floyd",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "police violence",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Merrick Garland",
+                "sentiment": "POS",
+                "object": "consent decree",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Merrick Garland",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Obama administration",
+                "sentiment": "POS",
+                "object": "consent decree",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Biden administration",
+                "sentiment": "POS",
+                "object": "consent decree",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Merrick Garland": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Minneapolis Police Department": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "former officer Derek Chauvin was convicted of murder in the death of George Floyd": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Derek Chauvin": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Trump administration": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Obama administration": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Biden administration": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "consent decree": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "police violence": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Merrick Garland": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Minneapolis Police Department": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "former officer Derek Chauvin was convicted of murder in the death of George Floyd": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "Derek Chauvin": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Trump administration": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Obama administration": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Biden administration": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "consent decree": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "police violence": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "B"
+        }
+    ]
+}

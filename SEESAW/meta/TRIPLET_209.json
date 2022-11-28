@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/obama-confront-hecklers-immigration",
+    "story_title": "Obama Confronts Hecklers on Immigration",
+    "story_time": "2013-11-26",
+    "story_topic": "immigration",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2013/11/25/barack-obama-hecklers-immigration_n_4338945.html?utm_hp_ref=politics",
+        "title": "Obama Confronts Hecklers At Immigration Speech",
+        "bias_label": 0
+    },
+    "Meta info for article 0": {
+        "source": "CNN (Online News)",
+        "url": "http://politicalticker.blogs.cnn.com/2013/11/25/as-obama-makes-turn-to-immigration-protests-that-hes-not-doing-enough/?hpt=po_t1",
+        "title": "As Obama makes turn to immigration, protests that he's not doing enough",
+        "bias_label": 0
+    },
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2013/nov/25/obama-heckled-over-immigration-rebukes-protester/",
+        "title": "Obama hears the discontent over immigration loud and clear, rebukes heckler",
+        "bias_label": 4
+    },
+    "triplet_id": "209"
+}

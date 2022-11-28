@@ -1,0 +1,319 @@
+{
+    "title": "Trump administration expands government's deportation powers",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "deportation",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "guidance memo",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "undocumented immigrants",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United States Citizenship and Immigration Services",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Lee Cissna",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "deportation",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "guidance memo",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "guidance memo",
+                "sentiment": "POS",
+                "object": "deportation",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "guidance memo",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "United States Citizenship and Immigration Services",
+                "sentiment": "POS",
+                "object": "deportation",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "guidance memo",
+                "sentiment": "POS",
+                "object": "deportation",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States Citizenship and Immigration Services",
+                "sentiment": "POS",
+                "object": "deportation",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Lee Cissna",
+                "sentiment": "POS",
+                "object": "guidance memo",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Lee Cissna",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Lee Cissna",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "guidance memo",
+                "sentiment": "POS",
+                "object": "United States Citizenship and Immigration Services",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "guidance memo",
+                "sentiment": "POS",
+                "object": "deportation",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "guidance memo",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "United States Citizenship and Immigration Services",
+                "sentiment": "POS",
+                "object": "guidance memo",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "guidance memo",
+                "sentiment": "POS",
+                "object": "deportation",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "guidance memo",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "deportation": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "United States Citizenship and Immigration Services": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "undocumented immigrants": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "guidance memo": [
+            [
+                "Very Positive",
+                "D"
+            ]
+        ],
+        "Lee Cissna": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "deportation": [
+            [
+                "Slightly Conservative",
+                "D"
+            ]
+        ],
+        "United States Citizenship and Immigration Services": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "undocumented immigrants": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "guidance memo": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Lee Cissna": [
+            [
+                "Slightly Conservative",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "D"
+        }
+    ]
+}

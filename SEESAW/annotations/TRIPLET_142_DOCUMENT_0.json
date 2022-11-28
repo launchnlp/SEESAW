@@ -1,0 +1,517 @@
+{
+    "title": "GOP shifting on unemployment benefits as jobless numbers swell",
+    "entity lists": [
+        [
+            "Senate Republicans",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "unemployment benefit",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "wave of protests, riots and other forms of social unrest",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "long-term unemployment",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "John Thune",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Rob Portman",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Mitt Romney",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Congress",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "returning to work",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Lindsey Graham",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Senate Republicans",
+                "sentiment": "POS",
+                "object": "unemployment benefit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "unemployment benefit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Senate Republicans",
+                "sentiment": "POS",
+                "object": "unemployment benefit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Senate Republicans",
+                "sentiment": "NEG",
+                "object": "wave of protests, riots and other forms of social unrest",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Senate Republicans",
+                "sentiment": "NEG",
+                "object": "unemployment benefit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Senate Republicans",
+                "sentiment": "POS",
+                "object": "unemployment benefit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Senate Republicans",
+                "sentiment": "POS",
+                "object": "unemployment benefit",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Senate Republicans",
+                "sentiment": "NEG",
+                "object": "long-term unemployment",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Senate Republicans",
+                "sentiment": "NEG",
+                "object": "long-term unemployment",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "John Thune",
+                "sentiment": "NEG",
+                "object": "unemployment benefit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Rob Portman",
+                "sentiment": "POS",
+                "object": "unemployment benefit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "unemployment benefit",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "unemployment benefit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Senate Republicans",
+                "sentiment": "POS",
+                "object": "unemployment benefit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Mitt Romney",
+                "sentiment": "POS",
+                "object": "unemployment benefit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Mitt Romney",
+                "sentiment": "POS",
+                "object": "unemployment benefit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "Mitt Romney",
+                "sentiment": "POS",
+                "object": "unemployment benefit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "44": [
+            {
+                "id": 0,
+                "subject": "United States Congress",
+                "sentiment": "POS",
+                "object": "returning to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "47": [
+            {
+                "id": 0,
+                "subject": "Lindsey Graham",
+                "sentiment": "POS",
+                "object": "unemployment benefit",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Lindsey Graham",
+                "sentiment": "POS",
+                "object": "returning to work",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "49": [
+            {
+                "id": 0,
+                "subject": "Lindsey Graham",
+                "sentiment": "NEG",
+                "object": "Rob Portman",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "50": [
+            {
+                "id": 0,
+                "subject": "Lindsey Graham",
+                "sentiment": "NEG",
+                "object": "unemployment benefit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Senate Republicans": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "unemployment benefit": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "wave of protests, riots and other forms of social unrest": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "long-term unemployment": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "John Thune": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Rob Portman": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Mitt Romney": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "returning to work": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Lindsey Graham": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Senate Republicans": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "unemployment benefit": [
+            [
+                "Moderate",
+                "A"
+            ]
+        ],
+        "wave of protests, riots and other forms of social unrest": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "long-term unemployment": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "John Thune": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Rob Portman": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Mitt Romney": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Moderate",
+                "A"
+            ]
+        ],
+        "returning to work": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Lindsey Graham": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

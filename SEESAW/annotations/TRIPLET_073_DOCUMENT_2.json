@@ -1,0 +1,407 @@
+{
+    "title": "Trump admin bars federal funding for abortion clinics",
+    "entity lists": [
+        [
+            "Trump administration",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "bars federal funding for abortion clinics",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Ronald Reagan",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Bill Clinton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Alex Azar",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Richard Nixon",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Planned Parenthood",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "William Rehnquist",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Elijah Cummings",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Trump administration",
+                "sentiment": "POS",
+                "object": "bars federal funding for abortion clinics",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Ronald Reagan",
+                "sentiment": "POS",
+                "object": "bars federal funding for abortion clinics",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Bill Clinton",
+                "sentiment": "NEG",
+                "object": "bars federal funding for abortion clinics",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "bars federal funding for abortion clinics",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "bars federal funding for abortion clinics",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Alex Azar",
+                "sentiment": "POS",
+                "object": "bars federal funding for abortion clinics",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Richard Nixon",
+                "sentiment": "NEG",
+                "object": "bars federal funding for abortion clinics",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Ronald Reagan",
+                "sentiment": "POS",
+                "object": "bars federal funding for abortion clinics",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Planned Parenthood",
+                "sentiment": "NEG",
+                "object": "bars federal funding for abortion clinics",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "William Rehnquist",
+                "sentiment": "POS",
+                "object": "bars federal funding for abortion clinics",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "bars federal funding for abortion clinics",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Trump administration",
+                "sentiment": "NEG",
+                "object": "bars federal funding for abortion clinics",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "bars federal funding for abortion clinics",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "bars federal funding for abortion clinics",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Trump administration": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "bars federal funding for abortion clinics": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Planned Parenthood": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Ronald Reagan": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Bill Clinton": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Alex Azar": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Richard Nixon": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "William Rehnquist": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Trump administration": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "bars federal funding for abortion clinics": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Planned Parenthood": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Ronald Reagan": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Bill Clinton": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Alex Azar": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Richard Nixon": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "William Rehnquist": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "B"
+        }
+    ]
+}

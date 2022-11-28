@@ -1,0 +1,703 @@
+{
+    "title": "Barack Obama attacks Trump administration's response to coronavirus pandemic",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Trump administration",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "coronavirus pandemic",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "black communities",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United States",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "folks in charge",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Peter Navarro",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "police",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Michael Flynn",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "# obamagate",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Historically black colleges and universities",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Kamala Harris",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "coronavirus pandemic",
+                "sentiment": "NEG",
+                "object": "black communities",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "coronavirus pandemic",
+                "sentiment": "NEG",
+                "object": "United States",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "folks in charge",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "folks in charge",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "folks in charge",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Peter Navarro",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Joe Biden",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "coronavirus pandemic",
+                "sentiment": "NEG",
+                "object": "black communities",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "United States",
+                "sentiment": "NEG",
+                "object": "black communities",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "coronavirus pandemic",
+                "sentiment": "NEG",
+                "object": "black communities",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "police",
+                "sentiment": "NEG",
+                "object": "black communities",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "coronavirus pandemic",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Michael Flynn",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Michael Flynn",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "# obamagate",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "# obamagate",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "# obamagate",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "United States",
+                "sentiment": "NEG",
+                "object": "black communities",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Historically black colleges and universities",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Kamala Harris",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Kamala Harris",
+                "sentiment": "POS",
+                "object": "Historically black colleges and universities",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Kamala Harris",
+                "sentiment": "POS",
+                "object": "Historically black colleges and universities",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "United States": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Historically black colleges and universities": [
+            [
+                "Positive",
+                "D"
+            ]
+        ],
+        "coronavirus pandemic": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Trump administration": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "folks in charge": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Peter Navarro": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "black communities": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Michael Flynn": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "# obamagate": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "police": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Kamala Harris": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "United States": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "Historically black colleges and universities": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "coronavirus pandemic": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Trump administration": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "folks in charge": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Peter Navarro": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "black communities": [
+            [
+                "Slightly Liberal",
+                "D"
+            ]
+        ],
+        "Michael Flynn": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "# obamagate": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "police": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Kamala Harris": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "D"
+        }
+    ]
+}

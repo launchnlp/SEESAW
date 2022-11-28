@@ -1,0 +1,370 @@
+{
+    "title": "Justices take dim view of Trump effort to cut illegal immigrants from census count",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Democratic-leaning states",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Supreme Court of the United States",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "administration",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Amy Coney Barrett",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "subtract illegal immigrants from the 2020 census count",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "undocumented immigrants",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Barbara Underwood",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Democratic-leaning states",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Supreme Court of the United States",
+                "sentiment": "NEG",
+                "object": "administration",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Amy Coney Barrett",
+                "sentiment": "NEG",
+                "object": "administration",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "subtract illegal immigrants from the 2020 census count",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "subtract illegal immigrants from the 2020 census count",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Barbara Underwood",
+                "sentiment": "POS",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "subtract illegal immigrants from the 2020 census count",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Supreme Court of the United States": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "subtract illegal immigrants from the 2020 census count": [
+            [
+                "Positive",
+                "C"
+            ]
+        ],
+        "Democratic-leaning states": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "administration": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Amy Coney Barrett": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "undocumented immigrants": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Barbara Underwood": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Supreme Court of the United States": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "subtract illegal immigrants from the 2020 census count": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Democratic-leaning states": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "administration": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Amy Coney Barrett": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "undocumented immigrants": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Barbara Underwood": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "C"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/cdc-considers-recommending-all-americans-wear-face-masks-public",
+    "story_title": "CDC Considers Recommending all Americans Wear Face Masks in Public",
+    "story_time": "2020-03-31",
+    "story_topic": "coronavirus",
+    "Split": "test",
+    "Meta info for article 0": {
+        "source": "Newsmax (News)",
+        "url": "https://www.newsmax.com/us/cdc-face-masks-virus-covid-19/2020/03/31/id/960671/",
+        "title": "CDC Considers Asking People to Wear Makeshift Masks in Public",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/administration/490308-cdc-may-urge-americans-to-cover-faces-in-public-report",
+        "title": "CDC may urge Americans to cover faces in public: report",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/health/cdc-considering-recommending-general-public-wear-face-coverings-in-public/2020/03/30/6a3e495c-7280-11ea-87da-77a8136c1a6d_story.html",
+        "title": "CDC considering recommending general public wear face coverings in public",
+        "bias_label": 1
+    },
+    "triplet_id": "147"
+}

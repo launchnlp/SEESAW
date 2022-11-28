@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/veto-threat",
+    "story_title": "Veto Threat",
+    "story_time": "2015-01-07",
+    "story_topic": "white_house",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Washington Post",
+        "url": "http://www.washingtonpost.com/blogs/post-politics/wp/2015/01/07/white-house-makes-formal-veto-threat-against-keystone-aca-bills/",
+        "title": "White House makes formal veto threat against Keystone, ACA bills",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Politico",
+        "url": "http://www.politico.com/story/2015/01/president-obamas-year-of-the-veto-114020.html?hp=t2_r",
+        "title": "Obama\u2019s year of the veto",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2015/jan/7/mitch-mcconnell-obama-new-congress/",
+        "title": "Mitch McConnell: Obama will determine how much new Congress works",
+        "bias_label": 4
+    },
+    "triplet_id": "019"
+}

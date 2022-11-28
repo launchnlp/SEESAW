@@ -1,0 +1,243 @@
+{
+    "title": "Can Gary Johnson, the Libertarian Nominee, Swing the Election?",
+    "entity lists": [
+        [
+            "Gary Johnson",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "fiscal conservatism, liberal social policies and military isolationism",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "New Mexico",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Colorado",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Utah",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Mormons",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "29": [
+            {
+                "id": 0,
+                "subject": "Gary Johnson",
+                "sentiment": "POS",
+                "object": "fiscal conservatism, liberal social policies and military isolationism",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "fiscal conservatism, liberal social policies and military isolationism",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "New Mexico",
+                "sentiment": "POS",
+                "object": "Gary Johnson",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Colorado",
+                "sentiment": "POS",
+                "object": "Gary Johnson",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Utah",
+                "sentiment": "POS",
+                "object": "Gary Johnson",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Mormons",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Gary Johnson": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "fiscal conservatism, liberal social policies and military isolationism": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "New Mexico": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Colorado": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Utah": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Mormons": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Gary Johnson": [
+            [
+                "Slightly Conservative",
+                "A"
+            ]
+        ],
+        "fiscal conservatism, liberal social policies and military isolationism": [
+            [
+                "Moderate",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "New Mexico": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Colorado": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Utah": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Mormons": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

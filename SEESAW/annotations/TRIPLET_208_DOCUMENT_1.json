@@ -1,0 +1,369 @@
+{
+    "title": "Congress avoids shutdown, bickers over 2014 budget",
+    "entity lists": [
+        [
+            "lawmaker",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "threat of a government shutdown",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Paul Ryan",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Obama\u2019s health care law",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Ryan budget",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "John Boehner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Chris Van Hollen",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Conservatives",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "sequestration",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "lawmaker",
+                "sentiment": "NEG",
+                "object": "threat of a government shutdown",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Paul Ryan",
+                "sentiment": "NEG",
+                "object": "Obama\u2019s health care law",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Ryan budget",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Ryan budget",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "Ryan budget",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Chris Van Hollen",
+                "sentiment": "POS",
+                "object": "Ryan budget",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Conservatives",
+                "sentiment": "NEG",
+                "object": "sequestration",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Democratic Party": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "lawmaker": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "threat of a government shutdown": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Paul Ryan": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Obama\u2019s health care law": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Ryan budget": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Chris Van Hollen": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "sequestration": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Conservatives": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "lawmaker": [
+            [
+                "Moderate",
+                "A"
+            ]
+        ],
+        "threat of a government shutdown": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Paul Ryan": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Obama\u2019s health care law": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Ryan budget": [
+            [
+                "Slightly Conservative",
+                "A"
+            ]
+        ],
+        "Chris Van Hollen": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "sequestration": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Conservatives": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

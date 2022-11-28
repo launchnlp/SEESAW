@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/voters-recall-california-judge-who-presided-over-brock-turner-rape-case",
+    "story_title": "Voters Recall California Judge Who Presided Over Brock Turner Rape Case",
+    "story_time": "2018-06-06",
+    "story_topic": "sexual_misconduct",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "New York Times (News)",
+        "url": "https://www.nytimes.com/2018/06/06/us/politics/judge-persky-brock-turner-recall.html",
+        "title": "California Voters Remove Aaron Persky, the Judge Who Gave a 6-Month Sentence for Sexual Assault",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Reason",
+        "url": "https://reason.com/blog/2018/06/06/recall-aaron-persky-brock-turner-stanfor",
+        "title": "Recalling Aaron Persky, the Judge Who Showed Brock Turner Leniency, Is a Mistake That Will Haunt Progressives",
+        "bias_label": 4
+    },
+    "Meta info for article 2": {
+        "source": "Reuters",
+        "url": "https://www.reuters.com/article/us-california-rape-judge/voters-remove-california-judge-criticized-over-rape-sentencing-idUSKCN1J20EP",
+        "title": "Voters remove California judge criticized over rape sentencing",
+        "bias_label": 2
+    },
+    "triplet_id": "120"
+}

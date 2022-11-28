@@ -1,0 +1,155 @@
+{
+    "title": "Veterans Affairs Secretary in the Hot Seat on Capitol Hill Over Medical Wait Times and Deaths",
+    "entity lists": [
+        [
+            "Eric Shinseki",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "United States Senate Committee on Veterans' Affairs",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "White House",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Eric Shinseki",
+                "sentiment": "NEG",
+                "object": "United States Senate Committee on Veterans' Affairs",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Eric Shinseki",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Eric Shinseki",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Eric Shinseki",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "White House",
+                "sentiment": "POS",
+                "object": "Eric Shinseki",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Eric Shinseki",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "United States Senate Committee on Veterans' Affairs": [
+            [
+                "Unknown",
+                "B"
+            ]
+        ],
+        "Eric Shinseki": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "White House": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "United States Senate Committee on Veterans' Affairs": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "Eric Shinseki": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "White House": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        }
+    ]
+}

@@ -1,0 +1,467 @@
+{
+    "title": "Lawmakers divided over arming rebels in Syria",
+    "entity lists": [
+        [
+            "John McCain",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Israel",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "intervene in the civil war in Syria",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Peter T. King",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Al-Qaeda",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Patrick Leahy",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "arming rebels in Syria",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Tom Cotton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Dutch Ruppersberger",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "John McCain",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "John McCain",
+                "sentiment": "POS",
+                "object": "Israel",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John McCain",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "John McCain",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "John McCain",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John McCain",
+                "sentiment": "POS",
+                "object": "intervene in the civil war in Syria",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Peter T. King",
+                "sentiment": "NEG",
+                "object": "intervene in the civil war in Syria",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Peter T. King",
+                "sentiment": "NEG",
+                "object": "intervene in the civil war in Syria",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Peter T. King",
+                "sentiment": "NEG",
+                "object": "Al-Qaeda",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Peter T. King",
+                "sentiment": "NEG",
+                "object": "Al-Qaeda",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Patrick Leahy",
+                "sentiment": "NEG",
+                "object": "intervene in the civil war in Syria",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Patrick Leahy",
+                "sentiment": "NEG",
+                "object": "intervene in the civil war in Syria",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Patrick Leahy",
+                "sentiment": "POS",
+                "object": "arming rebels in Syria",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Tom Cotton",
+                "sentiment": "POS",
+                "object": "intervene in the civil war in Syria",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Tom Cotton",
+                "sentiment": "POS",
+                "object": "arming rebels in Syria",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Tom Cotton",
+                "sentiment": "POS",
+                "object": "arming rebels in Syria",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Dutch Ruppersberger",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Dutch Ruppersberger",
+                "sentiment": "NEG",
+                "object": "intervene in the civil war in Syria",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Dutch Ruppersberger",
+                "sentiment": "NEG",
+                "object": "intervene in the civil war in Syria",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "intervene in the civil war in Syria",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "intervene in the civil war in Syria": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "John McCain": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Israel": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Peter T. King": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Al-Qaeda": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Patrick Leahy": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "arming rebels in Syria": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Tom Cotton": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Dutch Ruppersberger": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "intervene in the civil war in Syria": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "John McCain": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Israel": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Peter T. King": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Al-Qaeda": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Patrick Leahy": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "arming rebels in Syria": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Tom Cotton": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Dutch Ruppersberger": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/perspectives-trump-social-media-accounts-banned-indefinitely",
+    "story_title": "Trump Social Media Accounts Banned 'Indefinitely'",
+    "story_time": "2021-01-07",
+    "story_topic": "free_speech",
+    "Split": "test",
+    "Meta info for article 1": {
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2021/01/07/zuckerburg-says-trump-will-be-blocked-from-facebook-and-instagram-455805",
+        "title": "Don't 'censor' Trump, top House Republican says after Facebook locks president's account",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "National Review",
+        "url": "https://www.nationalreview.com/news/facebook-bans-trump-at-least-until-he-leaves-office/?utm_source=ground.news&utm_medium=referral",
+        "title": "Facebook Bans Trump \u2018at Least\u2019 Until He Leaves Office",
+        "bias_label": 3
+    },
+    "Meta info for article 0": {
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/tech/2021/01/07/facebook-trump-instagram-social-media-accounts-block-indefinitely-zuckerberg/6580221002/",
+        "title": "President Trump blocked from posting to Facebook, Instagram 'indefinitely,' at least through end of term",
+        "bias_label": 1
+    },
+    "triplet_id": "166"
+}

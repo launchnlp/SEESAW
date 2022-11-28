@@ -1,0 +1,1048 @@
+{
+    "title": "Tuesday's primaries a test of Trump's influence, hold potential for upsets: A look at the races to watch",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Troy Balderson",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "danny o'connor",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "John Kasich",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Claire McCaskill",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Josh Hawley",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Eric Greitens",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Republican Liberty Caucus",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Austin Petersen",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "establishment",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Gretchen Whitmer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Bernie Sanders",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Abdul El-Sayed",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Alexandria Ocasio-Cortez",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Bill Schuette",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "John E. James",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "sandy pensler",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Kris Kobach",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "American Civil Liberties Union",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "voter fraud commission",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "The Kansas City Star",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Jim Barnett",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Susan Hutchison",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Maria Cantwell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Troy Balderson",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "danny o'connor",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "danny o'connor",
+                "sentiment": "NEG",
+                "object": "Troy Balderson",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John Kasich",
+                "sentiment": "POS",
+                "object": "Troy Balderson",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Troy Balderson",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Troy Balderson",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Troy Balderson",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "danny o'connor",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Nancy Pelosi",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Troy Balderson",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Claire McCaskill",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Josh Hawley",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Josh Hawley",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Josh Hawley",
+                "sentiment": "NEG",
+                "object": "Eric Greitens",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Eric Greitens",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Republican Liberty Caucus",
+                "sentiment": "POS",
+                "object": "Austin Petersen",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "establishment",
+                "sentiment": "POS",
+                "object": "Gretchen Whitmer",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Bernie Sanders",
+                "sentiment": "POS",
+                "object": "Abdul El-Sayed",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Alexandria Ocasio-Cortez",
+                "sentiment": "POS",
+                "object": "Abdul El-Sayed",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Bill Schuette",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "John E. James",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "John E. James",
+                "sentiment": "NEG",
+                "object": "sandy pensler",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "John E. James",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "42": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Kris Kobach",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "41": [
+            {
+                "id": 0,
+                "subject": "American Civil Liberties Union",
+                "sentiment": "NEG",
+                "object": "Kris Kobach",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "American Civil Liberties Union",
+                "sentiment": "NEG",
+                "object": "voter fraud commission",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "40": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "voter fraud commission",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "voter fraud commission",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "45": [
+            {
+                "id": 0,
+                "subject": "The Kansas City Star",
+                "sentiment": "POS",
+                "object": "Jim Barnett",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "51": [
+            {
+                "id": 0,
+                "subject": "Susan Hutchison",
+                "sentiment": "NEG",
+                "object": "Maria Cantwell",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "53": [
+            {
+                "id": 0,
+                "subject": "Maria Cantwell",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "55": [
+            {
+                "id": 0,
+                "subject": "Hillary Clinton",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "60": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Troy Balderson",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John Kasich",
+                "sentiment": "POS",
+                "object": "Troy Balderson",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "61": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Troy Balderson",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "62": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "danny o'connor",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "65": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "danny o'connor",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Nancy Pelosi",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Troy Balderson": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "danny o'connor": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "John Kasich": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Claire McCaskill": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Josh Hawley": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "Eric Greitens": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "Austin Petersen": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Republican Liberty Caucus": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Gretchen Whitmer": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "establishment": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Abdul El-Sayed": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Bernie Sanders": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Alexandria Ocasio-Cortez": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Bill Schuette": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "sandy pensler": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "John E. James": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Kris Kobach": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "American Civil Liberties Union": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "voter fraud commission": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "Jim Barnett": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "The Kansas City Star": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Maria Cantwell": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Susan Hutchison": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Negative",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "E"
+            ]
+        ],
+        "Troy Balderson": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "danny o'connor": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "John Kasich": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Claire McCaskill": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Josh Hawley": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Eric Greitens": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Austin Petersen": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Republican Liberty Caucus": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Gretchen Whitmer": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "establishment": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "Abdul El-Sayed": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Bernie Sanders": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Alexandria Ocasio-Cortez": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Bill Schuette": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "sandy pensler": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "John E. James": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Kris Kobach": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "American Civil Liberties Union": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "voter fraud commission": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "Jim Barnett": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "The Kansas City Star": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Maria Cantwell": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Susan Hutchison": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "E"
+        }
+    ]
+}

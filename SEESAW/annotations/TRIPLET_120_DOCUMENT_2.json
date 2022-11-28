@@ -1,0 +1,459 @@
+{
+    "title": "Voters remove California judge criticized over rape sentencing",
+    "entity lists": [
+        [
+            "Aaron Persky",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Brock Turner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "voter",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "recall",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Turner\u2019s sentence",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "sexual violence",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "LaDoris Cordell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "judicial independence",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "prosecutor",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "California Commission on Judicial Performance",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Aaron Persky",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "Aaron Persky",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "voter",
+                "sentiment": "POS",
+                "object": "recall",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "Aaron Persky",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Aaron Persky",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Turner\u2019s sentence",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Turner\u2019s sentence",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "sexual violence",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "LaDoris Cordell",
+                "sentiment": "NEG",
+                "object": "recall",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Aaron Persky",
+                "sentiment": "NEG",
+                "object": "recall",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "recall",
+                "sentiment": "NEG",
+                "object": "judicial independence",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "prosecutor",
+                "sentiment": "NEG",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Turner\u2019s sentence",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Turner\u2019s sentence",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Turner\u2019s sentence",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "California Commission on Judicial Performance",
+                "sentiment": "POS",
+                "object": "Aaron Persky",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Aaron Persky": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "sexual violence": [
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "recall": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "Turner\u2019s sentence": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "voter": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Brock Turner": [
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "LaDoris Cordell": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "judicial independence": [
+            [
+                "Positive",
+                "E"
+            ]
+        ],
+        "California Commission on Judicial Performance": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "prosecutor": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Aaron Persky": [
+            [
+                "Slightly Conservative",
+                "E"
+            ]
+        ],
+        "sexual violence": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "recall": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Turner\u2019s sentence": [
+            [
+                "Slightly Conservative",
+                "E"
+            ]
+        ],
+        "voter": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Brock Turner": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "LaDoris Cordell": [
+            [
+                "Slightly Conservative",
+                "E"
+            ]
+        ],
+        "judicial independence": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "California Commission on Judicial Performance": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "prosecutor": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "E"
+        }
+    ]
+}

@@ -1,0 +1,467 @@
+{
+    "title": "Trump Wants the U.S. Military 'To Secure' the U.S.-Mexico Border",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "F",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "US-Mexico border",
+            [
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Main",
+                "Salient"
+            ],
+            [
+                "F",
+                "A"
+            ]
+        ],
+        [
+            "law",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "anti-migration wall",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "George W. Bush",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "F",
+                "A"
+            ]
+        ],
+        [
+            "military",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Operation Jump Start",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "border control assistance",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "laws for the US border",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "US-Mexico border wall",
+            [
+                "Others"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "US-Mexico border",
+                "annotators": [
+                    "F",
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "law",
+                "annotators": [
+                    "F"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "laws for the US border",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "anti-migration wall",
+                "annotators": [
+                    "F"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "military",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "law",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "George W. Bush",
+                "sentiment": "NEG",
+                "object": "US-Mexico border",
+                "annotators": [
+                    "F"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "George W. Bush",
+                "sentiment": "POS",
+                "object": "Operation Jump Start",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "George W. Bush",
+                "sentiment": "POS",
+                "object": "border control assistance",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "border control assistance",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "anti-migration wall": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Positive",
+                "F"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "US-Mexico border": [
+            [
+                "Neutral",
+                "F"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "George W. Bush": [
+            [
+                "Neutral",
+                "F"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "law": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "military": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Operation Jump Start": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "border control assistance": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "US-Mexico border wall": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "laws for the US border": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "anti-migration wall": [
+            [
+                "Not Applicable",
+                "F"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "F"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Very Conservative",
+                "E"
+            ]
+        ],
+        "US-Mexico border": [
+            [
+                "Not Applicable",
+                "F"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "George W. Bush": [
+            [
+                "Very Conservative",
+                "F"
+            ],
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "law": [
+            [
+                "Moderate",
+                "F"
+            ]
+        ],
+        "military": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Operation Jump Start": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "border control assistance": [
+            [
+                "Moderate",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "US-Mexico border wall": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "laws for the US border": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "F"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "E"
+        }
+    ]
+}

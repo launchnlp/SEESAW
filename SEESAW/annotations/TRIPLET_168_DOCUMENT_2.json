@@ -1,0 +1,293 @@
+{
+    "title": "Senate Democrats strike tentative deal on $3.5 trillion party-line spending package",
+    "entity lists": [
+        [
+            "Senate Democrats",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "social welfare package",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Bernie Sanders",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Medicare benefits",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Joe Manchin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Trump-era tax cuts",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "7": [
+            {
+                "id": 0,
+                "subject": "Senate Democrats",
+                "sentiment": "POS",
+                "object": "social welfare package",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "social welfare package",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Bernie Sanders",
+                "sentiment": "POS",
+                "object": "Medicare benefits",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Bernie Sanders",
+                "sentiment": "POS",
+                "object": "social welfare package",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Bernie Sanders",
+                "sentiment": "POS",
+                "object": "social welfare package",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Bernie Sanders",
+                "sentiment": "POS",
+                "object": "social welfare package",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "NEG",
+                "object": "Trump-era tax cuts",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "social welfare package",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "social welfare package",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "social welfare package",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Joe Biden": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Senate Democrats": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "social welfare package": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Bernie Sanders": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Medicare benefits": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Trump-era tax cuts": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Joe Biden": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Senate Democrats": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "social welfare package": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Bernie Sanders": [
+            [
+                "Very Liberal",
+                "A"
+            ]
+        ],
+        "Medicare benefits": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Trump-era tax cuts": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

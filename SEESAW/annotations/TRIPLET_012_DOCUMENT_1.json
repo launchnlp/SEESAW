@@ -1,0 +1,1155 @@
+{
+    "title": "GOP contenders Nearly silent on Colorado Springs shooting",
+    "entity lists": [
+        [
+            "Republican Party",
+            [
+                "People",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Planned Parenthood",
+            [
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "robert lewis dear jr.",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Colorado Springs shooting",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "gun control",
+            [
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Jeb Bush",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Ted Cruz",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Michael Bennet",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Salient"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Bernie Sanders",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Martin O'Malley",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Carly Fiorina",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "shooting at a Planned Parenthood clinic in Colorado",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "John Kasich",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Cory Gardner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Democratic Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Bernie Sanders",
+                "sentiment": "POS",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Hillary Clinton",
+                "sentiment": "POS",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Martin O'Malley",
+                "sentiment": "POS",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "Bernie Sanders",
+                "sentiment": "NEG",
+                "object": "shooting at a Planned Parenthood clinic in Colorado",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 6,
+                "subject": "Hillary Clinton",
+                "sentiment": "NEG",
+                "object": "shooting at a Planned Parenthood clinic in Colorado",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 7,
+                "subject": "Martin O'Malley",
+                "sentiment": "NEG",
+                "object": "shooting at a Planned Parenthood clinic in Colorado",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "robert lewis dear jr.",
+                "sentiment": "NEG",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Colorado Springs shooting",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "gun control",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "shooting at a Planned Parenthood clinic in Colorado",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Jeb Bush",
+                "sentiment": "NEG",
+                "object": "Colorado Springs shooting",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jeb Bush",
+                "sentiment": "NEG",
+                "object": "shooting at a Planned Parenthood clinic in Colorado",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Ted Cruz",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ted Cruz",
+                "sentiment": "NEG",
+                "object": "shooting at a Planned Parenthood clinic in Colorado",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Michael Bennet",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Michael Bennet",
+                "sentiment": "POS",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Michael Bennet",
+                "sentiment": "NEG",
+                "object": "shooting at a Planned Parenthood clinic in Colorado",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Colorado Springs shooting",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Cory Gardner",
+                "sentiment": "NEG",
+                "object": "shooting at a Planned Parenthood clinic in Colorado",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Colorado Springs shooting",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Cory Gardner",
+                "sentiment": "NEG",
+                "object": "shooting at a Planned Parenthood clinic in Colorado",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "gun control",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "Bernie Sanders",
+                "sentiment": "POS",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "Bernie Sanders",
+                "sentiment": "POS",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Bernie Sanders",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "40": [
+            {
+                "id": 0,
+                "subject": "Hillary Clinton",
+                "sentiment": "POS",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Martin O'Malley",
+                "sentiment": "POS",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Hillary Clinton",
+                "sentiment": "NEG",
+                "object": "shooting at a Planned Parenthood clinic in Colorado",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Martin O'Malley",
+                "sentiment": "NEG",
+                "object": "shooting at a Planned Parenthood clinic in Colorado",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "42": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Colorado Springs shooting",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "0": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "gun control",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "shooting at a Planned Parenthood clinic in Colorado",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Carly Fiorina",
+                "sentiment": "NEG",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Carly Fiorina",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Ted Cruz",
+                "sentiment": "NEG",
+                "object": "shooting at a Planned Parenthood clinic in Colorado",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John Kasich",
+                "sentiment": "NEG",
+                "object": "shooting at a Planned Parenthood clinic in Colorado",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Jeb Bush",
+                "sentiment": "NEG",
+                "object": "shooting at a Planned Parenthood clinic in Colorado",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "John Kasich",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Cory Gardner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "gun control",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "41": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Colorado Springs shooting": [
+            [
+                "Very Negative",
+                "A"
+            ]
+        ],
+        "Planned Parenthood": [
+            [
+                "Positive",
+                "A"
+            ],
+            [
+                "Positive",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Very Negative",
+                "D"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Slightly Positive",
+                "A"
+            ],
+            [
+                "Positive",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Positive",
+                "A"
+            ],
+            [
+                "Positive",
+                "D"
+            ]
+        ],
+        "robert lewis dear jr.": [
+            [
+                "Very Negative",
+                "A"
+            ]
+        ],
+        "gun control": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Unknown",
+                "D"
+            ]
+        ],
+        "Jeb Bush": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Ted Cruz": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Michael Bennet": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Bernie Sanders": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Martin O'Malley": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "shooting at a Planned Parenthood clinic in Colorado": [
+            [
+                "Very Negative",
+                "D"
+            ]
+        ],
+        "Carly Fiorina": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "John Kasich": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Cory Gardner": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Very Conservative",
+                "D"
+            ]
+        ],
+        "Colorado Springs shooting": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Planned Parenthood": [
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "robert lewis dear jr.": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "gun control": [
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Jeb Bush": [
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Ted Cruz": [
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Michael Bennet": [
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Bernie Sanders": [
+            [
+                "Very Liberal",
+                "A"
+            ],
+            [
+                "Very Liberal",
+                "D"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Martin O'Malley": [
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "shooting at a Planned Parenthood clinic in Colorado": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Carly Fiorina": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "John Kasich": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Cory Gardner": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Liberal",
+            "annotator": "D"
+        }
+    ]
+}

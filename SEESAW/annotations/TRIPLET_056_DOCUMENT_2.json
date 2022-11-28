@@ -1,0 +1,469 @@
+{
+    "title": "Pence stays at Trump's Doonbeg resort hours away from official meetings",
+    "entity lists": [
+        [
+            "Mike Pence",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Doonbeg",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Citizens for Responsibility and Ethics in Washington",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Ted Lieu",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Marc Short",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "LGBT",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Karen Pence",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Ireland",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "ban on abortion",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "Mike Pence",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Mike Pence",
+                "sentiment": "POS",
+                "object": "Doonbeg",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Mike Pence",
+                "sentiment": "POS",
+                "object": "Doonbeg",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Mike Pence",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Mike Pence",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Citizens for Responsibility and Ethics in Washington",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Citizens for Responsibility and Ethics in Washington",
+                "sentiment": "NEG",
+                "object": "Mike Pence",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Citizens for Responsibility and Ethics in Washington",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Ted Lieu",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ted Lieu",
+                "sentiment": "NEG",
+                "object": "Mike Pence",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Marc Short",
+                "sentiment": "POS",
+                "object": "Mike Pence",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Mike Pence",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Mike Pence",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Mike Pence",
+                "sentiment": "NEG",
+                "object": "LGBT",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "Karen Pence",
+                "sentiment": "POS",
+                "object": "Mike Pence",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Karen Pence",
+                "sentiment": "NEG",
+                "object": "LGBT",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "Ireland",
+                "sentiment": "POS",
+                "object": "LGBT",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "Ireland",
+                "sentiment": "NEG",
+                "object": "ban on abortion",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "45": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Mike Pence": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Doonbeg": [
+            [
+                "Positive",
+                "C"
+            ]
+        ],
+        "Ireland": [
+            [
+                "Positive",
+                "C"
+            ]
+        ],
+        "Citizens for Responsibility and Ethics in Washington": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Ted Lieu": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Marc Short": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "ban on abortion": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "LGBT": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "Karen Pence": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Mike Pence": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Doonbeg": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Ireland": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Citizens for Responsibility and Ethics in Washington": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Ted Lieu": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Marc Short": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "ban on abortion": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "LGBT": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Karen Pence": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "C"
+        }
+    ]
+}

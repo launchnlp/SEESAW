@@ -1,0 +1,1142 @@
+{
+    "title": "Joe Biden's 'you ain't black' comment: The scourge of the left's identity politics",
+    "entity lists": [
+        [
+            "The left\u2019s construct of identity politics",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "D"
+            ]
+        ],
+        [
+            "black Americans",
+            [
+                "Organization",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Main"
+            ],
+            [
+                "B",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Charlamagne tha God",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "feminist movement",
+            [
+                "Topic",
+                "Topic",
+                "Event"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Gloria Steinem",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Kay Bailey Hutchison",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "identity politics",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "minority",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Democratic strategy and attitude",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Tammy Bruce",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "The left\u2019s construct of identity politics",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "identity politics",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "The left\u2019s construct of identity politics",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "identity politics",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "The left\u2019s construct of identity politics",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "identity politics",
+                "sentiment": "NEG",
+                "object": "minority",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "The left\u2019s construct of identity politics",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "identity politics",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "B",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "black Americans",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Charlamagne tha God",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Democratic strategy and attitude",
+                "sentiment": "NEG",
+                "object": "black Americans",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Democratic strategy and attitude",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "B",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Democratic strategy and attitude",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Democratic strategy and attitude",
+                "sentiment": "NEG",
+                "object": "black Americans",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Democratic strategy and attitude",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Democratic strategy and attitude",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "B",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "black Americans",
+                "annotators": [
+                    "B",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "Charlamagne tha God",
+                "annotators": [
+                    "B",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "feminist movement",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Tammy Bruce",
+                "sentiment": "NEG",
+                "object": "feminist movement",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Tammy Bruce",
+                "sentiment": "NEG",
+                "object": "identity politics",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "Gloria Steinem",
+                "sentiment": "NEG",
+                "object": "Kay Bailey Hutchison",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Gloria Steinem",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Kay Bailey Hutchison",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Tammy Bruce",
+                "sentiment": "POS",
+                "object": "Kay Bailey Hutchison",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "40": [
+            {
+                "id": 0,
+                "subject": "Gloria Steinem",
+                "sentiment": "NEG",
+                "object": "Kay Bailey Hutchison",
+                "annotators": [
+                    "B",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "41": [
+            {
+                "id": 0,
+                "subject": "Gloria Steinem",
+                "sentiment": "NEG",
+                "object": "Kay Bailey Hutchison",
+                "annotators": [
+                    "B",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "42": [
+            {
+                "id": 0,
+                "subject": "Gloria Steinem",
+                "sentiment": "NEG",
+                "object": "Kay Bailey Hutchison",
+                "annotators": [
+                    "B",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "45": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "The left\u2019s construct of identity politics",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "feminist movement",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Tammy Bruce",
+                "sentiment": "NEG",
+                "object": "identity politics",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "48": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            }
+        ],
+        "46": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "The left\u2019s construct of identity politics",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Tammy Bruce",
+                "sentiment": "NEG",
+                "object": "identity politics",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "44": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "feminist movement",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Tammy Bruce",
+                "sentiment": "NEG",
+                "object": "feminist movement",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "43": [
+            {
+                "id": 0,
+                "subject": "Gloria Steinem",
+                "sentiment": "NEG",
+                "object": "Kay Bailey Hutchison",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "47": [
+            {
+                "id": 0,
+                "subject": "black Americans",
+                "sentiment": "NEG",
+                "object": "identity politics",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Charlamagne tha God",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Joe Biden": [
+            [
+                "Very Negative",
+                "B"
+            ],
+            [
+                "Very Negative",
+                "D"
+            ],
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Very Negative",
+                "B"
+            ],
+            [
+                "Very Negative",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "black Americans": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "feminist movement": [
+            [
+                "Negative",
+                "B"
+            ],
+            [
+                "Very Negative",
+                "D"
+            ],
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "Kay Bailey Hutchison": [
+            [
+                "Negative",
+                "B"
+            ],
+            [
+                "Positive",
+                "D"
+            ],
+            [
+                "Positive",
+                "E"
+            ]
+        ],
+        "Gloria Steinem": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Very Negative",
+                "D"
+            ],
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "The left\u2019s construct of identity politics": [
+            [
+                "Very Negative",
+                "B"
+            ]
+        ],
+        "Charlamagne tha God": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Positive",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "identity politics": [
+            [
+                "Very Negative",
+                "E"
+            ]
+        ],
+        "minority": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Democratic strategy and attitude": [
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "Tammy Bruce": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Joe Biden": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "D"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "black Americans": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Slightly Liberal",
+                "E"
+            ]
+        ],
+        "feminist movement": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Kay Bailey Hutchison": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "D"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Gloria Steinem": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Very Liberal",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "The left\u2019s construct of identity politics": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Charlamagne tha God": [
+            [
+                "Moderate",
+                "B"
+            ],
+            [
+                "Moderate",
+                "D"
+            ],
+            [
+                "Moderate",
+                "E"
+            ]
+        ],
+        "identity politics": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "minority": [
+            [
+                "Slightly Liberal",
+                "E"
+            ]
+        ],
+        "Democratic strategy and attitude": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Tammy Bruce": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "B"
+        },
+        {
+            "ideology": "Very Conservative",
+            "annotator": "D"
+        },
+        {
+            "ideology": "Conservative",
+            "annotator": "E"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/barr-orders-prosecutor-examine-russia-inquiry-origins",
+    "story_title": "Barr Orders Prosecutor To Examine Russia Inquiry Origins",
+    "story_time": "2019-05-14",
+    "story_topic": "politics",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2019/may/13/john-durham-appointed-william-barr-investigate-rus/",
+        "title": "William Barr appoints U.S. attorney to investigate Russia probe origins",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/william-barr-prosecutor-russia-probe_n_5cda5eb6e4b0615b08181d41",
+        "title": "Barr Appoints Prosecutor To Investigate Start Of Russia Probe: Reports",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/world-us-canada-48263249",
+        "title": "Trump-Russia probe: Barr 'assigns prosecutor to review inquiry'",
+        "bias_label": 2
+    },
+    "triplet_id": "059"
+}

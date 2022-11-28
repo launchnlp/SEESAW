@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/florida-election-official-brenda-snipes-resigns",
+    "story_title": "Florida Election Official Brenda Snipes Resigns",
+    "story_time": "2018-11-19",
+    "story_topic": "elections",
+    "Split": "train",
+    "Meta info for article 1": {
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/campaign/417371-broward-county-official-brenda-snipes-submits-resignation-after-criticism",
+        "title": "Broward County official Brenda Snipes submits resignation after criticism",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2018/nov/19/brenda-snipes-resigns-broward-county-supervisor-florida-recount",
+        "title": "Florida election official Brenda Snipes resigns after tumultuous recount",
+        "bias_label": 1
+    },
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2018/nov/18/brenda-snipes-broward-election-chief-resigns/",
+        "title": "Broward County election supervisor at center of Florida recount battle resigns",
+        "bias_label": 4
+    },
+    "triplet_id": "106"
+}

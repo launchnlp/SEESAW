@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/releasing-final-jobs-report",
+    "story_title": "Releasing the Final Jobs Report",
+    "story_time": "2012-10-29",
+    "story_topic": "elections",
+    "Split": "train",
+    "Meta info for article 1": {
+        "source": "Politico",
+        "url": "http://www.politico.com/news/stories/1012/83013.html?hp=t2_3",
+        "title": "Labor Department considers jobs report delay ",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "CNN (Online News)",
+        "url": "http://money.cnn.com/2012/10/29/news/economy/jobs-report-sandy/index.html?hpt=po_c2",
+        "title": "Sandy could delay jobs report ",
+        "bias_label": 0
+    },
+    "Meta info for article 0": {
+        "source": "Townhall",
+        "url": "http://townhall.com/tipsheet/guybenson/2012/10/29/unreal_labor_department_may_delay_jobs_report_until_after_election",
+        "title": "Unreal: Labor Department May Delay Jobs Report Until After Election ",
+        "bias_label": 3
+    },
+    "triplet_id": "226"
+}

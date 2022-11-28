@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/will-republicans-take-senate",
+    "story_title": "Will Republicans Take The Senate?",
+    "story_time": "2014-11-02",
+    "story_topic": "elections",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Newsmax (News)",
+        "url": "http://www.newsmax.com/Headline/Midterm-Elections-Senate-5/2014/11/02/id/604618/",
+        "title": "5 Things to Watch in Senate Races Tuesday Night  ",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "http://www.cnn.com/2014/11/01/politics/gop-senate-midterms/index.html?hpt=po_c1",
+        "title": "Republicans eye slim Senate majority",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "Vox",
+        "url": "http://www.vox.com/2014/11/2/7145657/senate-forecasting-update",
+        "title": "Brutal new polls for Democrats make a GOP Senate landslide look quite possible",
+        "bias_label": 0
+    },
+    "triplet_id": "177"
+}

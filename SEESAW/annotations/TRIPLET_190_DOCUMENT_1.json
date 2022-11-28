@@ -1,0 +1,210 @@
+{
+    "title": "\"Extraordinary Circumstances:\" Holder Orders Second Autopsy in Ferguson Shooting",
+    "entity lists": [
+        [
+            "resident",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "police brutality",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Eric Holder",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "racially diverse",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Deneen Borelli",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "resident",
+                "sentiment": "NEG",
+                "object": "police brutality",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "resident",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "resident",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Eric Holder",
+                "sentiment": "POS",
+                "object": "racially diverse",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Eric Holder",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "racially diverse",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Deneen Borelli",
+                "sentiment": "NEG",
+                "object": "Eric Holder",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "police brutality": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "resident": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Eric Holder": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "racially diverse": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Deneen Borelli": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "police brutality": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "resident": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Eric Holder": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ],
+        "racially diverse": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Deneen Borelli": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "C"
+        }
+    ]
+}

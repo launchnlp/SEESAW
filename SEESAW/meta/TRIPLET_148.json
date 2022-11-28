@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/house-overrides-trumps-defense-bill-veto",
+    "story_title": "House Overrides Trump's Defense Bill Veto",
+    "story_time": "2020-12-28",
+    "story_topic": "us_military",
+    "Split": "test",
+    "Meta info for article 1": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/national-security/house-override-trump-veto-defense/2020/12/28/49b50b20-4927-11eb-a9d9-1e3ec4a928b9_story.html",
+        "title": "House votes to override Trump\u2019s veto of defense bill, setting up first such rebuke during his presidency",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2020/12/28/950802271/house-rejects-trumps-defense-bill-veto-in-highly-unusual-vote?utm_term=nprnews&utm_source=twitter.com&utm_campaign=npr&utm_medium=social",
+        "title": "House Rejects Trump's Defense Bill Veto In Highly Unusual Vote",
+        "bias_label": 2
+    },
+    "Meta info for article 0": {
+        "source": "Newsmax (News)",
+        "url": "https://www.newsmax.com/politics/defense/2020/12/28/id/1003401/?utm_source=ground.news&utm_medium=referral",
+        "title": "House Rejects Trump Veto of Defense Bill; Vote Sets Stage for 1st Override of Presidency",
+        "bias_label": 4
+    },
+    "triplet_id": "148"
+}

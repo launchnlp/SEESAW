@@ -1,0 +1,190 @@
+{
+    "title": "Biden vows recommendations by Tuesday on curbing gun violence",
+    "entity lists": [
+        [
+            "gun control",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "National Rifle Association",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Dan Glickman",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "4": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "gun control",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "National Rifle Association",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "National Rifle Association",
+                "sentiment": "NEG",
+                "object": "gun control",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "gun control",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Dan Glickman",
+                "sentiment": "POS",
+                "object": "gun control",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "gun control",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "National Rifle Association",
+                "sentiment": "NEG",
+                "object": "gun control",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "National Rifle Association": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "gun control": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Dan Glickman": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "National Rifle Association": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "gun control": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Dan Glickman": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        }
+    ]
+}

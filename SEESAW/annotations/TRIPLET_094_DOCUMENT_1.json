@@ -1,0 +1,478 @@
+{
+    "title": "Hope and hype of Hiroshima can\u2019t conceal Obama\u2019s dismal record on nuclear disarmament",
+    "entity lists": [
+        [
+            "hibakusha",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "two presidents Bush",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Bill Clinton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "United States",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "nuclear disarmament",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "New Zealand",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Indonesia",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Malaysia",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Philippines",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Thailand",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "11": [
+            {
+                "id": 0,
+                "subject": "hibakusha",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "two presidents Bush",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Bill Clinton",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "United States",
+                "sentiment": "NEG",
+                "object": "nuclear disarmament",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "nuclear disarmament",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "nuclear disarmament",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "New Zealand",
+                "sentiment": "POS",
+                "object": "nuclear disarmament",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Indonesia",
+                "sentiment": "POS",
+                "object": "nuclear disarmament",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Malaysia",
+                "sentiment": "POS",
+                "object": "nuclear disarmament",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Philippines",
+                "sentiment": "POS",
+                "object": "nuclear disarmament",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Thailand",
+                "sentiment": "POS",
+                "object": "nuclear disarmament",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "United States",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Negative",
+                "B"
+            ]
+        ],
+        "nuclear disarmament": [
+            [
+                "Positive",
+                "B"
+            ]
+        ],
+        "hibakusha": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "two presidents Bush": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Bill Clinton": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "United States": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "New Zealand": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Indonesia": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Malaysia": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Philippines": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Thailand": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "nuclear disarmament": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "hibakusha": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "two presidents Bush": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Bill Clinton": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "United States": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "New Zealand": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Indonesia": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Malaysia": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Philippines": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Thailand": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "B"
+        }
+    ]
+}

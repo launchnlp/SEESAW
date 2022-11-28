@@ -1,0 +1,447 @@
+{
+    "title": "Paul Ryan will face 'monumental obstacles' as speaker",
+    "entity lists": [
+        [
+            "John Boehner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Paul Ryan",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "debt limit",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Tom Rooney",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "get rid of budget caps",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Mark Sanford",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Senate Republicans",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "raise the national borrowing ceiling",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "House Democrats",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Dave Brat",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "7": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "Paul Ryan",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John Boehner",
+                "sentiment": "NEG",
+                "object": "debt limit",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "NEG",
+                "object": "debt limit",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Tom Rooney",
+                "sentiment": "NEG",
+                "object": "debt limit",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Paul Ryan",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "get rid of budget caps",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mark Sanford",
+                "sentiment": "NEG",
+                "object": "get rid of budget caps",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Senate Republicans",
+                "sentiment": "POS",
+                "object": "raise the national borrowing ceiling",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "House Democrats",
+                "sentiment": "POS",
+                "object": "raise the national borrowing ceiling",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "House Democrats",
+                "sentiment": "NEG",
+                "object": "John Boehner",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Dave Brat",
+                "sentiment": "POS",
+                "object": "raise the national borrowing ceiling",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Dave Brat",
+                "sentiment": "NEG",
+                "object": "get rid of budget caps",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Tom Rooney",
+                "sentiment": "POS",
+                "object": "Paul Ryan",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Tom Rooney",
+                "sentiment": "POS",
+                "object": "Paul Ryan",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Senate Republicans",
+                "sentiment": "NEG",
+                "object": "raise the national borrowing ceiling",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Paul Ryan": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "raise the national borrowing ceiling": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "debt limit": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Tom Rooney": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Mark Sanford": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "get rid of budget caps": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Senate Republicans": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "House Democrats": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Dave Brat": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Paul Ryan": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "raise the national borrowing ceiling": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "debt limit": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Tom Rooney": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Mark Sanford": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "get rid of budget caps": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Senate Republicans": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "House Democrats": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Dave Brat": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        }
+    ]
+}

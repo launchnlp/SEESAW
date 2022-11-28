@@ -1,0 +1,310 @@
+{
+    "title": "ISIS fight: Congress to vote on arming Syrian rebels",
+    "entity lists": [
+        [
+            "Bob Menendez",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "the arming and training of Syrian rebels",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "John Thune",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Mark Kirk",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Aid for Syria Rebels",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Rand Paul",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Lindsey Graham",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Harry Reid",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "12": [
+            {
+                "id": 0,
+                "subject": "Bob Menendez",
+                "sentiment": "NEG",
+                "object": "the arming and training of Syrian rebels",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "the arming and training of Syrian rebels",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "John Thune",
+                "sentiment": "POS",
+                "object": "the arming and training of Syrian rebels",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Mark Kirk",
+                "sentiment": "NEG",
+                "object": "Aid for Syria Rebels",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Rand Paul",
+                "sentiment": "NEG",
+                "object": "the arming and training of Syrian rebels",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "Lindsey Graham",
+                "sentiment": "NEG",
+                "object": "the arming and training of Syrian rebels",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "the arming and training of Syrian rebels",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Aid for Syria Rebels": [
+            [
+                "Unknown",
+                "C"
+            ]
+        ],
+        "the arming and training of Syrian rebels": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Bob Menendez": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "John Thune": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Mark Kirk": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Rand Paul": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Lindsey Graham": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Aid for Syria Rebels": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "the arming and training of Syrian rebels": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Bob Menendez": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "John Thune": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Mark Kirk": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Rand Paul": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Lindsey Graham": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        }
+    ]
+}

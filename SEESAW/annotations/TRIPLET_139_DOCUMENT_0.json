@@ -1,0 +1,397 @@
+{
+    "title": "Police thwart attempt by protesters to topple statue of Andrew Jackson near White House",
+    "entity lists": [
+        [
+            "Protesters",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "statue of President Andrew Jackson",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "police",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "David Bernhardt",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Peter Newsham",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Protesters",
+                "sentiment": "NEG",
+                "object": "statue of President Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "police",
+                "sentiment": "POS",
+                "object": "statue of President Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "statue of President Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "police",
+                "sentiment": "NEG",
+                "object": "Protesters",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "statue of President Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Protesters",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Protesters",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "statue of President Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "David Bernhardt",
+                "sentiment": "NEG",
+                "object": "Protesters",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Protesters",
+                "sentiment": "NEG",
+                "object": "statue of President Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Protesters",
+                "sentiment": "NEG",
+                "object": "police",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "police",
+                "sentiment": "NEG",
+                "object": "Protesters",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "statue of President Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "statue of President Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Peter Newsham",
+                "sentiment": "NEG",
+                "object": "Protesters",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Peter Newsham",
+                "sentiment": "NEG",
+                "object": "Protesters",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Protesters",
+                "sentiment": "NEG",
+                "object": "police",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "police",
+                "sentiment": "NEG",
+                "object": "Protesters",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "police",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "41": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Protesters",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "48": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Protesters",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "47": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "police",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "statue of President Andrew Jackson": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Protesters": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "police": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "David Bernhardt": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Peter Newsham": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "statue of President Andrew Jackson": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Protesters": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "police": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "David Bernhardt": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "Peter Newsham": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "C"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/boys-club",
+    "story_title": "Obama Cabinet Diversity",
+    "story_time": "2013-01-10",
+    "story_topic": "white_house",
+    "Split": "train",
+    "Meta info for article 1": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2013/01/09/mike-huckabee-obama-cabinet_n_2443695.html?utm_hp_ref=politics",
+        "title": "Mike Huckabee Slams Obama Cabinet's Lack Of Diversity ",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "CNN (Online News)",
+        "url": "http://www.cnn.com/2013/01/09/politics/obama-boys-club/index.html?hpt=po_c2",
+        "title": "Obama's Cabinet shaping up to be a boys club ",
+        "bias_label": 0
+    },
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/blog/inside-politics/2013/jan/10/rangel-hits-obama-over-embarrassing-lack-diversity/",
+        "title": "Rangel hits Obama over 'embarrassing' lack of diversity in new Cabinet ",
+        "bias_label": 4
+    },
+    "triplet_id": "217"
+}

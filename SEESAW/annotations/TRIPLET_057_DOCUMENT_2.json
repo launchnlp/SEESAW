@@ -1,0 +1,429 @@
+{
+    "title": "Former Colorado Gov. John Hickenlooper Is Running For President In 2020",
+    "entity lists": [
+        [
+            "John Hickenlooper",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "gun law",
+            [
+                "Topic",
+                "Topic",
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "giddy up pac",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "John Hickenlooper",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John Hickenlooper",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "John Hickenlooper",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "John Hickenlooper",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "John Hickenlooper",
+                "sentiment": "POS",
+                "object": "gun law",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John Hickenlooper",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "John Hickenlooper",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "John Hickenlooper",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "John Hickenlooper",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "John Hickenlooper",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "John Hickenlooper",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "giddy up pac",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "John Hickenlooper",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "John Hickenlooper",
+                "sentiment": "POS",
+                "object": "giddy up pac",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "John Hickenlooper",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "John Hickenlooper",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "John Hickenlooper",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "John Hickenlooper",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "John Hickenlooper": [
+            [
+                "Positive",
+                "B"
+            ],
+            [
+                "Positive",
+                "A"
+            ],
+            [
+                "Slightly Positive",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "gun law": [
+            [
+                "Positive",
+                "B"
+            ],
+            [
+                "Positive",
+                "A"
+            ],
+            [
+                "Positive",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "giddy up pac": [
+            [
+                "Positive",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "John Hickenlooper": [
+            [
+                "Slightly Liberal",
+                "B"
+            ],
+            [
+                "Moderate",
+                "A"
+            ],
+            [
+                "Slightly Liberal",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Very Conservative",
+                "D"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "gun law": [
+            [
+                "Slightly Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "giddy up pac": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "B"
+        },
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "D"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "E"
+        }
+    ]
+}

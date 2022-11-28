@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/what-paul-ryan-might-face",
+    "story_title": "What Paul Ryan Might Face",
+    "story_time": "2015-10-26",
+    "story_topic": "us_house",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Fox News (Online News)",
+        "url": "http://www.foxnews.com/politics/2015/10/26/debt-limit-chaos-awaits-paul-ryan-as-seeks-house-speakership/?intcmp=hpbt1",
+        "title": "Debt limit chaos awaits Paul Ryan as he seeks House speakership",
+        "bias_label": 3
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "http://www.cnn.com/2015/10/26/politics/paul-ryan-congress-debt-ceiling/index.html",
+        "title": "Paul Ryan will face 'monumental obstacles' as speaker",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "Salon",
+        "url": "http://www.salon.com/2015/10/26/paul_ryan_caves_to_the_wingnuts_hes_already_looking_like_a_hostage_of_the_insanity_caucus/",
+        "title": "Paul Ryan caves to the wingnuts: He\u2019s already looking like a hostage of the insanity caucus",
+        "bias_label": 0
+    },
+    "triplet_id": "006"
+}

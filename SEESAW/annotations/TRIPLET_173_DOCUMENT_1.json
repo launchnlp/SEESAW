@@ -1,0 +1,192 @@
+{
+    "title": "Elizabeth Warren gets leadership post by Senate Democrats",
+    "entity lists": [
+        [
+            "senator",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Harry Reid",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Elizabeth Warren",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Amy Klobuchar",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "middle-class Americans",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "3": [
+            {
+                "id": 0,
+                "subject": "senator",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "POS",
+                "object": "Elizabeth Warren",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "POS",
+                "object": "middle-class Americans",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "POS",
+                "object": "middle-class Americans",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Elizabeth Warren": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "Amy Klobuchar": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "senator": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "middle-class Americans": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Elizabeth Warren": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Amy Klobuchar": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "senator": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "middle-class Americans": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "E"
+        }
+    ]
+}

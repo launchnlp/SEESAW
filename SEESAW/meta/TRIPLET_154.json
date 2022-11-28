@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/obama-suggests-us-lacks-leadership-coronavirus-commencement-address",
+    "story_title": "Obama Suggests US Lacks Leadership on Coronavirus in Commencement Address",
+    "story_time": "2020-05-17",
+    "story_topic": "education",
+    "Split": "test",
+    "Meta info for article 1": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2020/05/16/857405084/in-virtual-speech-to-black-graduates-obama-says-u-s-lacks-leadership-on-coronavi",
+        "title": "In Virtual Speech To Black Graduates, Obama Says U.S. Lacks Leadership On Coronavirus",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2020/may/16/barack-obama-coronavirus-donald-trump-criticism-speech-covid-19",
+        "title": "Barack Obama attacks Trump administration's response to coronavirus pandemic",
+        "bias_label": 1
+    },
+    "Meta info for article 0": {
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/politics/2020/05/16/barack-obama-to-2020-graduates-current-leaders-arent-even-pretending-to-be-in-charge/",
+        "title": "Barack Obama to 2020 Graduates: Current Leaders \u2018Aren\u2019t Even Pretending to Be in Charge\u2019",
+        "bias_label": 3
+    },
+    "triplet_id": "154"
+}

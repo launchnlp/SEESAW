@@ -1,0 +1,199 @@
+{
+    "title": "Menendez responds to federal corruption charges, says he\u2019s \u2018not going anywhere\u2019",
+    "entity lists": [
+        [
+            "Bob Menendez",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "corruption charge",
+            [
+                "Others"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "salomon melgen",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "tricia enright",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Bob Menendez",
+                "sentiment": "NEG",
+                "object": "corruption charge",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Bob Menendez",
+                "sentiment": "POS",
+                "object": "salomon melgen",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "salomon melgen",
+                "sentiment": "POS",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Bob Menendez",
+                "sentiment": "POS",
+                "object": "salomon melgen",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Bob Menendez",
+                "sentiment": "NEG",
+                "object": "corruption charge",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Bob Menendez",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "tricia enright",
+                "sentiment": "POS",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "tricia enright",
+                "sentiment": "POS",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Bob Menendez": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "corruption charge": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "salomon melgen": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "tricia enright": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Bob Menendez": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "corruption charge": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "salomon melgen": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "tricia enright": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "A"
+        }
+    ]
+}

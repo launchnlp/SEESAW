@@ -1,0 +1,208 @@
+{
+    "title": "George W. Bush: Jeb Would Beat Hillary Clinton In 2016",
+    "entity lists": [
+        [
+            "George W. Bush",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jeb Bush",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "George W. Bush",
+                "sentiment": "POS",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "George W. Bush",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "George W. Bush",
+                "sentiment": "POS",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "George W. Bush",
+                "sentiment": "POS",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "George W. Bush",
+                "sentiment": "POS",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "George W. Bush",
+                "sentiment": "POS",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "George W. Bush",
+                "sentiment": "POS",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "George W. Bush",
+                "sentiment": "POS",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "George W. Bush",
+                "sentiment": "POS",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "George W. Bush",
+                "sentiment": "POS",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "George W. Bush",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "George W. Bush": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Jeb Bush": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "George W. Bush": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Jeb Bush": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "A"
+        }
+    ]
+}

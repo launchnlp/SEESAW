@@ -1,0 +1,466 @@
+{
+    "title": "12 Reasons Ted Cruz Is a Strong GOP 2016 Candidate",
+    "entity lists": [
+        [
+            "Ted Cruz",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Republican presidential nomination in 2016",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Tea Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Affordable Care Act",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "President Barack Obama's executive action on immigration",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Jeb Bush",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Rand Paul",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "David Dewhurst",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Ted Cruz",
+                "sentiment": "POS",
+                "object": "Republican presidential nomination in 2016",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Tea Party",
+                "sentiment": "POS",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Tea Party",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Ted Cruz",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Ted Cruz",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "President Barack Obama's executive action on immigration",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Ted Cruz",
+                "sentiment": "NEG",
+                "object": "President Barack Obama's executive action on immigration",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "President Barack Obama's executive action on immigration",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Rand Paul",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ted Cruz",
+                "sentiment": "NEG",
+                "object": "David Dewhurst",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "David Dewhurst",
+                "sentiment": "NEG",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "David Dewhurst",
+                "sentiment": "NEG",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "David Dewhurst",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Ted Cruz": [
+            [
+                "Very Positive",
+                "C"
+            ]
+        ],
+        "Republican presidential nomination in 2016": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Tea Party": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "Affordable Care Act": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "President Barack Obama's executive action on immigration": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Jeb Bush": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Rand Paul": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "David Dewhurst": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Ted Cruz": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Republican presidential nomination in 2016": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Tea Party": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Affordable Care Act": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "President Barack Obama's executive action on immigration": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Jeb Bush": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Rand Paul": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "David Dewhurst": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Very Conservative",
+            "annotator": "C"
+        }
+    ]
+}

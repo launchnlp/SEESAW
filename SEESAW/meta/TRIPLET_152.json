@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/doj-election-crimes-official-resigns",
+    "story_title": "DOJ Election Crimes Official Resigns",
+    "story_time": "2020-11-10",
+    "story_topic": "elections",
+    "Split": "test",
+    "Meta info for article 2": {
+        "source": "Newsmax (News)",
+        "url": "https://www.newsmax.com/politics/richard-pilger-resignation-elections-barr/2020/11/10/id/996281/",
+        "title": "DOJ's Election Crimes Chief Steps Down",
+        "bias_label": 4
+    },
+    "Meta info for article 0": {
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/administration/525248-doj-official-quits-after-barr-move-on-election-fraud-allegations",
+        "title": "DOJ official quits after Barr move on election fraud allegations",
+        "bias_label": 2
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/2020/11/09/politics/william-barr-voting-irregularities/index.html",
+        "title": "DOJ's top election crimes prosecutor quits in protest after Barr tells federal attorneys to probe unsupported allegations of voting irregularities",
+        "bias_label": 0
+    },
+    "triplet_id": "152"
+}

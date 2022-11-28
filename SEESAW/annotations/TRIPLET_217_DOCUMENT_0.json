@@ -1,0 +1,221 @@
+{
+    "title": "Rangel hits Obama over 'embarrassing' lack of diversity in new Cabinet",
+    "entity lists": [
+        [
+            "Charles Rangel",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "lack of diversity in his second-term Cabinet appointments",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Mitt Romney",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "diversity",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Charles Rangel",
+                "sentiment": "NEG",
+                "object": "lack of diversity in his second-term Cabinet appointments",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Charles Rangel",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Charles Rangel",
+                "sentiment": "NEG",
+                "object": "lack of diversity in his second-term Cabinet appointments",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Charles Rangel",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Mitt Romney",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Charles Rangel",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Charles Rangel",
+                "sentiment": "POS",
+                "object": "diversity",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "diversity",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Charles Rangel": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "lack of diversity in his second-term Cabinet appointments": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Mitt Romney": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "diversity": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Charles Rangel": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "lack of diversity in his second-term Cabinet appointments": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Mitt Romney": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "diversity": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

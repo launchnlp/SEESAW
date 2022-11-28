@@ -1,0 +1,456 @@
+{
+    "title": "US 'launched cyber-attack on Iran weapons systems'",
+    "entity lists": [
+        [
+            "United States",
+            [
+                "GPE"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Iran",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "John Bolton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Islamic Revolutionary Guard Corps",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "United States Department of Homeland Security",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Chris Krebs",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Amir Ali Hajizadeh",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "United States",
+                "sentiment": "NEG",
+                "object": "Iran",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "United States",
+                "sentiment": "NEG",
+                "object": "Iran",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Iran",
+                "sentiment": "NEG",
+                "object": "United States",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Iran",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Iran",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "John Bolton",
+                "sentiment": "NEG",
+                "object": "Iran",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "United States",
+                "sentiment": "NEG",
+                "object": "Iran",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Iran",
+                "sentiment": "NEG",
+                "object": "United States",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Iran",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Iran",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Islamic Revolutionary Guard Corps",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Islamic Revolutionary Guard Corps",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "United States Department of Homeland Security",
+                "sentiment": "NEG",
+                "object": "Iran",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Chris Krebs",
+                "sentiment": "NEG",
+                "object": "Iran",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Chris Krebs",
+                "sentiment": "NEG",
+                "object": "Iran",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Iran",
+                "sentiment": "NEG",
+                "object": "United States",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Iran",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Iran",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "United States",
+                "sentiment": "NEG",
+                "object": "Iran",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "United States",
+                "sentiment": "NEG",
+                "object": "Iran",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Islamic Revolutionary Guard Corps",
+                "sentiment": "NEG",
+                "object": "United States",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "United States",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Amir Ali Hajizadeh",
+                "sentiment": "NEG",
+                "object": "United States",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "United States": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Iran": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Islamic Revolutionary Guard Corps": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Amir Ali Hajizadeh": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "John Bolton": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "United States Department of Homeland Security": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Chris Krebs": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "United States": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Iran": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Islamic Revolutionary Guard Corps": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Amir Ali Hajizadeh": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "John Bolton": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "United States Department of Homeland Security": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "Chris Krebs": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "B"
+        }
+    ]
+}

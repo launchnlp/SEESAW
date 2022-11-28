@@ -1,0 +1,311 @@
+{
+    "title": "Michael Brown's Family: What Else Do They Need To Arrest Killer Of Our Son?",
+    "entity lists": [
+        [
+            "Members of Brown's family",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "killer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Benjamin Crump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Michael Baden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "darryl park",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "police",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Members of Brown's family",
+                "sentiment": "NEG",
+                "object": "killer",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Benjamin Crump",
+                "sentiment": "POS",
+                "object": "Members of Brown's family",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Benjamin Crump",
+                "sentiment": "POS",
+                "object": "Members of Brown's family",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Michael Baden",
+                "sentiment": "NEG",
+                "object": "killer",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Michael Baden",
+                "sentiment": "POS",
+                "object": "Members of Brown's family",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "killer",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "darryl park",
+                "sentiment": "NEG",
+                "object": "killer",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Benjamin Crump",
+                "sentiment": "NEG",
+                "object": "police",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "killer",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "police",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Michael Baden",
+                "sentiment": "NEG",
+                "object": "police",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "killer",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "police",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "police",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Members of Brown's family": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "Benjamin Crump": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "killer": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Michael Baden": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "darryl park": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "police": [
+            [
+                "Negative",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Members of Brown's family": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Benjamin Crump": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ],
+        "killer": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Michael Baden": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "darryl park": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ],
+        "police": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "C"
+        }
+    ]
+}

@@ -1,0 +1,448 @@
+{
+    "title": "DOJ: Ferguson PD engaged in racially biased policing",
+    "entity lists": [
+        [
+            "ferguson municipal court",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "African Americans",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Ferguson Police Department",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Darren Wilson",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "michael brown",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Benjamin Crump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "ferguson municipal court",
+                "sentiment": "NEG",
+                "object": "African Americans",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "African Americans",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "African Americans",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "African Americans",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "African Americans",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "ferguson municipal court",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "African Americans",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "ferguson municipal court",
+                "sentiment": "NEG",
+                "object": "African Americans",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "African Americans",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "ferguson municipal court",
+                "sentiment": "NEG",
+                "object": "African Americans",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Darren Wilson",
+                "sentiment": "NEG",
+                "object": "michael brown",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Darren Wilson",
+                "sentiment": "NEG",
+                "object": "African Americans",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Darren Wilson",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Benjamin Crump",
+                "sentiment": "NEG",
+                "object": "Ferguson Police Department",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Benjamin Crump",
+                "sentiment": "POS",
+                "object": "michael brown",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Benjamin Crump",
+                "sentiment": "NEG",
+                "object": "Ferguson Police Department",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Ferguson Police Department",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Ferguson Police Department",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Ferguson Police Department",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Ferguson Police Department",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Ferguson Police Department",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Ferguson Police Department",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ferguson Police Department",
+                "sentiment": "NEG",
+                "object": "African Americans",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Ferguson Police Department",
+                "sentiment": "POS",
+                "object": "Darren Wilson",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Ferguson Police Department": [
+            [
+                "Very Negative",
+                "A"
+            ]
+        ],
+        "African Americans": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "ferguson municipal court": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "michael brown": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Darren Wilson": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Benjamin Crump": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Ferguson Police Department": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "African Americans": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "ferguson municipal court": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "michael brown": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Darren Wilson": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Benjamin Crump": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

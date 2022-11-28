@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/trump-refers-himself-nationalist",
+    "story_title": "Trump Refers to Himself as a 'Nationalist'",
+    "story_time": "2018-10-24",
+    "story_topic": "politics",
+    "Split": "train",
+    "Meta info for article 1": {
+        "source": "Christian Science Monitor",
+        "url": "https://www.csmonitor.com/USA/Politics/Decoder/2018/1023/Nationalist-A-president-takes-a-mantle-then-shows-he-means-it",
+        "title": "\u2018Nationalist\u2019: A president takes a mantle, then shows he means it",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "HuffPost",
+        "url": "https://www.huffingtonpost.com/entry/why-trump-declaring-himself-a-nationalist-is-so-loaded_us_5bcf53b1e4b0d38b587cd44a",
+        "title": "Why Donald Trump Declaring Himself A \u2018Nationalist\u2019 Is So Loaded",
+        "bias_label": 0
+    },
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2018/oct/23/donald-trump-says-hes-nationalist-american-prosper/",
+        "title": "Trump defends describing self as 'nationalist,' says it's about American pride, prosperity",
+        "bias_label": 4
+    },
+    "triplet_id": "115"
+}

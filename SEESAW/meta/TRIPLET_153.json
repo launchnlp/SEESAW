@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/supreme-court-considers-trump-plan-exclude-people-who-are-country-illegally-census",
+    "story_title": "Supreme Court Considers Trump Plan To Exclude People Who Are in the U.S. Illegally From the Census",
+    "story_time": "2020-11-30",
+    "story_topic": "supreme_court",
+    "Split": "test",
+    "Meta info for article 0": {
+        "source": "New York Times (News)",
+        "url": "https://www.nytimes.com/2020/11/30/us/scotus-census.html",
+        "title": "A Census Case That Goes to the Heart of American Democracy",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Reuters",
+        "url": "https://in.reuters.com/article/usa-court-census/u-s-supreme-court-mulls-trump-bid-to-exclude-illegal-immigrants-from-population-count-idUSKBN28A1B5",
+        "title": "Conservative justices appear reluctant to immediately block Trump immigrant census plan",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2020/nov/30/justices-take-dim-view-trump-effort-cut-illegal-im/",
+        "title": "Justices take dim view of Trump effort to cut illegal immigrants from census count",
+        "bias_label": 4
+    },
+    "triplet_id": "153"
+}

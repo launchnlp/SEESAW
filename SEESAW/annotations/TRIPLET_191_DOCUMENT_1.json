@@ -1,0 +1,223 @@
+{
+    "title": "White House sets new round of sanctions against Russia over Ukraine involvement",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "sanction",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Vladimir Putin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Russia",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "European Union",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jack Lew",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "sanction",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Vladimir Putin",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "European Union",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Jack Lew",
+                "sentiment": "NEG",
+                "object": "Russia",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Russia": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Vladimir Putin": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "sanction": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "European Union": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Jack Lew": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Russia": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Vladimir Putin": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "sanction": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "European Union": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Jack Lew": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

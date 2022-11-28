@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/aftermath-florida-school-shooting",
+    "story_title": "Aftermath of Florida School Shooting",
+    "story_time": "2018-02-16",
+    "story_topic": "violence_in_america",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/investigations/fbis-near-brush-with-suspect-in-fla-school-shooting-draws-scrutiny/2018/02/15/e4d09b92-1275-11e8-9570-29c9830535e5_story.html?hpid=hp_rhp-top-table-main_floridawarnings-desktop%3Ahomepage/story&utm_term=.956e092e25a2",
+        "title": "FBI\u2019s near-brush with suspect in Florida school shooting draws scrutiny",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/2018/02/16/us/shooter-profile-invs/index.html",
+        "title": "From 'broken child' to mass killer",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2018/feb/16/did-fbi-miss-a-warning-before-florida-high-school-/",
+        "title": "Did FBI miss a warning before Florida high school shooting?",
+        "bias_label": 4
+    },
+    "triplet_id": "105"
+}

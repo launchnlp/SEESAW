@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/robert-e-lee-statue-removed-us-capitol",
+    "story_title": "Robert E. Lee Statue Removed From US Capitol",
+    "story_time": "2020-12-21",
+    "story_topic": "politics",
+    "Split": "test",
+    "Meta info for article 2": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2020/12/21/948736896/virginia-removes-its-robert-e-lee-statue-from-u-s-capitol",
+        "title": "Virginia Removes Its Robert E. Lee Statue From U.S. Capitol",
+        "bias_label": 2
+    },
+    "Meta info for article 0": {
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2020/12/21/robert-e-lee-statue-removed-from-capitol-449503",
+        "title": "Robert E. Lee statue removed from Capitol",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2020/dec/21/ralph-northam-virginia-gov-robert-e-lee-statue-rem/",
+        "title": "Virginia Gov. Ralph Northam: Robert E. Lee statue removed from U.S. Capitol",
+        "bias_label": 4
+    },
+    "triplet_id": "134"
+}

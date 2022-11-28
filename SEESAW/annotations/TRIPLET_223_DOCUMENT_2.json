@@ -1,0 +1,660 @@
+{
+    "title": "Reid puts GOP in a bind over Romney's taxes",
+    "entity lists": [
+        [
+            "Republican sources",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Harry Reid",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "claim",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Barack Obama\u2019s campaign",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "David Axelrod",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Sean Spicer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Reince Priebus",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Lindsey Graham",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Mitt Romney",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "david krone",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "George W. Bush",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Alan Greenspan",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Republican sources",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Republican sources",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Republican sources",
+                "sentiment": "NEG",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Barack Obama\u2019s campaign",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "David Axelrod",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Sean Spicer",
+                "sentiment": "NEG",
+                "object": "David Axelrod",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Sean Spicer",
+                "sentiment": "NEG",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Sean Spicer",
+                "sentiment": "NEG",
+                "object": "David Axelrod",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "David Axelrod",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Reince Priebus",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Reince Priebus",
+                "sentiment": "NEG",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Lindsey Graham",
+                "sentiment": "NEG",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Lindsey Graham",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Lindsey Graham",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Lindsey Graham",
+                "sentiment": "NEG",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "Mitt Romney",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "david krone",
+                "sentiment": "POS",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "david krone",
+                "sentiment": "POS",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "david krone",
+                "sentiment": "POS",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "david krone",
+                "sentiment": "POS",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "George W. Bush",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "Alan Greenspan",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "Mitt Romney",
+                "sentiment": "NEG",
+                "object": "claim",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mitt Romney",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Mitt Romney": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "claim": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "Republican sources": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Barack Obama\u2019s campaign": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "David Axelrod": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Sean Spicer": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Reince Priebus": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "Lindsey Graham": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "david krone": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "George W. Bush": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Alan Greenspan": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Mitt Romney": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "claim": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Republican sources": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Barack Obama\u2019s campaign": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "David Axelrod": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Sean Spicer": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Reince Priebus": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Lindsey Graham": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "david krone": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "George W. Bush": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Alan Greenspan": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "E"
+        }
+    ]
+}

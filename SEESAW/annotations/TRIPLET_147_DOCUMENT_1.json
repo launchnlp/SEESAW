@@ -1,0 +1,317 @@
+{
+    "title": "CDC may urge Americans to cover faces in public: report",
+    "entity lists": [
+        [
+            "Centers for Disease Control and Prevention",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "mask-wearing",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "The Washington Post",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Scott Gottlieb",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "ilhem messaoudi",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "jeffrey duchin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Centers for Disease Control and Prevention",
+                "sentiment": "POS",
+                "object": "mask-wearing",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "The Washington Post",
+                "sentiment": "POS",
+                "object": "mask-wearing",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "mask-wearing",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Centers for Disease Control and Prevention",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "mask-wearing",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Scott Gottlieb",
+                "sentiment": "POS",
+                "object": "mask-wearing",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Scott Gottlieb",
+                "sentiment": "POS",
+                "object": "mask-wearing",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Scott Gottlieb",
+                "sentiment": "POS",
+                "object": "mask-wearing",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "mask-wearing",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "ilhem messaoudi",
+                "sentiment": "NEG",
+                "object": "mask-wearing",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "jeffrey duchin",
+                "sentiment": "NEG",
+                "object": "mask-wearing",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "jeffrey duchin",
+                "sentiment": "POS",
+                "object": "mask-wearing",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Centers for Disease Control and Prevention": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "mask-wearing": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Scott Gottlieb": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "ilhem messaoudi": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "jeffrey duchin": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "The Washington Post": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Centers for Disease Control and Prevention": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "mask-wearing": [
+            [
+                "Slightly Liberal",
+                "D"
+            ]
+        ],
+        "Scott Gottlieb": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "ilhem messaoudi": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "jeffrey duchin": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "The Washington Post": [
+            [
+                "Slightly Liberal",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "D"
+        }
+    ]
+}

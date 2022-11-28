@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/biden-expected-nominate-antony-blinken-secretary-state",
+    "story_title": "Biden Expected to Nominate Antony Blinken as Secretary of State",
+    "story_time": "2020-11-23",
+    "story_topic": "national_security",
+    "Split": "test",
+    "Meta info for article 2": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2020/11/23/937850190/biden-reportedly-to-choose-antony-blinken-for-secretary-of-state",
+        "title": "Biden To Choose Antony Blinken For Secretary Of State",
+        "bias_label": 2
+    },
+    "Meta info for article 0": {
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2020/11/22/antony-blinken-secretary-of-state-439513",
+        "title": "Biden will nominate Antony Blinken as secretary of State",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2020/nov/22/antony-blinken-leading-pick-secretary-state-biden/",
+        "title": "Biden expected to tap Antony Blinken to be secretary of state",
+        "bias_label": 4
+    },
+    "triplet_id": "149"
+}

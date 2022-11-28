@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/house-agrees-back-pay",
+    "story_title": "House Agrees on Back Pay",
+    "story_time": "2013-10-05",
+    "story_topic": "us_house",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2013/10/05/government-shutdown-back-pay_n_4049377.html?utm_hp_ref=politics",
+        "title": "House Passes Bill To Give Back Pay To Federal Workers Furloughed In Government Shutdown",
+        "bias_label": 0
+    },
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2013/oct/5/house-approves-retroactive-pay-furloughed-governme/",
+        "title": "House approves retroactive pay for furloughed government workers",
+        "bias_label": 4
+    },
+    "Meta info for article 2": {
+        "source": "CNN (Online News)",
+        "url": "http://politicalticker.blogs.cnn.com/2013/10/05/house-votes-to-give-furloughed-federal-workers-back-pay/",
+        "title": "House votes to give furloughed federal workers back pay",
+        "bias_label": 0
+    },
+    "triplet_id": "216"
+}

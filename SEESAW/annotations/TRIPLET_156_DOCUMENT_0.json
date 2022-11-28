@@ -1,0 +1,667 @@
+{
+    "title": "Georgia Gov. Kemp Signs GOP Election Bill Amid Outcry",
+    "entity lists": [
+        [
+            "Brian Kemp",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "GOP Election Bill Amid",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "voters of color",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Erica Thomas",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "reps . park cannon",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Gloria Butler",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Rhonda Burnough",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Jan Jones",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Brad Raffensperger",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Barry Fleming",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "The Coca-Cola Company",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Brian Kemp",
+                "sentiment": "POS",
+                "object": "GOP Election Bill Amid",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Brian Kemp",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "GOP Election Bill Amid",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "GOP Election Bill Amid",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "GOP Election Bill Amid",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "GOP Election Bill Amid",
+                "sentiment": "NEG",
+                "object": "voters of color",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Brian Kemp",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Erica Thomas",
+                "sentiment": "NEG",
+                "object": "Brian Kemp",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "reps . park cannon",
+                "sentiment": "NEG",
+                "object": "Brian Kemp",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "reps . park cannon",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Brian Kemp",
+                "sentiment": "POS",
+                "object": "GOP Election Bill Amid",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "GOP Election Bill Amid",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Gloria Butler",
+                "sentiment": "NEG",
+                "object": "GOP Election Bill Amid",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Gloria Butler",
+                "sentiment": "NEG",
+                "object": "GOP Election Bill Amid",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Rhonda Burnough",
+                "sentiment": "NEG",
+                "object": "GOP Election Bill Amid",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Rhonda Burnough",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Rhonda Burnough",
+                "sentiment": "NEG",
+                "object": "GOP Election Bill Amid",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Rhonda Burnough",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Jan Jones",
+                "sentiment": "POS",
+                "object": "GOP Election Bill Amid",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "GOP Election Bill Amid",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "GOP Election Bill Amid",
+                "sentiment": "NEG",
+                "object": "Brad Raffensperger",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Barry Fleming",
+                "sentiment": "POS",
+                "object": "GOP Election Bill Amid",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "GOP Election Bill Amid",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "GOP Election Bill Amid",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "GOP Election Bill Amid",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "GOP Election Bill Amid",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "GOP Election Bill Amid",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "The Coca-Cola Company",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "The Coca-Cola Company",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Brian Kemp": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "GOP Election Bill Amid": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "reps . park cannon": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Erica Thomas": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "voters of color": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Gloria Butler": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Rhonda Burnough": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Jan Jones": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Brad Raffensperger": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Barry Fleming": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "The Coca-Cola Company": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Brian Kemp": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "GOP Election Bill Amid": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "reps . park cannon": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Erica Thomas": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "voters of color": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Gloria Butler": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Rhonda Burnough": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Jan Jones": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Brad Raffensperger": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Barry Fleming": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "The Coca-Cola Company": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        }
+    ]
+}

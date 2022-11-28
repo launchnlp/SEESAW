@@ -1,0 +1,210 @@
+{
+    "title": "'A hateful act': What we know about the Ft. Lauderdale airport shooting",
+    "entity lists": [
+        [
+            "the deadly shooting rampage at Fort Lauderdale-Hollywood International Airport",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "esteban santiago",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Rick Scott",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "survivor",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "the deadly shooting rampage at Fort Lauderdale-Hollywood International Airport",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "esteban santiago",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "esteban santiago",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "41": [
+            {
+                "id": 0,
+                "subject": "Rick Scott",
+                "sentiment": "NEG",
+                "object": "the deadly shooting rampage at Fort Lauderdale-Hollywood International Airport",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Rick Scott",
+                "sentiment": "POS",
+                "object": "survivor",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "42": [
+            {
+                "id": 0,
+                "subject": "Rick Scott",
+                "sentiment": "POS",
+                "object": "survivor",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "46": [
+            {
+                "id": 0,
+                "subject": "Rick Scott",
+                "sentiment": "NEG",
+                "object": "the deadly shooting rampage at Fort Lauderdale-Hollywood International Airport",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "47": [
+            {
+                "id": 0,
+                "subject": "Rick Scott",
+                "sentiment": "NEG",
+                "object": "the deadly shooting rampage at Fort Lauderdale-Hollywood International Airport",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "48": [
+            {
+                "id": 0,
+                "subject": "Rick Scott",
+                "sentiment": "NEG",
+                "object": "esteban santiago",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "esteban santiago": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "the deadly shooting rampage at Fort Lauderdale-Hollywood International Airport": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Rick Scott": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "survivor": [
+            [
+                "Positive",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "esteban santiago": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "the deadly shooting rampage at Fort Lauderdale-Hollywood International Airport": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Rick Scott": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "survivor": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        }
+    ]
+}

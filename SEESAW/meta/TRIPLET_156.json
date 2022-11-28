@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/georgia-governor-state-legislature-passes-state-election-overhaul",
+    "story_title": "Georgia Governor, State Legislature Passes State Election Overhaul",
+    "story_time": "2021-03-25",
+    "story_topic": "voting_rights_and_voter_fraud",
+    "Split": "test",
+    "Meta info for article 0": {
+        "source": "Newsmax (News)",
+        "url": "https://www.newsmax.com/us/georgia-election-law-democrats/2021/03/25/id/1015228/",
+        "title": "Georgia Gov. Kemp Signs GOP Election Bill Amid Outcry",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2021/03/25/981357583/georgia-legislature-approves-election-overhaul-including-changes-to-absentee-vot",
+        "title": "Georgia Governor Signs Election Overhaul, Including Changes To Absentee Voting",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2021/mar/25/georgia-voting-restrictions-law-passed",
+        "title": "Georgia's Republican-led legislature passes sweeping voting restrictions",
+        "bias_label": 1
+    },
+    "triplet_id": "156"
+}

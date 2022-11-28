@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/loretta-lynchs-confirmation-hearing",
+    "story_title": "Loretta Lynch\u2019s Confirmation Hearing",
+    "story_time": "2015-01-28",
+    "story_topic": "white_house",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "CNN (Online News)",
+        "url": "http://www.cnn.com/2015/01/28/politics/loretta-lynch-attorney-general-senate-hearing-day-1/index.html",
+        "title": "Marijuana, polygamy, torture: Lynch confirmation hearing (so far)",
+        "bias_label": 0
+    },
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2015/jan/28/sen-patrick-leahy-focus-loretta-lynchs-credentials/",
+        "title": "Sen. Patrick Leahy: Focus on Loretta Lynch\u2019s credentials during confirmation",
+        "bias_label": 4
+    },
+    "Meta info for article 2": {
+        "source": "New York Times (News)",
+        "url": "http://www.nytimes.com/2015/01/29/us/politics/lynch-attorney-general-congress-confirmation-hearing.html?ref=politics&_r=0",
+        "title": "Loretta Lynch, in Confirmation Hearing, Defends Legality of Obama Immigration Action",
+        "bias_label": 1
+    },
+    "triplet_id": "013"
+}

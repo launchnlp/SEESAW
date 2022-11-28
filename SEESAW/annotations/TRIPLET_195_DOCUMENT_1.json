@@ -1,0 +1,343 @@
+{
+    "title": "No debt ceiling crisis? Obama economic adviser sees investment boon.",
+    "entity lists": [
+        [
+            "John Boehner",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "Debt-Ceiling Vote",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "Republican legislators",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "Gene Sperling",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "government financial default",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "Mo Brooks",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "spending cut",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "pension measure",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "Debt-Ceiling Vote",
+                "annotators": [
+                    "F"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican legislators",
+                "sentiment": "NEG",
+                "object": "Debt-Ceiling Vote",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Gene Sperling",
+                "sentiment": "NEG",
+                "object": "government financial default",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "Debt-Ceiling Vote",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "Debt-Ceiling Vote",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Mo Brooks",
+                "sentiment": "POS",
+                "object": "spending cut",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "pension measure",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "John Boehner",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "John Boehner": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Slightly Negative",
+                "F"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "spending cut": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "Debt-Ceiling Vote": [
+            [
+                "Slightly Positive",
+                "F"
+            ]
+        ],
+        "Republican legislators": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "Gene Sperling": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "government financial default": [
+            [
+                "Slightly Negative",
+                "F"
+            ]
+        ],
+        "Mo Brooks": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "pension measure": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "John Boehner": [
+            [
+                "Conservative",
+                "F"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "F"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "F"
+            ]
+        ],
+        "spending cut": [
+            [
+                "Slightly Conservative",
+                "F"
+            ]
+        ],
+        "Debt-Ceiling Vote": [
+            [
+                "Moderate",
+                "F"
+            ]
+        ],
+        "Republican legislators": [
+            [
+                "Conservative",
+                "F"
+            ]
+        ],
+        "Gene Sperling": [
+            [
+                "Slightly Liberal",
+                "F"
+            ]
+        ],
+        "government financial default": [
+            [
+                "Moderate",
+                "F"
+            ]
+        ],
+        "Mo Brooks": [
+            [
+                "Slightly Conservative",
+                "F"
+            ]
+        ],
+        "pension measure": [
+            [
+                "Moderate",
+                "F"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "F"
+        }
+    ]
+}

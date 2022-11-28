@@ -1,0 +1,208 @@
+{
+    "title": "Background checks brokered: Sens. Toomey and Manchin reach gun deal",
+    "entity lists": [
+        [
+            "Joe Manchin",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "a deal on background checks",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Pat Toomey",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "National Rifle Association",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "a deal on background checks",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Pat Toomey",
+                "sentiment": "POS",
+                "object": "a deal on background checks",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "National Rifle Association",
+                "sentiment": "POS",
+                "object": "Pat Toomey",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "National Rifle Association",
+                "sentiment": "POS",
+                "object": "Joe Manchin",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "National Rifle Association",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "a deal on background checks",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "a deal on background checks",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Pat Toomey": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "a deal on background checks": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "National Rifle Association": [
+            [
+                "Positive",
+                "C"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Pat Toomey": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ],
+        "a deal on background checks": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "National Rifle Association": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "C"
+        }
+    ]
+}

@@ -1,0 +1,386 @@
+{
+    "title": "Republican senators warn Iran in open letter",
+    "entity lists": [
+        [
+            "Republican senators",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Iranian leaders",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Tom Cotton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Dick Durbin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "the letter",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Josh Earnest",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Adam Schiff",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Republican senators",
+                "sentiment": "NEG",
+                "object": "Iranian leaders",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Tom Cotton",
+                "sentiment": "POS",
+                "object": "Republican senators",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Tom Cotton",
+                "sentiment": "POS",
+                "object": "the letter",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Dick Durbin",
+                "sentiment": "NEG",
+                "object": "Republican senators",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Dick Durbin",
+                "sentiment": "NEG",
+                "object": "the letter",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Dick Durbin",
+                "sentiment": "NEG",
+                "object": "the letter",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Dick Durbin",
+                "sentiment": "NEG",
+                "object": "Republican senators",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Dick Durbin",
+                "sentiment": "NEG",
+                "object": "the letter",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Josh Earnest",
+                "sentiment": "NEG",
+                "object": "the letter",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Josh Earnest",
+                "sentiment": "NEG",
+                "object": "Republican senators",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Adam Schiff",
+                "sentiment": "NEG",
+                "object": "the letter",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Adam Schiff",
+                "sentiment": "NEG",
+                "object": "the letter",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Adam Schiff",
+                "sentiment": "NEG",
+                "object": "the letter",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Adam Schiff",
+                "sentiment": "NEG",
+                "object": "Republican senators",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Adam Schiff",
+                "sentiment": "NEG",
+                "object": "Republican senators",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Tom Cotton",
+                "sentiment": "NEG",
+                "object": "Iranian leaders",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Republican senators",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Republican senators": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "the letter": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Tom Cotton": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Iranian leaders": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Dick Durbin": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Josh Earnest": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Adam Schiff": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Republican senators": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "the letter": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Tom Cotton": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Iranian leaders": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Dick Durbin": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Josh Earnest": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Adam Schiff": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "C"
+        }
+    ]
+}

@@ -1,0 +1,590 @@
+{
+    "title": "Trump's base-focused midterm approach tested in Ohio and Kansas races Tuesday",
+    "entity lists": [
+        [
+            "Troy Balderson",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "danny o'connor",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Kris Kobach",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "John Kasich",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Josh Hawley",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Claire McCaskill",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "establishment",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Gretchen Whitmer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Bernie Sanders",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Abdul El-Sayed",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Alexandria Ocasio-Cortez",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Troy Balderson",
+                "sentiment": "NEG",
+                "object": "danny o'connor",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Kris Kobach",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "danny o'connor",
+                "sentiment": "NEG",
+                "object": "Troy Balderson",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "danny o'connor",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Nancy Pelosi",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "danny o'connor",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Nancy Pelosi",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "John Kasich",
+                "sentiment": "POS",
+                "object": "Troy Balderson",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John Kasich",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Kris Kobach",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Kris Kobach",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Kris Kobach",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Kris Kobach",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Josh Hawley",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Josh Hawley",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Claire McCaskill",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "40": [
+            {
+                "id": 0,
+                "subject": "establishment",
+                "sentiment": "POS",
+                "object": "Gretchen Whitmer",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "41": [
+            {
+                "id": 0,
+                "subject": "Bernie Sanders",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Bernie Sanders",
+                "sentiment": "POS",
+                "object": "Abdul El-Sayed",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Alexandria Ocasio-Cortez",
+                "sentiment": "POS",
+                "object": "Abdul El-Sayed",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "42": [
+            {
+                "id": 0,
+                "subject": "Gretchen Whitmer",
+                "sentiment": "NEG",
+                "object": "Abdul El-Sayed",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "Troy Balderson": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "danny o'connor": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "John Kasich": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Claire McCaskill": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Josh Hawley": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Gretchen Whitmer": [
+            [
+                "Positive",
+                "E"
+            ]
+        ],
+        "establishment": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Abdul El-Sayed": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "Bernie Sanders": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Alexandria Ocasio-Cortez": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Kris Kobach": [
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "E"
+            ]
+        ],
+        "Troy Balderson": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "danny o'connor": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "John Kasich": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Claire McCaskill": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Josh Hawley": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Gretchen Whitmer": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "establishment": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "Abdul El-Sayed": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Bernie Sanders": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Alexandria Ocasio-Cortez": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Kris Kobach": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "E"
+        }
+    ]
+}

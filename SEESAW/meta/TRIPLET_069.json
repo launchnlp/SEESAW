@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/gabbard-votes-present-both-impeachment-articles",
+    "story_title": "Gabbard Votes \"Present\" On Both Impeachment Articles",
+    "story_time": "2019-12-19",
+    "story_topic": "white_house",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "New York Times (News)",
+        "url": "https://www.nytimes.com/2019/12/18/us/elections/tulsi-gabbard-impeachment-vote.html",
+        "title": "Tulsi Gabbard Votes \u2018Present\u2019 on Impeachment Articles",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "National Review",
+        "url": "https://www.nationalreview.com/news/gabbard-defends-present-impeachment-vote-citing-tribal-animosities/",
+        "title": "Gabbard Defends \u2018Present\u2019 Impeachment Vote, Citing \u2018Tribal Animosities\u2019",
+        "bias_label": 3
+    },
+    "Meta info for article 2": {
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2019/12/18/trump-impeachment-tulsi-gabbard-vote-present-house/2695437001/",
+        "title": "Tulsi Gabbard on Trump impeachment: 'I could not in good conscience vote either yes or no'",
+        "bias_label": 1
+    },
+    "triplet_id": "069"
+}

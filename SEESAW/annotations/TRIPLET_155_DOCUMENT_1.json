@@ -1,0 +1,254 @@
+{
+    "title": "AG Garland Opens Probe into \u2018Unconstitutional\u2019 Practices at Minneapolis Police Department",
+    "entity lists": [
+        [
+            "Merrick Garland",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Minneapolis Police Department",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "former officer Derek Chauvin for the murder of resident George Floyd",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "United States Department of Justice",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "police brutality",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Derek Chauvin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Merrick Garland",
+                "sentiment": "NEG",
+                "object": "Minneapolis Police Department",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Merrick Garland",
+                "sentiment": "NEG",
+                "object": "former officer Derek Chauvin for the murder of resident George Floyd",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Merrick Garland",
+                "sentiment": "NEG",
+                "object": "Minneapolis Police Department",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Merrick Garland",
+                "sentiment": "POS",
+                "object": "United States Department of Justice",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "former officer Derek Chauvin for the murder of resident George Floyd",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "former officer Derek Chauvin for the murder of resident George Floyd",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Derek Chauvin",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "former officer Derek Chauvin for the murder of resident George Floyd",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "police brutality",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Merrick Garland": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Minneapolis Police Department": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Derek Chauvin": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "former officer Derek Chauvin for the murder of resident George Floyd": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "police brutality": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Merrick Garland": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Minneapolis Police Department": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "Derek Chauvin": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "former officer Derek Chauvin for the murder of resident George Floyd": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "police brutality": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "B"
+        }
+    ]
+}

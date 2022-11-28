@@ -1,0 +1,122 @@
+{
+    "title": "Rates Rise Again For Obamacare Health Plans, But So Do Subsidies  Listen\u00b7 3:56",
+    "entity lists": [
+        [
+            "kevin griffis",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Affordable Care Act",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "administration",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "3": [
+            {
+                "id": 0,
+                "subject": "kevin griffis",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "kevin griffis",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "administration",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "kevin griffis": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Affordable Care Act": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "administration": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "kevin griffis": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Affordable Care Act": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "administration": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

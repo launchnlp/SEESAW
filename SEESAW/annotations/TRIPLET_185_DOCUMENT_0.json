@@ -1,0 +1,131 @@
+{
+    "title": "Tim Pawlenty cites John McCain, Mitt Romney in predicting Jeb Bush can win GOP nomination",
+    "entity lists": [
+        [
+            "Tim Pawlenty",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Jeb Bush",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "John McCain",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Tim Pawlenty",
+                "sentiment": "POS",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Tim Pawlenty",
+                "sentiment": "POS",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Tim Pawlenty",
+                "sentiment": "POS",
+                "object": "John McCain",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Jeb Bush": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Tim Pawlenty": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "John McCain": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Jeb Bush": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Tim Pawlenty": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "John McCain": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "B"
+        }
+    ]
+}

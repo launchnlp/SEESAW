@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/boehner-and-sequester",
+    "story_title": "Boehner and the Sequester",
+    "story_time": "2013-03-04",
+    "story_topic": "us_congress",
+    "Split": "train",
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "http://politicalticker.blogs.cnn.com/2013/03/03/boehner-unsure-if-spending-cuts-will-hurt-economy/?hpt=po_c1",
+        "title": "Boehner unsure if spending cuts will hurt economy",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2013/mar/3/mcconnell-and-boehner-republicans-united-sequester/",
+        "title": "McConnell and Boehner: Republicans united on sequesters",
+        "bias_label": 4
+    },
+    "Meta info for article 0": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2013/03/03/john-boehner-mitch-mcconnell-sequester_n_2801102.html?utm_hp_ref=politics",
+        "title": "John Boehner, Mitch McConnell Offer Opposing Sequester Messages",
+        "bias_label": 0
+    },
+    "triplet_id": "220"
+}

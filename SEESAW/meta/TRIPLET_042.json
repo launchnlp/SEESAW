@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/house-republicans-storm-secure-room-and-demand-see-closed-door-proceedings",
+    "story_title": "House Republicans Storm Secure Room And Demand To See Closed-Door Proceedings",
+    "story_time": "2019-10-24",
+    "story_topic": "us_house",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2019/oct/23/republicans-storm-secure-room-demanding-more-acces/",
+        "title": "House Republicans storm secure room, demand access to impeachment inquiry proceedings",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/2019/10/24/politics/impeachment-watch-october-23/index.html",
+        "title": "Republicans barging into secure room to stall impeachment inquiry highlights another wild day",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "Reuters",
+        "url": "https://www.reuters.com/article/us-usa-trump-whistleblower/republican-lawmakers-storm-hearing-room-disrupt-trump-impeachment-inquiry-idUSKBN1X2186",
+        "title": "Republican lawmakers disrupt Democratic-led Trump impeachment inquiry",
+        "bias_label": 2
+    },
+    "triplet_id": "042"
+}

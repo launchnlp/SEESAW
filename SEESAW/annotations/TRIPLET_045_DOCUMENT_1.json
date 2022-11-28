@@ -1,0 +1,897 @@
+{
+    "title": "Long-shot legal challenge could end Obamacare during the 2020 campaign",
+    "entity lists": [
+        [
+            "Affordable Care Act",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Trump-backed lawsuit",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Congress",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "tax penalty for not purchasing health insurance",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "18 Republican-led states",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Court of Appeals for the Fifth Circuit",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Reed O'Connor",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "marybeth musumeci",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Tom Miller",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Trump administration",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Chuck Schumer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "health care system",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "progressive",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "government coverage",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "insurance",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "California",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "19 other Democratic-led states",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States House of Representatives",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Trump-backed lawsuit",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "United States Congress",
+                "sentiment": "NEG",
+                "object": "tax penalty for not purchasing health insurance",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "18 Republican-led states",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "18 Republican-led states",
+                "sentiment": "POS",
+                "object": "Trump-backed lawsuit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "United States Court of Appeals for the Fifth Circuit",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Reed O'Connor",
+                "sentiment": "POS",
+                "object": "18 Republican-led states",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Reed O'Connor",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "marybeth musumeci",
+                "sentiment": "NEG",
+                "object": "Trump-backed lawsuit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "marybeth musumeci",
+                "sentiment": "NEG",
+                "object": "Trump-backed lawsuit",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "marybeth musumeci",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Reed O'Connor",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Tom Miller",
+                "sentiment": "NEG",
+                "object": "Reed O'Connor",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Tom Miller",
+                "sentiment": "NEG",
+                "object": "Reed O'Connor",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Trump-backed lawsuit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Trump administration",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "health care system",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "progressive",
+                "sentiment": "POS",
+                "object": "government coverage",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "progressive",
+                "sentiment": "NEG",
+                "object": "insurance",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "California",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "19 other Democratic-led states",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "California",
+                "sentiment": "NEG",
+                "object": "Trump-backed lawsuit",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "19 other Democratic-led states",
+                "sentiment": "NEG",
+                "object": "Trump-backed lawsuit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States House of Representatives",
+                "sentiment": "NEG",
+                "object": "Trump-backed lawsuit",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "United States Court of Appeals for the Fifth Circuit",
+                "sentiment": "NEG",
+                "object": "United States House of Representatives",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Trump administration",
+                "sentiment": "POS",
+                "object": "Reed O'Connor",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Reed O'Connor",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Affordable Care Act": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Trump-backed lawsuit": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "tax penalty for not purchasing health insurance": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "18 Republican-led states": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "United States Court of Appeals for the Fifth Circuit": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Reed O'Connor": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "marybeth musumeci": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Tom Miller": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Trump administration": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "health care system": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "progressive": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "government coverage": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "insurance": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "California": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "19 other Democratic-led states": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Affordable Care Act": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Trump-backed lawsuit": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "tax penalty for not purchasing health insurance": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "18 Republican-led states": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "United States Court of Appeals for the Fifth Circuit": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Reed O'Connor": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "marybeth musumeci": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Tom Miller": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Trump administration": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "health care system": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "progressive": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "government coverage": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "insurance": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "California": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "19 other Democratic-led states": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/elizabeth-warren-gets-leadership-spot",
+    "story_title": "Elizabeth Warren Gets Leadership Spot",
+    "story_time": "2014-11-13",
+    "story_topic": "us_senate",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2014/11/13/elizabeth-warren-senate_n_6149454.html?utm_hp_ref=politics",
+        "title": "Elizabeth Warren Gets Senate Democratic Leadership Spot",
+        "bias_label": 0
+    },
+    "Meta info for article 0": {
+        "source": "Politico",
+        "url": "http://www.politico.com/story/2014/11/elizabeth-warren-harry-reid-senate-leadership-112847.html?hp=t2_r",
+        "title": "Harry Reid taps Elizabeth Warren as envoy to liberal groups",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2014/nov/13/elizabeth-warren-gets-leadership-post-senate-democ/",
+        "title": "Elizabeth Warren gets leadership post by Senate Democrats",
+        "bias_label": 4
+    },
+    "triplet_id": "173"
+}

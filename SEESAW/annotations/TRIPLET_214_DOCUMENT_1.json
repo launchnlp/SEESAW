@@ -1,0 +1,184 @@
+{
+    "title": "Deal reached on background checks in Senate",
+    "entity lists": [
+        [
+            "Joe Manchin",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "bipartisan deal on background checks",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Pat Toomey",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "National Rifle Association",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "bipartisan deal on background checks",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Pat Toomey",
+                "sentiment": "POS",
+                "object": "bipartisan deal on background checks",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "bipartisan deal on background checks",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "National Rifle Association",
+                "sentiment": "NEG",
+                "object": "Pat Toomey",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "bipartisan deal on background checks",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "bipartisan deal on background checks",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "bipartisan deal on background checks",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Joe Manchin": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "bipartisan deal on background checks": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "Pat Toomey": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "National Rifle Association": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Joe Manchin": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "bipartisan deal on background checks": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ],
+        "Pat Toomey": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "National Rifle Association": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "C"
+        }
+    ]
+}

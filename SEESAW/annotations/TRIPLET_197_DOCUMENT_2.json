@@ -1,0 +1,419 @@
+{
+    "title": "Scott Brown, Cory Gardner Shift Stance On Climate Change In First Senate Debates",
+    "entity lists": [
+        [
+            "Scott Brown",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "climate change is caused in part by human activity",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Cory Gardner",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Jeanne Shaheen",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Mark Udall",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "climate tax bill",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "bobby whithorne",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Scott Brown",
+                "sentiment": "POS",
+                "object": "climate change is caused in part by human activity",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Cory Gardner",
+                "sentiment": "POS",
+                "object": "climate change is caused in part by human activity",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Scott Brown",
+                "sentiment": "NEG",
+                "object": "Jeanne Shaheen",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Cory Gardner",
+                "sentiment": "NEG",
+                "object": "Mark Udall",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Cory Gardner",
+                "sentiment": "POS",
+                "object": "climate change is caused in part by human activity",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Cory Gardner",
+                "sentiment": "NEG",
+                "object": "climate tax bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Cory Gardner",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Cory Gardner",
+                "sentiment": "NEG",
+                "object": "climate change is caused in part by human activity",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Scott Brown",
+                "sentiment": "NEG",
+                "object": "climate change is caused in part by human activity",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Scott Brown",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Scott Brown",
+                "sentiment": "POS",
+                "object": "climate change is caused in part by human activity",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Scott Brown",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Scott Brown",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Cory Gardner",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Cory Gardner",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "bobby whithorne",
+                "sentiment": "NEG",
+                "object": "Scott Brown",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "climate tax bill",
+                "sentiment": "NEG",
+                "object": "Cory Gardner",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "bobby whithorne",
+                "sentiment": "NEG",
+                "object": "Scott Brown",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "bobby whithorne",
+                "sentiment": "NEG",
+                "object": "Cory Gardner",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "bobby whithorne",
+                "sentiment": "NEG",
+                "object": "Cory Gardner",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Scott Brown": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Cory Gardner": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "climate change is caused in part by human activity": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Jeanne Shaheen": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Mark Udall": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "climate tax bill": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "bobby whithorne": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Scott Brown": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "Cory Gardner": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "climate change is caused in part by human activity": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Jeanne Shaheen": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Mark Udall": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "climate tax bill": [
+            [
+                "Very Liberal",
+                "C"
+            ]
+        ],
+        "bobby whithorne": [
+            [
+                "Very Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "C"
+        }
+    ]
+}

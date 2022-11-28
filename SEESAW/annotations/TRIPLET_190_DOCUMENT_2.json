@@ -1,0 +1,190 @@
+{
+    "title": "After Brown autopsy, mom wants officer arrested",
+    "entity lists": [
+        [
+            "the family of Michael Brown",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Darren Wilson",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Benjamin Crump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Eric Holder",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "the family of Michael Brown",
+                "sentiment": "NEG",
+                "object": "Darren Wilson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "the family of Michael Brown",
+                "sentiment": "NEG",
+                "object": "Darren Wilson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Benjamin Crump",
+                "sentiment": "NEG",
+                "object": "Darren Wilson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Benjamin Crump",
+                "sentiment": "NEG",
+                "object": "Darren Wilson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Benjamin Crump",
+                "sentiment": "POS",
+                "object": "the family of Michael Brown",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Darren Wilson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Eric Holder",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "the family of Michael Brown": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Darren Wilson": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Benjamin Crump": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Eric Holder": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "the family of Michael Brown": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Darren Wilson": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Benjamin Crump": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Eric Holder": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        }
+    ]
+}

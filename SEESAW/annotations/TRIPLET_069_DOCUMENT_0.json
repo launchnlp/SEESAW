@@ -1,0 +1,368 @@
+{
+    "title": "Tulsi Gabbard Votes \u2018Present\u2019 on Impeachment Articles",
+    "entity lists": [
+        [
+            "Tulsi Gabbard",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "impeachment",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Collin Peterson",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jeff Van Drew",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jared Golden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "accusing the president of obstruction of Congress",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Bernie Sanders",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Tulsi Gabbard",
+                "sentiment": "NEG",
+                "object": "impeachment",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Collin Peterson",
+                "sentiment": "NEG",
+                "object": "impeachment",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jeff Van Drew",
+                "sentiment": "NEG",
+                "object": "impeachment",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Jared Golden",
+                "sentiment": "POS",
+                "object": "impeachment",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Jared Golden",
+                "sentiment": "NEG",
+                "object": "accusing the president of obstruction of Congress",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Tulsi Gabbard",
+                "sentiment": "POS",
+                "object": "Bernie Sanders",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Tulsi Gabbard",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Tulsi Gabbard",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Tulsi Gabbard",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Tulsi Gabbard",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Tulsi Gabbard",
+                "sentiment": "NEG",
+                "object": "impeachment",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Tulsi Gabbard",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Tulsi Gabbard",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Tulsi Gabbard": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "impeachment": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Collin Peterson": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Jeff Van Drew": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Jared Golden": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "accusing the president of obstruction of Congress": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Bernie Sanders": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Tulsi Gabbard": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "impeachment": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Collin Peterson": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Jeff Van Drew": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Jared Golden": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "accusing the president of obstruction of Congress": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Bernie Sanders": [
+            [
+                "Very Liberal",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

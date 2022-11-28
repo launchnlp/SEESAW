@@ -1,0 +1,226 @@
+{
+    "title": "DOJ's top election crimes prosecutor quits in protest after Barr tells federal attorneys to probe unsupported allegations of voting irregularities",
+    "entity lists": [
+        [
+            "Richard Pilger",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "policy",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "William Barr",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Richard Pilger",
+                "sentiment": "NEG",
+                "object": "policy",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Richard Pilger",
+                "sentiment": "NEG",
+                "object": "William Barr",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "William Barr",
+                "sentiment": "POS",
+                "object": "policy",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Richard Pilger",
+                "sentiment": "NEG",
+                "object": "policy",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Richard Pilger",
+                "sentiment": "NEG",
+                "object": "William Barr",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "William Barr",
+                "sentiment": "POS",
+                "object": "policy",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Joe Biden",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Richard Pilger": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "William Barr": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "policy": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Richard Pilger": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "policy": [
+            [
+                "Slightly Conservative",
+                "D"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "William Barr": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "D"
+        }
+    ]
+}

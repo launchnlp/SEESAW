@@ -1,0 +1,326 @@
+{
+    "title": "Israeli airstrikes on Syria put Obama at the crossroads",
+    "entity lists": [
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "John McCain",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Bashar al-Assad",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Tom Cotton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "American force",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Patrick Leahy",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Al-Qaeda",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jim DeMint",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Bashar al-Assad",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "John McCain",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John McCain",
+                "sentiment": "NEG",
+                "object": "Bashar al-Assad",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Tom Cotton",
+                "sentiment": "POS",
+                "object": "American force",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Patrick Leahy",
+                "sentiment": "NEG",
+                "object": "Al-Qaeda",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Jim DeMint",
+                "sentiment": "POS",
+                "object": "American force",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jim DeMint",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Jim DeMint",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "John McCain": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Al-Qaeda": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Patrick Leahy": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Tom Cotton": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Bashar al-Assad": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "American force": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Jim DeMint": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "John McCain": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Al-Qaeda": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Patrick Leahy": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Tom Cotton": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Bashar al-Assad": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "American force": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Jim DeMint": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

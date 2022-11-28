@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/senate-parliamentarian-allows-democrats-bypass-republican-filibuster-two-bills",
+    "story_title": "Senate Parliamentarian Allows Democrats to Bypass Republican Filibuster on Two Bills",
+    "story_time": "2021-04-05",
+    "story_topic": "us_senate",
+    "Split": "test",
+    "Meta info for article 0": {
+        "source": "National Review",
+        "url": "https://www.nationalreview.com/news/senate-dems-can-bypass-gop-filibuster-on-two-more-bills-parliamentarian-rules/",
+        "title": "Senate Dems Can Bypass GOP Filibuster on Two More Bills, Parliamentarian Rules",
+        "bias_label": 3
+    },
+    "Meta info for article 1": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2021/04/05/984596350/ruling-by-senate-parliamentarian-opens-up-potential-pathway-for-democrats",
+        "title": "Ruling By Senate Parliamentarian Opens Up Potential Pathway For Democrats",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "Vox",
+        "url": "https://www.vox.com/2021/4/5/22367832/senate-democrats-budget-reconciliation-filibuster",
+        "title": "Senate Democrats can now officially pass more bills with 51 votes",
+        "bias_label": 0
+    },
+    "triplet_id": "159"
+}

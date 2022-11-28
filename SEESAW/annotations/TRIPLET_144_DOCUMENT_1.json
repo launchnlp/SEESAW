@@ -1,0 +1,309 @@
+{
+    "title": "Federal judge rules Pennsylvania's coronavirus orders are unconstitutional",
+    "entity lists": [
+        [
+            "federal judge",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "coronavirus order",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Tom Wolf",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "William S. Stickman IV",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "lyndsay kensinger",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "governor",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "federal judge",
+                "sentiment": "NEG",
+                "object": "coronavirus order",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "federal judge",
+                "sentiment": "NEG",
+                "object": "Tom Wolf",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "William S. Stickman IV",
+                "sentiment": "NEG",
+                "object": "coronavirus order",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "William S. Stickman IV",
+                "sentiment": "NEG",
+                "object": "Tom Wolf",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "William S. Stickman IV",
+                "sentiment": "POS",
+                "object": "coronavirus order",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "William S. Stickman IV",
+                "sentiment": "NEG",
+                "object": "coronavirus order",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "coronavirus order",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Tom Wolf",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "lyndsay kensinger",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "lyndsay kensinger",
+                "sentiment": "POS",
+                "object": "Tom Wolf",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "coronavirus order",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "coronavirus order",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "governor",
+                "sentiment": "POS",
+                "object": "coronavirus order",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "lyndsay kensinger",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "coronavirus order": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "federal judge": [
+            [
+                "Unknown",
+                "B"
+            ]
+        ],
+        "governor": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Tom Wolf": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "William S. Stickman IV": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "lyndsay kensinger": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "coronavirus order": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "federal judge": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "governor": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Tom Wolf": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "William S. Stickman IV": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "lyndsay kensinger": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "B"
+        }
+    ]
+}

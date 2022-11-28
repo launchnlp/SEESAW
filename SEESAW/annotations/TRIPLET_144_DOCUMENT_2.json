@@ -1,0 +1,219 @@
+{
+    "title": "Federal Court Rules Pennsylvania's Lockdown Order Unconstitutional",
+    "entity lists": [
+        [
+            "federal judge",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Pennsylvania lockdown",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Tom Wolf",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "William S. Stickman IV",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "federal judge",
+                "sentiment": "NEG",
+                "object": "Pennsylvania lockdown",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Pennsylvania lockdown",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Pennsylvania lockdown",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Tom Wolf",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Pennsylvania lockdown",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Tom Wolf",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Pennsylvania lockdown",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "William S. Stickman IV",
+                "sentiment": "NEG",
+                "object": "Pennsylvania lockdown",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "William S. Stickman IV",
+                "sentiment": "NEG",
+                "object": "Tom Wolf",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "William S. Stickman IV",
+                "sentiment": "NEG",
+                "object": "Pennsylvania lockdown",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Pennsylvania lockdown": [
+            [
+                "Negative",
+                "B"
+            ]
+        ],
+        "federal judge": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Tom Wolf": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "William S. Stickman IV": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Pennsylvania lockdown": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "federal judge": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "Tom Wolf": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "William S. Stickman IV": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Very Conservative",
+            "annotator": "B"
+        }
+    ]
+}

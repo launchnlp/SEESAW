@@ -1,0 +1,197 @@
+{
+    "title": "Jackson Statue Near White House Still Standing After Protesters Try To Topple It",
+    "entity lists": [
+        [
+            "protester",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Equestrian statue of Andrew Jackson",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "police",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "protester",
+                "sentiment": "NEG",
+                "object": "Equestrian statue of Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "protester",
+                "sentiment": "NEG",
+                "object": "Equestrian statue of Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Equestrian statue of Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "protester",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Equestrian statue of Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "protester",
+                "sentiment": "NEG",
+                "object": "Equestrian statue of Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "police",
+                "sentiment": "NEG",
+                "object": "protester",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "protester",
+                "sentiment": "NEG",
+                "object": "Equestrian statue of Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "protester": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "police": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Equestrian statue of Andrew Jackson": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "protester": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "police": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "Equestrian statue of Andrew Jackson": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        }
+    ]
+}

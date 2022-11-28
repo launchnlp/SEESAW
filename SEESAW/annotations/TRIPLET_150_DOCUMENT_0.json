@@ -1,0 +1,449 @@
+{
+    "title": "Trump: 'The American workforce is the best in the world'",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "The American workforce",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "worker",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Robert Orlando",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Paul Kengor",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "conservative women",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "left",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Marsha Blackburn",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Kay Coles James",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "The American workforce",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "The American workforce",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "The American workforce",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "The American workforce",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Robert Orlando",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Robert Orlando",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Robert Orlando",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Paul Kengor",
+                "sentiment": "POS",
+                "object": "Robert Orlando",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "conservative women",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "left",
+                "sentiment": "NEG",
+                "object": "conservative women",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Marsha Blackburn",
+                "sentiment": "NEG",
+                "object": "left",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "conservative women",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Marsha Blackburn",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Marsha Blackburn",
+                "sentiment": "NEG",
+                "object": "left",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "Kay Coles James",
+                "sentiment": "POS",
+                "object": "conservative women",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Positive",
+                "D"
+            ]
+        ],
+        "The American workforce": [
+            [
+                "Positive",
+                "D"
+            ]
+        ],
+        "worker": [
+            [
+                "Positive",
+                "D"
+            ]
+        ],
+        "Paul Kengor": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Robert Orlando": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "Marsha Blackburn": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "left": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "conservative women": [
+            [
+                "Positive",
+                "D"
+            ]
+        ],
+        "Kay Coles James": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "D"
+            ]
+        ],
+        "The American workforce": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "worker": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Paul Kengor": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Robert Orlando": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "Marsha Blackburn": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "left": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "conservative women": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Kay Coles James": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "D"
+        }
+    ]
+}

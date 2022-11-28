@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/boehner-faces-dissent",
+    "story_title": "Boehner Faces Dissent",
+    "story_time": "2012-12-05",
+    "story_topic": "us_house",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2012/dec/4/boehner-plan-is-criticized-by-both-sides/",
+        "title": "Boehner plan is criticized by both sides",
+        "bias_label": 4
+    },
+    "Meta info for article 0": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2012/12/04/john-boehner-committees_n_2238062.html?utm_hp_ref=politics",
+        "title": "John Boehner Faces Conservative Fury For Booting Members From Key Committees",
+        "bias_label": 0
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "http://politicalticker.blogs.cnn.com/2012/12/04/conservatives-blast-boehner-tax-increases-other-republicans-withhold-criticism/?hpt=po_c1",
+        "title": "Conservatives blast Boehner tax increases; other Republicans withhold criticism",
+        "bias_label": 0
+    },
+    "triplet_id": "230"
+}

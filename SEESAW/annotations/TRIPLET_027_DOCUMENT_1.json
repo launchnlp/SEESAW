@@ -1,0 +1,403 @@
+{
+    "title": "Bob Menendez and the fine line between campaign contribution and bribery",
+    "entity lists": [
+        [
+            "standard D.C. practice of legislators voting in ways that their donors would appreciate",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "government",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Richard Briffault",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Bob Menendez",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "salomon melgen",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "contract providing port security systems in the Dominican Republic",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "common perception that lawmakers act on behalf of donors",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "deal with Iran",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Department of Justice",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "standard D.C. practice of legislators voting in ways that their donors would appreciate",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "government",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Richard Briffault",
+                "sentiment": "POS",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Bob Menendez",
+                "sentiment": "POS",
+                "object": "salomon melgen",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Bob Menendez",
+                "sentiment": "POS",
+                "object": "salomon melgen",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Bob Menendez",
+                "sentiment": "POS",
+                "object": "contract providing port security systems in the Dominican Republic",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "salomon melgen",
+                "sentiment": "POS",
+                "object": "contract providing port security systems in the Dominican Republic",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "salomon melgen",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "salomon melgen",
+                "sentiment": "POS",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "salomon melgen",
+                "sentiment": "POS",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "common perception that lawmakers act on behalf of donors",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Richard Briffault",
+                "sentiment": "NEG",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Bob Menendez",
+                "sentiment": "NEG",
+                "object": "deal with Iran",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Bob Menendez",
+                "sentiment": "NEG",
+                "object": "government",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "United States Department of Justice",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Bob Menendez": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "standard D.C. practice of legislators voting in ways that their donors would appreciate": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "government": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Richard Briffault": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "salomon melgen": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "contract providing port security systems in the Dominican Republic": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "common perception that lawmakers act on behalf of donors": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "deal with Iran": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Bob Menendez": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "standard D.C. practice of legislators voting in ways that their donors would appreciate": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "government": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Richard Briffault": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "salomon melgen": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "contract providing port security systems in the Dominican Republic": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "common perception that lawmakers act on behalf of donors": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "deal with Iran": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

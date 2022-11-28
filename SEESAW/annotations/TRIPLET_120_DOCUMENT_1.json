@@ -1,0 +1,694 @@
+{
+    "title": "Recalling Aaron Persky, the Judge Who Showed Brock Turner Leniency, Is a Mistake That Will Haunt Progressives",
+    "entity lists": [
+        [
+            "Aaron Persky",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Residents of Santa Clara County, California",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "recall",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Brock Turner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Michele Dauber",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "sex offender",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Stanford University",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "white privilege",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "california commission on judicial performance",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "voter",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "leniency for all criminal defendants",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "LaDoris Cordell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "longtime goal to decrease the prison population",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "California's three-strikes law",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "prosecutor",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Aaron Persky",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Residents of Santa Clara County, California",
+                "sentiment": "POS",
+                "object": "recall",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Residents of Santa Clara County, California",
+                "sentiment": "NEG",
+                "object": "Aaron Persky",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Aaron Persky",
+                "sentiment": "POS",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "prosecutor",
+                "sentiment": "NEG",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Michele Dauber",
+                "sentiment": "POS",
+                "object": "recall",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Michele Dauber",
+                "sentiment": "NEG",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Michele Dauber",
+                "sentiment": "NEG",
+                "object": "Aaron Persky",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Aaron Persky",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "sex offender",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "recall",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Stanford University",
+                "sentiment": "NEG",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "white privilege",
+                "sentiment": "POS",
+                "object": "Brock Turner",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "recall",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "recall",
+                "sentiment": "NEG",
+                "object": "white privilege",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "california commission on judicial performance",
+                "sentiment": "POS",
+                "object": "Aaron Persky",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "recall",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "voter",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "recall",
+                "sentiment": "NEG",
+                "object": "leniency for all criminal defendants",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "recall",
+                "sentiment": "NEG",
+                "object": "leniency for all criminal defendants",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "recall",
+                "sentiment": "NEG",
+                "object": "leniency for all criminal defendants",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "LaDoris Cordell",
+                "sentiment": "NEG",
+                "object": "recall",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "recall",
+                "sentiment": "NEG",
+                "object": "leniency for all criminal defendants",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "recall",
+                "sentiment": "NEG",
+                "object": "longtime goal to decrease the prison population",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "California's three-strikes law",
+                "sentiment": "NEG",
+                "object": "longtime goal to decrease the prison population",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "leniency for all criminal defendants",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "recall",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Aaron Persky": [
+            [
+                "Positive",
+                "E"
+            ]
+        ],
+        "recall": [
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "voter": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "Brock Turner": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "Stanford University": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Michele Dauber": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "LaDoris Cordell": [
+            [
+                "Positive",
+                "E"
+            ]
+        ],
+        "Residents of Santa Clara County, California": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "sex offender": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "white privilege": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "california commission on judicial performance": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "leniency for all criminal defendants": [
+            [
+                "Positive",
+                "E"
+            ]
+        ],
+        "longtime goal to decrease the prison population": [
+            [
+                "Positive",
+                "E"
+            ]
+        ],
+        "California's three-strikes law": [
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "prosecutor": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Aaron Persky": [
+            [
+                "Slightly Conservative",
+                "E"
+            ]
+        ],
+        "recall": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "voter": [
+            [
+                "Slightly Liberal",
+                "E"
+            ]
+        ],
+        "Brock Turner": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "Stanford University": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Michele Dauber": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "LaDoris Cordell": [
+            [
+                "Slightly Conservative",
+                "E"
+            ]
+        ],
+        "Residents of Santa Clara County, California": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "sex offender": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "white privilege": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "california commission on judicial performance": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "leniency for all criminal defendants": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "longtime goal to decrease the prison population": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "California's three-strikes law": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "prosecutor": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "E"
+        }
+    ]
+}

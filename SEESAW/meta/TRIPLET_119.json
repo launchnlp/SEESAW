@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/michael-cohen-recorded-trump-talking-about-payment-former-playboy-model",
+    "story_title": "Michael Cohen Recorded Trump Talking About Payment to Former Playboy Model",
+    "story_time": "2018-07-20",
+    "story_topic": "politics",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2018/07/20/michael-cohen-secretly-recorded-trump-discussing-payment-model/807195002/",
+        "title": "Michael Cohen taped Trump discussing payment to a Playboy model",
+        "bias_label": 1
+    },
+    "Meta info for article 0": {
+        "source": "Newsmax (News)",
+        "url": "https://www.newsmax.com/newsmax-tv/larry-klayman-president-donald-trump-michael-cohen-rudy-giuliani/2018/07/20/id/872941/",
+        "title": "Larry Klayman: Unethical for Cohen to Secretly Tape Trump",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "HuffPost",
+        "url": "https://www.huffingtonpost.com/entry/michael-cohen-tapes-karen-mcdougal_us_5b52407ae4b0b15aba8ec56f",
+        "title": "Michael Cohen Tape Suggests Team Trump Lied About Karen McDougal",
+        "bias_label": 0
+    },
+    "triplet_id": "119"
+}

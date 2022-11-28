@@ -1,0 +1,647 @@
+{
+    "title": "Trump wins Nevada caucuses",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Nevada",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "government",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Marco Rubio",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Ted Cruz",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "moderate voters",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "very conservative voters",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Christianity",
+            [
+                "Religion"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Hispanic caucus-goers",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Texas",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "John Kasich",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Adam Laxalt",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United States",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Nevada",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Nevada",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "government",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Marco Rubio",
+                "sentiment": "NEG",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ted Cruz",
+                "sentiment": "NEG",
+                "object": "Marco Rubio",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Marco Rubio",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Ted Cruz",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Ted Cruz",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "moderate voters",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "very conservative voters",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Christianity",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Hispanic caucus-goers",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Christianity",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Hispanic caucus-goers",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Ted Cruz",
+                "sentiment": "POS",
+                "object": "Texas",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "John Kasich",
+                "sentiment": "NEG",
+                "object": "Marco Rubio",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Marco Rubio",
+                "sentiment": "NEG",
+                "object": "John Kasich",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "John Kasich",
+                "sentiment": "NEG",
+                "object": "Marco Rubio",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "John Kasich",
+                "sentiment": "NEG",
+                "object": "Marco Rubio",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "Ted Cruz",
+                "sentiment": "NEG",
+                "object": "Marco Rubio",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "40": [
+            {
+                "id": 0,
+                "subject": "Ted Cruz",
+                "sentiment": "NEG",
+                "object": "Marco Rubio",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "42": [
+            {
+                "id": 0,
+                "subject": "Adam Laxalt",
+                "sentiment": "POS",
+                "object": "Marco Rubio",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "49": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "52": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Marco Rubio",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "53": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Marco Rubio",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "56": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "United States",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "57": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "United States",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "Marco Rubio": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Ted Cruz": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "John Kasich": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Christianity": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Nevada": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "government": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "moderate voters": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "very conservative voters": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Hispanic caucus-goers": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Texas": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Adam Laxalt": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "United States": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "D"
+            ]
+        ],
+        "Marco Rubio": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Ted Cruz": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "John Kasich": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Christianity": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Nevada": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "government": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "moderate voters": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "very conservative voters": [
+            [
+                "Very Conservative",
+                "D"
+            ]
+        ],
+        "Hispanic caucus-goers": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Texas": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Adam Laxalt": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "United States": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "D"
+        }
+    ]
+}

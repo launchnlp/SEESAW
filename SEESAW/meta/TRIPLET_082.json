@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/trump-wins-nv-caucus",
+    "story_title": "Trump Wins NV Caucus",
+    "story_time": "2016-02-23",
+    "story_topic": "elections",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2016/feb/23/donald-trump-wins-nevada-caucuses/",
+        "title": "Donald Trump dominates in Nevada",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "Politico",
+        "url": "http://www.politico.com/story/2016/02/nevada-gop-caucus-2016-219685",
+        "title": "Trump wins Nevada caucuses",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/politics/the-nevada-caucuses-are-trumps-to-lose--and-he-still-could/2016/02/23/687a3550-da44-11e5-891a-4ed04f4213e8_story.html",
+        "title": "In Nevada caucuses, Trump gets a third straight win",
+        "bias_label": 1
+    },
+    "triplet_id": "082"
+}

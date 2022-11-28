@@ -1,0 +1,432 @@
+{
+    "title": "Dick's Sporting Goods pulls assault-style rifles as Florida students return",
+    "entity lists": [
+        [
+            "Dick\u2019s Sporting Goods",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "rifle",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "common sense gun reform",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Walmart",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "National Rifle Association",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Delta Air Lines",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "United Airlines",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "The Hertz Corporation",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "David Hogg",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Dick\u2019s Sporting Goods",
+                "sentiment": "NEG",
+                "object": "rifle",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Dick\u2019s Sporting Goods",
+                "sentiment": "POS",
+                "object": "common sense gun reform",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "0": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "common sense gun reform",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Walmart",
+                "sentiment": "POS",
+                "object": "common sense gun reform",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "common sense gun reform",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "National Rifle Association",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Delta Air Lines",
+                "sentiment": "NEG",
+                "object": "National Rifle Association",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United Airlines",
+                "sentiment": "NEG",
+                "object": "National Rifle Association",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "The Hertz Corporation",
+                "sentiment": "NEG",
+                "object": "National Rifle Association",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Walmart",
+                "sentiment": "NEG",
+                "object": "rifle",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "common sense gun reform",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "common sense gun reform",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "National Rifle Association",
+                "sentiment": "NEG",
+                "object": "common sense gun reform",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "National Rifle Association",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Dick\u2019s Sporting Goods",
+                "sentiment": "POS",
+                "object": "common sense gun reform",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Dick\u2019s Sporting Goods",
+                "sentiment": "POS",
+                "object": "common sense gun reform",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "David Hogg",
+                "sentiment": "POS",
+                "object": "common sense gun reform",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Dick\u2019s Sporting Goods": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "common sense gun reform": [
+            [
+                "Positive",
+                "C"
+            ]
+        ],
+        "rifle": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Walmart": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "National Rifle Association": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "The Hertz Corporation": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "United Airlines": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Delta Air Lines": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "David Hogg": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Dick\u2019s Sporting Goods": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "common sense gun reform": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "rifle": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Walmart": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "National Rifle Association": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "The Hertz Corporation": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "United Airlines": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "Delta Air Lines": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "David Hogg": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "C"
+        }
+    ]
+}

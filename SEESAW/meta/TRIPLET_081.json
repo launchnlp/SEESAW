@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/sanders-wins-indiana",
+    "story_title": "Sanders Wins Indiana",
+    "story_time": "2016-05-03",
+    "story_topic": "elections",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2016/may/3/bernie-sanders-wins-indiana-primary/",
+        "title": "Surprise Indiana win vaults Bernie Sanders toward convention",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/entry/bernie-sanders-indiana_us_572908f5e4b096e9f08f7955",
+        "title": "Bernie Sanders Wins Indiana Democratic Primary",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/news/the-fix/wp/2016/05/03/how-bernie-sanders-beat-the-polls-and-won-indiana/",
+        "title": "How Bernie Sanders beat the polls and won Indiana",
+        "bias_label": 1
+    },
+    "triplet_id": "081"
+}

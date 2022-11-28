@@ -1,0 +1,471 @@
+{
+    "title": "Biden expected to tap Antony Blinken to be secretary of state",
+    "entity lists": [
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Antony Blinken",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "alliance",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Susan Rice",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "the foreign service",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Kevin Cramer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Lamar Alexander",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Pat Toomey",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Lisa Murkowski",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Chris Christie",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "Antony Blinken",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Antony Blinken",
+                "sentiment": "POS",
+                "object": "alliance",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "alliance",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Susan Rice",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Susan Rice",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "the foreign service",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Antony Blinken",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Biden",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Kevin Cramer",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Lamar Alexander",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Pat Toomey",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Lisa Murkowski",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Chris Christie",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Joe Biden": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Antony Blinken": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "alliance": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "Susan Rice": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "the foreign service": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Kevin Cramer": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Pat Toomey": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Lisa Murkowski": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Lamar Alexander": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Chris Christie": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Joe Biden": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Antony Blinken": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "alliance": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "Susan Rice": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "the foreign service": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "Kevin Cramer": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Pat Toomey": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Lisa Murkowski": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Lamar Alexander": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Chris Christie": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "E"
+        }
+    ]
+}

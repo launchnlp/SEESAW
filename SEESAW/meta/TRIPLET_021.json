@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/strong-or-wacko",
+    "story_title": "Strong or Wacko?",
+    "story_time": "2015-03-23",
+    "story_topic": "elections",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "USA TODAY",
+        "url": "http://www.usatoday.com/story/news/politics/elections/2015/03/23/first-take-ted-cruz-2016/25187897/",
+        "title": "First Take: Can a 'wacko bird' take flight in the GOP?",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Newsmax (News)",
+        "url": "http://www.newsmax.com/TheWire/ted-cruz-strong-gop-candidate/2015/03/23/id/631946/",
+        "title": "12 Reasons Ted Cruz Is a Strong GOP 2016 Candidate ",
+        "bias_label": 4
+    },
+    "Meta info for article 2": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2015/03/23/ted-cruz-president_n_6922104.html?utm_hp_ref=politics",
+        "title": "The Presidential Bid Of Ted Cruz, The Reddest Meat Of The Right",
+        "bias_label": 0
+    },
+    "triplet_id": "021"
+}

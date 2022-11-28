@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/trump-admin-blocks-federal-funding-clinics-providing-abortions",
+    "story_title": "Trump Admin Blocks Federal Funding From Clinics Providing Abortions",
+    "story_time": "2019-02-22",
+    "story_topic": "abortion",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Vox",
+        "url": "https://www.vox.com/policy-and-politics/2019/2/22/18236227/abortion-planned-parenthood-gag-rule-trump",
+        "title": "The Trump administration is finalizing plans to strip funding from Planned Parenthood",
+        "bias_label": 0
+    },
+    "Meta info for article 1": {
+        "source": "Reuters",
+        "url": "https://www.reuters.com/article/us-usa-healthcare-abortion/trump-administration-bans-abortion-referrals-at-u-s-funded-clinics-idUSKCN1QB2HB",
+        "title": "Trump administration bans abortion referrals at U.S.-funded clinics",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2019/feb/22/trump-admin-bars-federal-funding-abortion-clinics/",
+        "title": "Trump admin bars federal funding for abortion clinics",
+        "bias_label": 4
+    },
+    "triplet_id": "073"
+}

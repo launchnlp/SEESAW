@@ -1,0 +1,186 @@
+{
+    "title": "YouTube shooter ID\u2019d as woman with apparent vendetta against company",
+    "entity lists": [
+        [
+            "nasim aghdam",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "YouTube",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "nasim aghdam",
+                "sentiment": "NEG",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "nasim aghdam",
+                "sentiment": "NEG",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "nasim aghdam",
+                "sentiment": "NEG",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "nasim aghdam",
+                "sentiment": "NEG",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "YouTube",
+                "sentiment": "NEG",
+                "object": "nasim aghdam",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "nasim aghdam",
+                "sentiment": "NEG",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "nasim aghdam",
+                "sentiment": "NEG",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "nasim aghdam",
+                "sentiment": "NEG",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "nasim aghdam",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "YouTube",
+                "sentiment": "NEG",
+                "object": "nasim aghdam",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "YouTube",
+                "sentiment": "NEG",
+                "object": "nasim aghdam",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "nasim aghdam": [
+            [
+                "Very Negative",
+                "D"
+            ]
+        ],
+        "YouTube": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "nasim aghdam": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "YouTube": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "D"
+        }
+    ]
+}

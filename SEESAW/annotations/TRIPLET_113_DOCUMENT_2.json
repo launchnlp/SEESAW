@@ -1,0 +1,918 @@
+{
+    "title": "Trump: 'We're going to be guarding our border with the military' until wall complete",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "F",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "US-Mexico border wall",
+            [
+                "Topic",
+                "Topic",
+                "Others"
+            ],
+            [
+                "Main",
+                "Salient",
+                "Main"
+            ],
+            [
+                "F",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "US-Mexico border",
+            [
+                "Topic",
+                "Topic",
+                "Others"
+            ],
+            [
+                "Main",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "F",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Mexico",
+            [
+                "GPE",
+                "GPE",
+                "GPE"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "F",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "immigrant",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "border law",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "President George W Bush",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "F",
+                "A"
+            ]
+        ],
+        [
+            "border protection",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "Rick Perry",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "F",
+                "E"
+            ]
+        ],
+        [
+            "migrant caravan",
+            [
+                "People",
+                "People",
+                "Others"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "F",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "military",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "undocumented immigrants",
+            [
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Main"
+            ],
+            [
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "George W. Bush",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Operation Jump Start",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "border security",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "North American Free Trade Agreement",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "F",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "US-Mexico border",
+                "annotators": [
+                    "F",
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Mexico",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "US-Mexico border",
+                "annotators": [
+                    "F",
+                    "E"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "F"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "military",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "immigrant",
+                "annotators": [
+                    "F"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "border law",
+                "annotators": [
+                    "F"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "A",
+                    "E"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "President George W Bush",
+                "sentiment": "NEG",
+                "object": "immigrant",
+                "annotators": [
+                    "F"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "George W. Bush",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "border protection",
+                "annotators": [
+                    "F"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "border security",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Rick Perry",
+                "sentiment": "NEG",
+                "object": "immigrant",
+                "annotators": [
+                    "F"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Rick Perry",
+                "sentiment": "POS",
+                "object": "border protection",
+                "annotators": [
+                    "F"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Rick Perry",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "border protection",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "migrant caravan",
+                "annotators": [
+                    "F",
+                    "A",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "US-Mexico border",
+                "annotators": [
+                    "F",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "migrant caravan",
+                "annotators": [
+                    "F",
+                    "A",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Mexico",
+                "annotators": [
+                    "A",
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "US-Mexico border wall",
+                "annotators": [
+                    "A",
+                    "E"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "George W. Bush",
+                "sentiment": "POS",
+                "object": "Operation Jump Start",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "border security",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "North American Free Trade Agreement",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Slightly Positive",
+                "F"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "US-Mexico border": [
+            [
+                "Slightly Negative",
+                "F"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "US-Mexico border wall": [
+            [
+                "Slightly Positive",
+                "F"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Positive",
+                "E"
+            ]
+        ],
+        "President George W Bush": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "F"
+            ],
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "migrant caravan": [
+            [
+                "Slightly Negative",
+                "F"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "Mexico": [
+            [
+                "Neutral",
+                "F"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "immigrant": [
+            [
+                "Slightly Negative",
+                "F"
+            ]
+        ],
+        "border law": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "border protection": [
+            [
+                "Slightly Positive",
+                "F"
+            ]
+        ],
+        "Rick Perry": [
+            [
+                "Neutral",
+                "F"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "undocumented immigrants": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "North American Free Trade Agreement": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "military": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "George W. Bush": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Operation Jump Start": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "border security": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "F"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Very Conservative",
+                "E"
+            ]
+        ],
+        "US-Mexico border": [
+            [
+                "Not Applicable",
+                "F"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "US-Mexico border wall": [
+            [
+                "Conservative",
+                "F"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "President George W Bush": [
+            [
+                "Very Conservative",
+                "F"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Very Liberal",
+                "F"
+            ],
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "migrant caravan": [
+            [
+                "Not Applicable",
+                "F"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "Mexico": [
+            [
+                "Moderate",
+                "F"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "immigrant": [
+            [
+                "Not Applicable",
+                "F"
+            ]
+        ],
+        "border law": [
+            [
+                "Moderate",
+                "F"
+            ]
+        ],
+        "border protection": [
+            [
+                "Moderate",
+                "F"
+            ]
+        ],
+        "Rick Perry": [
+            [
+                "Slightly Conservative",
+                "F"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "undocumented immigrants": [
+            [
+                "Slightly Liberal",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "North American Free Trade Agreement": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "military": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "George W. Bush": [
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Operation Jump Start": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "border security": [
+            [
+                "Moderate",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "F"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Conservative",
+            "annotator": "E"
+        }
+    ]
+}

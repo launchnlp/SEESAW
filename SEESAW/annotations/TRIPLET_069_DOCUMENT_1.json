@@ -1,0 +1,238 @@
+{
+    "title": "Gabbard Defends \u2018Present\u2019 Impeachment Vote, Citing \u2018Tribal Animosities\u2019",
+    "entity lists": [
+        [
+            "Tulsi Gabbard",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "impeachment",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "censure the president",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Steve Cohen",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Alexandria Ocasio-Cortez",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "4": [
+            {
+                "id": 0,
+                "subject": "Tulsi Gabbard",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Tulsi Gabbard",
+                "sentiment": "NEG",
+                "object": "impeachment",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Tulsi Gabbard",
+                "sentiment": "POS",
+                "object": "censure the president",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Tulsi Gabbard",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Steve Cohen",
+                "sentiment": "NEG",
+                "object": "Tulsi Gabbard",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Alexandria Ocasio-Cortez",
+                "sentiment": "NEG",
+                "object": "Tulsi Gabbard",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Alexandria Ocasio-Cortez",
+                "sentiment": "NEG",
+                "object": "Tulsi Gabbard",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Tulsi Gabbard": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "impeachment": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "censure the president": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Steve Cohen": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Alexandria Ocasio-Cortez": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Tulsi Gabbard": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "impeachment": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "censure the president": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Steve Cohen": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Alexandria Ocasio-Cortez": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

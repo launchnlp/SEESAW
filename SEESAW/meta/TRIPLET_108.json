@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/judge-rules-asylum-claims-must-be-accepted",
+    "story_title": "Judge Rules Asylum Claims Must Be Accepted",
+    "story_time": "2018-11-20",
+    "story_topic": "immigration",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Townhall",
+        "url": "https://townhall.com/tipsheet/cortneyobrien/2018/11/20/judge-asylum-n2536253",
+        "title": "A Judge Just Ruled Asylum Claims Must Be Accepted Anywhere Along Border",
+        "bias_label": 3
+    },
+    "Meta info for article 1": {
+        "source": "New York Times (News)",
+        "url": "https://www.nytimes.com/2018/11/20/us/judge-denies-trump-asylum-policy.html",
+        "title": "Federal Judge Blocks Trump\u2019s Proclamation Targeting Some Asylum Seekers",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/world/2018/11/19/federal-judge-blocks-trumps-new-asylum-rules-migrant-caravan/2060994002/",
+        "title": "Federal judge blocks Trump's new asylum rules: 'He may not rewrite the immigration laws'",
+        "bias_label": 1
+    },
+    "triplet_id": "108"
+}

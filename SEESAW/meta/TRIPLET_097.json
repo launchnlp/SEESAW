@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/shooter-opens-fire-youtube",
+    "story_title": "Shooter Opens Fire at YouTube",
+    "story_time": "2018-04-04",
+    "story_topic": "violence_in_america",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "New York Times (News)",
+        "url": "https://www.nytimes.com/2018/04/03/technology/youtube-shooting-suspect-headquarters.html",
+        "title": "Police Identify Woman Who Wounded 3 at YouTube and Killed Herself; Motive Is Unclear",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/sections/thetwo-way/2018/04/03/599261148/active-shooter-reported-at-youtube-hq-in-san-bruno-calif",
+        "title": "Suspect In YouTube Shooting Angry That Her Videos Had Been 'De-Monetized'",
+        "bias_label": 2
+    },
+    "Meta info for article 0": {
+        "source": "Fox News (Online News)",
+        "url": "http://www.foxnews.com/politics/2018/04/04/youtube-shooter-id-d-as-woman-with-apparent-vendetta-against-company.html",
+        "title": "YouTube shooter ID\u2019d as woman with apparent vendetta against company",
+        "bias_label": 3
+    },
+    "triplet_id": "097"
+}

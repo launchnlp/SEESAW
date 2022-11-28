@@ -1,0 +1,319 @@
+{
+    "title": "A GOP Weekend, Courtesy Of The Koch Network And Citizens United",
+    "entity lists": [
+        [
+            "David Koch",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Freedom Partners",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Charles Koch",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Bipartisan Campaign Reform Act",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Joni Ernst",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "The Koch Network",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Citizens United",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Ted Cruz",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Steve King",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "3": [
+            {
+                "id": 0,
+                "subject": "David Koch",
+                "sentiment": "POS",
+                "object": "Freedom Partners",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Charles Koch",
+                "sentiment": "POS",
+                "object": "Freedom Partners",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Bipartisan Campaign Reform Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Joni Ernst",
+                "sentiment": "POS",
+                "object": "The Koch Network",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Citizens United",
+                "sentiment": "POS",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Steve King",
+                "sentiment": "POS",
+                "object": "Ted Cruz",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "The Koch Network": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Citizens United": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Ted Cruz": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Steve King": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Bipartisan Campaign Reform Act": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Joni Ernst": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Freedom Partners": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "David Koch": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Charles Koch": [
+            [
+                "Positive",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "The Koch Network": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Citizens United": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Ted Cruz": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Steve King": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Bipartisan Campaign Reform Act": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Joni Ernst": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Freedom Partners": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "David Koch": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Charles Koch": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "A"
+        }
+    ]
+}

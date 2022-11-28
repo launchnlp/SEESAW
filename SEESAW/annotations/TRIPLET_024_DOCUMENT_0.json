@@ -1,0 +1,157 @@
+{
+    "title": "5 dead, at least 8 injured in shooting at Fort Lauderdale airport",
+    "entity lists": [
+        [
+            "esteban santiago",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Rick Scott",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "shooting",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "6": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "esteban santiago",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "esteban santiago",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Rick Scott",
+                "sentiment": "NEG",
+                "object": "shooting",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "esteban santiago",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "esteban santiago": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "shooting": [
+            [
+                "Very Negative",
+                "C"
+            ]
+        ],
+        "Rick Scott": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "esteban santiago": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "shooting": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Rick Scott": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "C"
+        }
+    ]
+}

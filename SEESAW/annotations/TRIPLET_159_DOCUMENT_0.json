@@ -1,0 +1,689 @@
+{
+    "title": "Senate Dems Can Bypass GOP Filibuster on Two More Bills, Parliamentarian Rules",
+    "entity lists": [
+        [
+            "Democratic Party",
+            [
+                "People",
+                "Organization",
+                "People"
+            ],
+            [
+                "Salient",
+                "Main",
+                "Main"
+            ],
+            [
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Biden administration\u2019s infrastructure plan",
+            [
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "coronavirus relief bill",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Chuck Schumer",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People",
+                "Organization",
+                "People"
+            ],
+            [
+                "Salient",
+                "Main",
+                "Main"
+            ],
+            [
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Kamala Harris",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Joe Manchin",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "budget reconciliation process",
+            [
+                "Topic",
+                "Others"
+            ],
+            [
+                "Main",
+                "Main"
+            ],
+            [
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "infrastructure plan",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Parliamentarian",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "4": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Biden administration\u2019s infrastructure plan",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "budget reconciliation process",
+                "annotators": [
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "infrastructure plan",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "coronavirus relief bill",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "budget reconciliation process",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Chuck Schumer",
+                "sentiment": "POS",
+                "object": "budget reconciliation process",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "budget reconciliation process",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Chuck Schumer",
+                "sentiment": "POS",
+                "object": "Democratic Party",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Kamala Harris",
+                "sentiment": "POS",
+                "object": "Democratic Party",
+                "annotators": [
+                    "A",
+                    "E"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Biden administration\u2019s infrastructure plan",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Biden administration\u2019s infrastructure plan",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "infrastructure plan",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Biden administration\u2019s infrastructure plan",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "infrastructure plan",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "NEG",
+                "object": "Biden administration\u2019s infrastructure plan",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Manchin",
+                "sentiment": "NEG",
+                "object": "infrastructure plan",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "NEG",
+                "object": "Biden administration\u2019s infrastructure plan",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Manchin",
+                "sentiment": "NEG",
+                "object": "infrastructure plan",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "NEG",
+                "object": "Biden administration\u2019s infrastructure plan",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Manchin",
+                "sentiment": "NEG",
+                "object": "infrastructure plan",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Parliamentarian",
+                "sentiment": "POS",
+                "object": "budget reconciliation process",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Democratic Party": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Biden administration\u2019s infrastructure plan": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "coronavirus relief bill": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Kamala Harris": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "budget reconciliation process": [
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "infrastructure plan": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "Parliamentarian": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Biden administration\u2019s infrastructure plan": [
+            [
+                "Slightly Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "coronavirus relief bill": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Kamala Harris": [
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ],
+            [
+                "Moderate",
+                "E"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Moderate",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "budget reconciliation process": [
+            [
+                "Not Applicable",
+                "D"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "infrastructure plan": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Parliamentarian": [
+            [
+                "Moderate",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "D"
+        },
+        {
+            "ideology": "Moderate",
+            "annotator": "E"
+        }
+    ]
+}

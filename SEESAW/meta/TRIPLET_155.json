@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/ag-garland-launches-probe-minneapolis-police-department",
+    "story_title": "AG Garland Launches Probe Into Minneapolis Police Department",
+    "story_time": "2021-04-21",
+    "story_topic": "criminal_justice",
+    "Split": "test",
+    "Meta info for article 2": {
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/world-us-canada-56836193?utm_source=ground.news&utm_medium=referral",
+        "title": "George Floyd murder: Minneapolis police to face US federal probe",
+        "bias_label": 2
+    },
+    "Meta info for article 0": {
+        "source": "New York Times (News)",
+        "url": "https://www.nytimes.com/2021/04/21/us/justice-department-investigation-minneapolis-police.html",
+        "title": "Attorney General Merrick Garland announces an investigation into the Minneapolis Police Department.",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "National Review",
+        "url": "https://www.nationalreview.com/news/ag-garland-opens-civil-probe-into-potential-unconstitutional-practices-at-minneapolis-police-department/",
+        "title": "AG Garland Opens Probe into \u2018Unconstitutional\u2019 Practices at Minneapolis Police Department",
+        "bias_label": 3
+    },
+    "triplet_id": "155"
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/senate-democrats-agree-budget-reconciliation-bill-35-trillion",
+    "story_title": "Senate Democrats Agree to $3.5T Budget Reconciliation Bill",
+    "story_time": "2021-07-14",
+    "story_topic": "federal_budget",
+    "Split": "test",
+    "Meta info for article 0": {
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/us/us-senate-democrats-rush-outline-massive-infrastructure-bill-2021-07-13/",
+        "title": "U.S. Senate Democrats agree to $3.5 trln for budget reconciliation bill",
+        "bias_label": 2
+    },
+    "Meta info for article 1": {
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2021/07/14/democrats-selling-budget-deal-499595",
+        "title": "Democrats' next political high-wire act: Selling their $3.5T budget deal",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2021/jul/13/senate-democrats-strike-tentative-deal-35-trillion/",
+        "title": "Senate Democrats strike tentative deal on $3.5 trillion party-line spending package",
+        "bias_label": 4
+    },
+    "triplet_id": "168"
+}

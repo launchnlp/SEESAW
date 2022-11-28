@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/justice-department-changing-legal-team-census-case",
+    "story_title": "Justice Department Changing Legal Team On Census Case",
+    "story_time": "2019-07-08",
+    "story_topic": "justice_department",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "New York Times (News)",
+        "url": "https://www.nytimes.com/2019/07/07/us/politics/census-citizenship-question-justice-department.html?action=click&module=Top%20Stories&pgtype=Homepage",
+        "title": "Justice Dept. to Replace Lawyers in Census Citizenship Question Case",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2019/07/07/2020-census-doj-appoints-new-team-lawyers-citizenship-push/1670638001/",
+        "title": "Department of Justice hands 2020 census-related questions to new team of lawyers",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "Newsmax (News)",
+        "url": "https://www.newsmax.com/politics/census-legal-question-trump/2019/07/07/id/923632/",
+        "title": "DOJ Appoints New Legal Team to Take on Census Question",
+        "bias_label": 4
+    },
+    "triplet_id": "075"
+}

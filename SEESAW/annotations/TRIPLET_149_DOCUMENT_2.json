@@ -1,0 +1,405 @@
+{
+    "title": "Biden To Choose Antony Blinken For Secretary Of State",
+    "entity lists": [
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Antony Blinken",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "michele kelemen",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Jake Sullivan",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Linda Thomas-Greenfield",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "America First approach",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "alliance",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "hiring freeze",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Susan Rice",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "Antony Blinken",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Antony Blinken",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "michele kelemen",
+                "sentiment": "POS",
+                "object": "Antony Blinken",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "Jake Sullivan",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "Linda Thomas-Greenfield",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "America First approach",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "America First approach",
+                "sentiment": "NEG",
+                "object": "alliance",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "hiring freeze",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "hiring freeze",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Susan Rice",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Joe Biden": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Antony Blinken": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "America First approach": [
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "Linda Thomas-Greenfield": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "alliance": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "Susan Rice": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "Jake Sullivan": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "michele kelemen": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "hiring freeze": [
+            [
+                "Negative",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Joe Biden": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Antony Blinken": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "America First approach": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Linda Thomas-Greenfield": [
+            [
+                "Slightly Liberal",
+                "E"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "alliance": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "Susan Rice": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Jake Sullivan": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "michele kelemen": [
+            [
+                "Slightly Liberal",
+                "E"
+            ]
+        ],
+        "hiring freeze": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "E"
+        }
+    ]
+}

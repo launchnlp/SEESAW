@@ -1,0 +1,529 @@
+{
+    "title": "Trump ramps up scrutiny of legal immigrants",
+    "entity lists": [
+        [
+            "Trump administration",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "immigration",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "deportation",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United States Citizenship and Immigration Services",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "plan to start issuing notices to appear for a wider range of cases",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Jeff Sessions",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "undocumented immigrants",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Stephen Miller",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "sarah pierce",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Michael Bars",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "open borders advocate",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "ruth wasem",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Trump administration",
+                "sentiment": "NEG",
+                "object": "immigration",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Trump administration",
+                "sentiment": "POS",
+                "object": "deportation",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "United States Citizenship and Immigration Services",
+                "sentiment": "POS",
+                "object": "plan to start issuing notices to appear for a wider range of cases",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "plan to start issuing notices to appear for a wider range of cases",
+                "sentiment": "POS",
+                "object": "deportation",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States Citizenship and Immigration Services",
+                "sentiment": "POS",
+                "object": "deportation",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "plan to start issuing notices to appear for a wider range of cases",
+                "sentiment": "POS",
+                "object": "deportation",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "United States Citizenship and Immigration Services",
+                "sentiment": "NEG",
+                "object": "immigration",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "plan to start issuing notices to appear for a wider range of cases",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "plan to start issuing notices to appear for a wider range of cases",
+                "sentiment": "NEG",
+                "object": "immigration",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Jeff Sessions",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Stephen Miller",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Jeff Sessions",
+                "sentiment": "NEG",
+                "object": "immigration",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Stephen Miller",
+                "sentiment": "NEG",
+                "object": "immigration",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "United States Citizenship and Immigration Services",
+                "sentiment": "POS",
+                "object": "plan to start issuing notices to appear for a wider range of cases",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "sarah pierce",
+                "sentiment": "NEG",
+                "object": "plan to start issuing notices to appear for a wider range of cases",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "sarah pierce",
+                "sentiment": "NEG",
+                "object": "plan to start issuing notices to appear for a wider range of cases",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "United States Citizenship and Immigration Services",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Michael Bars",
+                "sentiment": "NEG",
+                "object": "open borders advocate",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Michael Bars",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "ruth wasem",
+                "sentiment": "POS",
+                "object": "immigration",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "ruth wasem",
+                "sentiment": "NEG",
+                "object": "United States Citizenship and Immigration Services",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "deportation": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "United States Citizenship and Immigration Services": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Trump administration": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "immigration": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "Jeff Sessions": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Stephen Miller": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "sarah pierce": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Michael Bars": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "ruth wasem": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "plan to start issuing notices to appear for a wider range of cases": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "undocumented immigrants": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "open borders advocate": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "deportation": [
+            [
+                "Slightly Conservative",
+                "D"
+            ]
+        ],
+        "United States Citizenship and Immigration Services": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Trump administration": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "immigration": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Jeff Sessions": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Stephen Miller": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "sarah pierce": [
+            [
+                "Slightly Liberal",
+                "D"
+            ]
+        ],
+        "Michael Bars": [
+            [
+                "Slightly Conservative",
+                "D"
+            ]
+        ],
+        "ruth wasem": [
+            [
+                "Slightly Liberal",
+                "D"
+            ]
+        ],
+        "plan to start issuing notices to appear for a wider range of cases": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "undocumented immigrants": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "open borders advocate": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "D"
+        }
+    ]
+}

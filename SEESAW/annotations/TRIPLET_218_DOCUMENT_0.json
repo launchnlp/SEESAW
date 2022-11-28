@@ -1,0 +1,712 @@
+{
+    "title": "Obama to campaign base: Get going pushing my agenda",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Organizing for Action",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United States Congress",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Harry Reid",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Cecile Richards",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "jon carson",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "immigration reform bill",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United States House of Representatives",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Affordable Care Act",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "climate denier",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "gun control",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "abortion",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Fred Eychaner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "David E. Shaw",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Organizing for Action",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "0": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Organizing for Action",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "United States Congress",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "United States Congress",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Nancy Pelosi",
+                "sentiment": "POS",
+                "object": "Organizing for Action",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Harry Reid",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Harry Reid",
+                "sentiment": "POS",
+                "object": "Organizing for Action",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Cecile Richards",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "Cecile Richards",
+                "sentiment": "POS",
+                "object": "Organizing for Action",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "jon carson",
+                "sentiment": "POS",
+                "object": "immigration reform bill",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Organizing for Action",
+                "sentiment": "POS",
+                "object": "immigration reform bill",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "United States House of Representatives",
+                "sentiment": "NEG",
+                "object": "immigration reform bill",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Organizing for Action",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "jon carson",
+                "sentiment": "NEG",
+                "object": "climate denier",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Organizing for Action",
+                "sentiment": "NEG",
+                "object": "climate denier",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "jon carson",
+                "sentiment": "POS",
+                "object": "gun control",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Organizing for Action",
+                "sentiment": "POS",
+                "object": "gun control",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "jon carson",
+                "sentiment": "POS",
+                "object": "abortion",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Organizing for Action",
+                "sentiment": "POS",
+                "object": "abortion",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Organizing for Action",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Fred Eychaner",
+                "sentiment": "POS",
+                "object": "Organizing for Action",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "David E. Shaw",
+                "sentiment": "POS",
+                "object": "Organizing for Action",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Fred Eychaner",
+                "sentiment": "POS",
+                "object": "Organizing for Action",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "David E. Shaw",
+                "sentiment": "POS",
+                "object": "Organizing for Action",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Organizing for Action",
+                "sentiment": "POS",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Organizing for Action",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Organizing for Action": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Affordable Care Act": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "climate denier": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "gun control": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "jon carson": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "abortion": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Fred Eychaner": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "David E. Shaw": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "immigration reform bill": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Cecile Richards": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Organizing for Action": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Affordable Care Act": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "climate denier": [
+            [
+                "Very Conservative",
+                "D"
+            ]
+        ],
+        "gun control": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "jon carson": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "abortion": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Fred Eychaner": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "David E. Shaw": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "immigration reform bill": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Cecile Richards": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "D"
+        }
+    ]
+}

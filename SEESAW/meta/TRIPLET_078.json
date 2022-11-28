@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/minnesota-senator-amy-klobuchar-announces-2020-presidential-run",
+    "story_title": "Minnesota Senator Amy Klobuchar Announces 2020 Presidential Run",
+    "story_time": "2019-02-11",
+    "story_topic": "elections",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Politico",
+        "url": "https://www.politico.com/story/2019/02/11/klobuchar-president-republicans-1159345",
+        "title": "Republicans gush over Klobuchar",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Reuters",
+        "url": "https://www.reuters.com/article/us-usa-election/senator-klobuchar-joins-democratic-presidential-field-idUSKCN1PZ0A2",
+        "title": "Senator Klobuchar joins Democratic presidential field",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "Reason",
+        "url": "https://reason.com/blog/2019/02/10/sen-amy-klobuchar-announces-2020-run",
+        "title": "Scandal-Plagued Sen. Amy Klobuchar Announces 2020 Presidential Run",
+        "bias_label": 4
+    },
+    "triplet_id": "078"
+}

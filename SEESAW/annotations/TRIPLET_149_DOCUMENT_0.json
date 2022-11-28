@@ -1,0 +1,408 @@
+{
+    "title": "Biden will nominate Antony Blinken as secretary of State",
+    "entity lists": [
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Antony Blinken",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Donald Trump\u2019s America First approach",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "the United States to rejoin the Iran nuclear deal",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Hunter Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "sullivan",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Linda Thomas-Greenfield",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "5": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "Antony Blinken",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Antony Blinken",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Antony Blinken",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Antony Blinken",
+                "sentiment": "NEG",
+                "object": "Donald Trump\u2019s America First approach",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Antony Blinken",
+                "sentiment": "POS",
+                "object": "the United States to rejoin the Iran nuclear deal",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Hunter Biden",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Hunter Biden",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "sullivan",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "sullivan",
+                "sentiment": "POS",
+                "object": "the United States to rejoin the Iran nuclear deal",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "sullivan",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "sullivan",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Linda Thomas-Greenfield",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Linda Thomas-Greenfield",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Antony Blinken": [
+            [
+                "Positive",
+                "E"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "Donald Trump\u2019s America First approach": [
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "the United States to rejoin the Iran nuclear deal": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "Hunter Biden": [
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "sullivan": [
+            [
+                "Positive",
+                "E"
+            ]
+        ],
+        "Linda Thomas-Greenfield": [
+            [
+                "Positive",
+                "E"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Negative",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Antony Blinken": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Donald Trump\u2019s America First approach": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "the United States to rejoin the Iran nuclear deal": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Hunter Biden": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "sullivan": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Linda Thomas-Greenfield": [
+            [
+                "Slightly Liberal",
+                "E"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "E"
+        }
+    ]
+}

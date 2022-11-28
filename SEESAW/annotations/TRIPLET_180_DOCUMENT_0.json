@@ -1,0 +1,301 @@
+{
+    "title": "Idaho ban on gay marriage struck down",
+    "entity lists": [
+        [
+            "U.S. District Magistrate Judge Candy Dale",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "same-sex marriage",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "otter",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Idaho's gay marriage ban",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "deborah ferguson",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "U.S. District Magistrate Judge Candy Dale",
+                "sentiment": "POS",
+                "object": "same-sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "U.S. District Magistrate Judge Candy Dale",
+                "sentiment": "POS",
+                "object": "same-sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "U.S. District Magistrate Judge Candy Dale",
+                "sentiment": "NEG",
+                "object": "Idaho's gay marriage ban",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "U.S. District Magistrate Judge Candy Dale",
+                "sentiment": "POS",
+                "object": "same-sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "U.S. District Magistrate Judge Candy Dale",
+                "sentiment": "NEG",
+                "object": "Idaho's gay marriage ban",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "U.S. District Magistrate Judge Candy Dale",
+                "sentiment": "POS",
+                "object": "same-sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "U.S. District Magistrate Judge Candy Dale",
+                "sentiment": "NEG",
+                "object": "Idaho's gay marriage ban",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "otter",
+                "sentiment": "NEG",
+                "object": "same-sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "otter",
+                "sentiment": "POS",
+                "object": "Idaho's gay marriage ban",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "otter",
+                "sentiment": "NEG",
+                "object": "same-sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "otter",
+                "sentiment": "NEG",
+                "object": "same-sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Idaho's gay marriage ban",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "deborah ferguson",
+                "sentiment": "POS",
+                "object": "same-sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "deborah ferguson",
+                "sentiment": "NEG",
+                "object": "Idaho's gay marriage ban",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "deborah ferguson",
+                "sentiment": "POS",
+                "object": "same-sex marriage",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "deborah ferguson",
+                "sentiment": "NEG",
+                "object": "Idaho's gay marriage ban",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "same-sex marriage": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "U.S. District Magistrate Judge Candy Dale": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "otter": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Idaho's gay marriage ban": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "deborah ferguson": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "same-sex marriage": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "U.S. District Magistrate Judge Candy Dale": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "otter": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Idaho's gay marriage ban": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "deborah ferguson": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "C"
+        }
+    ]
+}

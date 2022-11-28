@@ -1,0 +1,87 @@
+{
+    "title": "House Panel Finds 'No Intelligence Failure' Before Benghazi Attack",
+    "entity lists": [
+        [
+            "the final report by the House Intelligence Committee",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Central Intelligence Agency",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "the final report by the House Intelligence Committee",
+                "sentiment": "POS",
+                "object": "Central Intelligence Agency",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "the final report by the House Intelligence Committee",
+                "sentiment": "POS",
+                "object": "Central Intelligence Agency",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "the final report by the House Intelligence Committee": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Central Intelligence Agency": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "the final report by the House Intelligence Committee": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Central Intelligence Agency": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        }
+    ]
+}

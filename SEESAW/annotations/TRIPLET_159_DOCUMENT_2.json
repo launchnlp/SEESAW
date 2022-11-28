@@ -1,0 +1,846 @@
+{
+    "title": "Senate Democrats can now officially pass more bills with 51 votes",
+    "entity lists": [
+        [
+            "Elizabeth MacDonough",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People",
+                "Organization",
+                "People"
+            ],
+            [
+                "Salient",
+                "Main",
+                "Main"
+            ],
+            [
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People",
+                "Organization",
+                "People"
+            ],
+            [
+                "Salient",
+                "Main",
+                "Main"
+            ],
+            [
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "filibuster",
+            [
+                "Topic",
+                "Topic",
+                "Others"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Joe Manchin",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Kyrsten Sinema",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "tax increase",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "infrastructure bill",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "budget reconciliation",
+            [
+                "Topic",
+                "Others"
+            ],
+            [
+                "Main",
+                "Main"
+            ],
+            [
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "American Rescue Plan Act of 2021",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Chuck Schumer",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "infrastructure plan",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "parliamentarian 's decision",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Elizabeth MacDonough",
+                "sentiment": "POS",
+                "object": "Democratic Party",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "budget reconciliation",
+                "annotators": [
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Elizabeth MacDonough",
+                "sentiment": "POS",
+                "object": "Democratic Party",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Chuck Schumer",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Chuck Schumer",
+                "sentiment": "POS",
+                "object": "budget reconciliation",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "budget reconciliation",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Chuck Schumer",
+                "sentiment": "POS",
+                "object": "Democratic Party",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Elizabeth MacDonough",
+                "sentiment": "POS",
+                "object": "Democratic Party",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "budget reconciliation",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Elizabeth MacDonough",
+                "sentiment": "POS",
+                "object": "budget reconciliation",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "parliamentarian 's decision",
+                "sentiment": "POS",
+                "object": "Democratic Party",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "A",
+                    "E"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "filibuster",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "budget reconciliation",
+                "annotators": [
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "filibuster",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "filibuster",
+                "annotators": [
+                    "A",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Kyrsten Sinema",
+                "sentiment": "POS",
+                "object": "filibuster",
+                "annotators": [
+                    "A",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "tax increase",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "infrastructure bill",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "infrastructure plan",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "budget reconciliation",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "American Rescue Plan Act of 2021",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "American Rescue Plan Act of 2021",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "budget reconciliation",
+                "annotators": [
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "budget reconciliation",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "infrastructure plan",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "filibuster",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "parliamentarian 's decision",
+                "sentiment": "POS",
+                "object": "Democratic Party",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Democratic Party": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Slightly Positive",
+                "D"
+            ],
+            [
+                "Positive",
+                "E"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "Elizabeth MacDonough": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "filibuster": [
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "D"
+            ],
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "Kyrsten Sinema": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "tax increase": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "infrastructure bill": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "budget reconciliation": [
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Positive",
+                "E"
+            ]
+        ],
+        "American Rescue Plan Act of 2021": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "infrastructure plan": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "parliamentarian 's decision": [
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Elizabeth MacDonough": [
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Moderate",
+                "E"
+            ]
+        ],
+        "filibuster": [
+            [
+                "Moderate",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Moderate",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Kyrsten Sinema": [
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Moderate",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "tax increase": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "infrastructure bill": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "budget reconciliation": [
+            [
+                "Not Applicable",
+                "D"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "American Rescue Plan Act of 2021": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Chuck Schumer": [
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "infrastructure plan": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "parliamentarian 's decision": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "D"
+        },
+        {
+            "ideology": "Liberal",
+            "annotator": "E"
+        }
+    ]
+}

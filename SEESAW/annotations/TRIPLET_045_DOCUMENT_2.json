@@ -1,0 +1,1157 @@
+{
+    "title": "Appeals court hears Obamacare case that could focus 2020 debate",
+    "entity lists": [
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "protections for the sick",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Affordable Care Act",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Texas v. United States",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jimmy Carter",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Carolyn Dineen King",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "George W. Bush",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jennifer Walker Elrod",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Kurt D. Engelhardt",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Reed O'Connor",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "California",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Supreme Court of the United States",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Neil Gorsuch",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Brett Kavanaugh",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Senate",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "farah melendez",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Chip Roy",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "health freedom account",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "executive order",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "individual mandate",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Kamala Harris",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "abortion",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Alex Azar",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "paul mango",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Court of Appeals for the Ninth Circuit",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "michael barrett",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "law banning abortion in Ohio once a fetal heartbeat is detected",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "4": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "protections for the sick",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "protections for the sick",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Affordable Care Act",
+                "sentiment": "POS",
+                "object": "protections for the sick",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Texas v. United States",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "Texas v. United States",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Jimmy Carter",
+                "sentiment": "POS",
+                "object": "Carolyn Dineen King",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "George W. Bush",
+                "sentiment": "POS",
+                "object": "Jennifer Walker Elrod",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Kurt D. Engelhardt",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Reed O'Connor",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Reed O'Connor",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "California",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "California",
+                "sentiment": "NEG",
+                "object": "Reed O'Connor",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Reed O'Connor",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Supreme Court of the United States",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Neil Gorsuch",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Brett Kavanaugh",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "United States Senate",
+                "sentiment": "POS",
+                "object": "Brett Kavanaugh",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "United States Senate",
+                "sentiment": "POS",
+                "object": "Neil Gorsuch",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "farah melendez",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "farah melendez",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Chip Roy",
+                "sentiment": "POS",
+                "object": "health freedom account",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Chip Roy",
+                "sentiment": "POS",
+                "object": "health freedom account",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Chip Roy",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "executive order",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "individual mandate",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Kamala Harris",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "abortion",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Kamala Harris",
+                "sentiment": "POS",
+                "object": "abortion",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "Alex Azar",
+                "sentiment": "POS",
+                "object": "paul mango",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "40": [
+            {
+                "id": 0,
+                "subject": "paul mango",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "42": [
+            {
+                "id": 0,
+                "subject": "United States Court of Appeals for the Ninth Circuit",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "43": [
+            {
+                "id": 0,
+                "subject": "United States Court of Appeals for the Ninth Circuit",
+                "sentiment": "NEG",
+                "object": "abortion",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "abortion",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "48": [
+            {
+                "id": 0,
+                "subject": "George W. Bush",
+                "sentiment": "POS",
+                "object": "michael barrett",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "michael barrett",
+                "sentiment": "POS",
+                "object": "abortion",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "michael barrett",
+                "sentiment": "NEG",
+                "object": "law banning abortion in Ohio once a fetal heartbeat is detected",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "49": [
+            {
+                "id": 0,
+                "subject": "michael barrett",
+                "sentiment": "NEG",
+                "object": "law banning abortion in Ohio once a fetal heartbeat is detected",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Affordable Care Act": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "protections for the sick": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Texas v. United States": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Carolyn Dineen King": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Jennifer Walker Elrod": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Kurt D. Engelhardt": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Jimmy Carter": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "George W. Bush": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Reed O'Connor": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "California": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Supreme Court of the United States": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Neil Gorsuch": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Brett Kavanaugh": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "farah melendez": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Chip Roy": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "health freedom account": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "executive order": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "individual mandate": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Kamala Harris": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "abortion": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "paul mango": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Alex Azar": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "United States Court of Appeals for the Ninth Circuit": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "michael barrett": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "law banning abortion in Ohio once a fetal heartbeat is detected": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Affordable Care Act": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "protections for the sick": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Texas v. United States": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Carolyn Dineen King": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Jennifer Walker Elrod": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Kurt D. Engelhardt": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Jimmy Carter": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "George W. Bush": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Reed O'Connor": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "California": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Supreme Court of the United States": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Neil Gorsuch": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Brett Kavanaugh": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "farah melendez": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Chip Roy": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "health freedom account": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "executive order": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "individual mandate": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Kamala Harris": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "abortion": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "paul mango": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Alex Azar": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "United States Court of Appeals for the Ninth Circuit": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "michael barrett": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "law banning abortion in Ohio once a fetal heartbeat is detected": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

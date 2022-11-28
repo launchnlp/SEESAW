@@ -1,0 +1,236 @@
+{
+    "title": "Confirmed: Boehner's Debt Limit Plan Raises Spending",
+    "entity lists": [
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "amnesty",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "spending cut",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "John Boehner",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "debt limit",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "F"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "amnesty",
+                "annotators": [
+                    "F"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "spending cut",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "Democratic Party",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "debt limit",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "debt limit",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "John Boehner",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "John Boehner": [
+            [
+                "Negative",
+                "F"
+            ]
+        ],
+        "debt limit": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Slightly Negative",
+                "F"
+            ]
+        ],
+        "amnesty": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "spending cut": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "John Boehner": [
+            [
+                "Conservative",
+                "F"
+            ]
+        ],
+        "debt limit": [
+            [
+                "Slightly Liberal",
+                "F"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "F"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "F"
+            ]
+        ],
+        "amnesty": [
+            [
+                "Slightly Liberal",
+                "F"
+            ]
+        ],
+        "spending cut": [
+            [
+                "Slightly Conservative",
+                "F"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "F"
+        }
+    ]
+}

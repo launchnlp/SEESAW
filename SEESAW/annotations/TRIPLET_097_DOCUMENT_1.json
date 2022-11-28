@@ -1,0 +1,210 @@
+{
+    "title": "Suspect In YouTube Shooting Angry That Her Videos Had Been 'De-Monetized'",
+    "entity lists": [
+        [
+            "nasim najafi aghdam",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "YouTube",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Google",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "gun violence",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "3": [
+            {
+                "id": 0,
+                "subject": "nasim najafi aghdam",
+                "sentiment": "NEG",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "43": [
+            {
+                "id": 0,
+                "subject": "Google",
+                "sentiment": "POS",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "YouTube",
+                "sentiment": "POS",
+                "object": "Google",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "44": [
+            {
+                "id": 0,
+                "subject": "YouTube",
+                "sentiment": "NEG",
+                "object": "gun violence",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "45": [
+            {
+                "id": 0,
+                "subject": "nasim najafi aghdam",
+                "sentiment": "NEG",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "47": [
+            {
+                "id": 0,
+                "subject": "nasim najafi aghdam",
+                "sentiment": "NEG",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "49": [
+            {
+                "id": 0,
+                "subject": "nasim najafi aghdam",
+                "sentiment": "NEG",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "51": [
+            {
+                "id": 0,
+                "subject": "nasim najafi aghdam",
+                "sentiment": "NEG",
+                "object": "YouTube",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "56": [
+            {
+                "id": 0,
+                "subject": "nasim najafi aghdam",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "nasim najafi aghdam": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "YouTube": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "gun violence": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Google": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "nasim najafi aghdam": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "YouTube": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "gun violence": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Google": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "D"
+        }
+    ]
+}

@@ -1,0 +1,897 @@
+{
+    "title": "House approves retroactive pay for furloughed government workers",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "House Republicans",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "employees bill",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Jim Moran",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Frank Wolf",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "worker",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United States House of Representatives",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "John Boehner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "government shutdown",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Affordable Care Act",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United States Senate",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Harry Reid",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "White House",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Chuck Hagel",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "pay our military act",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Elijah Cummings",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "tea party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Hal Rogers",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United States Congress",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "House Republicans",
+                "sentiment": "POS",
+                "object": "employees bill",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "employees bill",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Jim Moran",
+                "sentiment": "POS",
+                "object": "employees bill",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Frank Wolf",
+                "sentiment": "POS",
+                "object": "employees bill",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "United States House of Representatives",
+                "sentiment": "NEG",
+                "object": "employees bill",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "employees bill",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "employees bill",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "government shutdown",
+                "sentiment": "NEG",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "House Republicans",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John Boehner",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "House Republicans",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "House Republicans",
+                "sentiment": "NEG",
+                "object": "government shutdown",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "United States Senate",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "House Republicans",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "White House",
+                "sentiment": "NEG",
+                "object": "House Republicans",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "White House",
+                "sentiment": "POS",
+                "object": "employees bill",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Chuck Hagel",
+                "sentiment": "POS",
+                "object": "pay our military act",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States Congress",
+                "sentiment": "POS",
+                "object": "pay our military act",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Chuck Hagel",
+                "sentiment": "POS",
+                "object": "pay our military act",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "NEG",
+                "object": "tea party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "tea party",
+                "sentiment": "POS",
+                "object": "government shutdown",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "NEG",
+                "object": "tea party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "House Republicans",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "House Republicans",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "House Republicans",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "employees bill",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "employees bill",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "House Republicans",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "employees bill",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Hal Rogers",
+                "sentiment": "NEG",
+                "object": "United States Senate",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "worker": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "employees bill": [
+            [
+                "Positive",
+                "D"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Frank Wolf": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "House Republicans": [
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "government shutdown": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "White House": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Jim Moran": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Chuck Hagel": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "pay our military act": [
+            [
+                "Positive",
+                "D"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "tea party": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Hal Rogers": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Affordable Care Act": [
+            [
+                "Negative",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "worker": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "employees bill": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Slightly Conservative",
+                "D"
+            ]
+        ],
+        "Frank Wolf": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "House Republicans": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "government shutdown": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "White House": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Slightly Liberal",
+                "D"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Jim Moran": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Chuck Hagel": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "pay our military act": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "United States Congress": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "tea party": [
+            [
+                "Very Conservative",
+                "D"
+            ]
+        ],
+        "Hal Rogers": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Affordable Care Act": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "D"
+        }
+    ]
+}

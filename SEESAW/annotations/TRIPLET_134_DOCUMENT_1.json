@@ -1,0 +1,451 @@
+{
+    "title": "Virginia Gov. Ralph Northam: Robert E. Lee statue removed from U.S. Capitol",
+    "entity lists": [
+        [
+            "Ralph Northam",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Robert E. Lee",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Mark Herring",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "slavery",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Louise Lucas",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Barbara Rose Johns",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "racism",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Jefferson Davis",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Confederate States of America",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Ralph Northam",
+                "sentiment": "NEG",
+                "object": "Robert E. Lee",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Mark Herring",
+                "sentiment": "NEG",
+                "object": "Robert E. Lee",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Robert E. Lee",
+                "sentiment": "POS",
+                "object": "slavery",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mark Herring",
+                "sentiment": "NEG",
+                "object": "Robert E. Lee",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Mark Herring",
+                "sentiment": "NEG",
+                "object": "slavery",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Ralph Northam",
+                "sentiment": "NEG",
+                "object": "Robert E. Lee",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Louise Lucas",
+                "sentiment": "NEG",
+                "object": "Robert E. Lee",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Louise Lucas",
+                "sentiment": "NEG",
+                "object": "Robert E. Lee",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Louise Lucas",
+                "sentiment": "POS",
+                "object": "Barbara Rose Johns",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Barbara Rose Johns",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Barbara Rose Johns",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Ralph Northam",
+                "sentiment": "POS",
+                "object": "Barbara Rose Johns",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Robert E. Lee",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "racism",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "racism",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Jefferson Davis",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Ralph Northam",
+                "sentiment": "NEG",
+                "object": "Confederate States of America",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "NEG",
+                "object": "Confederate States of America",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Robert E. Lee": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Mark Herring": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Louise Lucas": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Barbara Rose Johns": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Ralph Northam": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "slavery": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "racism": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Jefferson Davis": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Confederate States of America": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Robert E. Lee": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "Mark Herring": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Louise Lucas": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Barbara Rose Johns": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Ralph Northam": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "slavery": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "racism": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "Jefferson Davis": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Confederate States of America": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "B"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/major-retailer-pulls-assault-style-rifles",
+    "story_title": "Major Retailer Pulls Assault-Style Rifles",
+    "story_time": "2018-02-28",
+    "story_topic": "gun_control_and_gun_rights",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "HuffPost",
+        "url": "https://www.huffingtonpost.com/entry/dicks-sporting-goods-assault-rifles_us_5a969cece4b07dffeb6e3d77",
+        "title": "Dick\u2019s Sporting Goods Will Quit Selling Assault-Style Rifles",
+        "bias_label": 0
+    },
+    "Meta info for article 1": {
+        "source": "Townhall",
+        "url": "https://townhall.com/tipsheet/leahbarkoukis/2018/02/28/dicks-caves-announces-end-to-sale-of-semiautomatic-weapons-n2455468",
+        "title": "Dick's Sporting Goods Caves, Announces End to Sale of Semi-Automatic Rifles, Other Changes",
+        "bias_label": 3
+    },
+    "Meta info for article 2": {
+        "source": "BBC News",
+        "url": "http://www.bbc.com/news/world-us-canada-43223279",
+        "title": "Dick's Sporting Goods pulls assault-style rifles as Florida students return",
+        "bias_label": 2
+    },
+    "triplet_id": "114"
+}

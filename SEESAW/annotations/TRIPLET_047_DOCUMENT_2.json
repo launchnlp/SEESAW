@@ -1,0 +1,320 @@
+{
+    "title": "Supreme Court Sides With Native American Hunter As Neil Gorsuch Joins Liberal Justices",
+    "entity lists": [
+        [
+            "Supreme Court of the United States",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "clayvin herrera",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Neil Gorsuch",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "an 1868 treaty between his tribe and the U.S. government",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Wyoming",
+            [
+                "GPE"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Sonia Sotomayor",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "george hick",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Supreme Court of the United States",
+                "sentiment": "POS",
+                "object": "clayvin herrera",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Supreme Court of the United States",
+                "sentiment": "POS",
+                "object": "clayvin herrera",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Neil Gorsuch",
+                "sentiment": "POS",
+                "object": "an 1868 treaty between his tribe and the U.S. government",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Neil Gorsuch",
+                "sentiment": "POS",
+                "object": "clayvin herrera",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Wyoming",
+                "sentiment": "NEG",
+                "object": "clayvin herrera",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Sonia Sotomayor",
+                "sentiment": "POS",
+                "object": "an 1868 treaty between his tribe and the U.S. government",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Sonia Sotomayor",
+                "sentiment": "NEG",
+                "object": "Wyoming",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Sonia Sotomayor",
+                "sentiment": "POS",
+                "object": "clayvin herrera",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Sonia Sotomayor",
+                "sentiment": "NEG",
+                "object": "Wyoming",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Sonia Sotomayor",
+                "sentiment": "NEG",
+                "object": "Wyoming",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "george hick",
+                "sentiment": "POS",
+                "object": "Supreme Court of the United States",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "george hick",
+                "sentiment": "POS",
+                "object": "clayvin herrera",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "george hick",
+                "sentiment": "POS",
+                "object": "an 1868 treaty between his tribe and the U.S. government",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Supreme Court of the United States": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "an 1868 treaty between his tribe and the U.S. government": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "clayvin herrera": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Wyoming": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Neil Gorsuch": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Sonia Sotomayor": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "george hick": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Supreme Court of the United States": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "an 1868 treaty between his tribe and the U.S. government": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "clayvin herrera": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Wyoming": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Neil Gorsuch": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Sonia Sotomayor": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "george hick": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "C"
+        }
+    ]
+}

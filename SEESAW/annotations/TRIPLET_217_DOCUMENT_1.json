@@ -1,0 +1,282 @@
+{
+    "title": "Mike Huckabee Slams Obama Cabinet's Lack Of Diversity",
+    "entity lists": [
+        [
+            "Mike Huckabee",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "lack of diversity in his cabinet",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Chuck Hagel",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jack Lew",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "John Brennan",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "John Kerry",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Mike Huckabee",
+                "sentiment": "NEG",
+                "object": "lack of diversity in his cabinet",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Mike Huckabee",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Mike Huckabee",
+                "sentiment": "NEG",
+                "object": "lack of diversity in his cabinet",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Mike Huckabee",
+                "sentiment": "NEG",
+                "object": "lack of diversity in his cabinet",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Mike Huckabee",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Chuck Hagel",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Jack Lew",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "John Brennan",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "John Kerry",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Mike Huckabee": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "lack of diversity in his cabinet": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Chuck Hagel": [
+            [
+                "Unknown",
+                "A"
+            ]
+        ],
+        "Jack Lew": [
+            [
+                "Unknown",
+                "A"
+            ]
+        ],
+        "John Brennan": [
+            [
+                "Unknown",
+                "A"
+            ]
+        ],
+        "John Kerry": [
+            [
+                "Unknown",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Mike Huckabee": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "lack of diversity in his cabinet": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Chuck Hagel": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Jack Lew": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "John Brennan": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "John Kerry": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "A"
+        }
+    ]
+}

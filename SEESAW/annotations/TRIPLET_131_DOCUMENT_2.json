@@ -1,0 +1,265 @@
+{
+    "title": "Pentagon Says 34 U.S. Troops Suffered Brain Injuries From Iranian Missile Strike",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Mark Esper",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "34 U.S. Troops Suffered Brain Injuries From Iranian Missile Strike",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "jonathan hoffman",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "The Pentagon",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "4": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Mark Esper",
+                "sentiment": "POS",
+                "object": "34 U.S. Troops Suffered Brain Injuries From Iranian Missile Strike",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "jonathan hoffman",
+                "sentiment": "POS",
+                "object": "Mark Esper",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "jonathan hoffman",
+                "sentiment": "POS",
+                "object": "The Pentagon",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "jonathan hoffman",
+                "sentiment": "POS",
+                "object": "Mark Esper",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "34 U.S. Troops Suffered Brain Injuries From Iranian Missile Strike",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "34 U.S. Troops Suffered Brain Injuries From Iranian Missile Strike",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "34 U.S. Troops Suffered Brain Injuries From Iranian Missile Strike",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "jonathan hoffman",
+                "sentiment": "NEG",
+                "object": "34 U.S. Troops Suffered Brain Injuries From Iranian Missile Strike",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "jonathan hoffman",
+                "sentiment": "POS",
+                "object": "Mark Esper",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "jonathan hoffman",
+                "sentiment": "POS",
+                "object": "The Pentagon",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "jonathan hoffman": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "34 U.S. Troops Suffered Brain Injuries From Iranian Missile Strike": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "The Pentagon": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Mark Esper": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "jonathan hoffman": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "34 U.S. Troops Suffered Brain Injuries From Iranian Missile Strike": [
+            [
+                "Not Applicable",
+                "B"
+            ]
+        ],
+        "The Pentagon": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "Mark Esper": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "B"
+        }
+    ]
+}

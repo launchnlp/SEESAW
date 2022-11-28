@@ -1,0 +1,263 @@
+{
+    "title": "Trump Warns: 10 Years in Prison for Toppling Jackson Statue",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "vandalize or destroy monuments",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "protester",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "statue of former President Andrew Jackson",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "police",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "vandalize or destroy monuments",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "vandalize or destroy monuments",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "protester",
+                "sentiment": "NEG",
+                "object": "statue of former President Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "protester",
+                "sentiment": "NEG",
+                "object": "statue of former President Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "protester",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "statue of former President Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "protester",
+                "sentiment": "NEG",
+                "object": "statue of former President Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "protester",
+                "sentiment": "POS",
+                "object": "vandalize or destroy monuments",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "police",
+                "sentiment": "POS",
+                "object": "statue of former President Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "police",
+                "sentiment": "POS",
+                "object": "protester",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "statue of former President Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "statue of former President Andrew Jackson",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "protester": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "police": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "statue of former President Andrew Jackson": [
+            [
+                "Positive",
+                "C"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "vandalize or destroy monuments": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "protester": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "police": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "statue of former President Andrew Jackson": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "vandalize or destroy monuments": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "C"
+        }
+    ]
+}

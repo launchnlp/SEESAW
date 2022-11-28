@@ -1,0 +1,537 @@
+{
+    "title": "House votes to give furloughed federal workers back pay",
+    "entity lists": [
+        [
+            "United States House of Representatives",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "bill that provides back pay for furloughed Federal workers during the government shutdown",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "worker",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "White House",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "president",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "House Republicans",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Eric Cantor",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "government shutdown",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "resolution in line with the $988 billion budget",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Affordable Care Act",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "John Boehner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "POS",
+                "object": "bill that provides back pay for furloughed Federal workers during the government shutdown",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "White House",
+                "sentiment": "POS",
+                "object": "bill that provides back pay for furloughed Federal workers during the government shutdown",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "president",
+                "sentiment": "POS",
+                "object": "bill that provides back pay for furloughed Federal workers during the government shutdown",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "House Republicans",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "House Republicans",
+                "sentiment": "POS",
+                "object": "bill that provides back pay for furloughed Federal workers during the government shutdown",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "bill that provides back pay for furloughed Federal workers during the government shutdown",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Eric Cantor",
+                "sentiment": "NEG",
+                "object": "government shutdown",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Eric Cantor",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Eric Cantor",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Eric Cantor",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "worker",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "resolution in line with the $988 billion budget",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "government shutdown",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "government shutdown",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "NEG",
+                "object": "resolution in line with the $988 billion budget",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "House Republicans",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "worker": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "bill that provides back pay for furloughed Federal workers during the government shutdown": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "House Republicans": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "government shutdown": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "White House": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Eric Cantor": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Affordable Care Act": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "resolution in line with the $988 billion budget": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "president": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "worker": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Slightly Conservative",
+                "D"
+            ]
+        ],
+        "bill that provides back pay for furloughed Federal workers during the government shutdown": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "House Republicans": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "government shutdown": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "White House": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Eric Cantor": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Affordable Care Act": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "resolution in line with the $988 billion budget": [
+            [
+                "Slightly Liberal",
+                "D"
+            ]
+        ],
+        "president": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "D"
+        }
+    ]
+}

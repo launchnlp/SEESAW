@@ -1,0 +1,660 @@
+{
+    "title": "Republicans eye slim Senate majority",
+    "entity lists": [
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Mitch McConnell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Alison Lundergan Grimes",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "South Dakota",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "montana",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "West Virginia",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Jeanne Shaheen",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Scott Brown",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Bill Clinton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Bruce Braley",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Chris Christie",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "John Kasich",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Gary Peters",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Mark Schauer",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Michelle Nunn",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "David Perdue",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Mitch McConnell",
+                "sentiment": "NEG",
+                "object": "Alison Lundergan Grimes",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Alison Lundergan Grimes",
+                "sentiment": "NEG",
+                "object": "Mitch McConnell",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Mitch McConnell",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "South Dakota",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "montana",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "West Virginia",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Hillary Clinton",
+                "sentiment": "POS",
+                "object": "Alison Lundergan Grimes",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Hillary Clinton",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Hillary Clinton",
+                "sentiment": "POS",
+                "object": "Alison Lundergan Grimes",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Hillary Clinton",
+                "sentiment": "POS",
+                "object": "Jeanne Shaheen",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jeanne Shaheen",
+                "sentiment": "NEG",
+                "object": "Scott Brown",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Scott Brown",
+                "sentiment": "NEG",
+                "object": "Jeanne Shaheen",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Bill Clinton",
+                "sentiment": "POS",
+                "object": "Bruce Braley",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Chris Christie",
+                "sentiment": "POS",
+                "object": "John Kasich",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Gary Peters",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Mark Schauer",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Michelle Nunn",
+                "sentiment": "NEG",
+                "object": "David Perdue",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "David Perdue",
+                "sentiment": "NEG",
+                "object": "Michelle Nunn",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Republican Party": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "West Virginia": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "montana": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "South Dakota": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Alison Lundergan Grimes": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Jeanne Shaheen": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Scott Brown": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Michelle Nunn": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "David Perdue": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Bill Clinton": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Bruce Braley": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Chris Christie": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "John Kasich": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Gary Peters": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Mark Schauer": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Republican Party": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "West Virginia": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "montana": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "South Dakota": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Alison Lundergan Grimes": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Mitch McConnell": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Jeanne Shaheen": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Scott Brown": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Michelle Nunn": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "David Perdue": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Bill Clinton": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Bruce Braley": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Chris Christie": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "John Kasich": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Gary Peters": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Mark Schauer": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "D"
+        }
+    ]
+}

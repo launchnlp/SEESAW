@@ -1,0 +1,492 @@
+{
+    "title": "Supreme Court Tees Up High-Stakes Cases For Grand Finale",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Affordable Care Act",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "King v. Burwell",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Obergefell v. Hodges",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "same-sex marriage",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Texas nonprofit organization",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "state agency",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "tax subsidy",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "segregation",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "advocates of disparate impact claims",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "inmates on Oklahoma's death row",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "midazolam",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Environmental Protection Agency rules meant to clean up dangerous air pollutants",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Armed Career Criminal Act",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "King v. Burwell",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Affordable Care Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Obergefell v. Hodges",
+                "sentiment": "POS",
+                "object": "same-sex marriage",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "same-sex marriage",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Texas nonprofit organization",
+                "sentiment": "NEG",
+                "object": "state agency",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "state agency",
+                "sentiment": "POS",
+                "object": "tax subsidy",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Texas nonprofit organization",
+                "sentiment": "NEG",
+                "object": "segregation",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "advocates of disparate impact claims",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "inmates on Oklahoma's death row",
+                "sentiment": "NEG",
+                "object": "midazolam",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "43": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Environmental Protection Agency rules meant to clean up dangerous air pollutants",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "50": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Armed Career Criminal Act",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Affordable Care Act": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "same-sex marriage": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "King v. Burwell": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Obergefell v. Hodges": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Texas nonprofit organization": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "state agency": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "tax subsidy": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "segregation": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "advocates of disparate impact claims": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "inmates on Oklahoma's death row": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "midazolam": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Environmental Protection Agency rules meant to clean up dangerous air pollutants": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Armed Career Criminal Act": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Affordable Care Act": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "same-sex marriage": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "King v. Burwell": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Obergefell v. Hodges": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Texas nonprofit organization": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "state agency": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "tax subsidy": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "segregation": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "advocates of disparate impact claims": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "inmates on Oklahoma's death row": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "midazolam": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Environmental Protection Agency rules meant to clean up dangerous air pollutants": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Armed Career Criminal Act": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

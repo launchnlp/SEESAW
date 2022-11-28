@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/president-trump-denies-request-release-democrats-russia-memo",
+    "story_title": "President Trump Denies Request to Release Democrats' Russia Memo",
+    "story_time": "2018-02-09",
+    "story_topic": "fbi",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "Townhall",
+        "url": "https://townhall.com/tipsheet/cortneyobrien/2018/02/09/democratic-memo-release-n2445182",
+        "title": "White House Cites Security Concerns in Decision Not to Declassify the Democratic Memo",
+        "bias_label": 3
+    },
+    "Meta info for article 1": {
+        "source": "New York Times (News)",
+        "url": "https://www.nytimes.com/2018/02/09/us/politics/trump-blocks-release-of-memo-rebutting-republican-claims.html",
+        "title": "Trump Blocks Release of Memo Rebutting Republican Claims",
+        "bias_label": 1
+    },
+    "Meta info for article 0": {
+        "source": "Reuters",
+        "url": "https://www.reuters.com/article/us-usa-trump-russia-democrats/trump-blocks-release-of-russia-memo-drafted-by-democrats-idUSKBN1FT2NP",
+        "title": "Trump blocks release of Russia memo drafted by Democrats",
+        "bias_label": 2
+    },
+    "triplet_id": "102"
+}

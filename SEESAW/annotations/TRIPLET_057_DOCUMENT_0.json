@@ -1,0 +1,888 @@
+{
+    "title": "Former Colorado Gov. John Hickenlooper joins 2020 presidential race",
+    "entity lists": [
+        [
+            "John Hickenlooper",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "john couvillon",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "moderate Democratic candidate",
+            [
+                "Topic",
+                "Topic",
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization",
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "neil sroka",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "lgbt community",
+            [
+                "Organization",
+                "Organization",
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Medicaid",
+            [
+                "Topic",
+                "Topic",
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "universal background checks for gun sales",
+            [
+                "Topic",
+                "Topic",
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "Green New Deal",
+            [
+                "Topic",
+                "Topic",
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "E"
+            ]
+        ],
+        [
+            "oil and gas industry",
+            [
+                "Organization",
+                "Organization",
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "A",
+                "D",
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "John Hickenlooper",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "John Hickenlooper",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "john couvillon",
+                "sentiment": "POS",
+                "object": "moderate Democratic candidate",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "moderate Democratic candidate",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "john couvillon",
+                "sentiment": "POS",
+                "object": "moderate Democratic candidate",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "john couvillon",
+                "sentiment": "POS",
+                "object": "moderate Democratic candidate",
+                "annotators": [
+                    "B",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John Hickenlooper",
+                "sentiment": "POS",
+                "object": "moderate Democratic candidate",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "neil sroka",
+                "sentiment": "NEG",
+                "object": "moderate Democratic candidate",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "neil sroka",
+                "sentiment": "NEG",
+                "object": "moderate Democratic candidate",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "neil sroka",
+                "sentiment": "NEG",
+                "object": "moderate Democratic candidate",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "John Hickenlooper",
+                "sentiment": "POS",
+                "object": "lgbt community",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John Hickenlooper",
+                "sentiment": "POS",
+                "object": "Medicaid",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "John Hickenlooper",
+                "sentiment": "POS",
+                "object": "universal background checks for gun sales",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "lgbt community",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Medicaid",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "universal background checks for gun sales",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "John Hickenlooper",
+                "sentiment": "POS",
+                "object": "Green New Deal",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "John Hickenlooper",
+                "sentiment": "POS",
+                "object": "oil and gas industry",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "oil and gas industry",
+                "sentiment": "POS",
+                "object": "John Hickenlooper",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "John Hickenlooper",
+                "annotators": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "oil and gas industry",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "John Hickenlooper",
+                "sentiment": "POS",
+                "object": "oil and gas industry",
+                "annotators": [
+                    "B",
+                    "A",
+                    "D",
+                    "E"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Green New Deal",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "John Hickenlooper",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "john couvillon",
+                "sentiment": "POS",
+                "object": "moderate Democratic candidate",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "John Hickenlooper",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "John Hickenlooper": [
+            [
+                "Positive",
+                "B"
+            ],
+            [
+                "Positive",
+                "A"
+            ],
+            [
+                "Positive",
+                "D"
+            ],
+            [
+                "Positive",
+                "E"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "moderate Democratic candidate": [
+            [
+                "Slightly Positive",
+                "B"
+            ],
+            [
+                "Positive",
+                "A"
+            ],
+            [
+                "Positive",
+                "D"
+            ],
+            [
+                "Positive",
+                "E"
+            ]
+        ],
+        "john couvillon": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "neil sroka": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "lgbt community": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Medicaid": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "universal background checks for gun sales": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Green New Deal": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "oil and gas industry": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Slightly Positive",
+                "D"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "John Hickenlooper": [
+            [
+                "Slightly Liberal",
+                "B"
+            ],
+            [
+                "Moderate",
+                "A"
+            ],
+            [
+                "Slightly Liberal",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "moderate Democratic candidate": [
+            [
+                "Slightly Liberal",
+                "B"
+            ],
+            [
+                "Slightly Liberal",
+                "A"
+            ],
+            [
+                "Moderate",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "john couvillon": [
+            [
+                "Moderate",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Moderate",
+                "D"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "neil sroka": [
+            [
+                "Slightly Liberal",
+                "B"
+            ],
+            [
+                "Slightly Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Very Liberal",
+                "E"
+            ]
+        ],
+        "lgbt community": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Slightly Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "Medicaid": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "universal background checks for gun sales": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "Green New Deal": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "oil and gas industry": [
+            [
+                "Slightly Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "B"
+        },
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Conservative",
+            "annotator": "D"
+        },
+        {
+            "ideology": "Liberal",
+            "annotator": "E"
+        }
+    ]
+}

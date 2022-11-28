@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/arizona-governor-considers-anti-gay-bill",
+    "story_title": "Arizona Governor Considers Anti-Gay Bill",
+    "story_time": "2014-02-25",
+    "story_topic": "lgbt_rights",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "New York Times (News)",
+        "url": "http://www.nytimes.com/2014/02/25/us/governor-of-arizona-is-pressed-to-veto-bill.html?ref=us",
+        "title": "Governor of Arizona Is Pressed to Veto Bill",
+        "bias_label": 1
+    },
+    "Meta info for article 0": {
+        "source": "CNN (Online News)",
+        "url": "http://politicalticker.blogs.cnn.com/2014/02/24/gov-jan-brewer-to-cnn-i-will-do-the-right-thing-for-the-state-of-arizona/?hpt=po_t1",
+        "title": "Gov. Jan Brewer to CNN: 'I will do the right thing for the state of Arizona'",
+        "bias_label": 0
+    },
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2014/feb/25/gov-jan-brewer-i-will-do-right-thing-arizona/",
+        "title": "Gov. Jan Brewer: \"I will do the right thing for Arizona\"",
+        "bias_label": 4
+    },
+    "triplet_id": "179"
+}

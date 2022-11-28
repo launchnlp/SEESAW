@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/gop-convention-bounce",
+    "story_title": "GOP Convention Bounce",
+    "story_time": "2012-09-01",
+    "story_topic": "elections",
+    "Split": "train",
+    "Meta info for article 1": {
+        "source": "NPR (Online News)",
+        "url": "http://www.npr.org/blogs/itsallpolitics/2012/08/30/160358395/romney-makes-his-own-case-for-change",
+        "title": "A Fine Night For Romney, But No Game Change",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "New York Times (News)",
+        "url": "http://fivethirtyeight.blogs.nytimes.com/2012/09/01/sept-1-romneys-convention-bounce-appears-middling-so-far/?ref=politics",
+        "title": "Sept. 1: Romney\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2s Convention Bounce Appears Middling So Far",
+        "bias_label": 1
+    },
+    "Meta info for article 0": {
+        "source": "Townhall",
+        "url": "http://townhall.com/tipsheet/heatherginsberg/2012/09/01/romney_47_obama_44",
+        "title": "Romney 47% Obama 44%",
+        "bias_label": 3
+    },
+    "triplet_id": "229"
+}

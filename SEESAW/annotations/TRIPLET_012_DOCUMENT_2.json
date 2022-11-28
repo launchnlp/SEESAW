@@ -1,0 +1,239 @@
+{
+    "title": "Obama\u2019s Attorney General: Planned Parenthood Attack \u2018A Crime Against Women\u2019",
+    "entity lists": [
+        [
+            "Loretta Lynch",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "shooting in a Colorado Planned Parenthood clinic",
+            [
+                "Event",
+                "Event"
+            ],
+            [
+                "Main",
+                "Main"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Planned Parenthood",
+            [
+                "Organization",
+                "Organization"
+            ],
+            [
+                "Salient",
+                "Main"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Loretta Lynch",
+                "sentiment": "NEG",
+                "object": "shooting in a Colorado Planned Parenthood clinic",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Loretta Lynch",
+                "sentiment": "NEG",
+                "object": "shooting in a Colorado Planned Parenthood clinic",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "shooting in a Colorado Planned Parenthood clinic",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "shooting in a Colorado Planned Parenthood clinic",
+                "sentiment": "NEG",
+                "object": "Planned Parenthood",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Loretta Lynch",
+                "sentiment": "NEG",
+                "object": "shooting in a Colorado Planned Parenthood clinic",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Planned Parenthood",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Planned Parenthood",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "0": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Loretta Lynch",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Loretta Lynch": [
+            [
+                "Positive",
+                "A"
+            ],
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "shooting in a Colorado Planned Parenthood clinic": [
+            [
+                "Very Negative",
+                "A"
+            ],
+            [
+                "Very Negative",
+                "D"
+            ]
+        ],
+        "Planned Parenthood": [
+            [
+                "Slightly Positive",
+                "A"
+            ],
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Loretta Lynch": [
+            [
+                "Very Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "shooting in a Colorado Planned Parenthood clinic": [
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Planned Parenthood": [
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "D"
+        }
+    ]
+}

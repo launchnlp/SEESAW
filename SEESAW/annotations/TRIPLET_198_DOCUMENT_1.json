@@ -1,0 +1,87 @@
+{
+    "title": "Christie won't commit to serving full term in New Jersey",
+    "entity lists": [
+        [
+            "Chris Christie",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "New Jersey",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "5": [
+            {
+                "id": 0,
+                "subject": "Chris Christie",
+                "sentiment": "POS",
+                "object": "New Jersey",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Chris Christie",
+                "sentiment": "POS",
+                "object": "New Jersey",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Chris Christie": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "New Jersey": [
+            [
+                "Unknown",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Chris Christie": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "New Jersey": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

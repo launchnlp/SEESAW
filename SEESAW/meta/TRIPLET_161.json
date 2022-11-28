@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/bipartisan-group-senators-reaches-tentative-agreement-infrastructure-deal-present-biden",
+    "story_title": "Bipartisan Group of Senators Reaches Tentative Agreement on Infrastructure Deal to Present to Biden",
+    "story_time": "2021-06-10",
+    "story_topic": "economic_policy",
+    "Split": "test",
+    "Meta info for article 2": {
+        "source": "National Review",
+        "url": "https://www.nationalreview.com/news/bipartisan-senate-group-reaches-deal-on-infrastructure-to-present-to-biden/",
+        "title": "Bipartisan Senate Group Reaches Deal on Infrastructure to Present to Biden",
+        "bias_label": 3
+    },
+    "Meta info for article 0": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2021/06/10/1005336063/10-senators-say-they-agree-on-infrastructure-framework-but-there-are-few-details",
+        "title": "10 Senators Say They Agree On Infrastructure 'Framework' \u2014 But There Are Few Details",
+        "bias_label": 2
+    },
+    "Meta info for article 1": {
+        "source": "New York Times (News)",
+        "url": "https://www.nytimes.com/2021/06/10/us/politics/infrastructure-biden-senate.html",
+        "title": "Bipartisan Group of Senators Say They Reached Agreement on Infrastructure Plan",
+        "bias_label": 1
+    },
+    "triplet_id": "161"
+}

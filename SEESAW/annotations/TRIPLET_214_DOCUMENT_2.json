@@ -1,0 +1,476 @@
+{
+    "title": "Senate aides: Bipartisan deal reached on gun background checks",
+    "entity lists": [
+        [
+            "Pat Toomey",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Toomey-Manchin plan",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Joe Manchin",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "expansive system",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Michael Bloomberg",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "National Rifle Association",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "gun-control advocate",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Heritage Action",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Tom Coburn",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Pat Toomey",
+                "sentiment": "POS",
+                "object": "Toomey-Manchin plan",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "Toomey-Manchin plan",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "expansive system",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "gun-control advocate",
+                "sentiment": "POS",
+                "object": "expansive system",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Toomey-Manchin plan",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Toomey-Manchin plan",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Michael Bloomberg",
+                "sentiment": "POS",
+                "object": "Toomey-Manchin plan",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "National Rifle Association",
+                "sentiment": "NEG",
+                "object": "Toomey-Manchin plan",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Pat Toomey",
+                "sentiment": "POS",
+                "object": "Toomey-Manchin plan",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "Toomey-Manchin plan",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "gun-control advocate",
+                "sentiment": "POS",
+                "object": "Toomey-Manchin plan",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Toomey-Manchin plan",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Toomey-Manchin plan",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Michael Bloomberg",
+                "sentiment": "POS",
+                "object": "Toomey-Manchin plan",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Pat Toomey",
+                "sentiment": "POS",
+                "object": "Toomey-Manchin plan",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "National Rifle Association",
+                "sentiment": "NEG",
+                "object": "Toomey-Manchin plan",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "42": [
+            {
+                "id": 0,
+                "subject": "Heritage Action",
+                "sentiment": "NEG",
+                "object": "Toomey-Manchin plan",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "43": [
+            {
+                "id": 0,
+                "subject": "Tom Coburn",
+                "sentiment": "NEG",
+                "object": "Toomey-Manchin plan",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "48": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Toomey-Manchin plan",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "49": [
+            {
+                "id": 0,
+                "subject": "National Rifle Association",
+                "sentiment": "NEG",
+                "object": "Toomey-Manchin plan",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "50": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "expansive system",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Pat Toomey": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Toomey-Manchin plan": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "expansive system": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Michael Bloomberg": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "National Rifle Association": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "gun-control advocate": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Heritage Action": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Tom Coburn": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Pat Toomey": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Toomey-Manchin plan": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ],
+        "expansive system": [
+            [
+                "Very Liberal",
+                "C"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Michael Bloomberg": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "National Rifle Association": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "gun-control advocate": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Heritage Action": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Tom Coburn": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        }
+    ]
+}

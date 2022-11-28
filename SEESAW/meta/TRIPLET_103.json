@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/3-d-printable-gun-designs-national-security-threat-or-protected-free-speech",
+    "story_title": "3-D Printable Gun Designs: National Security Threat or Protected Free Speech?",
+    "story_time": "2018-07-31",
+    "story_topic": "gun_control_and_gun_rights",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/news/morning-mix/wp/2018/07/31/in-last-minute-lawsuit-states-say-3-d-printable-guns-pose-national-security-threat/?noredirect=on&utm_term=.8d195799275e",
+        "title": "Trump questions 3-D printable guns \u2014 which his own administration just helped make available to public",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2018/jul/31/senate-democrats-blame-trump-newly-available-3d-gu/",
+        "title": "Senate Dems blast Trump for newly available 3D gun blueprints: 'Blood' on his hands",
+        "bias_label": 4
+    },
+    "Meta info for article 0": {
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/technology-45018513",
+        "title": "Thousands download 3D-printed gun designs",
+        "bias_label": 2
+    },
+    "triplet_id": "103"
+}

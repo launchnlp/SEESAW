@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/president-trump-threatens-government-shutdown-over-border-wall-funding",
+    "story_title": "President Trump Threatens Government Shutdown Over Border Wall Funding",
+    "story_time": "2018-06-19",
+    "story_topic": "immigration",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "The Hill",
+        "url": "http://thehill.com/homenews/administration/393013-trump-threatens-to-shut-down-government-over-full-border-wall-funding",
+        "title": "Trump threatens to shut down government over full border wall funding: report",
+        "bias_label": 2
+    },
+    "Meta info for article 0": {
+        "source": "Politico",
+        "url": "https://www.politico.com/story/2018/06/19/trump-border-wall-funding-immigration-653530",
+        "title": "Trump loses temper over border wall funding",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Townhall",
+        "url": "https://townhall.com/tipsheet/mattvespa/2018/06/19/all-talk-no-action-trump-furious-over-border-wall-funding-and-yeshe-threatened-n2492290",
+        "title": "All Talk, No Action: Trump Furious Over Border Wall Funding And Yes\u2013He Threatened A Shutdown",
+        "bias_label": 3
+    },
+    "triplet_id": "116"
+}

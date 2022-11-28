@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/gorsuch-breaks-conservatives-joins-liberals-majority-opinion",
+    "story_title": "Gorsuch Breaks From Conservatives, Joins Liberals in Majority Opinion",
+    "story_time": "2019-05-20",
+    "story_topic": "supreme_court",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2019/may/20/supreme-court-rules-151-year-old-indian-treaty-gra/",
+        "title": "Supreme Court rules 151-year-old Indian treaty grants hunting rights",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "The Hill",
+        "url": "https://thehill.com/regulation/court-battles/444538-supreme-court-sides-with-wyoming-hunter-as-gorsuch-joins-liberals",
+        "title": "Supreme Court sides with Native American hunter as Gorsuch joins liberals",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/supreme-court-native-american-hunter_n_5ce2e82be4b0e69c18f00135",
+        "title": "Supreme Court Sides With Native American Hunter As Neil Gorsuch Joins Liberal Justices",
+        "bias_label": 0
+    },
+    "triplet_id": "047"
+}

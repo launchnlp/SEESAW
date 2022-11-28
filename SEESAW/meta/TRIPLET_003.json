@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/bernie-closes-clinton",
+    "story_title": "Bernie Closes In On Clinton",
+    "story_time": "2015-08-30",
+    "story_topic": "elections",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/entry/iowa-poll-sanders-catches-up-to-clinton_55e23422e4b0b7a96339423c?utm_hp_ref=politics",
+        "title": "Iowa Poll: Bernie Sanders Is Closing In On Hillary Clinton",
+        "bias_label": 0
+    },
+    "Meta info for article 1": {
+        "source": "Breitbart News",
+        "url": "http://www.breitbart.com/big-government/2015/08/29/hillary-collapses-to-37-percent-in-iowa/",
+        "title": "Hillary Collapses to 37 Percent in Iowa",
+        "bias_label": 3
+    },
+    "Meta info for article 2": {
+        "source": "USA TODAY",
+        "url": "http://www.usatoday.com/story/news/politics/elections/2015/08/29/iowa-poll-clinton-leads-sanders-draws-near/71394178/",
+        "title": "Iowa Poll: Clinton leads, but Sanders draws near",
+        "bias_label": 1
+    },
+    "triplet_id": "003"
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/trump-return-social-media-his-own-platform",
+    "story_title": "Trump to Return to Social Media with His Own Platform",
+    "story_time": "2021-03-22",
+    "story_topic": "free_speech",
+    "Split": "test",
+    "Meta info for article 1": {
+        "source": "The Hill",
+        "url": "https://thehill.com/policy/technology/544234-trump-adviser-says-former-president-will-return-to-social-media-with-his",
+        "title": "Trump adviser says former president will return to social media within months",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/2021/03/21/media/donald-trump-social-media-network/index.html",
+        "title": "Trump is returning to social media in a few months with his own platform, spokesman says",
+        "bias_label": 0
+    },
+    "Meta info for article 0": {
+        "source": "National Review",
+        "url": "https://www.nationalreview.com/news/trump-to-launch-social-media-platform-adviser-says/",
+        "title": "Trump to Launch Social Media Platform, Adviser Says",
+        "bias_label": 3
+    },
+    "triplet_id": "157"
+}

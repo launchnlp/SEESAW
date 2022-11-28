@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/trump-visit-el-paso-and-dayton",
+    "story_title": "Trump To Visit El Paso And Dayton",
+    "story_time": "2019-08-06",
+    "story_topic": "violence_in_america",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Newsmax (News)",
+        "url": "https://www.newsmax.com/politics/el-paso-texas-dayton-ohio/2019/08/05/id/927418/",
+        "title": "Trump to Visit Cities Victimized by Recent Mass Shootings",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2019/08/06/dayton-and-el-paso-shootings-trump-plans-meet-victims-wednesday/1923775001/",
+        "title": "Kellyanne Conway says El Paso, Dayton are 'safe and ready' for Trump visit on Wednesday",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/2019/08/05/politics/donald-trump-el-paso-texas-dayton-ohio-visit/index.html",
+        "title": "Trump to visit El Paso and Dayton following shootings",
+        "bias_label": 0
+    },
+    "triplet_id": "062"
+}

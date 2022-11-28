@@ -1,0 +1,418 @@
+{
+    "title": "Libertarian Candidates Pitch Themselves As Antidote To Partisanship",
+    "entity lists": [
+        [
+            "voter",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican and the Democratic presidential nominees",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Gary Johnson",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Bill Weld",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "state religious freedom laws",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "lgbt community",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Black Lives Matter",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "regime change",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "voter",
+                "sentiment": "NEG",
+                "object": "Republican and the Democratic presidential nominees",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Gary Johnson",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Gary Johnson",
+                "sentiment": "POS",
+                "object": "Bill Weld",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Bill Weld",
+                "sentiment": "POS",
+                "object": "Gary Johnson",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Gary Johnson",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Bill Weld",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Bill Weld",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Bill Weld",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Bill Weld",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Bill Weld",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Gary Johnson",
+                "sentiment": "NEG",
+                "object": "state religious freedom laws",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Gary Johnson",
+                "sentiment": "NEG",
+                "object": "state religious freedom laws",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Gary Johnson",
+                "sentiment": "POS",
+                "object": "lgbt community",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Gary Johnson",
+                "sentiment": "POS",
+                "object": "Black Lives Matter",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "Gary Johnson",
+                "sentiment": "NEG",
+                "object": "regime change",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Gary Johnson": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Bill Weld": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "regime change": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "voter": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Republican and the Democratic presidential nominees": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "state religious freedom laws": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "lgbt community": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Black Lives Matter": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Gary Johnson": [
+            [
+                "Slightly Conservative",
+                "A"
+            ]
+        ],
+        "Bill Weld": [
+            [
+                "Slightly Conservative",
+                "A"
+            ]
+        ],
+        "regime change": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "voter": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Republican and the Democratic presidential nominees": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "state religious freedom laws": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "lgbt community": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Black Lives Matter": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

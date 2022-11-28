@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/morning-after-pill-access",
+    "story_title": "Morning After Pill Access",
+    "story_time": "2013-05-01",
+    "story_topic": "family_and_marriage",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "New York Times (News)",
+        "url": "http://www.nytimes.com/2013/05/01/health/fda-lowers-age-for-morning-after-pill.html?ref=health",
+        "title": "Drug Agency Lowers Age for Next-Day Birth Control",
+        "bias_label": 1
+    },
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2013/may/1/backers-contempt-if-obama-balks-morning-after-pill/",
+        "title": "Backers will seek contempt ruling if Obama balks at morning-after pill ruling",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "http://www.cnn.com/2013/04/30/health/morning-after-pill/index.html?hpt=hp_inthenews",
+        "title": "FDA approves morning-after pill without prescription for girls 15 and older",
+        "bias_label": 0
+    },
+    "triplet_id": "215"
+}

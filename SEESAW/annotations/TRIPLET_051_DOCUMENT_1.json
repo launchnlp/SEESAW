@@ -1,0 +1,1274 @@
+{
+    "title": "DC lawyer's trial to serve as test for Justice Department's foreign lobbying enforcement work",
+    "entity lists": [
+        [
+            "Gregory B. Craig",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Ukraine",
+            [
+                "GPE",
+                "GPE",
+                "GPE",
+                "GPE"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Paul Manafort",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Rick Gates",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Amy Berman Jackson",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Michael Flynn",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Bijan Kian",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Turkey",
+            [
+                "GPE",
+                "GPE",
+                "GPE",
+                "GPE"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Robert Mueller",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Vin Weber",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ],
+        [
+            "Tony Podesta",
+            [
+                "People",
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "B",
+                "C",
+                "A",
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B",
+                    "C",
+                    "E"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Gregory B. Craig",
+                "sentiment": "POS",
+                "object": "Ukraine",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Gregory B. Craig",
+                "sentiment": "POS",
+                "object": "Ukraine",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Paul Manafort",
+                "sentiment": "POS",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Rick Gates",
+                "sentiment": "POS",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Paul Manafort",
+                "sentiment": "POS",
+                "object": "Ukraine",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Rick Gates",
+                "sentiment": "POS",
+                "object": "Ukraine",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Robert Mueller",
+                "sentiment": "NEG",
+                "object": "Paul Manafort",
+                "annotators": [
+                    "C",
+                    "E"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "Robert Mueller",
+                "sentiment": "NEG",
+                "object": "Rick Gates",
+                "annotators": [
+                    "C",
+                    "E"
+                ]
+            },
+            {
+                "id": 6,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Ukraine",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Amy Berman Jackson",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Amy Berman Jackson",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Amy Berman Jackson",
+                "sentiment": "NEG",
+                "object": "Paul Manafort",
+                "annotators": [
+                    "B",
+                    "C",
+                    "E"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Michael Flynn",
+                "sentiment": "POS",
+                "object": "Bijan Kian",
+                "annotators": [
+                    "B",
+                    "A",
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Bijan Kian",
+                "sentiment": "POS",
+                "object": "Turkey",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "E"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Bijan Kian",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Bijan Kian",
+                "sentiment": "POS",
+                "object": "Michael Flynn",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "Robert Mueller",
+                "sentiment": "NEG",
+                "object": "Bijan Kian",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 6,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Bijan Kian",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B",
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Gregory B. Craig",
+                "sentiment": "POS",
+                "object": "Ukraine",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Gregory B. Craig",
+                "sentiment": "POS",
+                "object": "Paul Manafort",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Paul Manafort",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Robert Mueller",
+                "annotators": [
+                    "B",
+                    "C",
+                    "A",
+                    "E"
+                ]
+            }
+        ],
+        "40": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Michael Flynn",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Paul Manafort",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Rick Gates",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Michael Flynn",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Paul Manafort",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Rick Gates",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 6,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Robert Mueller",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "41": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Vin Weber",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Tony Podesta",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Tony Podesta",
+                "sentiment": "NEG",
+                "object": "Robert Mueller",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Vin Weber",
+                "sentiment": "NEG",
+                "object": "Ukraine",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Vin Weber",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Tony Podesta",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "42": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Tony Podesta",
+                "annotators": [
+                    "B",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Tony Podesta",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Gregory B. Craig",
+                "sentiment": "NEG",
+                "object": "Robert Mueller",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Robert Mueller",
+                "sentiment": "NEG",
+                "object": "Ukraine",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Bijan Kian",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "C",
+                    "E"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Rick Gates",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Paul Manafort",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Robert Mueller",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Robert Mueller",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "Rick Gates",
+                "sentiment": "NEG",
+                "object": "Gregory B. Craig",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Gregory B. Craig": [
+            [
+                "Negative",
+                "B"
+            ],
+            [
+                "Slightly Negative",
+                "C"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Slightly Positive",
+                "E"
+            ]
+        ],
+        "Ukraine": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Negative",
+                "C"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "Robert Mueller": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Positive",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "Paul Manafort": [
+            [
+                "Negative",
+                "B"
+            ],
+            [
+                "Negative",
+                "C"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "E"
+            ]
+        ],
+        "Rick Gates": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Slightly Negative",
+                "C"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Amy Berman Jackson": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Bijan Kian": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Slightly Negative",
+                "C"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Michael Flynn": [
+            [
+                "Slightly Negative",
+                "B"
+            ],
+            [
+                "Negative",
+                "C"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Turkey": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Vin Weber": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Slightly Negative",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "Tony Podesta": [
+            [
+                "Neutral",
+                "B"
+            ],
+            [
+                "Slightly Negative",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Gregory B. Craig": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Ukraine": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "C"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "Robert Mueller": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Moderate",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Paul Manafort": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Rick Gates": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Amy Berman Jackson": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "C"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Bijan Kian": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Michael Flynn": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Turkey": [
+            [
+                "Not Applicable",
+                "B"
+            ],
+            [
+                "Not Applicable",
+                "C"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "Vin Weber": [
+            [
+                "Conservative",
+                "B"
+            ],
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "E"
+            ]
+        ],
+        "Tony Podesta": [
+            [
+                "Liberal",
+                "B"
+            ],
+            [
+                "Slightly Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "B"
+        },
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "C"
+        },
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "E"
+        }
+    ]
+}

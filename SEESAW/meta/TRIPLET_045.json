@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/appeals-court-weighs-constitutionality-obamacare",
+    "story_title": "Appeals Court Weighs Constitutionality of Obamacare",
+    "story_time": "2019-07-09",
+    "story_topic": "healthcare",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Reuters",
+        "url": "https://www.reuters.com/article/us-usa-court-obamacare/u-s-appeals-court-to-take-up-constitutionality-of-obamacare-idUSKCN1U40ZU",
+        "title": "U.S. appeals court to take up constitutionality of Obamacare",
+        "bias_label": 2
+    },
+    "Meta info for article 1": {
+        "source": "Politico",
+        "url": "https://www.politico.com/story/2019/07/08/obamacare-lawsuit-2020-campaign-1572907",
+        "title": "Long-shot legal challenge could end Obamacare during the 2020 campaign",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/policy/healthcare/daily-on-healthcare-appeals-court-hears-obamacare-case-that-could-focus-2020-debate",
+        "title": "Appeals court hears Obamacare case that could focus 2020 debate",
+        "bias_label": 4
+    },
+    "triplet_id": "045"
+}

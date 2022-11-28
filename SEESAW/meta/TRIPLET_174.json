@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/obama-endorses-net-neutrality",
+    "story_title": "Obama Endorses Net Neutrality",
+    "story_time": "2014-11-10",
+    "story_topic": "cybersecurity",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "USA TODAY",
+        "url": "http://www.usatoday.com/story/news/nation/2014/11/10/obama-internet-net-neutrality/18793429/",
+        "title": "Obama endorses net neutrality",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Vox",
+        "url": "http://www.vox.com/2014/11/10/7185979/obama-reclassificationhttp://www.vox.com/2014/11/10/7185979/obama-reclassification",
+        "title": "Obama says FCC should reclassify the internet's regulatory status",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2014/nov/10/ted-cruz-net-neutrality-is-obamacare-for-the-inter/",
+        "title": "Ted Cruz: Net neutrality is \u2018Obamacare for the Internet\u2019",
+        "bias_label": 4
+    },
+    "triplet_id": "174"
+}

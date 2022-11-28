@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/texas-governor-signs-heartbeat-bill-banning-abortion",
+    "story_title": "Texas Governor Signs 'Heartbeat Bill' Banning Abortion",
+    "story_time": "2021-05-19",
+    "story_topic": "abortion",
+    "Split": "test",
+    "Meta info for article 1": {
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2021/may/19/texas-abortion-ban-law-greg-abbott",
+        "title": "Texas governor signs extreme six-week abortion ban into law",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2021/05/19/998237349/the-governor-of-texas-has-signed-a-law-that-bans-abortion-as-early-as-6-weeks",
+        "title": "The Governor Of Texas Has Signed A Law That Bans Abortion As Early As 6 Weeks",
+        "bias_label": 2
+    },
+    "Meta info for article 0": {
+        "source": "National Review",
+        "url": "https://www.nationalreview.com/news/texas-governor-signs-first-of-its-kind-fetal-heartbeat-law-that-leaves-enforcement-to-private-citizens/",
+        "title": "Texas Governor Signs First of Its Kind Fetal Heartbeat Law That Leaves Enforcement to Private Citizens",
+        "bias_label": 3
+    },
+    "triplet_id": "160"
+}

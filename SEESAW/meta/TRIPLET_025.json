@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/federal-judge-halts-immigration-action",
+    "story_title": "Federal Judge Halts Immigration Action",
+    "story_time": "2015-02-17",
+    "story_topic": "immigration",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2015/02/17/lawsuit-obama-immigration_n_6680366.html",
+        "title": "Judge Temporarily Halts Obama's Immigration Actions",
+        "bias_label": 0
+    },
+    "Meta info for article 1": {
+        "source": "NPR (Online News)",
+        "url": "http://www.npr.org/blogs/thetwo-way/2015/02/17/386905806/federal-judge-blocks-obama-s-executive-actions-on-immigration",
+        "title": "Federal Judge Blocks Obama's Executive Actions On Immigration",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "Townhall",
+        "url": "http://townhall.com/tipsheet/conncarroll/2015/02/17/everything-you-need-to-know-about-the-injunction-stopping-obamas-amnesty-n1958369",
+        "title": "What You Need To Know About The Injunction Stopping Obama's Amnesty",
+        "bias_label": 3
+    },
+    "triplet_id": "025"
+}

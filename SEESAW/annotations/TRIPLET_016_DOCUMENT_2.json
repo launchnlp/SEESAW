@@ -1,0 +1,923 @@
+{
+    "title": "Prepping for 2016, a Gathering of Republicans in Iowa Leans Hard to the Right",
+    "entity lists": [
+        [
+            "Jeb Bush",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Mitt Romney",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Common Core",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "immigration reform",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Ted Cruz",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Environmental Protection Agency",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Chris Christie",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Scott Walker",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "teachers\u2019 unions",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "working class",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Rick Santorum",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Steve King",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "undocumented immigrants",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jeff Flake",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Iowa",
+            [
+                "GPE"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Rick Perry",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Debbie Wasserman Schultz",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Hillary Clinton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Carly Fiorina",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Newt Gingrich",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Sarah Palin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "3": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Mitt Romney",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Common Core",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "immigration reform",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Jeb Bush",
+                "sentiment": "POS",
+                "object": "immigration reform",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "Jeb Bush",
+                "sentiment": "POS",
+                "object": "Common Core",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Ted Cruz",
+                "sentiment": "NEG",
+                "object": "United States Environmental Protection Agency",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Ted Cruz",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Ted Cruz",
+                "sentiment": "NEG",
+                "object": "Common Core",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Chris Christie",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Scott Walker",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Scott Walker",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Scott Walker",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Scott Walker",
+                "sentiment": "NEG",
+                "object": "teachers\u2019 unions",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Chris Christie",
+                "sentiment": "POS",
+                "object": "working class",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Rick Santorum",
+                "sentiment": "POS",
+                "object": "working class",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Steve King",
+                "sentiment": "NEG",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Steve King",
+                "sentiment": "NEG",
+                "object": "immigration reform",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Jeb Bush",
+                "sentiment": "POS",
+                "object": "immigration reform",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Jeb Bush",
+                "sentiment": "POS",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Jeff Flake",
+                "sentiment": "NEG",
+                "object": "Iowa",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "Jeff Flake",
+                "sentiment": "NEG",
+                "object": "Iowa",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "40": [
+            {
+                "id": 0,
+                "subject": "Rick Perry",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "41": [
+            {
+                "id": 0,
+                "subject": "Rick Perry",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "44": [
+            {
+                "id": 0,
+                "subject": "Rick Perry",
+                "sentiment": "NEG",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "45": [
+            {
+                "id": 0,
+                "subject": "Debbie Wasserman Schultz",
+                "sentiment": "NEG",
+                "object": "Rick Perry",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "47": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "49": [
+            {
+                "id": 0,
+                "subject": "Carly Fiorina",
+                "sentiment": "NEG",
+                "object": "Hillary Clinton",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "50": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "51": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Mitt Romney",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "52": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Jeb Bush",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "55": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Newt Gingrich",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Steve King",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Sarah Palin",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Iowa": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Jeb Bush": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Mitt Romney": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Ted Cruz": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "United States Environmental Protection Agency": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Chris Christie": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Scott Walker": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Rick Santorum": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "working class": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Steve King": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Jeff Flake": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Rick Perry": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "undocumented immigrants": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Debbie Wasserman Schultz": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Carly Fiorina": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Newt Gingrich": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Common Core": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "immigration reform": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "teachers\u2019 unions": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Sarah Palin": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Iowa": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Jeb Bush": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Mitt Romney": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Ted Cruz": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "United States Environmental Protection Agency": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Chris Christie": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Scott Walker": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Rick Santorum": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "working class": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Steve King": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Jeff Flake": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Rick Perry": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "undocumented immigrants": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Debbie Wasserman Schultz": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Hillary Clinton": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Carly Fiorina": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Newt Gingrich": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Common Core": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "immigration reform": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "teachers\u2019 unions": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Sarah Palin": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

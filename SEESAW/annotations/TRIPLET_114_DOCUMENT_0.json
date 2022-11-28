@@ -1,0 +1,269 @@
+{
+    "title": "Dick\u2019s Sporting Goods Will Quit Selling Assault-Style Rifles",
+    "entity lists": [
+        [
+            "Dick\u2019s Sporting Goods",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "rifle",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "National Rifle Association",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Edward W. Stack",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "legislation to prevent gun massacres",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Second Amendment to the United States Constitution",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Dick\u2019s Sporting Goods",
+                "sentiment": "NEG",
+                "object": "rifle",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "National Rifle Association",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Dick\u2019s Sporting Goods",
+                "sentiment": "NEG",
+                "object": "rifle",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Edward W. Stack",
+                "sentiment": "NEG",
+                "object": "rifle",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Dick\u2019s Sporting Goods",
+                "sentiment": "NEG",
+                "object": "rifle",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Edward W. Stack",
+                "sentiment": "POS",
+                "object": "legislation to prevent gun massacres",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Edward W. Stack",
+                "sentiment": "POS",
+                "object": "legislation to prevent gun massacres",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Edward W. Stack",
+                "sentiment": "POS",
+                "object": "legislation to prevent gun massacres",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Edward W. Stack",
+                "sentiment": "POS",
+                "object": "Second Amendment to the United States Constitution",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Dick\u2019s Sporting Goods",
+                "sentiment": "POS",
+                "object": "Second Amendment to the United States Constitution",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Dick\u2019s Sporting Goods": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "rifle": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "National Rifle Association": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "legislation to prevent gun massacres": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "Edward W. Stack": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Second Amendment to the United States Constitution": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Dick\u2019s Sporting Goods": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "rifle": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "National Rifle Association": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "legislation to prevent gun massacres": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Edward W. Stack": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Second Amendment to the United States Constitution": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "C"
+        }
+    ]
+}

@@ -1,0 +1,529 @@
+{
+    "title": "House Dems reveal new info on a shady White House plan to sell nuclear tech to Saudi Arabia",
+    "entity lists": [
+        [
+            "Donald Trump",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Salient"
+            ],
+            [
+                "A",
+                "A"
+            ]
+        ],
+        [
+            "Saudi Arabia",
+            [
+                "Event",
+                "GPE"
+            ],
+            [
+                "Main",
+                "Main"
+            ],
+            [
+                "A",
+                "A"
+            ]
+        ],
+        [
+            "Michael Flynn",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "IP3 International",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Tom Barrack",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Derek Harvey",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "House Democrats",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "without arranging for Saudi Arabia to sign the 123 agreement",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Saudi Arabia",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Saudi Arabia",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Michael Flynn",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Michael Flynn",
+                "sentiment": "POS",
+                "object": "Saudi Arabia",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Michael Flynn",
+                "sentiment": "POS",
+                "object": "IP3 International",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "IP3 International",
+                "sentiment": "POS",
+                "object": "Saudi Arabia",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Tom Barrack",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Michael Flynn",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Michael Flynn",
+                "sentiment": "POS",
+                "object": "Saudi Arabia",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "Saudi Arabia",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Derek Harvey",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Derek Harvey",
+                "sentiment": "POS",
+                "object": "IP3 International",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Derek Harvey",
+                "sentiment": "POS",
+                "object": "IP3 International",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Derek Harvey",
+                "sentiment": "POS",
+                "object": "Saudi Arabia",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "House Democrats",
+                "sentiment": "NEG",
+                "object": "Saudi Arabia",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Derek Harvey",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Michael Flynn",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Derek Harvey",
+                "sentiment": "POS",
+                "object": "Saudi Arabia",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Derek Harvey",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Derek Harvey",
+                "sentiment": "POS",
+                "object": "without arranging for Saudi Arabia to sign the 123 agreement",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "without arranging for Saudi Arabia to sign the 123 agreement",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "House Democrats",
+                "sentiment": "NEG",
+                "object": "Michael Flynn",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Derek Harvey",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Saudi Arabia",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Michael Flynn",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Tom Barrack",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Tom Barrack",
+                "sentiment": "POS",
+                "object": "Saudi Arabia",
+                "annotators": [
+                    "A",
+                    "A"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "House Democrats",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Saudi Arabia": [
+            [
+                "Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "House Democrats": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Negative",
+                "A"
+            ],
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Michael Flynn": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "IP3 International": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Tom Barrack": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Derek Harvey": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "without arranging for Saudi Arabia to sign the 123 agreement": [
+            [
+                "Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Saudi Arabia": [
+            [
+                "Not Applicable",
+                "A"
+            ],
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "House Democrats": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Michael Flynn": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "IP3 International": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Tom Barrack": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Derek Harvey": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "without arranging for Saudi Arabia to sign the 123 agreement": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Very Liberal",
+            "annotator": "A"
+        }
+    ]
+}

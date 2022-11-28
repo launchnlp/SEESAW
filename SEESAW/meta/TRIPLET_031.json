@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/tillerson-goes-moscow",
+    "story_title": "Tillerson Goes to Moscow",
+    "story_time": "2017-04-10",
+    "story_topic": "state_department",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "New York Times (News)",
+        "url": "https://www.nytimes.com/2017/04/09/us/politics/tillerson-russia-syria-chemical-weapons.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news",
+        "title": "Tillerson, on Eve of Russia Trip, Takes Hard Line on Syria",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/opinion/2017/04/10/russia-trip-tillerson-can-survive-column/100264538/",
+        "title": "OPINION: Tillerson can survive this Russia trip. Really.",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "Fox News (Online News)",
+        "url": "http://www.foxnews.com/politics/2017/04/10/tillerson-g7-ministers-look-to-pressure-russia-to-reconsider-assad-support.html",
+        "title": "Tillerson, G7 ministers look to pressure Russia to reconsider Assad support",
+        "bias_label": 3
+    },
+    "triplet_id": "031"
+}

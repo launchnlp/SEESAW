@@ -1,0 +1,177 @@
+{
+    "title": "Obama to continue modified NSA meta-data gathering program",
+    "entity lists": [
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "modified NSA meta-data gathering program",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "elizabeth goitein",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Michael Hayden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "modified NSA meta-data gathering program",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "modified NSA meta-data gathering program",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "elizabeth goitein",
+                "sentiment": "NEG",
+                "object": "modified NSA meta-data gathering program",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "elizabeth goitein",
+                "sentiment": "NEG",
+                "object": "modified NSA meta-data gathering program",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "elizabeth goitein",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Michael Hayden",
+                "sentiment": "NEG",
+                "object": "modified NSA meta-data gathering program",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "modified NSA meta-data gathering program": [
+            [
+                "Negative",
+                "B"
+            ]
+        ],
+        "Michael Hayden": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "elizabeth goitein": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "modified NSA meta-data gathering program": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "Michael Hayden": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "elizabeth goitein": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "B"
+        }
+    ]
+}

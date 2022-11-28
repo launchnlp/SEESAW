@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/corruption-charges-menendez",
+    "story_title": "Corruption Charges for Menendez",
+    "story_time": "2015-03-07",
+    "story_topic": "politics",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2015/mar/7/robert-menendez-responds-federal-corruption-charge/",
+        "title": "Menendez responds to federal corruption charges, says he\u2019s \u2018not going anywhere\u2019",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "Washington Post",
+        "url": "http://www.washingtonpost.com/blogs/the-fix/wp/2015/03/06/bob-menendez-and-where-the-law-draws-the-line-between-campaign-contribution-and-bribery/",
+        "title": "Bob Menendez and the fine line between campaign contribution and bribery",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "Politico",
+        "url": "http://www.politico.com/story/2015/03/bob-menendez-federal-corruption-charges-115834.html?hp=t3_r",
+        "title": "Feds to charge Robert Menendez with corruption",
+        "bias_label": 1
+    },
+    "triplet_id": "027"
+}

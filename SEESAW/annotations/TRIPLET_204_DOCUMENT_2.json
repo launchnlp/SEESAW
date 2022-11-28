@@ -1,0 +1,493 @@
+{
+    "title": "Republicans may call back IRS official who refused to testify",
+    "entity lists": [
+        [
+            "Lois Lerner",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Darrell Issa",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Internal Revenue Service",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "conservative groups",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Trey Gowdy",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Elijah Cummings",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Douglas Shulman",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "oversight committee",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Joe Crowley",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "0": [
+            {
+                "id": 0,
+                "subject": "Darrell Issa",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Internal Revenue Service",
+                "sentiment": "NEG",
+                "object": "conservative groups",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Lois Lerner",
+                "sentiment": "NEG",
+                "object": "conservative groups",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Darrell Issa",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "POS",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Douglas Shulman",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "oversight committee",
+                "sentiment": "NEG",
+                "object": "Douglas Shulman",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "oversight committee",
+                "sentiment": "NEG",
+                "object": "Douglas Shulman",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "oversight committee",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Internal Revenue Service",
+                "sentiment": "NEG",
+                "object": "conservative groups",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Joe Crowley",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "Joe Crowley",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Lois Lerner": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Internal Revenue Service": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "conservative groups": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Trey Gowdy": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Darrell Issa": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Douglas Shulman": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Joe Crowley": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "oversight committee": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Lois Lerner": [
+            [
+                "Slightly Liberal",
+                "D"
+            ]
+        ],
+        "Internal Revenue Service": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "conservative groups": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Trey Gowdy": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Darrell Issa": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Douglas Shulman": [
+            [
+                "Slightly Liberal",
+                "D"
+            ]
+        ],
+        "Joe Crowley": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "oversight committee": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "D"
+        }
+    ]
+}

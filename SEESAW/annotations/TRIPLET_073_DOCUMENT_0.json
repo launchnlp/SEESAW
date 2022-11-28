@@ -1,0 +1,416 @@
+{
+    "title": "The Trump administration is finalizing plans to strip funding from Planned Parenthood",
+    "entity lists": [
+        [
+            "Trump administration",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "strip funding from Planned Parenthood",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "United States Court of Appeals for the Ninth Circuit",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Anti-abortion groups",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Planned Parenthood",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "ruth harlow",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "catherine glenn foster",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Leana Wen",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Trump administration",
+                "sentiment": "POS",
+                "object": "strip funding from Planned Parenthood",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "strip funding from Planned Parenthood",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "United States Court of Appeals for the Ninth Circuit",
+                "sentiment": "NEG",
+                "object": "strip funding from Planned Parenthood",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "strip funding from Planned Parenthood",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Anti-abortion groups",
+                "sentiment": "POS",
+                "object": "strip funding from Planned Parenthood",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Planned Parenthood",
+                "sentiment": "NEG",
+                "object": "strip funding from Planned Parenthood",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "strip funding from Planned Parenthood",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "ruth harlow",
+                "sentiment": "NEG",
+                "object": "strip funding from Planned Parenthood",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "ruth harlow",
+                "sentiment": "NEG",
+                "object": "Trump administration",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Anti-abortion groups",
+                "sentiment": "POS",
+                "object": "strip funding from Planned Parenthood",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Trump administration",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "strip funding from Planned Parenthood",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "catherine glenn foster",
+                "sentiment": "POS",
+                "object": "strip funding from Planned Parenthood",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Planned Parenthood",
+                "sentiment": "NEG",
+                "object": "strip funding from Planned Parenthood",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "Leana Wen",
+                "sentiment": "NEG",
+                "object": "strip funding from Planned Parenthood",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Leana Wen",
+                "sentiment": "NEG",
+                "object": "strip funding from Planned Parenthood",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "39": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "POS",
+                "object": "strip funding from Planned Parenthood",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Trump administration": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "strip funding from Planned Parenthood": [
+            [
+                "Negative",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Negative",
+                "B"
+            ]
+        ],
+        "United States Court of Appeals for the Ninth Circuit": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Anti-abortion groups": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "ruth harlow": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Planned Parenthood": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "catherine glenn foster": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Leana Wen": [
+            [
+                "Unknown",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Trump administration": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "strip funding from Planned Parenthood": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "United States Court of Appeals for the Ninth Circuit": [
+            [
+                "Moderate",
+                "B"
+            ]
+        ],
+        "Anti-abortion groups": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "ruth harlow": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "Planned Parenthood": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "catherine glenn foster": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "Leana Wen": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "B"
+        }
+    ]
+}

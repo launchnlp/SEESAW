@@ -1,0 +1,357 @@
+{
+    "title": "New Hampshire lawmakers override governor veto to abolish death penalty",
+    "entity lists": [
+        [
+            "lawmaker",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "death penalty",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Chris Sununu",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "michael addison",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "michael briggs",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Maine",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Vermont",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Massachusetts",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Rhode Island",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Connecticut",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "lawmaker",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Chris Sununu",
+                "sentiment": "POS",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Chris Sununu",
+                "sentiment": "POS",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "michael addison",
+                "sentiment": "NEG",
+                "object": "michael briggs",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "michael addison",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Maine",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Vermont",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Massachusetts",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Rhode Island",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Connecticut",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "lawmaker": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "death penalty": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "Maine": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Vermont": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Massachusetts": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Rhode Island": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Connecticut": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Chris Sununu": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "michael addison": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "michael briggs": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "lawmaker": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "death penalty": [
+            [
+                "Slightly Conservative",
+                "A"
+            ]
+        ],
+        "Maine": [
+            [
+                "Moderate",
+                "A"
+            ]
+        ],
+        "Vermont": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Massachusetts": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Rhode Island": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Connecticut": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Chris Sununu": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "michael addison": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "michael briggs": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

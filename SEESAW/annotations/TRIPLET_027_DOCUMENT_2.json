@@ -1,0 +1,672 @@
+{
+    "title": "Feds to charge Robert Menendez with corruption",
+    "entity lists": [
+        [
+            "Bob Menendez",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "salomon melgen",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Department of Justice",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Ted Stevens",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "John Ensign",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Harry Reid",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "corruption charge",
+            [
+                "Others"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "White House",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "tricia enright",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "The Daily Caller",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Ecuador",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Roberto Isaias",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "william isaias",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Bob Menendez",
+                "sentiment": "POS",
+                "object": "salomon melgen",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Bob Menendez",
+                "sentiment": "NEG",
+                "object": "United States Department of Justice",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Ted Stevens",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "John Ensign",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "salomon melgen",
+                "sentiment": "POS",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Bob Menendez",
+                "sentiment": "POS",
+                "object": "salomon melgen",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Bob Menendez",
+                "sentiment": "NEG",
+                "object": "corruption charge",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Bob Menendez",
+                "sentiment": "NEG",
+                "object": "White House",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Bob Menendez",
+                "sentiment": "POS",
+                "object": "salomon melgen",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Bob Menendez",
+                "sentiment": "POS",
+                "object": "salomon melgen",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "salomon melgen",
+                "sentiment": "POS",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "salomon melgen",
+                "sentiment": "POS",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Bob Menendez",
+                "sentiment": "POS",
+                "object": "salomon melgen",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Bob Menendez",
+                "sentiment": "POS",
+                "object": "salomon melgen",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "salomon melgen",
+                "sentiment": "POS",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "tricia enright",
+                "sentiment": "POS",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "tricia enright",
+                "sentiment": "POS",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "tricia enright",
+                "sentiment": "NEG",
+                "object": "corruption charge",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "tricia enright",
+                "sentiment": "NEG",
+                "object": "corruption charge",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "40": [
+            {
+                "id": 0,
+                "subject": "Bob Menendez",
+                "sentiment": "NEG",
+                "object": "The Daily Caller",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "47": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "53": [
+            {
+                "id": 0,
+                "subject": "Ecuador",
+                "sentiment": "NEG",
+                "object": "Roberto Isaias",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ecuador",
+                "sentiment": "NEG",
+                "object": "william isaias",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "55": [
+            {
+                "id": 0,
+                "subject": "Bob Menendez",
+                "sentiment": "POS",
+                "object": "Roberto Isaias",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Bob Menendez",
+                "sentiment": "POS",
+                "object": "william isaias",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "56": [
+            {
+                "id": 0,
+                "subject": "Bob Menendez",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "57": [
+            {
+                "id": 0,
+                "subject": "Roberto Isaias",
+                "sentiment": "POS",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "william isaias",
+                "sentiment": "POS",
+                "object": "Bob Menendez",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "corruption charge": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Bob Menendez": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "salomon melgen": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Ted Stevens": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "John Ensign": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "White House": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "tricia enright": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "The Daily Caller": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Roberto Isaias": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "william isaias": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Ecuador": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "corruption charge": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Bob Menendez": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "salomon melgen": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Ted Stevens": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "John Ensign": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "White House": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "tricia enright": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "The Daily Caller": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Roberto Isaias": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "william isaias": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Ecuador": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "A"
+        }
+    ]
+}

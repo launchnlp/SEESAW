@@ -1,0 +1,214 @@
+{
+    "title": "Federal judge blocks Trump's new asylum rules: 'He may not rewrite the immigration laws'",
+    "entity lists": [
+        [
+            "Jon S. Tigar",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "new policy of cutting off asylum to immigrants",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "American Civil Liberties Union",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "immigrant",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Jon S. Tigar",
+                "sentiment": "NEG",
+                "object": "new policy of cutting off asylum to immigrants",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "American Civil Liberties Union",
+                "sentiment": "NEG",
+                "object": "new policy of cutting off asylum to immigrants",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "immigrant",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "immigrant",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "immigrant",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "American Civil Liberties Union",
+                "sentiment": "NEG",
+                "object": "new policy of cutting off asylum to immigrants",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "American Civil Liberties Union",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "immigrant": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "American Civil Liberties Union": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "Jon S. Tigar": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "new policy of cutting off asylum to immigrants": [
+            [
+                "Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "immigrant": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "American Civil Liberties Union": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Jon S. Tigar": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "new policy of cutting off asylum to immigrants": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

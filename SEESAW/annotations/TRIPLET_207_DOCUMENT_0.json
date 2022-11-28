@@ -1,0 +1,436 @@
+{
+    "title": "How the world is responding",
+    "entity lists": [
+        [
+            "Hamid Karzai",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Boston bombings",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Ramin Mehmanparast",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "dina kraft",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United Kingdom",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United States",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Boston",
+            [
+                "GPE"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Taliban",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Al-Shabaab",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Juan Cole",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "2": [
+            {
+                "id": 0,
+                "subject": "Hamid Karzai",
+                "sentiment": "NEG",
+                "object": "Boston bombings",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Hamid Karzai",
+                "sentiment": "NEG",
+                "object": "Boston bombings",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Ramin Mehmanparast",
+                "sentiment": "NEG",
+                "object": "Boston bombings",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Ramin Mehmanparast",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "dina kraft",
+                "sentiment": "NEG",
+                "object": "Boston bombings",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "dina kraft",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "United Kingdom",
+                "sentiment": "POS",
+                "object": "United States",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Boston",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Boston bombings",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Taliban",
+                "sentiment": "NEG",
+                "object": "United States",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Taliban",
+                "sentiment": "POS",
+                "object": "Boston bombings",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Taliban",
+                "sentiment": "NEG",
+                "object": "United States",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Al-Shabaab",
+                "sentiment": "NEG",
+                "object": "United States",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Al-Shabaab",
+                "sentiment": "POS",
+                "object": "Boston bombings",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Al-Shabaab",
+                "sentiment": "POS",
+                "object": "Boston bombings",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Juan Cole",
+                "sentiment": "NEG",
+                "object": "Boston bombings",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Juan Cole",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Boston bombings": [
+            [
+                "Very Negative",
+                "D"
+            ]
+        ],
+        "Hamid Karzai": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Ramin Mehmanparast": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "United Kingdom": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Boston": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Taliban": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "United States": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Al-Shabaab": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Juan Cole": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "dina kraft": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Boston bombings": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Hamid Karzai": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Ramin Mehmanparast": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "United Kingdom": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Boston": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Taliban": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "United States": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Al-Shabaab": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Juan Cole": [
+            [
+                "Slightly Liberal",
+                "D"
+            ]
+        ],
+        "dina kraft": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "D"
+        }
+    ]
+}

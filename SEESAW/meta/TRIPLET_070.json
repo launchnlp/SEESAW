@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/trump-vetoes-bill-end-us-military-assistance-yemen",
+    "story_title": "Trump Vetoes Bill To End US Military Assistance In Yemen",
+    "story_time": "2019-04-17",
+    "story_topic": "white_house",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Reuters",
+        "url": "https://www.reuters.com/article/us-usa-saudi-yemen/trump-vetoes-congressional-resolution-to-end-u-s-involvement-in-yemen-war-idUSKCN1RS2GH",
+        "title": "Trump vetoes congressional resolution to end U.S. involvement in Yemen war",
+        "bias_label": 2
+    },
+    "Meta info for article 1": {
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/trump-veto-yemen-saudi-bill_n_5cb667ace4b082aab08de6a4",
+        "title": "Trump Vetoes Bill To End U.S. Support For Saudis In Yemen War",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "Newsmax (News)",
+        "url": "https://www.newsmax.com/politics/us-trump-yemen-veto/2019/04/16/id/912001/",
+        "title": "Trump Vetoes Measure to End US Involvement in Yemen War",
+        "bias_label": 4
+    },
+    "triplet_id": "070"
+}

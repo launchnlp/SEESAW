@@ -1,0 +1,823 @@
+{
+    "title": "Republicans gush over Klobuchar",
+    "entity lists": [
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Amy Klobuchar",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "John Cornyn",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Roy Blunt",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "liberals",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Thom Tillis",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Shelley Moore Capito",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Ron Johnson",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Susan Collins",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Pat Roberts",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "John Thune",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "George Will",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "John Cornyn",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "John Cornyn",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Roy Blunt",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Roy Blunt",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "liberals",
+                "sentiment": "NEG",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Thom Tillis",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Thom Tillis",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Thom Tillis",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Thom Tillis",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Amy Klobuchar",
+                "sentiment": "POS",
+                "object": "Roy Blunt",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Amy Klobuchar",
+                "sentiment": "POS",
+                "object": "Shelley Moore Capito",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Roy Blunt",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Shelley Moore Capito",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Amy Klobuchar",
+                "sentiment": "POS",
+                "object": "Ron Johnson",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ron Johnson",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Susan Collins",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Susan Collins",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "Susan Collins",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "Pat Roberts",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "40": [
+            {
+                "id": 0,
+                "subject": "John Thune",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "41": [
+            {
+                "id": 0,
+                "subject": "John Thune",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "42": [
+            {
+                "id": 0,
+                "subject": "John Thune",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "43": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "44": [
+            {
+                "id": 0,
+                "subject": "George Will",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "45": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "47": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "48": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "50": [
+            {
+                "id": 0,
+                "subject": "George Will",
+                "sentiment": "NEG",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "58": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "59": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Amy Klobuchar",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Amy Klobuchar": [
+            [
+                "Positive",
+                "B"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "John Cornyn": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Roy Blunt": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "liberals": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Thom Tillis": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Shelley Moore Capito": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Ron Johnson": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Susan Collins": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Pat Roberts": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "John Thune": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "George Will": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Amy Klobuchar": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "John Cornyn": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Roy Blunt": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "liberals": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "Thom Tillis": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Shelley Moore Capito": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Ron Johnson": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Susan Collins": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Pat Roberts": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "John Thune": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ],
+        "George Will": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "B"
+        }
+    ]
+}

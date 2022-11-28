@@ -1,0 +1,395 @@
+{
+    "title": "Just a show? NRA says Biden group set on gun control despite latest meetings",
+    "entity lists": [
+        [
+            "Joe Biden",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "gun-control measure",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "National Rifle Association",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "broad gun violence agenda",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "David Keene",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Democratic lawmakers",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "White House",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Republican lawmakers",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "gun-control measure",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "National Rifle Association",
+                "sentiment": "NEG",
+                "object": "gun-control measure",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "National Rifle Association",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "National Rifle Association",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "National Rifle Association",
+                "sentiment": "NEG",
+                "object": "gun-control measure",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "broad gun violence agenda",
+                "sentiment": "NEG",
+                "object": "gun-control measure",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "David Keene",
+                "sentiment": "POS",
+                "object": "National Rifle Association",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "David Keene",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "National Rifle Association",
+                "sentiment": "NEG",
+                "object": "gun-control measure",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "gun-control measure",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Joe Biden",
+                "sentiment": "POS",
+                "object": "gun-control measure",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Democratic lawmakers",
+                "sentiment": "POS",
+                "object": "gun-control measure",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "White House",
+                "sentiment": "NEG",
+                "object": "National Rifle Association",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "White House",
+                "sentiment": "POS",
+                "object": "gun-control measure",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "White House",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "National Rifle Association",
+                "sentiment": "NEG",
+                "object": "gun-control measure",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Republican lawmakers",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Joe Biden",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "broad gun violence agenda": [
+            [
+                "Unknown",
+                "C"
+            ]
+        ],
+        "National Rifle Association": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "gun-control measure": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Democratic lawmakers": [
+            [
+                "Unknown",
+                "C"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "David Keene": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "White House": [
+            [
+                "Negative",
+                "C"
+            ]
+        ],
+        "Republican lawmakers": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "broad gun violence agenda": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "National Rifle Association": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "gun-control measure": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Democratic lawmakers": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Joe Biden": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "David Keene": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "White House": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Republican lawmakers": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "C"
+        }
+    ]
+}

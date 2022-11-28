@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/impeachment-witness-alexander-vindman-escorted-white-house",
+    "story_title": "Impeachment Witness Alexander Vindman 'Escorted' From White House",
+    "story_time": "2020-02-07",
+    "story_topic": "impeachment",
+    "Split": "test",
+    "Meta info for article 0": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2020/02/07/803904417/lt-col-alexander-vindman-escorted-out-of-the-white-house-his-lawyer-says",
+        "title": "Key Impeachment Witness Vindman 'Escorted' From White House, His Lawyer Says",
+        "bias_label": 2
+    },
+    "Meta info for article 1": {
+        "source": "Vox",
+        "url": "https://www.vox.com/2020/2/7/21127988/vindman-impeachment-trump-white-house",
+        "title": "Alexander Vindman, Impeachment trial, Adam Schiff, National Security, NSC, White House",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "Townhall",
+        "url": "https://townhall.com/tipsheet/katiepavlich/2020/02/07/breaking-vindman-has-been-fired-and-escorted-away-from-the-white-house-n2560964",
+        "title": "BREAKING: Schiff's Impeachment Witness Has Been Fired and Escorted Out of the White House",
+        "bias_label": 3
+    },
+    "triplet_id": "138"
+}

@@ -1,0 +1,1041 @@
+{
+    "title": "GOP Rank-and-File Discusses Ways to Take on Obama Over Amnesty, Including Impeachment",
+    "entity lists": [
+        [
+            "Republican Party",
+            [
+                "People",
+                "People",
+                "Organization"
+            ],
+            [
+                "Main",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Main",
+                "Main",
+                "Main"
+            ],
+            [
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Ted Yoho",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "illegal immigrant children streaming across the southern U.S. borders",
+            [
+                "Event",
+                "People"
+            ],
+            [
+                "Main",
+                "Salient"
+            ],
+            [
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "Jeff Denham",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "John Boehner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "immigration reform",
+            [
+                "Event",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "C",
+                "D"
+            ]
+        ],
+        [
+            "Trent Franks",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Bill Flores",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Peter T. King",
+            [
+                "People",
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient",
+                "Salient"
+            ],
+            [
+                "C",
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "border crisis proposal",
+            [
+                "Topic",
+                "Topic"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "Ron DeSantis",
+            [
+                "People",
+                "People"
+            ],
+            [
+                "Salient",
+                "Salient"
+            ],
+            [
+                "A",
+                "D"
+            ]
+        ],
+        [
+            "border crisis",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "impeachment",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Harry Reid",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Obama's executive actions",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "border crisis",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "impeachment",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Obama's executive actions",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Ted Yoho",
+                "sentiment": "NEG",
+                "object": "illegal immigrant children streaming across the southern U.S. borders",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ted Yoho",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Ted Yoho",
+                "sentiment": "POS",
+                "object": "immigration reform",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Ted Yoho",
+                "sentiment": "POS",
+                "object": "border crisis proposal",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Ted Yoho",
+                "sentiment": "NEG",
+                "object": "border crisis",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "Ted Yoho",
+                "sentiment": "POS",
+                "object": "impeachment",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Ted Yoho",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "impeachment",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Jeff Denham",
+                "sentiment": "NEG",
+                "object": "illegal immigrant children streaming across the southern U.S. borders",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jeff Denham",
+                "sentiment": "POS",
+                "object": "John Boehner",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Jeff Denham",
+                "sentiment": "POS",
+                "object": "immigration reform",
+                "annotators": [
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "immigration reform",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Jeff Denham",
+                "sentiment": "POS",
+                "object": "border crisis proposal",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "Jeff Denham",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Jeff Denham",
+                "sentiment": "NEG",
+                "object": "illegal immigrant children streaming across the southern U.S. borders",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jeff Denham",
+                "sentiment": "POS",
+                "object": "border crisis proposal",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "illegal immigrant children streaming across the southern U.S. borders",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "border crisis",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "immigration reform",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Trent Franks",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "C",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Trent Franks",
+                "sentiment": "NEG",
+                "object": "illegal immigrant children streaming across the southern U.S. borders",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Trent Franks",
+                "sentiment": "NEG",
+                "object": "border crisis",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "border crisis",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "Bill Flores",
+                "sentiment": "POS",
+                "object": "immigration reform",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Peter T. King",
+                "sentiment": "POS",
+                "object": "immigration reform",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Peter T. King",
+                "sentiment": "POS",
+                "object": "immigration reform",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Peter T. King",
+                "sentiment": "POS",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "0": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "border crisis proposal",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "illegal immigrant children streaming across the southern U.S. borders",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "border crisis",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Ted Yoho",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Ted Yoho",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Jeff Denham",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Ron DeSantis",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ron DeSantis",
+                "sentiment": "NEG",
+                "object": "Harry Reid",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Harry Reid",
+                "sentiment": "NEG",
+                "object": "border crisis proposal",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Ron DeSantis",
+                "sentiment": "POS",
+                "object": "Trent Franks",
+                "annotators": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Ron DeSantis",
+                "sentiment": "NEG",
+                "object": "border crisis",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Peter T. King",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Peter T. King",
+                "sentiment": "NEG",
+                "object": "Obama's executive actions",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "Peter T. King",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Peter T. King",
+                "sentiment": "NEG",
+                "object": "Not in the list",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Negative",
+                "C"
+            ],
+            [
+                "Slightly Negative",
+                "A"
+            ],
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "illegal immigrant children streaming across the southern U.S. borders": [
+            [
+                "Negative",
+                "C"
+            ],
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Ted Yoho": [
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Jeff Denham": [
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "immigration reform": [
+            [
+                "Slightly Positive",
+                "C"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Trent Franks": [
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Slightly Positive",
+                "D"
+            ]
+        ],
+        "Bill Flores": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Peter T. King": [
+            [
+                "Neutral",
+                "C"
+            ],
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "border crisis proposal": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Positive",
+                "D"
+            ]
+        ],
+        "Ron DeSantis": [
+            [
+                "Neutral",
+                "A"
+            ],
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "impeachment": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "border crisis": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "Obama's executive actions": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "C"
+            ],
+            [
+                "Liberal",
+                "A"
+            ],
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "illegal immigrant children streaming across the southern U.S. borders": [
+            [
+                "Not Applicable",
+                "C"
+            ],
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Ted Yoho": [
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Jeff Denham": [
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "immigration reform": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Trent Franks": [
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Bill Flores": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Peter T. King": [
+            [
+                "Conservative",
+                "C"
+            ],
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "border crisis proposal": [
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Slightly Conservative",
+                "D"
+            ]
+        ],
+        "Ron DeSantis": [
+            [
+                "Conservative",
+                "A"
+            ],
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "impeachment": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "border crisis": [
+            [
+                "Not Applicable",
+                "D"
+            ]
+        ],
+        "Obama's executive actions": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "C"
+        },
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "A"
+        },
+        {
+            "ideology": "Conservative",
+            "annotator": "D"
+        }
+    ]
+}

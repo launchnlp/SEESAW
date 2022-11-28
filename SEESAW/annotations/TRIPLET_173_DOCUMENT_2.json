@@ -1,0 +1,388 @@
+{
+    "title": "Elizabeth Warren Gets Senate Democratic Leadership Spot",
+    "entity lists": [
+        [
+            "Elizabeth Warren",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Harry Reid",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "shape the caucus' policies",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "progressive policy",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "voter",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "wall street",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "senator",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "Tom Harkin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ],
+        [
+            "erica sagrans",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "E"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Elizabeth Warren",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "POS",
+                "object": "Elizabeth Warren",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Elizabeth Warren",
+                "sentiment": "POS",
+                "object": "shape the caucus' policies",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "shape the caucus' policies",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Elizabeth Warren",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "shape the caucus' policies",
+                "sentiment": "POS",
+                "object": "progressive policy",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "POS",
+                "object": "Elizabeth Warren",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Harry Reid",
+                "sentiment": "POS",
+                "object": "Elizabeth Warren",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Harry Reid",
+                "sentiment": "POS",
+                "object": "progressive policy",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "voter",
+                "sentiment": "POS",
+                "object": "progressive policy",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Elizabeth Warren",
+                "sentiment": "NEG",
+                "object": "wall street",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "senator",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Tom Harkin",
+                "sentiment": "POS",
+                "object": "Elizabeth Warren",
+                "annotators": [
+                    "E"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Elizabeth Warren",
+                "sentiment": "POS",
+                "object": "progressive policy",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "erica sagrans",
+                "sentiment": "POS",
+                "object": "Elizabeth Warren",
+                "annotators": [
+                    "E"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Elizabeth Warren": [
+            [
+                "Positive",
+                "E"
+            ]
+        ],
+        "progressive policy": [
+            [
+                "Positive",
+                "E"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "shape the caucus' policies": [
+            [
+                "Positive",
+                "E"
+            ]
+        ],
+        "voter": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "wall street": [
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "senator": [
+            [
+                "Negative",
+                "E"
+            ]
+        ],
+        "Tom Harkin": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ],
+        "erica sagrans": [
+            [
+                "Neutral",
+                "E"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Elizabeth Warren": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "progressive policy": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "Harry Reid": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "shape the caucus' policies": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "voter": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "wall street": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "senator": [
+            [
+                "Not Applicable",
+                "E"
+            ]
+        ],
+        "Tom Harkin": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ],
+        "erica sagrans": [
+            [
+                "Liberal",
+                "E"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "E"
+        }
+    ]
+}

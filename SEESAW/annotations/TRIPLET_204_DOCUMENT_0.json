@@ -1,0 +1,775 @@
+{
+    "title": "I.R.S. Official Invokes 5th Amendment at Hearing",
+    "entity lists": [
+        [
+            "Internal Revenue Service",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "conservative groups",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "United States House Committee on Oversight and Reform",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Lois Lerner",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Trey Gowdy",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "White House",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Elijah Cummings",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "J. Russell George",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Jim Jordan",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "James Lankford",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Keystone Pipeline",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "Stephen F. Lynch",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ],
+        [
+            "douglas h. shulman",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "D"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Internal Revenue Service",
+                "sentiment": "NEG",
+                "object": "conservative groups",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "United States House Committee on Oversight and Reform",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Internal Revenue Service",
+                "sentiment": "NEG",
+                "object": "conservative groups",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Trey Gowdy",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "United States House Committee on Oversight and Reform",
+                "sentiment": "NEG",
+                "object": "White House",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States House Committee on Oversight and Reform",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Lois Lerner",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "20": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Internal Revenue Service",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Democratic Party",
+                "sentiment": "NEG",
+                "object": "Internal Revenue Service",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "NEG",
+                "object": "Internal Revenue Service",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "23": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "NEG",
+                "object": "Internal Revenue Service",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "NEG",
+                "object": "Internal Revenue Service",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "NEG",
+                "object": "Internal Revenue Service",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Elijah Cummings",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "28": [
+            {
+                "id": 0,
+                "subject": "Internal Revenue Service",
+                "sentiment": "NEG",
+                "object": "conservative groups",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "J. Russell George",
+                "sentiment": "POS",
+                "object": "Internal Revenue Service",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "31": [
+            {
+                "id": 0,
+                "subject": "J. Russell George",
+                "sentiment": "POS",
+                "object": "Internal Revenue Service",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "30": [
+            {
+                "id": 0,
+                "subject": "J. Russell George",
+                "sentiment": "POS",
+                "object": "Internal Revenue Service",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "United States House Committee on Oversight and Reform",
+                "sentiment": "NEG",
+                "object": "Internal Revenue Service",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States House Committee on Oversight and Reform",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "United States House Committee on Oversight and Reform",
+                "sentiment": "NEG",
+                "object": "White House",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Jim Jordan",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jim Jordan",
+                "sentiment": "NEG",
+                "object": "Internal Revenue Service",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Jim Jordan",
+                "sentiment": "NEG",
+                "object": "White House",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "34": [
+            {
+                "id": 0,
+                "subject": "Jim Jordan",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Jim Jordan",
+                "sentiment": "NEG",
+                "object": "White House",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "36": [
+            {
+                "id": 0,
+                "subject": "James Lankford",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "James Lankford",
+                "sentiment": "NEG",
+                "object": "White House",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "D"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "White House",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "37": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "Keystone Pipeline",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "38": [
+            {
+                "id": 0,
+                "subject": "Stephen F. Lynch",
+                "sentiment": "NEG",
+                "object": "Internal Revenue Service",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "41": [
+            {
+                "id": 0,
+                "subject": "Stephen F. Lynch",
+                "sentiment": "NEG",
+                "object": "Internal Revenue Service",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ],
+        "42": [
+            {
+                "id": 0,
+                "subject": "Jim Jordan",
+                "sentiment": "NEG",
+                "object": "douglas h. shulman",
+                "annotators": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Lois Lerner": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ],
+        "Internal Revenue Service": [
+            [
+                "Negative",
+                "D"
+            ]
+        ],
+        "conservative groups": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Trey Gowdy": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "White House": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "J. Russell George": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Jim Jordan": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "James Lankford": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Keystone Pipeline": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "Stephen F. Lynch": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "douglas h. shulman": [
+            [
+                "Neutral",
+                "D"
+            ]
+        ],
+        "United States House Committee on Oversight and Reform": [
+            [
+                "Slightly Negative",
+                "D"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Lois Lerner": [
+            [
+                "Slightly Liberal",
+                "D"
+            ]
+        ],
+        "Internal Revenue Service": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "conservative groups": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Trey Gowdy": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "White House": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "Elijah Cummings": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "J. Russell George": [
+            [
+                "Moderate",
+                "D"
+            ]
+        ],
+        "Jim Jordan": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "James Lankford": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Keystone Pipeline": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ],
+        "Stephen F. Lynch": [
+            [
+                "Liberal",
+                "D"
+            ]
+        ],
+        "douglas h. shulman": [
+            [
+                "Slightly Liberal",
+                "D"
+            ]
+        ],
+        "United States House Committee on Oversight and Reform": [
+            [
+                "Conservative",
+                "D"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "D"
+        }
+    ]
+}

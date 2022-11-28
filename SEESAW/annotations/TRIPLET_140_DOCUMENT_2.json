@@ -1,0 +1,87 @@
+{
+    "title": "Johnson asks DOJ watchdog to investigate Mueller team phones over erased information",
+    "entity lists": [
+        [
+            "Ron Johnson",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Robert Mueller",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "3": [
+            {
+                "id": 0,
+                "subject": "Ron Johnson",
+                "sentiment": "NEG",
+                "object": "Robert Mueller",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Ron Johnson",
+                "sentiment": "NEG",
+                "object": "Robert Mueller",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Robert Mueller": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Ron Johnson": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Robert Mueller": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Ron Johnson": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "A"
+        }
+    ]
+}

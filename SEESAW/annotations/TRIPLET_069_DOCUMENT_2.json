@@ -1,0 +1,223 @@
+{
+    "title": "Tulsi Gabbard on Trump impeachment: 'I could not in good conscience vote either yes or no'",
+    "entity lists": [
+        [
+            "Tulsi Gabbard",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "impeachment",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "censure Trump",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Kai Kahele",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "3": [
+            {
+                "id": 0,
+                "subject": "Tulsi Gabbard",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Tulsi Gabbard",
+                "sentiment": "NEG",
+                "object": "impeachment",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Tulsi Gabbard",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Tulsi Gabbard",
+                "sentiment": "POS",
+                "object": "censure Trump",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Kai Kahele",
+                "sentiment": "NEG",
+                "object": "Tulsi Gabbard",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "Kai Kahele",
+                "sentiment": "NEG",
+                "object": "Tulsi Gabbard",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Kai Kahele",
+                "sentiment": "NEG",
+                "object": "Tulsi Gabbard",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Kai Kahele",
+                "sentiment": "NEG",
+                "object": "Tulsi Gabbard",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Tulsi Gabbard": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "impeachment": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "censure Trump": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Kai Kahele": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Tulsi Gabbard": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "impeachment": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "censure Trump": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Kai Kahele": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "A"
+        }
+    ]
+}

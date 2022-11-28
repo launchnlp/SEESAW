@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/reactions-brown-autopsy",
+    "story_title": "Reactions to Brown Autopsy",
+    "story_time": "2014-08-18",
+    "story_topic": "violence_in_america",
+    "Split": "train",
+    "Meta info for article 1": {
+        "source": "Townhall",
+        "url": "http://townhall.com/tipsheet/cortneyobrien/2014/08/17/holder-furthers-investigation-orders-second-autopsy-in-ferguson-shooting-n1879775",
+        "title": "\"Extraordinary Circumstances:\" Holder Orders Second Autopsy in Ferguson Shooting",
+        "bias_label": 3
+    },
+    "Meta info for article 2": {
+        "source": "USA TODAY",
+        "url": "http://www.usatoday.com/story/news/nation/2014/08/18/autopsy-officer-arrested-brown-ferguson/14237969/",
+        "title": "After Brown autopsy, mom wants officer arrested",
+        "bias_label": 1
+    },
+    "Meta info for article 0": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2014/08/18/michael-brown-family-autopsy_n_5687898.html",
+        "title": "Michael Brown's Family: What Else Do They Need To Arrest Killer Of Our Son?",
+        "bias_label": 0
+    },
+    "triplet_id": "190"
+}

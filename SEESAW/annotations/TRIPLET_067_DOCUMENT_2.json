@@ -1,0 +1,359 @@
+{
+    "title": "New Hampshire Just Abolished the Death Penalty",
+    "entity lists": [
+        [
+            "New Hampshire",
+            [
+                "GPE"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "death penalty",
+            [
+                "Topic"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Chris Sununu",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "state House",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "hannah cox",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "shari silberstein",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Renny Cushing",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Ruth Ward",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "New Hampshire",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Chris Sununu",
+                "sentiment": "POS",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "state House",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Chris Sununu",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "hannah cox",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "hannah cox",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "shari silberstein",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "shari silberstein",
+                "sentiment": "POS",
+                "object": "New Hampshire",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Renny Cushing",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Ruth Ward",
+                "sentiment": "NEG",
+                "object": "death penalty",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "death penalty": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "New Hampshire": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "state House": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "hannah cox": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "shari silberstein": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Renny Cushing": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Ruth Ward": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "Chris Sununu": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Positive",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "death penalty": [
+            [
+                "Slightly Conservative",
+                "A"
+            ]
+        ],
+        "New Hampshire": [
+            [
+                "Moderate",
+                "A"
+            ]
+        ],
+        "state House": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "hannah cox": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "shari silberstein": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Renny Cushing": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Ruth Ward": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Chris Sununu": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "A"
+        }
+    ]
+}

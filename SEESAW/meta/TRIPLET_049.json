@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/house-democrats-investigate-trump-admins-involvement-saudi-nuclear-plan",
+    "story_title": "House Democrats Investigate Trump Admin's Involvement in Saudi Nuclear Plan",
+    "story_time": "2019-02-19",
+    "story_topic": "nuclear_weapons",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2019/feb/19/house-dems-probe-white-house-handling-of-saudi-nuc/",
+        "title": "House Dems probe White House handling of Saudi nuclear plan",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/world/2019/02/19/trump-administration-sell-nuclear-plants-saudi-arabia/2917357002/",
+        "title": "Trump administration pushed for sale of nuclear plants to Saudi Arabia, Democrats say in report",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "Vox",
+        "url": "https://www.vox.com/world/2019/2/19/18231812/saudi-arabia-nuclear-flynn-trump-democrats",
+        "title": "House Dems reveal new info on a shady White House plan to sell nuclear tech to Saudi Arabia",
+        "bias_label": 0
+    },
+    "triplet_id": "049"
+}

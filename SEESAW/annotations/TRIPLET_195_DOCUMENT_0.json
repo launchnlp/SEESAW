@@ -1,0 +1,519 @@
+{
+    "title": "John Boehner To Bring Up Clean Debt-Ceiling Vote",
+    "entity lists": [
+        [
+            "Republican Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "Debt-Ceiling Vote",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "Democratic Party",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "John Boehner",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "spending reform",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "Nancy Pelosi",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "United States House of Representatives",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "retirement-benefits repeal",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "United States Senate",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "Peter Welch",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ],
+        [
+            "Club for Growth",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "F"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "POS",
+                "object": "Debt-Ceiling Vote",
+                "annotators": [
+                    "F"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Republican Party",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "Debt-Ceiling Vote",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "Debt-Ceiling Vote",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "F"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "NEG",
+                "object": "spending reform",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "NEG",
+                "object": "Barack Obama",
+                "annotators": [
+                    "F"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Debt-Ceiling Vote",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "POS",
+                "object": "Debt-Ceiling Vote",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "United States House of Representatives",
+                "sentiment": "POS",
+                "object": "retirement-benefits repeal",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "United States Senate",
+                "sentiment": "POS",
+                "object": "retirement-benefits repeal",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "Debt-Ceiling Vote",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "id": 0,
+                "subject": "Democratic Party",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "29": [
+            {
+                "id": 0,
+                "subject": "Nancy Pelosi",
+                "sentiment": "POS",
+                "object": "Democratic Party",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "32": [
+            {
+                "id": 0,
+                "subject": "Peter Welch",
+                "sentiment": "NEG",
+                "object": "Democratic Party",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "33": [
+            {
+                "id": 0,
+                "subject": "Peter Welch",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Club for Growth",
+                "sentiment": "NEG",
+                "object": "Debt-Ceiling Vote",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "35": [
+            {
+                "id": 0,
+                "subject": "Peter Welch",
+                "sentiment": "POS",
+                "object": "Republican Party",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "retirement-benefits repeal",
+                "annotators": [
+                    "F"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Debt-Ceiling Vote": [
+            [
+                "Positive",
+                "F"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Positive",
+                "F"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "spending reform": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "retirement-benefits repeal": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ],
+        "Peter Welch": [
+            [
+                "Slightly Positive",
+                "F"
+            ]
+        ],
+        "Club for Growth": [
+            [
+                "Neutral",
+                "F"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Debt-Ceiling Vote": [
+            [
+                "Moderate",
+                "F"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Conservative",
+                "F"
+            ]
+        ],
+        "Democratic Party": [
+            [
+                "Liberal",
+                "F"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "F"
+            ]
+        ],
+        "Barack Obama": [
+            [
+                "Liberal",
+                "F"
+            ]
+        ],
+        "spending reform": [
+            [
+                "Slightly Conservative",
+                "F"
+            ]
+        ],
+        "Nancy Pelosi": [
+            [
+                "Liberal",
+                "F"
+            ]
+        ],
+        "United States House of Representatives": [
+            [
+                "Slightly Conservative",
+                "F"
+            ]
+        ],
+        "United States Senate": [
+            [
+                "Slightly Liberal",
+                "F"
+            ]
+        ],
+        "retirement-benefits repeal": [
+            [
+                "Moderate",
+                "F"
+            ]
+        ],
+        "Peter Welch": [
+            [
+                "Slightly Conservative",
+                "F"
+            ]
+        ],
+        "Club for Growth": [
+            [
+                "Slightly Conservative",
+                "F"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Conservative",
+            "annotator": "F"
+        }
+    ]
+}

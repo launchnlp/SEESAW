@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/whistleblower-says-dhs-downplayed-threats-russia-and-white-supremacists-help-trump",
+    "story_title": "Whistleblower Says DHS Downplayed Threats from Russia and White Supremacists to Help Trump",
+    "story_time": "2020-09-10",
+    "story_topic": "homeland_security",
+    "Split": "test",
+    "Meta info for article 1": {
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/world-us-canada-54096520",
+        "title": "US official claims pressure to downplay intelligence reports",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "Fox News (Online News)",
+        "url": "https://www.foxnews.com/politics/schiff-whistleblower-complaint-russian-intel-reports",
+        "title": "Schiff reveals new whistleblower complaint alleging suppression of Russian election interference intel reports",
+        "bias_label": 3
+    },
+    "Meta info for article 0": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/national-security/senior-dhs-official-alleges-in-whistleblower-complaint-that-he-was-told-to-stop-providing-intelligence-analysis-on-threat-of-russian-interference/2020/09/09/9d0661c4-f2b6-11ea-b796-2dd09962649c_story.html",
+        "title": "Senior DHS official alleges in whistleblower complaint that he was told to stop providing intelligence analysis on threat of Russian interference",
+        "bias_label": 1
+    },
+    "triplet_id": "130"
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/supreme-thursday",
+    "story_title": "Supreme Thursday",
+    "story_time": "2015-06-25",
+    "story_topic": "supreme_court",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Townhall",
+        "url": "http://townhall.com/tipsheet/katiepavlich/2015/06/25/all-eyes-on-the-supreme-court-as-decisions-on-marriage-obamacare-loom-n2017247",
+        "title": "All Eyes On The Supreme Court As Decisions on Marriage, Obamacare Loom",
+        "bias_label": 3
+    },
+    "Meta info for article 1": {
+        "source": "NPR (Online News)",
+        "url": "http://www.npr.org/sections/itsallpolitics/2015/06/25/417104325/heres-how-the-supreme-court-could-rule-today-on-obamacare",
+        "title": "Maps: Here Are The Ways The Supreme Court Could Rule On Obamacare",
+        "bias_label": 2
+    },
+    "Meta info for article 2": {
+        "source": "HuffPost",
+        "url": "http://www.huffingtonpost.com/2015/06/24/supreme-court-decisions-_n_7659254.html",
+        "title": "Supreme Court Tees Up High-Stakes Cases For Grand Finale",
+        "bias_label": 0
+    },
+    "triplet_id": "018"
+}

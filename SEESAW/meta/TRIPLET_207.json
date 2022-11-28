@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/reaction-boston-bombs",
+    "story_title": "Reaction to Boston Bombs",
+    "story_time": "2013-04-16",
+    "story_topic": "terrorism",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Christian Science Monitor",
+        "url": "http://www.csmonitor.com/World/Global-News/2013/0416/Boston-Marathon-blasts-How-the-world-is-responding",
+        "title": "How the world is responding",
+        "bias_label": 2
+    },
+    "Meta info for article 1": {
+        "source": "Politico",
+        "url": "http://www.politico.com/story/2013/04/boston-marathon-bombing-congress-reacts-90136.html",
+        "title": "Congress reacts, Dems talk sequester",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2013/apr/16/senate-reflects-boston-tragedy-followed-newtown-an/",
+        "title": "Senate reflects on Boston tragedy, followed by Newtown and Va. Tech, before gun debate",
+        "bias_label": 4
+    },
+    "triplet_id": "207"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Moderna's COVID-19 Vaccine Shows Promise in Early-Stage Study",
+    "entity lists": [
+        [
+            "Moderna",
+            [
+                "Topic"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "U.S. government",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "12": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Moderna",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "id": 0,
+                "subject": "U.S. government",
+                "sentiment": "POS",
+                "object": "Moderna",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Moderna": [
+            [
+                "Positive",
+                "A"
+            ]
+        ],
+        "U.S. government": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Moderna": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "U.S. government": [
+            [
+                "Moderate",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

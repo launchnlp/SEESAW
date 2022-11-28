@@ -1,0 +1,529 @@
+{
+    "title": "Governor of Arizona Is Pressed to Veto Bill",
+    "entity lists": [
+        [
+            "bill",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Jeff Flake",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "John McCain",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Adam Driggs",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Steve Pierce",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Bob Worsley",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "cathi herrod",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "attacks on the legislation",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Jack Markell",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "barry broome",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Scott Smith",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Doug Ducey",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Jeff Flake",
+                "sentiment": "NEG",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John McCain",
+                "sentiment": "NEG",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Adam Driggs",
+                "sentiment": "POS",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Steve Pierce",
+                "sentiment": "POS",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Bob Worsley",
+                "sentiment": "POS",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Steve Pierce",
+                "sentiment": "POS",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Adam Driggs",
+                "sentiment": "POS",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Bob Worsley",
+                "sentiment": "POS",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Steve Pierce",
+                "sentiment": "NEG",
+                "object": "attacks on the legislation",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Bob Worsley",
+                "sentiment": "NEG",
+                "object": "attacks on the legislation",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "Adam Driggs",
+                "sentiment": "NEG",
+                "object": "attacks on the legislation",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "cathi herrod",
+                "sentiment": "POS",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "cathi herrod",
+                "sentiment": "NEG",
+                "object": "attacks on the legislation",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Jack Markell",
+                "sentiment": "NEG",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "barry broome",
+                "sentiment": "NEG",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Scott Smith",
+                "sentiment": "NEG",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Doug Ducey",
+                "sentiment": "NEG",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "bill": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "John McCain": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Jeff Flake": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Adam Driggs": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Steve Pierce": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Bob Worsley": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "cathi herrod": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "attacks on the legislation": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Jack Markell": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "barry broome": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Scott Smith": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Doug Ducey": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "bill": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "John McCain": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Jeff Flake": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Adam Driggs": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "Steve Pierce": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "Bob Worsley": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "cathi herrod": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "attacks on the legislation": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Jack Markell": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "barry broome": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Scott Smith": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Doug Ducey": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Liberal",
+            "annotator": "C"
+        }
+    ]
+}

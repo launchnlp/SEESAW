@@ -1,0 +1,252 @@
+{
+    "title": "Mueller\u2019s Team Members \u2018Accidentally\u2019 Wiped Phones Clean of Data",
+    "entity lists": [
+        [
+            "Robert Mueller",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Peter Strzok",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "lisa page",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Tom Fitton",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Department of Justice",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Federal Bureau of Investigation",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Robert Mueller",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Robert Mueller",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "Peter Strzok",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "None",
+                "sentiment": "NEG",
+                "object": "lisa page",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "id": 0,
+                "subject": "Tom Fitton",
+                "sentiment": "NEG",
+                "object": "Robert Mueller",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Tom Fitton",
+                "sentiment": "NEG",
+                "object": "Peter Strzok",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Tom Fitton",
+                "sentiment": "NEG",
+                "object": "lisa page",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Tom Fitton",
+                "sentiment": "NEG",
+                "object": "United States Department of Justice",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Tom Fitton",
+                "sentiment": "NEG",
+                "object": "Federal Bureau of Investigation",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Robert Mueller": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Peter Strzok": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "lisa page": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Tom Fitton": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Federal Bureau of Investigation": [
+            [
+                "Negative",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Robert Mueller": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Peter Strzok": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "lisa page": [
+            [
+                "Slightly Liberal",
+                "A"
+            ]
+        ],
+        "Tom Fitton": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Federal Bureau of Investigation": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "A"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/trump-praises-putin",
+    "story_title": "Trump Praises Putin",
+    "story_time": "2016-12-31",
+    "story_topic": "politics",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "USA TODAY",
+        "url": "http://www.usatoday.com/story/news/politics/2016/12/30/donald-trump-russia-vladimir-putin-sanctions-hacking/95993720/",
+        "title": "Trump praises Putin for refusing to retaliate on sanctions",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "http://www.washingtontimes.com/news/2016/dec/30/trump-putin-very-smart-not-retaliating-us-sanction/",
+        "title": "Trump: Putin \u2018very smart\u2019 for not retaliating against U.S. over latest round of sanctions",
+        "bias_label": 4
+    },
+    "Meta info for article 0": {
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2016/dec/30/donald-trump-russia-obama-sanctions",
+        "title": "Trump praises Putin over US sanctions \u2013 a move that puts him at odds with GOP",
+        "bias_label": 1
+    },
+    "triplet_id": "089"
+}

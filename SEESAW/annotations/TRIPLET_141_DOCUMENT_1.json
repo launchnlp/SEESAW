@@ -1,0 +1,212 @@
+{
+    "title": "Trump-Appointed HHS Officials Demand Right to Change CDC Info",
+    "entity lists": [
+        [
+            "United States Department of Health and Human Services",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Centers for Disease Control and Prevention",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Michael Caputo",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ],
+        [
+            "Kate Bedingfield",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "B"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "1": [
+            {
+                "id": 0,
+                "subject": "United States Department of Health and Human Services",
+                "sentiment": "NEG",
+                "object": "Centers for Disease Control and Prevention",
+                "annotators": [
+                    "B"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States Department of Health and Human Services",
+                "sentiment": "POS",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "Michael Caputo",
+                "sentiment": "NEG",
+                "object": "Centers for Disease Control and Prevention",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Kate Bedingfield",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Kate Bedingfield",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "Kate Bedingfield",
+                "sentiment": "NEG",
+                "object": "Donald Trump",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "None",
+                "sentiment": "POS",
+                "object": "Centers for Disease Control and Prevention",
+                "annotators": [
+                    "B"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Donald Trump": [
+            [
+                "Negative",
+                "B"
+            ]
+        ],
+        "Centers for Disease Control and Prevention": [
+            [
+                "Slightly Positive",
+                "B"
+            ]
+        ],
+        "Michael Caputo": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "United States Department of Health and Human Services": [
+            [
+                "Slightly Negative",
+                "B"
+            ]
+        ],
+        "Kate Bedingfield": [
+            [
+                "Neutral",
+                "B"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Donald Trump": [
+            [
+                "Very Conservative",
+                "B"
+            ]
+        ],
+        "Centers for Disease Control and Prevention": [
+            [
+                "Slightly Liberal",
+                "B"
+            ]
+        ],
+        "Michael Caputo": [
+            [
+                "Conservative",
+                "B"
+            ]
+        ],
+        "United States Department of Health and Human Services": [
+            [
+                "Slightly Conservative",
+                "B"
+            ]
+        ],
+        "Kate Bedingfield": [
+            [
+                "Liberal",
+                "B"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "B"
+        }
+    ]
+}

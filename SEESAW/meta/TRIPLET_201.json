@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/gun-control-debate-continues-0",
+    "story_title": "Gun Control Debate Continues",
+    "story_time": "2013-01-11",
+    "story_topic": "gun_control_and_gun_rights",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Fox News (Online News)",
+        "url": "http://www.foxnews.com/politics/2013/01/11/just-show-nra-says-biden-group-pushing-gun-control-despite-latest-meetings/",
+        "title": "Just a show? NRA says Biden group set on gun control despite latest meetings",
+        "bias_label": 3
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "http://www.cnn.com/2013/01/10/politics/gun-control-battle/index.html?hpt=po_c1",
+        "title": "Biden vows recommendations by Tuesday on curbing gun violence ",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "Washington Post",
+        "url": "http://www.washingtonpost.com/politics/white-house-considers-funding-for-police-in-schools-after-newtown/2013/01/10/e0044e58-5b3f-11e2-9fa9-5fbdc9530eb9_story.html",
+        "title": "White House may consider funding for police in schools after Newtown ",
+        "bias_label": 1
+    },
+    "triplet_id": "201"
+}

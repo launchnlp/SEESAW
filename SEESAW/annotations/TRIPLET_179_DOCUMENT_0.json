@@ -1,0 +1,179 @@
+{
+    "title": "Gov. Jan Brewer to CNN: 'I will do the right thing for the state of Arizona'",
+    "entity lists": [
+        [
+            "Business leaders in Arizona",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "bill",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Center for Arizona Policy",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Jan Brewer",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "14": [
+            {
+                "id": 0,
+                "subject": "Business leaders in Arizona",
+                "sentiment": "NEG",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Center for Arizona Policy",
+                "sentiment": "NEG",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Center for Arizona Policy",
+                "sentiment": "NEG",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "id": 0,
+                "subject": "Jan Brewer",
+                "sentiment": "NEG",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "Jan Brewer",
+                "sentiment": "NEG",
+                "object": "bill",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "POS",
+                "object": "Jan Brewer",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Jan Brewer": [
+            [
+                "Slightly Positive",
+                "C"
+            ]
+        ],
+        "bill": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ],
+        "Business leaders in Arizona": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Center for Arizona Policy": [
+            [
+                "Slightly Negative",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Jan Brewer": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "bill": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ],
+        "Business leaders in Arizona": [
+            [
+                "Slightly Liberal",
+                "C"
+            ]
+        ],
+        "Center for Arizona Policy": [
+            [
+                "Very Conservative",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Liberal",
+            "annotator": "C"
+        }
+    ]
+}

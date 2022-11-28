@@ -1,0 +1,523 @@
+{
+    "title": "What You Need To Know About The Injunction Stopping Obama's Amnesty",
+    "entity lists": [
+        [
+            "United States District Court for the Southern Division of Texas",
+            [
+                "Organization"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Deferred Action for Parents of Americans",
+            [
+                "Others"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Barack Obama",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "injunction",
+            [
+                "Others"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Andrew Hanen",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "undocumented immigrants",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "United States Department of Justice",
+            [
+                "Organization"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Joe Manchin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "amnesty",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Claire McCaskill",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "House Department of Homeland Security bill",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Susan Collins",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "DACA program",
+            [
+                "Others"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "United States District Court for the Southern Division of Texas",
+                "sentiment": "NEG",
+                "object": "Deferred Action for Parents of Americans",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Deferred Action for Parents of Americans",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "United States District Court for the Southern Division of Texas",
+                "sentiment": "POS",
+                "object": "injunction",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "Andrew Hanen",
+                "sentiment": "NEG",
+                "object": "Deferred Action for Parents of Americans",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Deferred Action for Parents of Americans",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "undocumented immigrants",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "Deferred Action for Parents of Americans",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "Deferred Action for Parents of Americans",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "id": 0,
+                "subject": "Barack Obama",
+                "sentiment": "POS",
+                "object": "United States Department of Justice",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "United States Department of Justice",
+                "sentiment": "NEG",
+                "object": "injunction",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "United States Department of Justice",
+                "sentiment": "NEG",
+                "object": "Andrew Hanen",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Andrew Hanen",
+                "sentiment": "POS",
+                "object": "injunction",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "id": 0,
+                "subject": "Joe Manchin",
+                "sentiment": "NEG",
+                "object": "amnesty",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Claire McCaskill",
+                "sentiment": "NEG",
+                "object": "amnesty",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Joe Manchin",
+                "sentiment": "NEG",
+                "object": "House Department of Homeland Security bill",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Claire McCaskill",
+                "sentiment": "NEG",
+                "object": "House Department of Homeland Security bill",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "Claire McCaskill",
+                "sentiment": "POS",
+                "object": "Deferred Action for Parents of Americans",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "Deferred Action for Parents of Americans",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "id": 0,
+                "subject": "Susan Collins",
+                "sentiment": "POS",
+                "object": "House Department of Homeland Security bill",
+                "annotators": [
+                    "A"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Susan Collins",
+                "sentiment": "POS",
+                "object": "DACA program",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Barack Obama": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "injunction": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "United States District Court for the Southern Division of Texas": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Deferred Action for Parents of Americans": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Andrew Hanen": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "undocumented immigrants": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "House Department of Homeland Security bill": [
+            [
+                "Slightly Negative",
+                "A"
+            ]
+        ],
+        "amnesty": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Claire McCaskill": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Susan Collins": [
+            [
+                "Slightly Positive",
+                "A"
+            ]
+        ],
+        "DACA program": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Barack Obama": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "injunction": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "United States District Court for the Southern Division of Texas": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Deferred Action for Parents of Americans": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Andrew Hanen": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "undocumented immigrants": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "United States Department of Justice": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "House Department of Homeland Security bill": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "amnesty": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Claire McCaskill": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Susan Collins": [
+            [
+                "Moderate",
+                "A"
+            ]
+        ],
+        "DACA program": [
+            [
+                "Not Applicable",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "A"
+        }
+    ]
+}

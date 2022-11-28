@@ -1,0 +1,341 @@
+{
+    "title": "GOP members of Wayne County Board of Canvassers say they want to rescind votes to certify",
+    "entity lists": [
+        [
+            "monica palmer",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "affidavit",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "william hartmann",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "jonathan kinloch",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Wayne County's election results",
+            [
+                "Event"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Donald Trump",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "monica palmer",
+                "sentiment": "POS",
+                "object": "affidavit",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "william hartmann",
+                "sentiment": "POS",
+                "object": "affidavit",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "monica palmer",
+                "sentiment": "NEG",
+                "object": "Wayne County's election results",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "william hartmann",
+                "sentiment": "NEG",
+                "object": "Wayne County's election results",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "jonathan kinloch",
+                "sentiment": "NEG",
+                "object": "affidavit",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "id": 0,
+                "subject": "jonathan kinloch",
+                "sentiment": "NEG",
+                "object": "affidavit",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "monica palmer",
+                "sentiment": "POS",
+                "object": "affidavit",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "william hartmann",
+                "sentiment": "POS",
+                "object": "affidavit",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "Donald Trump",
+                "sentiment": "NEG",
+                "object": "Wayne County's election results",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "william hartmann",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "monica palmer",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "william hartmann",
+                "sentiment": "NEG",
+                "object": "Wayne County's election results",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "monica palmer",
+                "sentiment": "NEG",
+                "object": "Wayne County's election results",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "affidavit",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "id": 0,
+                "subject": "Not in the list",
+                "sentiment": "NEG",
+                "object": "monica palmer",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "id": 0,
+                "subject": "monica palmer",
+                "sentiment": "NEG",
+                "object": "Wayne County's election results",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "william hartmann",
+                "sentiment": "NEG",
+                "object": "Wayne County's election results",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "id": 0,
+                "subject": "monica palmer",
+                "sentiment": "NEG",
+                "object": "Wayne County's election results",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "monica palmer": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "william hartmann": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "affidavit": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "jonathan kinloch": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Wayne County's election results": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "monica palmer": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "william hartmann": [
+            [
+                "Slightly Conservative",
+                "C"
+            ]
+        ],
+        "affidavit": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "jonathan kinloch": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "Donald Trump": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Wayne County's election results": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        }
+    ]
+}

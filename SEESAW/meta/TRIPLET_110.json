@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/trump-denies-he-directed-michael-cohen-break-law",
+    "story_title": "Trump Denies He Directed Michael Cohen To Break The Law",
+    "story_time": "2018-12-13",
+    "story_topic": "campaign_finance",
+    "Split": "train",
+    "Meta info for article 2": {
+        "source": "Reuters",
+        "url": "https://www.reuters.com/article/us-usa-trump-russia/trump-says-ex-lawyer-cohens-crimes-are-unrelated-to-me-idUSKBN1OC1Q7",
+        "title": "Trump says ex-lawyer Cohen's crimes are 'unrelated to me'",
+        "bias_label": 2
+    },
+    "Meta info for article 0": {
+        "source": "CNN (Online News)",
+        "url": "https://www.cnn.com/2018/12/13/politics/donald-trump-tweets-michael-cohen-sentencing/index.html",
+        "title": "Trump publicly breaks his silence after former \"fixer\" sentenced to 3 years in prison",
+        "bias_label": 0
+    },
+    "Meta info for article 1": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2018/dec/13/trump-says-he-never-directed-cohen-to-break-the-la/",
+        "title": "Trump says he never directed Cohen to break the law, claims lawyer has liability",
+        "bias_label": 4
+    },
+    "triplet_id": "110"
+}

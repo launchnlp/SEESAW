@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/representative-katie-hill-d-ca-resigns-amid-allegations-staffer-relationship",
+    "story_title": "Representative Katie Hill (D-CA) Resigns Amid Allegations Of Staffer Relationship",
+    "story_time": "2019-10-28",
+    "story_topic": "sexual_misconduct",
+    "Split": "valid",
+    "Meta info for article 0": {
+        "source": "Washington Times",
+        "url": "https://www.washingtontimes.com/news/2019/oct/27/katie-hill-resign-congress-reports-say/",
+        "title": "Freshman Democrat embroiled in scandal to resign",
+        "bias_label": 4
+    },
+    "Meta info for article 1": {
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2019/10/28/everything-you-need-know-about-controversial-rise-fall-katie-hill/",
+        "title": "Everything you need to know about the controversial rise and fall of Katie Hill",
+        "bias_label": 1
+    },
+    "Meta info for article 2": {
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/world-us-canada-50203735",
+        "title": "Katie Hill: US congresswoman resigns amid affair allegations",
+        "bias_label": 2
+    },
+    "triplet_id": "071"
+}

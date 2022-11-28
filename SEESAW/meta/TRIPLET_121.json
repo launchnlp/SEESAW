@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/daca-recipients-open-apply-renewal",
+    "story_title": "DACA Recipients Open to Apply for Renewal",
+    "story_time": "2018-01-14",
+    "story_topic": "immigration",
+    "Split": "train",
+    "Meta info for article 1": {
+        "source": "Townhall",
+        "url": "https://townhall.com/tipsheet/timothymeads/2018/01/14/daca-renewal-applications-resume-after-judges-ruling-n2434382",
+        "title": "DACA Renewal Applications Resume After Judge's Ruling",
+        "bias_label": 3
+    },
+    "Meta info for article 2": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/sections/thetwo-way/2018/01/14/577949456/daca-recipients-can-apply-for-renewal-government-says",
+        "title": "DACA Recipients Can Apply For Renewal, Government Says",
+        "bias_label": 2
+    },
+    "Meta info for article 0": {
+        "source": "New York Times (News)",
+        "url": "https://www.nytimes.com/2018/01/14/us/politics/daca-renewals-requests.html",
+        "title": "DACA Participants Can Again Apply for Renewal, Immigration Agency Says",
+        "bias_label": 1
+    },
+    "triplet_id": "121"
+}

@@ -1,0 +1,157 @@
+{
+    "title": "Broward County official Brenda Snipes submits resignation after criticism",
+    "entity lists": [
+        [
+            "Republican Party",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Brenda Snipes",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Jeb Bush",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ],
+        [
+            "Rick Scott",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "A"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "Republican Party",
+                "sentiment": "NEG",
+                "object": "Brenda Snipes",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "id": 0,
+                "subject": "Jeb Bush",
+                "sentiment": "NEG",
+                "object": "Brenda Snipes",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "Rick Scott",
+                "sentiment": "NEG",
+                "object": "Brenda Snipes",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "Rick Scott",
+                "sentiment": "NEG",
+                "object": "Brenda Snipes",
+                "annotators": [
+                    "A"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "Brenda Snipes": [
+            [
+                "Negative",
+                "A"
+            ]
+        ],
+        "Jeb Bush": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Rick Scott": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Neutral",
+                "A"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "Brenda Snipes": [
+            [
+                "Liberal",
+                "A"
+            ]
+        ],
+        "Jeb Bush": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Rick Scott": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ],
+        "Republican Party": [
+            [
+                "Conservative",
+                "A"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Slightly Conservative",
+            "annotator": "A"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/va-secretary-shinseki-testifies",
+    "story_title": "VA Secretary Shinseki Testifies",
+    "story_time": "2014-05-15",
+    "story_topic": "veterans_affairs",
+    "Split": "train",
+    "Meta info for article 0": {
+        "source": "Washington Post",
+        "url": "http://www.washingtonpost.com/blogs/federal-eye/wp/2014/05/15/what-to-expect-when-shinseki-testifies-about-va-troubles/?hpid=z4",
+        "title": "What to expect when Shinseki testifies about VA troubles on Thursday",
+        "bias_label": 1
+    },
+    "Meta info for article 1": {
+        "source": "CNN (Online News)",
+        "url": "http://www.cnn.com/2014/05/14/us/va-scandal-eric-shinseki-reaction/index.html?hpt=po_c1",
+        "title": "'Angered' Shinseki to speak but say little about growing VA scandal",
+        "bias_label": 0
+    },
+    "Meta info for article 2": {
+        "source": "Townhall",
+        "url": "http://townhall.com/tipsheet/katiepavlich/2014/05/15/veterans-affairs-secretary-in-the-hot-seat-on-capitol-hill-over-medical-wait-times-and-deaths-n1838521",
+        "title": "Veterans Affairs Secretary in the Hot Seat on Capitol Hill Over Medical Wait Times and Deaths",
+        "bias_label": 3
+    },
+    "triplet_id": "171"
+}

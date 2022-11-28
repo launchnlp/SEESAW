@@ -1,0 +1,347 @@
+{
+    "title": "White House makes formal veto threat against Keystone, ACA bills",
+    "entity lists": [
+        [
+            "the President",
+            [
+                "People"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "House bills that would allow the construction of the Keystone XL pipeline and change a key mandate under the Affordable Care Act",
+            [
+                "Event"
+            ],
+            [
+                "Main"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "John Hoeven",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Joe Manchin",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "John Boehner",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Susan Collins",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ],
+        [
+            "Joe Donnelly",
+            [
+                "People"
+            ],
+            [
+                "Salient"
+            ],
+            [
+                "C"
+            ]
+        ]
+    ],
+    "sentence-level stances": {
+        "0": [
+            {
+                "id": 0,
+                "subject": "the President",
+                "sentiment": "NEG",
+                "object": "House bills that would allow the construction of the Keystone XL pipeline and change a key mandate under the Affordable Care Act",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "1": [
+            {
+                "id": 0,
+                "subject": "John Hoeven",
+                "sentiment": "POS",
+                "object": "House bills that would allow the construction of the Keystone XL pipeline and change a key mandate under the Affordable Care Act",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "House bills that would allow the construction of the Keystone XL pipeline and change a key mandate under the Affordable Care Act",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 2,
+                "subject": "John Hoeven",
+                "sentiment": "POS",
+                "object": "Joe Manchin",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 3,
+                "subject": "Joe Manchin",
+                "sentiment": "POS",
+                "object": "John Hoeven",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 4,
+                "subject": "the President",
+                "sentiment": "NEG",
+                "object": "John Hoeven",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 5,
+                "subject": "the President",
+                "sentiment": "NEG",
+                "object": "Joe Manchin",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "id": 0,
+                "subject": "the President",
+                "sentiment": "NEG",
+                "object": "House bills that would allow the construction of the Keystone XL pipeline and change a key mandate under the Affordable Care Act",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "id": 0,
+                "subject": "the President",
+                "sentiment": "NEG",
+                "object": "House bills that would allow the construction of the Keystone XL pipeline and change a key mandate under the Affordable Care Act",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "id": 0,
+                "subject": "the President",
+                "sentiment": "NEG",
+                "object": "House bills that would allow the construction of the Keystone XL pipeline and change a key mandate under the Affordable Care Act",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "id": 0,
+                "subject": "the President",
+                "sentiment": "NEG",
+                "object": "House bills that would allow the construction of the Keystone XL pipeline and change a key mandate under the Affordable Care Act",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "NEG",
+                "object": "the President",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "id": 0,
+                "subject": "John Boehner",
+                "sentiment": "POS",
+                "object": "House bills that would allow the construction of the Keystone XL pipeline and change a key mandate under the Affordable Care Act",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "John Boehner",
+                "sentiment": "NEG",
+                "object": "the President",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "id": 0,
+                "subject": "Susan Collins",
+                "sentiment": "POS",
+                "object": "House bills that would allow the construction of the Keystone XL pipeline and change a key mandate under the Affordable Care Act",
+                "annotators": [
+                    "C"
+                ]
+            },
+            {
+                "id": 1,
+                "subject": "Joe Donnelly",
+                "sentiment": "POS",
+                "object": "House bills that would allow the construction of the Keystone XL pipeline and change a key mandate under the Affordable Care Act",
+                "annotators": [
+                    "C"
+                ]
+            }
+        ]
+    },
+    "entity sentiments": {
+        "the President": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "House bills that would allow the construction of the Keystone XL pipeline and change a key mandate under the Affordable Care Act": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "John Hoeven": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Susan Collins": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ],
+        "Joe Donnelly": [
+            [
+                "Neutral",
+                "C"
+            ]
+        ]
+    },
+    "entity ideologies": {
+        "the President": [
+            [
+                "Liberal",
+                "C"
+            ]
+        ],
+        "House bills that would allow the construction of the Keystone XL pipeline and change a key mandate under the Affordable Care Act": [
+            [
+                "Not Applicable",
+                "C"
+            ]
+        ],
+        "John Hoeven": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Joe Manchin": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "John Boehner": [
+            [
+                "Conservative",
+                "C"
+            ]
+        ],
+        "Susan Collins": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ],
+        "Joe Donnelly": [
+            [
+                "Moderate",
+                "C"
+            ]
+        ]
+    },
+    "article ideology": [
+        {
+            "ideology": "Moderate",
+            "annotator": "C"
+        }
+    ]
+}

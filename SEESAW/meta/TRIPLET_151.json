@@ -1,0 +1,26 @@
+{
+    "story_url": "https://www.allsides.com/story/trump-covid-19-vaccine-developments-getting-political",
+    "story_title": "Trump: COVID-19 Vaccine Developments Getting 'Political'",
+    "story_time": "2020-09-24",
+    "story_topic": "public_health",
+    "Split": "test",
+    "Meta info for article 1": {
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/2020-election/2020/09/23/trump-fda-coronavirus-vaccine-standard-political-move/",
+        "title": "Donald Trump: FDA Move to Toughen Coronavirus Vaccine Approval Standards \u2018a Political Move\u2019",
+        "bias_label": 3
+    },
+    "Meta info for article 2": {
+        "source": "NPR (Online News)",
+        "url": "https://www.npr.org/2020/09/23/916315311/trump-accuses-fda-of-playing-politics-with-covid-19-vaccine-guidelines",
+        "title": "Trump Accuses FDA Of Playing Politics With COVID-19 Vaccine Guidelines",
+        "bias_label": 2
+    },
+    "Meta info for article 0": {
+        "source": "New York Times (News)",
+        "url": "https://www.nytimes.com/2020/09/22/health/covid-19-vaccine-fda-guidelines.html",
+        "title": "F.D.A. to Release Stricter Guidelines for Emergency Vaccine Authorization",
+        "bias_label": 1
+    },
+    "triplet_id": "151"
+}
