@@ -29,11 +29,6 @@ def read_data(file, version):
     return data, data_graph, data_entities
 
 
-def read_ideology():
-    with open('../ideologyKB.json', 'r') as file:
-        ideologyKB = json.load(file) 
-    return ideologyKB
-
 def update_item(item, offset):
     corefs = item['coref']
     triples_idx = item["triples_idx"]
@@ -241,7 +236,6 @@ def process_data_fast(data, data_graph, data_entities, external_enabled=False, e
         collections.append({"nodes":node_collection, "edges":edge_collection, "entities":item_entities_list, "doc_entities": doc_entities, "entity_ordering": entity_ordering})
     return collections
 
-ideologyKB = read_ideology()
 for x in ["train", "valid", "test"]:
     for y,z in zip(["article", "context"],["doc_ents", "context_ents"]):      
             for external in [True, False]:

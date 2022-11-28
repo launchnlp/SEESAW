@@ -299,7 +299,7 @@ def extract_entity_mention_pair(item_entity):
         if len(mention2entity_first[x]) == 1:
             mention2entity_second[x] = mention2entity_first[x][0]
         else:
-            # t is a entity
+            # t is an entity
             tmp =  [t for t in mention2entity_first[x] if t in linked_entities]
             if len(set(tmp)) == 1:
                 mention2entity_second[x] = tmp[0]
@@ -324,7 +324,7 @@ def extract_entity_mention_pair(item_entity):
     omitted_count = len(possible_mentions_step3)
 
     # further reduce entity2mention size by merging (singular and plural), (upper and lowercases) 
-    # I lowercase all entities' canonical names here, and covert all plural names to singular names (exceptions: if an entity has a linked page, i.e., already in canonical form, don't remove trailing 's')
+    # lowercase all entities' canonical names here, and covert all plural names to singular names (exceptions: if an entity has a linked page, i.e., already in canonical form, don't remove trailing 's')
     # Keep two copies: one with lowercase, one with original form
     
     # entity: {link:, canonical:, singular_lower:}
@@ -364,8 +364,6 @@ def extract_entity_mention_pair(item_entity):
         else:
             entity2mention_new[standard].extend(entity2mention[x])
 
-            # print(singular)
-            # print(entity2mention_new[singular])
     entity2mention_standard = entity2mention_new
     entity2mention_standard, linked_entities = fix_linking(entity2mention_standard, linked_entities)
     entity2mention = {x.lower():y for x,y in entity2mention_standard.items()}
@@ -435,9 +433,6 @@ def process_entities(data, data_entities):
                     match_list[x] = y
                     count_match += 1
                     break
-                # if x in y or y in x:
-                #     checker = False
-                #     similar_found_set.add(y)
             for y in automatic_mentions:
                 if x == y:            
                     checker = False
@@ -455,14 +450,9 @@ def process_entities(data, data_entities):
                 count_partial += 1
             if checker:
                 count_no_match += 1
-                # print("{}: not found".format(x))
-                # print(x in  item["document text"])
                 match_list[x] = ""
-            # 
-            # match_List: annotator mention => entity / {mention(s)}
 
         for ann in match_list:
-            # Mexico – United States barrier
             mention = match_list[ann]
             if mention != "":
                 if isinstance(mention, str):
@@ -479,10 +469,6 @@ def process_entities(data, data_entities):
                     tmp_array_entities_head = [x for x in tmp_array_entities if str(list(doc)[head]) in x]
                     tmp_array_head = [x for x in tmp_array if str(list(doc)[head]) in x]
                     # 
-                    # if ann == "American Priority":
-                    #     print(tmp_array_entities)
-                    #     print(tmp_array_entities_linked)
-                    #     print(tmp_array_entities_head)
                     lucky_check = [x.lower() for x in tmp_array_entities]
                     if ann.lower() in lucky_check:
                         new_entity_list[ann] = tmp_array_entities[lucky_check.index(ann.lower())]
@@ -508,7 +494,6 @@ def process_entities(data, data_entities):
                                         if len(entities_tmp) >0:
                                             new_entity_list[ann] = entities_tmp[0]
             else:
-                # ad-hoc solution 
                 tmp = get_close_matches(ann, list(entity2mention.keys()), cutoff=0.01)[0]
                 if len(tmp) > 0:
                     new_entity_list[ann] = tmp
@@ -524,8 +509,6 @@ def process_entities(data, data_entities):
 
         # enhance entity2mention and entity2mention_standard with corresponding wiki link
         
-        # print(len(entity2mention))
-        # print(len(entity2mention_standard))
         assert len(entity2mention_standard) == len(entity2mention)
         for x, y  in zip(entity2mention, entity2mention_standard):
             assert x.lower() == y.lower()
