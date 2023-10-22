@@ -17,7 +17,14 @@ SEESAW coveres **1,757** distinct entities. **62.4%** of the stance triplets hav
 
 SEESAW also supports other studies besides the stance triplet extraction: 1) article-level main/salient entity identification, 2) article-level entity-based sentiment classfication, 3) entity-based ideology prediction, 4) article-level ideological leaning prediction. 
 
-For more details about SEESAW, please check out Section 3 (SEESAW Collection and Annotation) in our paper.
+For more details about SEESAW, please check out Section 3 (SEESAW Collection and Annotation) and Appendix A (Annotation Guideline) in our paper, where we detail the semantics of each field we annotated.
+
+#### "article ideology" field in ```annotations``` v.s. "bias_label" field in ```meta```: 
+
+- "article ideology" indicates our annotators' 5-way estimation of the ideology of the media organization that published this article.
+
+- "bias_label" are bias labels annotated by [AllSides](https://www.allsides.com/media-bias/media-bias-chart) (as of June 2022) in 5-way. 0: (Far) Left, 1: Lean Left, 2: Center, 3: Lean Right, 4: (Far) Right.
+
 
 ## Processed data
 We also provide data processing script and processed data under [data](../data) directory.
