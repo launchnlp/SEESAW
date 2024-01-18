@@ -1,7 +1,7 @@
 # Generative Entity-to-Entity Stance Detection with Knowledge Graph Augmentation
 
 ## Introduction
-This repository contains codes and dataset for paper ["Generative Entity-to-Entity Stance Detection with Knowledge Graph Augmentation"](./https://web.eecs.umich.edu/~xlfzhang/assets/pdf/EMNLP2022a/paper.pdf) (In <em>Proceeding of the 2022 Conference on Empirical Methods in Natural Language Processing</em>).
+This repository contains codes and dataset for paper ["Generative Entity-to-Entity Stance Detection with Knowledge Graph Augmentation"](https://aclanthology.org/2022.emnlp-main.676/) (In <em>Proceeding of the 2022 Conference on Empirical Methods in Natural Language Processing</em>).
 
 ## Set up
 Run the following commands to clone the repository.
